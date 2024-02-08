@@ -703,6 +703,8 @@ Channel 8,https://epg.pw/stream/04608c31a839e656617fd02a1de7d2db2e3ecc42a5911764
 香港,#genre#
 香港凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 香港凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+香港凤凰中文,http://170.178.177.98:27347/livehttpplay?channel_id=20065
+香港凤凰中文,http://170.178.177.98:27347/livehttpplay?channel_id=30014
 香港凤凰中文,http://113.117.74.142:8081/hls/37/index.m3u8
 香港凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
 香港凤凰中文,http://110.81.206.138:50080/tsfile/live/23020_1.m3u8
@@ -763,7 +765,9 @@ Channel 8,https://epg.pw/stream/04608c31a839e656617fd02a1de7d2db2e3ecc42a5911764
 香港凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
 香港凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 
-香港凤凰资讯.http://113.117.74.78:8081/hls/36/index.m3u8
+香港凤凰资讯,http://113.117.74.78:8081/hls/36/index.m3u8
+香港凤凰资讯,http://170.178.177.98:27347/livehttpplay?channel_id=20066
+香港凤凰资讯,http://170.178.177.98:27347/livehttpplay?channel_id=30015
 香港凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 香港凤凰资讯,http://115.214.231.253:8888/rtp/233.50.200.191:5140
 香港凤凰资讯,http://115.214.231.253:8888/rtp/233.50.200.192:5140
