@@ -703,6 +703,11 @@ Channel 8,https://epg.pw/stream/04608c31a839e656617fd02a1de7d2db2e3ecc42a5911764
 香港,#genre#
 香港凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 香港凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+香港凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+香港凤凰中文,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
+香港凤凰中文,https://0472.org/hls/youzaiSB/fhzw.m3u8
+香港凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+香港凤凰中文,p3p://108.181.32.169:57720/641fd7b400080236d5bc536f5d82159c
 香港凤凰中文,http://170.178.177.98:27347/livehttpplay?channel_id=20065
 香港凤凰中文,http://170.178.177.98:27347/livehttpplay?channel_id=30014
 香港凤凰中文,http://113.117.74.142:8081/hls/37/index.m3u8
@@ -766,6 +771,10 @@ Channel 8,https://epg.pw/stream/04608c31a839e656617fd02a1de7d2db2e3ecc42a5911764
 香港凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 
 香港凤凰资讯,http://113.117.74.78:8081/hls/36/index.m3u8
+香港凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+香港凤凰资讯,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
+香港凤凰资讯,https://0472.org/hls/youzaiSB/fhzx.m3u8
+香港凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 香港凤凰资讯,http://170.178.177.98:27347/livehttpplay?channel_id=20066
 香港凤凰资讯,http://170.178.177.98:27347/livehttpplay?channel_id=30015
 香港凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
@@ -882,6 +891,11 @@ Channel 8,https://epg.pw/stream/04608c31a839e656617fd02a1de7d2db2e3ecc42a5911764
 香港翡翠台,http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
 香港翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
 香港翡翠台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
+香港翡翠台,p3p://108.181.32.169:57720/6533f6560002787f2d01338b57197695.ts
+香港翡翠台,p3p://108.181.32.169:57720/6533f5c20003762b2cfef1ac322c6404.ts
+香港翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+香港翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
+香港翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 香港翡翠台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153505
 香港翡翠台,http://lu1.cc/itv/php/gudou.php?id=fct翡 翠 台,http://r.jdshipin.com/qClQf
 香港翡翠台,http://8.218.49.207:9999/gudo.php?id=fcthd
@@ -935,14 +949,17 @@ ASTRO华丽(翡MAS),https://epg.pw/stream/38e5e0cacec1858ea03b6557698a01927ca664
 ASTRO华丽(翡MAS),https://epg.pw/stream/b5736c2950b39413763409a3abcdd44e90542ede72834b2752c0e95bdc79809f.ctv
 ASTRO华丽(翡MAS),https://epg.pw/stream/b032418658656c6173a8dcaf2527bfd66139531a25e751232e0589cb4dc87b20.ctv
 明珠台,https://epg.pw/stream/3ce97e80d81f8f3a2626acb024afe18285832eb51c609946e365a9974ef74cba.ctv
+明珠台,http://202.168.187.208:2024/tsfile/live/1007_1.m3u8
+明珠台,mitv://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9
+明珠台,p3p://108.181.32.169:57720/64100a2a0003a57f9801a86d6b050a59
 明珠台,http://ictv.91tv.top:9901/tsfile/live/1007_1.m3u8?key=txiptv
 明珠台,https://epg.pw/stream/d10537b7c7bd5042706a9bf58776a08a4c2cbc09a65d612db415bc14ee1b9a13.ctv
 明珠台,http://170.178.177.98:27347/livehttpplay?channel_id=20125
 明珠台,http://170.178.177.98:27347/livehttpplay?channel_id=30026
 明珠台,http://8.218.49.207:9999/gudo.php?id=mzthd
 明珠台,https://log.tbs.qq.com:443/ajax?c=dl&k=8ee046d4ab8b3725b54846534fa1cd6f
-HOYTV,http://51.89.21.73:35263/1.m3u8
-HOY76,http://170.178.177.98:27347/livehttpplay?channel_id=30037
+ViuTV6,mitv://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6
+ViuTV6,p3p://108.181.32.169:57720/6410215d000ad4ca985c497e192b3552
 ViuTV6,http://170.178.177.98:27347/livehttpplay?channel_id=20132
 ViuTV6,http://170.178.177.98:27347/livehttpplay?channel_id=30033
 台湾,#genre#
