@@ -260,6 +260,7 @@ Channel 8,https://epg.pw/stream/daa3fbaaa93f76f888f46c2e425538fac4c19ab891894385
 Channel 8,https://epg.pw/stream/e8b2d26927b9efbab1977a0546eec0621dccdb7763fa40a577f77fa18082c0aa.ctv
 Channel 8,https://epg.pw/stream/04608c31a839e656617fd02a1de7d2db2e3ecc42a5911764e20c02ccd573657a.ctv
 广东频道,#genre#
+广东体育,http://www.kitcc.cn:9981/stream/channelid/90729149?profile=pass
 广东体育,http://r.jdshipin.com/D4bdG?id=gdty
 广东体育,http://sxd.nyxg.vip:40000/udp/239.77.0.112:5146
 广东体育,http://sxd.nyxg.vip:40000/udp/239.77.0.168:5146
