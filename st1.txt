@@ -297,8 +297,11 @@ Channel 8,https://epg.pw/stream/04608c31a839e656617fd02a1de7d2db2e3ecc42a5911764
 湖南电影,http://zteres.sn.chinamobile.com:6060/000000001000/7884242846753128038/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=7884242846753128038
 先锋乒羽,http://httpdvb.slave.yqdtv.com:13164/playurl?programid=4200000116&playtype=live&protocol=hls&playtoken=31603YEQXREOPEG10&accesstoken=G79E6023V21307D1TD05FABJB53102ABM786710FEI3282697DK98BDA6.m3u8
 茶频道,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226808/index.m3u8
-茶频道,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226808/index.m3u8
+茶频道,http://183.149.51.114:55555/rtp/233.50.201.188:5140
 茶频道,http://183.215.116.134:6610/180000001001/00000001000000000025000000316196/index.m3u8?IASHttpSessionId=OTT
+茶频道,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002305/index.m3u8/?virtualDomain=yinhe.live_hls.zte.com
+茶频道,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyMC43Ni4yMDIuOTEmcWlkPSZzPWRiMjJkZjIyMDhlY2RjMjljZjc0ODg5Nzg1YThhMDkyJmVzPTE3MDc4MjU2MDImdXVpZD1kZTQ5MmVjMGZiZWE1MTY1MDJlN2UxMDk3YzNkZTU2MC03ODRjY2E1YiZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/CPDMPP360.m3u8
+茶频道,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 快乐垂钓,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226805/index.m3u8
 快乐垂钓,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226805/index.m3u8
 中南大学,http://202.197.61.243/hls/c7pp3e88.m3u8
