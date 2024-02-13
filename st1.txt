@@ -254,6 +254,10 @@ CNA,https://epg.pw/stream/b5b19fbfb125a535f19fcb679715eeed348bbd5ca23839f7cc9907
 CNA,https://epg.pw/stream/9ca71aba2b2b57a4cd1aac8f2b707e4a4b9a72d118a159e7c8c8d4e77a7cf664.ctv
 CNA,https://epg.pw/stream/a876fd65823a9aa757409102542c79a523f52cb5541b24a4834e946c662b8d3a.ctv
 CNA,https://epg.pw/stream/ec23f9233ea821cc795913ec3a20ac79d96a7c36fc45013a8ce85e56f0be903e.ctv
+CNA (Singapore), https://d2ko4czujk9652.cloudfront.net/hls/clr4ctv_cnas/master.m3u8
+CNA (International), https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+CNA (International), https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap-southeast-1/6057994443001/playlist.m3u8
+Channel 8,https://d34e90s3s13i7n.cloudfront.net/hls/clr4ctv_ch8/master.m3u8
 Channel 8,https://epg.pw/stream/76734f2fd7b033f1fb7a5b5ad32e1c5c4d1ddc54d3ebb8309c14a9573e0415f4.ctv
 Channel 8,https://epg.pw/stream/cc151154bb16ff14c1a8502c2b768512432340a7be1477b815d02d73d7ea4c87.ctv
 Channel 8,https://epg.pw/stream/daa3fbaaa93f76f888f46c2e425538fac4c19ab891894385681593a54d6cd4b5.ctv
@@ -298,6 +302,7 @@ Channel 8,https://epg.pw/stream/04608c31a839e656617fd02a1de7d2db2e3ecc42a5911764
 先锋乒羽,http://httpdvb.slave.yqdtv.com:13164/playurl?programid=4200000116&playtype=live&protocol=hls&playtoken=31603YEQXREOPEG10&accesstoken=G79E6023V21307D1TD05FABJB53102ABM786710FEI3282697DK98BDA6.m3u8
 茶频道,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226808/index.m3u8
 茶频道,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226808/index.m3u8
+茶频道,http://183.215.116.134:6610/180000001001/00000001000000000025000000316196/index.m3u8?IASHttpSessionId=OTT
 快乐垂钓,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226805/index.m3u8
 快乐垂钓,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226805/index.m3u8
 中南大学,http://202.197.61.243/hls/c7pp3e88.m3u8
