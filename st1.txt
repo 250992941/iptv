@@ -260,8 +260,8 @@ Channel 8,https://epg.pw/stream/daa3fbaaa93f76f888f46c2e425538fac4c19ab891894385
 Channel 8,https://epg.pw/stream/e8b2d26927b9efbab1977a0546eec0621dccdb7763fa40a577f77fa18082c0aa.ctv
 Channel 8,https://epg.pw/stream/04608c31a839e656617fd02a1de7d2db2e3ecc42a5911764e20c02ccd573657a.ctv
 广东频道,#genre#
-广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty
 广东体育,http://iptv.eatuo.com:9901/tsfile/live/1004_1.m3u8
+广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty
 广东体育,http://219.135.208.218:8083/tsfile/live/1000_1.m3u8
 广东体育,https://skype.serv00.net/itouch.php?id=gdty
 广东珠江,http://glive.grtn.cn/live/lizhi.m3u8
