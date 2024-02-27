@@ -367,9 +367,6 @@ CETV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 游戏风云,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031114/1.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
 置业频道,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8
 
-卫视频道,#genre#
-安多卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
-安多卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001311/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安徽卫视,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw197120493_402056634/ott.mobaibox.com/PLTV/3/224/3221225634/index.m3u8?icpid=3&RTS=1674380312&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 安徽卫视,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/wh7f454c46tw197374649_1165238461/ott.mobaibox.com/PLTV/3/224/3221227653/index.m3u8?icpid=3&RTS=1674380312&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 安徽卫视,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/wh7f454c46tw1543399939_-344486942/ott.mobaibox.com/PLTV/3/224/3221227759/index.m3u8?icpid=3&RTS=1674385953&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
