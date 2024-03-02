@@ -2451,8 +2451,8 @@ HOY资讯台,mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
 贝爷影厅✔原,http://159.75.85.63:35455/douyu/252802
 译制国语✔原,http://159.75.85.63:35455/douyu/2436390
 绍兴影院㊣版,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-CHC家庭仅移动,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$仅限电信移动线路
-CHC动作仅移动,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$仅限电信移动线路
-CHC高清仅移动,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8$仅限电信移动线路
-CHC高清仅移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8$仅限电信移动线路
-CHC家庭仅移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8$仅限电信
+CHC家庭仅移动,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+CHC动作仅移动,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+CHC高清仅移动,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+CHC高清仅移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CHC家庭仅移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
