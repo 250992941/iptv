@@ -568,7 +568,7 @@ CCTV高网频道,http://116.55.173.203:4000/rtp/239.200.200.89:8024
 CCTV怀旧剧场,http://116.55.173.203:4000/rtp/239.200.200.85:8032
 CCTV央视台球,http://183.166.100.47:8000/rtp/238.1.79.59:4608
 卫视频道,#genre#
-湖南卫视,http://110.80.17.38:9901/tsfile/live/0128_1.m3u8?key=txiptv
+
 湖南卫视,http://58.210.60.226:9901/tsfile/live/0128_1.m3u8?key=txiptv
 湖南卫视,http://58.19.182.187:9901/tsfile/live/0128_1.m3u8?key=txiptv
 湖南卫视,http://221.7.175.127:9901/tsfile/live/1035_1.m3u8?key=txiptv
@@ -1242,11 +1242,7 @@ CNA,https://epg.pw/stream/b5b19fbfb125a535f19fcb679715eeed348bbd5ca23839f7cc9907
 CNA,https://epg.pw/stream/9ca71aba2b2b57a4cd1aac8f2b707e4a4b9a72d118a159e7c8c8d4e77a7cf664.ctv
 CNA,https://epg.pw/stream/a876fd65823a9aa757409102542c79a523f52cb5541b24a4834e946c662b8d3a.ctv
 CNA,https://epg.pw/stream/ec23f9233ea821cc795913ec3a20ac79d96a7c36fc45013a8ce85e56f0be903e.ctv
-Channel 8,https://epg.pw/stream/76734f2fd7b033f1fb7a5b5ad32e1c5c4d1ddc54d3ebb8309c14a9573e0415f4.ctv
-Channel 8,https://epg.pw/stream/cc151154bb16ff14c1a8502c2b768512432340a7be1477b815d02d73d7ea4c87.ctv
-Channel 8,https://epg.pw/stream/daa3fbaaa93f76f888f46c2e425538fac4c19ab891894385681593a54d6cd4b5.ctv
-Channel 8,https://epg.pw/stream/e8b2d26927b9efbab1977a0546eec0621dccdb7763fa40a577f77fa18082c0aa.ctv
-Channel 8,https://epg.pw/stream/04608c31a839e656617fd02a1de7d2db2e3ecc42a5911764e20c02ccd573657a.ctv
+
 广东频道,#genre#
 广东体育,http://113.105.111.79:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://113.81.20.104:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
