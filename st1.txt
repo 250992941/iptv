@@ -503,6 +503,9 @@ CCTV15,http://222.82.204.248:4000/rtp/238.125.3.213:5140
 CCTV15,http://222.82.204.248:4000/rtp/238.125.4.84:5140
 CCTV15,http://36.248.137.69:60033/tsfile/live/0015_1.m3u8?key=txiptv
 CCTV15,http://1.197.251.106:9901/tsfile/live/0015_1.m3u8?key=txiptv
+CCTV16,http://117.27.190.42:9901/tsfile/live/23249_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV16,http://219.146.83.202:9902/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV16,http://113.195.13.183:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV16,http://221.7.175.127:9901/tsfile/live/1021_1.m3u8?key=txiptv
 CCTV16,http://1.69.112.94:9901/tsfile/live/0016_1.m3u8?key=txiptv
 CCTV16,http://111.175.165.116:8888/rtp/239.69.1.247:11124
@@ -513,6 +516,14 @@ CCTV16,http://222.82.204.248:4000/rtp/238.125.2.183:5140
 CCTV16,http://222.82.204.248:4000/rtp/238.125.5.34:5140
 CCTV16,http://1.69.0.241:9901/tsfile/live/0016_1.m3u8?key=txiptv
 CCTV16,http://111.175.165.116:8888/rtp/239.69.1.13:9718
+CCTV17,http://112.235.200.61:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://112.235.202.127:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://112.235.202.190:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://112.235.202.247:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://112.235.202.159:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://112.235.200.195:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://112.235.202.75:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://112.235.200.153:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://1.192.71.240:9901/tsfile/live/0007_2.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://1.197.250.0:9901/tsfile/live/0007_2.m3u8?key=txiptv
 CCTV17,http://1.69.112.94:9901/tsfile/live/0017_1.m3u8?key=txiptv
@@ -536,15 +547,19 @@ CCTV17,http://1.197.251.106:9901/tsfile/live/0007_2.m3u8?key=txiptv
 CCTV17,http://101.74.28.70:9901/tsfile/live/1009_1.m3u8?key=txiptv
 CCTV17,http://1.69.0.241:9901/tsfile/live/0017_1.m3u8?key=txiptv
 CCTV风云音乐,http://183.166.100.47:8000/rtp/238.1.79.64:4648
+CCTV风云音乐,http://111.225.114.100:808/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV世界地理,http://183.166.100.47:8000/rtp/238.1.79.60:4616
+CCTV第一剧场,http://111.225.114.100:808/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV第一剧场,http://183.166.100.47:8000/rtp/238.1.79.63:4640
 CCTV第一剧场,http://119.112.179.73:4000/rtp/232.0.0.147:9132
 CCTV兵器科技,http://183.166.100.47:8000/rtp/238.1.79.56:4584
 CCTV兵器科技,http://116.55.173.203:4000/rtp/239.200.200.91:8036
 CCTV兵器科技,http://183.185.172.84:8085/rtp/226.0.2.223:9696
 CCTV风云足球,http://183.166.100.47:8000/rtp/238.1.79.57:4592
+CCTV风云足球,http://111.225.114.100:808/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV高网频道,http://116.55.173.203:4000/rtp/239.200.200.89:8024
 CCTV怀旧剧场,http://116.55.173.203:4000/rtp/239.200.200.85:8032
+CCTV怀旧剧场,http://111.225.114.100:808/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV央视台球,http://183.166.100.47:8000/rtp/238.1.79.59:4608
 卫视频道,#genre#
 
