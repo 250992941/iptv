@@ -2146,6 +2146,14 @@ CNA,https://epg.pw/stream/ec23f9233ea821cc795913ec3a20ac79d96a7c36fc45013a8ce85e
 湖南电影,http://php.jdshipin.com:8880/iptv.php?id=hndy
 湖南电影,http://zteres.sn.chinamobile.com:6060/000000001000/7884242846753128038/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=7884242846753128038
 先锋乒羽,http://httpdvb.slave.yqdtv.com:13164/playurl?programid=4200000116&playtype=live&protocol=hls&playtoken=31603YEQXREOPEG10&accesstoken=G79E6023V21307D1TD05FABJB53102ABM786710FEI3282697DK98BDA6.m3u8
+茶频道,http://110.178.52.133:8082/udp/239.1.1.77:8077
+茶频道,http://110.178.52.133:8083/udp/239.1.1.77:8077
+茶频道,http://110.178.52.133:8084/udp/239.1.1.77:8077
+茶频道,http://110.178.52.133:8085/udp/239.1.1.77:8077
+茶频道,http://111.164.252.230:8686/udp/225.1.2.19:5002
+茶频道,http://113.9.165.138:55055/udp/229.58.190.111:5000
+茶频道,http://118.78.220.193:8686/rtp/226.0.2.213:9616
+茶频道,http://119.4.6.22:5555/udp/239.93.0.114:5140
 茶频道,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226808/index.m3u8
 茶频道,http://183.149.51.114:55555/rtp/233.50.201.188:5140
 茶频道,http://183.215.116.134:6610/180000001001/00000001000000000025000000316196/index.m3u8?IASHttpSessionId=OTT
@@ -2224,17 +2232,10 @@ HBO家庭台,http://ali.hlspull.yximgs.com/live/huanqiuhklivetjcvsjgcjyhpvobjxcl
 ELEVEN1台,http://ali.hlspull.yximgs.com/live/huanqiuhklivejjojjxcvyhjsjhtejwfhfvjjdvbdjsjjjhjljsjvcelevend.flv
 
 🎉港澳台频道-2👉,#genre#
-TVB 翡翠台,http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv
-TVB 翡翠台,http://119.125.134.175:9901udp://@239.3.3.91:10001
-TVB 翡翠台,http://49.234.31.101:7004udp://@224.9.2.10:5000
-TVB 翡翠台,http://113.116.34.69:39981/stream/channelid/1590380146
-TVB 翡翠台,http://202.168.187.208:2024/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-TVB 翡翠台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
-TVB 翡翠台,p3p://108.181.32.169:57720/6533f6560002787f2d01338b57197695.ts
-TVB 翡翠台,p3p://108.181.32.169:57720/6533f5c20003762b2cfef1ac322c6404.ts
-TVB 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-TVB 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
-TVB 翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+翡翠台,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=3
+翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
+翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰中文,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
 凤凰中文,https://0472.org/hls/youzaiSB/fhzw.m3u8
