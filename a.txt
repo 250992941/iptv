@@ -1,4 +1,4 @@
-香港1,#genre#
+港,#genre#
 無線新聞台1080P,http://kkwk1122.top/tvvb.php?id=0&hq
 無線新聞台720P,http://kkwk1122.top/tvvb.php?id=0
 無線新聞台360P,http://kkwk1122.top/tvvb.php?id=1
