@@ -1,12 +1,38 @@
 🎎港澳台频道,#genre#
-翡翠台,http://r.jdshipin.com/qClQf
+無線新聞台1080P,http://kkwk1122.top/tvvb.php?id=0&hq
+無線新聞台720P,http://kkwk1122.top/tvvb.php?id=0
+無線新聞台360P,http://kkwk1122.top/tvvb.php?id=1
+無線財經,http://kkwk1122.top/tvvb.php?id=2&hq
+無線財經a,http://kkwk1122.top/tvvb.php?id=2
+事件1直播頻道,http://kkwk1122.top/tvvb.php?id=5
+高清翡翠,http://r.jdshipin.com/62WM7
+高清翡翠,http://r.jdshipin.com/qClQf
+高清翡翠,http://r.jdshipin.com/n90gt
+高清翡翠,http://r.jdshipin.com/qrfbg
+高清翡翠,http://113.117.74.20:8081/hls/25/index.m3u8
+翡翠台,http://nas.jdshipin.com:8801/gudoufc.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1350_4500
+明珠台,http://nas.jdshipin.com:8801/gudoufc.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1351_4500
+凤凰中文,http://nas.jdshipin.com:8801/gudoufc.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=fhzw_1500
+星空卫视,http://nas.jdshipin.com:8801/gudoufc.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=xingkong_1500
+澳亚卫视,http://nas.jdshipin.com:8801/gudoufc.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=aoya_1500
+TVBS星河,http://r.jdshipin.com/sXuuD
 翡翠台,http://r.jdshipin.com/n90gt
-翡翠台,http://r.jdshipin.com/qrfbg
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港J2频道,http://r.jdshipin.com/Nr5jq
-RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
-
-人間衛視,http://47.242.38.45:9999/twjd678-2.php?id=2
-八大第一HD,http://47.242.38.45:9999/twjd678-2.php?id=3
-CNBC,http://47.242.38.45:9999/twjd678-2.php?id=4
-HBO,http://47.242.38.45:9999/twjd678-2.php?id=5
+有线,http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=153396&extension=ts&play_token=ICdnbP1fWe
+有线新,http://61.10.2.140/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+香港32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+凤凰资讯台,http://kkwk1122.top/fh.php?id=fhzx
+凤凰中文台,http://kkwk1122.top/fh.php?id=fhzw
+凤凰香港台,http://kkwk1122.top/fh.php?id=fhhk
+翡翠台,http://r.jdshipin.com/qClQf
+明珠台,http://r.jdshipin.com/ZQ4kN
+澳門蓮花,https://p.ggiptv.com/v/macaulotustv.php
+澳門蓮花,http://anren.live/HK/BiIOU11uLA.m3u8
+澳門蓮花,http://nettvpro.live/hls/lotustv.php?zgangd
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰资讯,http://r.jdshipin.com/0Rp07
+無線新聞台1080P,http://kkwk1122.top/tvvb.php?id=0&hq
+無線新聞台720P,http://kkwk1122.top/tvvb.php?id=0
+無線新聞台360P,http://kkwk1122.top/tvvb.php?id=1
+無線財經,http://kkwk1122.top/tvvb.php?id=2&hq
+無線財經a,http://kkwk1122.top/tvvb.php?id=2
+事件直播頻道,http://kkwk1122.top/tvb.php?id=5
