@@ -1297,7 +1297,13 @@ TVB功夫台,https://ali.hlspull.yximgs.com/live/12344.flv
 TVB功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 TVB功夫台,http://43.138.170.29:35455/yy/1355002394
 TVB功夫台,http://223.71.206.22:30080/HK/gf/hls.m3u8
-TVB翡翠台,mitv://generationnexxxt.com:19806/864714d6ebe847edaa948e9104107f12
+TVB myTV SUPER,mitv://generationnexxxt.com:19806/864714d6ebe847edaa948e9104107f12
+TVB翡翠台,http://bziyunshao.synology.me:8889/bysid/1
+TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+TVB翡翠台,http://r.jdshipin.com/qClQf
+TVB翡翠台,http://146.56.153.245:8006/bysid/1
+TVB翡翠台,http://r.jdshipin.com/62WM7
+TVB翡翠台,http://sz.l68.fun:9000/bysid/1
 ﻿TVB翡翠台,mitv://147.135.39.171:9906/657c8f940005cf8fa955b96f23e11195
 TVB翡翠台,mitv://147.135.39.171:9906/657c8f9400023bf0a955b8853ca47814
 TVB翡翠台,https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
