@@ -1167,10 +1167,111 @@ CNA,https://epg.pw/stream/b5b19fbfb125a535f19fcb679715eeed348bbd5ca23839f7cc9907
 CNA,https://epg.pw/stream/9ca71aba2b2b57a4cd1aac8f2b707e4a4b9a72d118a159e7c8c8d4e77a7cf664.ctv
 CNA,https://epg.pw/stream/a876fd65823a9aa757409102542c79a523f52cb5541b24a4834e946c662b8d3a.ctv
 CNA,https://epg.pw/stream/ec23f9233ea821cc795913ec3a20ac79d96a7c36fc45013a8ce85e56f0be903e.ctv
+CNA,https://epg.pw/stream/16915b442b7966be83a6f2b2761cc873be07f60f8da37202fcdfa0ff4bd097d3.ctv
+CNA,https://epg.pw/stream/fd0830cad60db0e9502d6b7d8ffc2b278d26e3c506b696c91931ea49d040f5c3.ctv
+CNA,https://epg.pw/stream/713cd8e67351c482369cdc6566deabc75413dbea1a333fe08570fbdd1ac1ddb6.ctv
+CNA,https://epg.pw/stream/d6b5c8d44f4b7314ea1f6df82901b3b6e3b93cc4a4f8b6990437964d6dd48470.ctv
+CNA,https://epg.pw/stream/ba3f8da3c0d0adc9da7f9e6734899a352b08b10d79aeb7867fe390285d85b312.ctv
+CNA,https://epg.pw/stream/12a659d9afef6a69829ff6a54f20704b7382723467b06c2b4749eedb47a6757b.ctv
+CNA,https://epg.pw/stream/9b5090cf70c6472220e7ae791f2b5098ffb65cd407a25c53fbe0502e93d562af.ctv
+CNA,https://epg.pw/stream/72166d765bc97a457a3bf29c2bca45ca03d93b9da5ab84479d00135387746cf3.ctv
+CNA[geo-blocked],https://epg.pw/stream/8a2b00784e84e617c0de3585616ef37a1890abde4e1cfa950e03368a637b96bf.m3u8
+CNA,https://epg.pw/stream/0e3ddbec2ba2f883ab6bb33f4dd6047b83ea7f432c19740e76cc43f2d0157cb9.ctv
+CNA,https://epg.pw/stream/c43770050ab536ec324d970ac910557c994334aef9d1d3be305db2813476a347.m3u8
+CNA,https://epg.pw/stream/b799553595f5ee00cf4175739a987b505a45aaaad1b8730b82d05f689d438242.ctv
+CNA,https://epg.pw/stream/be09605c1fb26cb7602278358fc82e45eb32d6bfbdcb5589baba9c5c53b22975.ctv
+CNA,https://epg.pw/stream/d9d5af34c3c6fde235cedb287d81bf6d655c8eacf90679d7e34526109c7dea54.ctv
+CNA,https://epg.pw/stream/ad3b3dde62843ee18770e05f263aa10dccac712c8e04a6cdd2670b0a292241bc.m3u8
+CNA,https://epg.pw/stream/c0b29688c61e123b729913e9ce6b09f3fc93e51cd2ecbf0b4e258ee331c23daa.ctv
+CNA,https://epg.pw/stream/d5be2b97ac98332e8f4085ad32baedbb565633833f7262c6939a09ece2ad5e2f.ctv
+CNA[geo-blocked],https://epg.pw/stream/37607c4ea8571405a231aea90fa07d78d0ac575870182574bfa054d6e5d974ba.m3u8
+
+Channel 8[geo-blocked],https://epg.pw/stream/2af08e755cbd4719e3ac71ee4f338109ccea10c30587d8720df4663107b61bee.m3u8
 Channel 8,https://epg.pw/stream/9f32aec67c2e9007e37dc7385e42491bc811c4148e6c5794ee98cfb93846d44e.ctv
+Channel 8,https://epg.pw/stream/aeb37b7cb5ceed7e04c42d1f36c668f0a5dd9059b7b2fb5e998662e770dde5db.m3u8
+Channel 8,https://epg.pw/stream/d4dc3c30207a4abae22899bb63b57d9e29d589da81c2ba0820f82734182e2277.m3u8
+Channel 8[geo-blocked],https://epg.pw/stream/5bebbfb5b8545dc1d937c67980c80a871141a164fa05bddcc4bca9e6a6711b00.m3u8
+Channel 8,https://epg.pw/stream/3f7aa8e9b6d7110db322c756f05f57f39ad99a134e08af2837574689c86e73b0.m3u8
+Channel 8,https://epg.pw/stream/c9528fb83007cd950c19e006b32efd3bff0a5c1e509a104d8b92f075759cb142.m3u8
+Channel 8,https://epg.pw/stream/238bf5ff87d0b4a8384de41cb4e18928c53b7690f62ee1f8c6dc0d0d52d1668b.m3u8
+Channel 8,https://epg.pw/stream/c672d2211e0bf6a7cfe7e4ab6032af34456013c4d494c067a64491f92584bbe4.m3u8
+Channel 8,https://epg.pw/stream/2524117770791a8b3467e923af96f550766385571404d9fdd78dafaa68381a13.m3u8
+Channel 8,https://epg.pw/stream/66b77a483dcde21c7942a5525c596901d8bdb2b1142332a93a5b540f31f97bf9.m3u8
+Channel 8[geo-blocked],https://epg.pw/stream/17d178231d38526c68c230c01402ccf22629550a11c6c05384d7841f0876b659.m3u8
+Channel 8,https://epg.pw/stream/6fc87385d7890fc4c8885fc62cb38b88a0fe353f63c87742be2dfb8adf4b262c.m3u8
+Channel 8[geo-blocked],https://epg.pw/stream/8ac11942698d67f67c3a6ab0770a0f9b6ec3acb64ecdce559e525a6de3ba3e16.m3u8
+Channel 8[geo-blocked],https://epg.pw/stream/6f863cd8262d64210576abac341cf2c6b4ad2fbe578cc5cbc1f73a38b8f74ba0.m3u8
+Channel 8,https://epg.pw/stream/d8ef62fbd44d9c42e87322d6ebb818ec379b3a65c5974ae8b9c397b6ac7ad911.m3u8
+Channel 8,https://epg.pw/stream/387c4beb3c45f9c0678c8f2c3e3fe916fb3e75410a4fe5b5bc2b6b74cb45c660.m3u8
+Channel 8,https://epg.pw/stream/bf0920327a563b8d876dd48307f6a8e4349a0d327e4d8252ec2959df688d2a9a.m3u8
+Channel 8[geo-blocked],https://epg.pw/stream/4fa66da64a2a0c3a801dfd98994056dbff8f43378dd8f394fc4a336b3951d716.m3u8
+Channel 8,https://epg.pw/stream/5dde38a22ad40fb7454f5bd831816fca00b457cac9017a4802203de2fcfbdad8.m3u8
+Channel 8,https://epg.pw/stream/9240cc35b76b9b8ff72545ff0a5f14c3b8ef82f2c6187263ef315997f62ab040.m3u8
+Channel 8,https://epg.pw/stream/54e60074525361079453a0a80305e448258dd2d6013e2aabae32a71f298e8112.m3u8
+Channel 8,https://epg.pw/stream/80fe1870b7b0aa0262b518734384f6260c4076eb513f90657f27562586d97883.m3u8
+Channel 8,https://epg.pw/stream/000c2bc7f1a6f921b8ee137cdf931424ebb60a5456a061dad8a940c41d7e76a4.m3u8
+Channel 8,https://epg.pw/stream/c6e8ff536d28c0a03866a44d9eddfcf4cc83355131062b96ef806059daf643b2.ctv
+Channel 8,https://epg.pw/stream/3bb95738dcef236de437b55ceb08cd4f43e0685966dda61fe59a43bf98802db8.ctv
+Channel 8,https://epg.pw/stream/f81b98bb7aa2e38fdb071946cc21794d99b05fc3e5abfdfa1c424f465c13a30d.ctv
+Channel 8,https://epg.pw/stream/e44ad2cd195e23aa831203832649991137dfaeede010ad90f9e2692d05cc2edc.ctv
+Channel 8,https://epg.pw/stream/4a98306b71cf5ec7f940d4ece8d562f01f0f47d87a4f55aca6304d90548c8274.ctv
+Channel 8,https://epg.pw/stream/e5c7afa7839ffb0555027d016d4170702b8a47af7c5435efabede33a3febf2b4.ctv
+Channel 8,https://epg.pw/stream/6b8f602eb4ad6d7879d6bb3f9ce3b338efa85c2420fbbf5c8447c9fe1d0cedda.ctv
+Channel 8,https://epg.pw/stream/a93bdc2cd0b741b854eb78618e5814fdaba8ca228ba0b3619274dca39be119c2.m3u8
+Channel 8,https://epg.pw/stream/f6cd5f3bf7f0f7b0f7b53810f4e79630fc2eeccb033e3b0d5641271578d0cc4d.m3u8
+Channel 8,https://epg.pw/stream/6c27f8502c6a2378d6e1a842ea5f87466b347d16b1a6d20bd730c1f767ac688f.m3u8
+Channel 8,https://epg.pw/stream/a72b2ee49bf43f7f5e6e06fd79cff7343d60d145caa5282c5f642e3ac75d5262.m3u8
+Channel 8,https://epg.pw/stream/099147e0c781a25b28aa17403509178081b0496e4b75f176e319a450771eb6ae.m3u8
+Channel 8,https://epg.pw/stream/5036daf4e102ec8646cb804d787a2dbb94e3ad1936a4f93c60bc3a1960f8fedf.ctv
+Channel 8,https://epg.pw/stream/767cb218da34af9d5b67cc3ee57bfbf5b7b199c8b4f6bb2def1cb6f26076c2d9.ctv
+Channel 8,https://epg.pw/stream/dbe51174ee0ef1338b163eb23b927824c7c135430c2bc2ca8310b0e7bc477f91.ctv
+Channel 8[geo-blocked],https://epg.pw/stream/8aa8e484a0a5b102ae3e8890469aff8436cc24bfa7cf15158f2e9a84d0a8943f.ctv
+Channel 8,https://epg.pw/stream/fabd25a417d3996f563d8be9ae8be7d5274b65561cd18308b168de4503aeba75.ctv
+Channel 8,https://epg.pw/stream/40f5d6cd19b4d180061217bb5ced0b2655590a0640c82e089eaf65a724b8f54e.m3u8
+Channel 8,https://epg.pw/stream/ef06362ea39eb4f41669fc9231cd55f03201720fc2f2a428696df2d47eca182f.m3u8
+Channel 8,https://epg.pw/stream/bf0e2d5e040d36edb1825e10f0108f9b5a48fd4c9ac8ffb49ee9dfb1a48f72c3.m3u8
+Channel 8,https://epg.pw/stream/54bd0bd669c191eff41f44602540016a7e45a92219b82e7eb1540951cbb74d28.ctv
+Channel 8[geo-blocked],https://epg.pw/stream/1a96e91320a542c71fb39d7e38b68424fe857c79d71c8107b52c566aa12708ff.m3u8
+Channel 8,https://epg.pw/stream/9c37b19ac5c2d440a289292b689d03791cfb6310d84ee401dc520c0b4e95ae11.m3u8
+Channel 8[geo-blocked],https://epg.pw/stream/99411ecc7557b2ae090e2851c643707153a6d656aad25dfe014e0c8a62dab773.m3u8
+Channel 8[geo-blocked],https://epg.pw/stream/94a4fddb85283c7fd52198f4a45ff342dbbfdb740a25a5497edab134365efbb3.m3u8
+Channel 8,https://epg.pw/stream/21bb1b8509dcdb1ad152a2565f769d4ee48bf4f9a8b30f99d8a24027d56bddd5.m3u8
+Channel 8,https://epg.pw/stream/e2b6f2f88cf28cfbf081cc1ba41b72943766f489c54217708f58c2f659871a53.m3u8
+Channel 8,https://epg.pw/stream/b109a1f2e8f8c8a0b1ba6d46b779cce60107d6b27e7cce1622818bad7b1f645c.m3u8
+Channel 8[geo-blocked],https://epg.pw/stream/2e79e27c5d24669efec3be95fd99bee16c5fdc2bd9a45e9b33b9f677c9b6ecb4.m3u8
+Channel 8,https://epg.pw/stream/c19b7a47d8b9d97560a2001fb1565f49a6b7c8153999f09f2d70ff19dfaf50a2.m3u8
+Channel 8,https://epg.pw/stream/010d63610edc873cf3eb9c66c8d41db3f7c564cbd9ef7efbf5bd3f029a09787d.m3u8
+Channel 8,https://epg.pw/stream/d3dfbaf68163508eb1a315dea5e1e85b8c0befd19d094d7730de7e7f3704e229.m3u8
+Channel 8,https://epg.pw/stream/c775e66f61878e8dc0796d144f7f13f328fe9a9d4479994e10dd286a6072e2f8.m3u8
+
 Channel 5,https://epg.pw/stream/d5bb8a65c0ed73518f080426ee031c13544e9adbe2fc23cfb1a74791740dd7b7.ctv
 Channel 5,https://epg.pw/stream/90fc4281ce5b129d3fcf67d31fe356d2b257f0717b199618f9e2d4a5729c67bc.ctv
+Channel 5,https://epg.pw/stream/b4685177e6bc7f5bcd8400e4bca30c2bd7daeab4f4fae413f3565d02b3523b13.m3u8
+Channel 5,https://epg.pw/stream/d5bb8a65c0ed73518f080426ee031c13544e9adbe2fc23cfb1a74791740dd7b7.ctv
+Channel 5,https://epg.pw/stream/90fc4281ce5b129d3fcf67d31fe356d2b257f0717b199618f9e2d4a5729c67bc.ctv
+Channel 5,https://epg.pw/stream/975f2d873e0ba6dab805060d217f596f1d5585e6adcf19e5793ce5ac0a16fb1c.ctv
+Channel 5,https://epg.pw/stream/938d23e2eb5fcb3762ae2bc794b393825893075dcbcea3e83a803bb22241fcb2.ctv
+Channel 5,https://epg.pw/stream/ea125fc9b640cdda1b1ce7e2d47f1566cbc9ce021f5a2c79d41d345511d3691b.ctv
+Channel 5,https://epg.pw/stream/153800dd581c1c3977fcec0c94d62eb267a4c9ff1564d288210cc1725216708e.ctv
+Channel 5,https://epg.pw/stream/248b1539cf1a9b4ee5f08cfc1ee3d9694f27ebb4bdb4a12a2a68d63fafa86f5b.ctv
+Channel 5,https://epg.pw/stream/18b123e0d1b9ff2e8af289b4e1b4b496401437e52cc9b13a4958ad239eb60a9c.ctv
+Channel 5,https://epg.pw/stream/b6f639e6ed381fac3153ccc4a8baee8f91d03344210d1a99cc4fe872b1680b28.ctv
+Channel 5,https://epg.pw/stream/717e77cc38bf315dc52efeb367f12a8a02708c534a606ae0ff40c35528245c28.ctv
+Channel 5,https://epg.pw/stream/ea9f60f69af2fc9e1260f9cefb677fcdf2ac6520b5c7cc74d2baec454eccff17.ctv
+Channel 5,https://epg.pw/stream/dd81fa293161561165301927731fa9510c695b4b2ed9b05b6c8cdccec9984dd0.m3u8
 
+channel newsasia,https://epg.pw/stream/10785b1f26a6b03c110f6b7f6e75a27ddfe610d2427df09ebfacec4f2954b859.m3u8
+channel newsasia,https://epg.pw/stream/20114395c5485e5428c542ade361e74c84daf5971c8d033f60da507677887152.m3u8
+
+Animax Asia,https://epg.pw/stream/3edcfac65d38c65088477e883c6839d0732bd0443267ffef2b3819c6e77624a0.ctv
+Animax Asia,https://epg.pw/stream/0c28cd29139adcd1df57ece3ef2b1067d91b0dbfa1ae4e5ff0210b33d496ad58.ctv
+Animax Asia,https://epg.pw/stream/c4fa341f63e0b71701a24b9badc2b528212f24c3d3f43d4743cb71ba090a0fb0.ctv
+Animax Asia,https://epg.pw/stream/56da5f60777797e5cc1c02ae8e784c4564e0d448e232964e435ae32cf961abad.ctv
+
+history channel us[geo-blocked],https://epg.pw/stream/04373fdb386736182fba1db3c69380ae222311e36ce07dc7b1cf6f968fa48d3d.m3u8
+history channel us[geo-blocked],https://epg.pw/stream/01cb9ea8df510390786c7a76905a855106eea5c02cacda899116297e7ef6fb7d.m3u8
+history channel us,https://epg.pw/stream/dcda1c68bf96b22ee5e68b4b241d433b1fb1ad85931d6b4b35e5f59b93798033.ctv
+history channel us[geo-blocked],https://epg.pw/stream/b57974090e75cd2006b1b4160c486f933f6f24cf51febdbb25c335d71ef5ea28.m3u8
 
 📡广东地方👉,#genre#
 广东体育,http://113.105.111.79:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
