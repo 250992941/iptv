@@ -1185,44 +1185,9 @@ CNA,https://epg.pw/stream/c0b29688c61e123b729913e9ce6b09f3fc93e51cd2ecbf0b4e258e
 CNA,https://epg.pw/stream/d5be2b97ac98332e8f4085ad32baedbb565633833f7262c6939a09ece2ad5e2f.ctv
 
 
-Channel 8,https://epg.pw/stream/2af08e755cbd4719e3ac71ee4f338109ccea10c30587d8720df4663107b61bee.m3u8
-Channel 8,https://epg.pw/stream/9f32aec67c2e9007e37dc7385e42491bc811c4148e6c5794ee98cfb93846d44e.ctv
-Channel 8,https://epg.pw/stream/aeb37b7cb5ceed7e04c42d1f36c668f0a5dd9059b7b2fb5e998662e770dde5db.m3u8
-Channel 8,https://epg.pw/stream/d4dc3c30207a4abae22899bb63b57d9e29d589da81c2ba0820f82734182e2277.m3u8
-Channel 8,https://epg.pw/stream/3f7aa8e9b6d7110db322c756f05f57f39ad99a134e08af2837574689c86e73b0.m3u8
-Channel 8,https://epg.pw/stream/c9528fb83007cd950c19e006b32efd3bff0a5c1e509a104d8b92f075759cb142.m3u8
-Channel 8,https://epg.pw/stream/238bf5ff87d0b4a8384de41cb4e18928c53b7690f62ee1f8c6dc0d0d52d1668b.m3u8
-Channel 8,https://epg.pw/stream/c672d2211e0bf6a7cfe7e4ab6032af34456013c4d494c067a64491f92584bbe4.m3u8
-Channel 8,https://epg.pw/stream/2524117770791a8b3467e923af96f550766385571404d9fdd78dafaa68381a13.m3u8
-Channel 8,https://epg.pw/stream/66b77a483dcde21c7942a5525c596901d8bdb2b1142332a93a5b540f31f97bf9.m3u8
-Channel 8,https://epg.pw/stream/6fc87385d7890fc4c8885fc62cb38b88a0fe353f63c87742be2dfb8adf4b262c.m3u8
-Channel 8,https://epg.pw/stream/d8ef62fbd44d9c42e87322d6ebb818ec379b3a65c5974ae8b9c397b6ac7ad911.m3u8
-Channel 8,https://epg.pw/stream/387c4beb3c45f9c0678c8f2c3e3fe916fb3e75410a4fe5b5bc2b6b74cb45c660.m3u8
-Channel 8,https://epg.pw/stream/bf0920327a563b8d876dd48307f6a8e4349a0d327e4d8252ec2959df688d2a9a.m3u8
-Channel 8,https://epg.pw/stream/5dde38a22ad40fb7454f5bd831816fca00b457cac9017a4802203de2fcfbdad8.m3u8
-Channel 8,https://epg.pw/stream/9240cc35b76b9b8ff72545ff0a5f14c3b8ef82f2c6187263ef315997f62ab040.m3u8
-Channel 8,https://epg.pw/stream/54e60074525361079453a0a80305e448258dd2d6013e2aabae32a71f298e8112.m3u8
-Channel 8,https://epg.pw/stream/80fe1870b7b0aa0262b518734384f6260c4076eb513f90657f27562586d97883.m3u8
-Channel 8,https://epg.pw/stream/000c2bc7f1a6f921b8ee137cdf931424ebb60a5456a061dad8a940c41d7e76a4.m3u8
-Channel 8,https://epg.pw/stream/c6e8ff536d28c0a03866a44d9eddfcf4cc83355131062b96ef806059daf643b2.ctv
-Channel 8,https://epg.pw/stream/3bb95738dcef236de437b55ceb08cd4f43e0685966dda61fe59a43bf98802db8.ctv
-Channel 8,https://epg.pw/stream/f81b98bb7aa2e38fdb071946cc21794d99b05fc3e5abfdfa1c424f465c13a30d.ctv
-Channel 8,https://epg.pw/stream/e44ad2cd195e23aa831203832649991137dfaeede010ad90f9e2692d05cc2edc.ctv
-Channel 8,https://epg.pw/stream/4a98306b71cf5ec7f940d4ece8d562f01f0f47d87a4f55aca6304d90548c8274.ctv
-Channel 8,https://epg.pw/stream/e5c7afa7839ffb0555027d016d4170702b8a47af7c5435efabede33a3febf2b4.ctv
-Channel 8,https://epg.pw/stream/6b8f602eb4ad6d7879d6bb3f9ce3b338efa85c2420fbbf5c8447c9fe1d0cedda.ctv
-Channel 8,https://epg.pw/stream/a93bdc2cd0b741b854eb78618e5814fdaba8ca228ba0b3619274dca39be119c2.m3u8
-Channel 8,https://epg.pw/stream/f6cd5f3bf7f0f7b0f7b53810f4e79630fc2eeccb033e3b0d5641271578d0cc4d.m3u8
-Channel 8,https://epg.pw/stream/6c27f8502c6a2378d6e1a842ea5f87466b347d16b1a6d20bd730c1f767ac688f.m3u8
-Channel 8,https://epg.pw/stream/a72b2ee49bf43f7f5e6e06fd79cff7343d60d145caa5282c5f642e3ac75d5262.m3u8
-Channel 8,https://epg.pw/stream/099147e0c781a25b28aa17403509178081b0496e4b75f176e319a450771eb6ae.m3u8
-Channel 8,https://epg.pw/stream/5036daf4e102ec8646cb804d787a2dbb94e3ad1936a4f93c60bc3a1960f8fedf.ctv
 Channel 8,https://epg.pw/stream/767cb218da34af9d5b67cc3ee57bfbf5b7b199c8b4f6bb2def1cb6f26076c2d9.ctv
 Channel 8,https://epg.pw/stream/dbe51174ee0ef1338b163eb23b927824c7c135430c2bc2ca8310b0e7bc477f91.ctv
 Channel 8,https://epg.pw/stream/fabd25a417d3996f563d8be9ae8be7d5274b65561cd18308b168de4503aeba75.ctv
-Channel 8,https://epg.pw/stream/40f5d6cd19b4d180061217bb5ced0b2655590a0640c82e089eaf65a724b8f54e.m3u8
-Channel 8,https://epg.pw/stream/ef06362ea39eb4f41669fc9231cd55f03201720fc2f2a428696df2d47eca182f.m3u8
-Channel 8,https://epg.pw/stream/bf0e2d5e040d36edb1825e10f0108f9b5a48fd4c9ac8ffb49ee9dfb1a48f72c3.m3u8
 Channel 8,https://epg.pw/stream/54bd0bd669c191eff41f44602540016a7e45a92219b82e7eb1540951cbb74d28.ctv
 Channel 8,https://epg.pw/stream/9c37b19ac5c2d440a289292b689d03791cfb6310d84ee401dc520c0b4e95ae11.m3u8
 Channel 8,https://epg.pw/stream/94a4fddb85283c7fd52198f4a45ff342dbbfdb740a25a5497edab134365efbb3.m3u8
