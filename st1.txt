@@ -2102,9 +2102,6 @@ made in hollywood,https://epg.pw/stream/989eb94e870bd36822d0078cb3fa743a9295f65d
 made in hollywood,https://epg.pw/stream/9c60cfc4b5a062fc264fae9f3ec66eef1d6ffc0e88f3fbde003ede2c94ad186b.m3u8
 petclub hd,https://epg.pw/stream/de8e64dbbc14a0284ad805a67edc279bde1fc6ec898904aedc6fc5e83c61225e.ctv
 petclub hd,https://epg.pw/stream/b3dba2bf19d632d892e3eafc0bb6065cd219f3b73ef17ed90c9db9d992659e38.m3u8
-「河南」新野综合,https://epg.pw/stream/e22466cc931f87ee3348117d7805f44f25f699df8a5b91430e2fc4039b901076.m3u8
-「河南」新野综合,https://epg.pw/stream/730624d47482fed3331196e40e506833a98c72142af419b50c098c0fdedb850b.m3u8
-「河南」新野综合,https://epg.pw/stream/6ab2a2e7ba69c1875adb1017afd6a908963105d2cfd5034319ee1b89b37d1ae5.ctv
 三立新聞,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
 东森 超视,https://epg.pw/stream/19cb39b5599a5ea2cde824c81f55696b8f505d8ee3c6511ea3f37ea7ef1bf61b.ctv
 中天亞洲,https://epg.pw/stream/b2c21dc375aa7d91af1ae24341e9065d56b0b142fef4d75f915a2b43552f907e.ctv
@@ -2157,8 +2154,6 @@ petclub hd,https://epg.pw/stream/b3dba2bf19d632d892e3eafc0bb6065cd219f3b73ef17ed
 唯心電視,https://epg.pw/stream/31720d333f6038736a253006ad6cd6b08ea29626e1e79ce203944d493500bdb1.m3u8
 唯心電視,https://epg.pw/stream/5ea267787f833cf96fdaccfa4265cb6854ff3e67e5bfd4e3fd492986bcf82527.m3u8
 唯心電視,https://epg.pw/stream/7d651c567d48727fc8f95cef7d2b349246baef656e557211c784bc62024b10d0.m3u8
-國會頻道1,https://epg.pw/stream/25175c7fccfbd6b9eb84da550d209558856d777a651e95a9eee156246c364050.m3u8
-國會頻道2,https://epg.pw/stream/80b455104735b3ab7fa31625f949f7d9e9fbc0ef3b0f3fa14023d32922f5379d.m3u8
 大愛,https://epg.pw/stream/8dab0126668b960d4130c12b25e9278ffda43f5b66fa986287ed34cd97cbd721.m3u8
 大愛,https://epg.pw/stream/634d66848d8e5fe80d4fb498f3de9e0a841cad38d5e9a12d8e1b4a807a7f5857.m3u8
 大愛2,https://epg.pw/stream/2b383d639b6b2eade22f2d085141a38ae48a98f24b8a06f485e23f7211bbf909.m3u8
