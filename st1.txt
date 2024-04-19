@@ -30,6 +30,7 @@ CCTV5,http://113.57.109.36:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&au
 CCTV5,http://123.118.54.187:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://180.164.93.200:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://219.159.147.195:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
 CCTV6,http://110.189.183.237:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://113.57.109.36:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://113.65.162.169:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
