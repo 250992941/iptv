@@ -11,6 +11,7 @@ CCTV2,http://113.57.109.36:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&au
 CCTV2,http://113.65.162.169:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://123.118.54.187:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://180.164.93.200:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://219.159.147.195:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://110.189.183.237:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://113.57.109.36:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://113.65.162.169:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -22,10 +23,9 @@ CCTV4,http://110.189.183.237:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&
 CCTV4,http://113.65.162.169:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://123.118.54.187:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://180.164.93.200:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://113.57.109.36:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-
-CCTV5,http://113.57.109.36:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://113.57.109.36:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://113.65.162.169:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://113.57.109.36:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://123.118.54.187:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://180.164.93.200:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://219.159.147.195:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -96,13 +96,13 @@ CCTV15,http://219.159.147.195:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰香港,http://113.64.145.91:8081/hls/38/index.m3u8
-湖南卫视,http://219.159.147.195:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://113.65.162.169:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://110.189.183.237:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://113.57.109.36:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://113.65.162.169:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://123.118.54.187:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://180.164.93.200:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://110.189.183.237:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+
 浙江卫视,http://113.57.109.36:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://113.65.162.169:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://180.164.93.200:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -433,26 +433,26 @@ the movie channel,https://epg.pw/stream/f747e7889d1f7e21fca76031a1cccbd644868b1c
 
 广东地方,#genre#
 
-广东体育,http://219.159.147.195:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+
 广东体育,http://113.65.162.169:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://113.105.111.79:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://113.81.20.104:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty
 广东体育,http://219.135.208.218:8083/tsfile/live/1000_1.m3u8
 广东体育,https://skype.serv00.net/itouch.php?id=gdty
-广东珠江 高清,http://219.159.147.195:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-广东珠江,http://glive.grtn.cn/live/lizhi.m3u8
+
+
 广东珠江,http://113.81.20.104:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,http://iptv.eatuo.com:9901/tsfile/live/1001_1.m3u8
 广东珠江,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
 广东珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj
 广东民生,http://php.jdshipin.com:8880/chudian.php?id=gdms
 广东生活,http://glive.grtn.cn/live/life.m3u8
-广东影视,http://219.159.147.195:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-广东影视,http://113.65.162.169:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-广东影视,http://glive.grtn.cn/live/health.m3u8
+
+
+广东民生,http://glive.grtn.cn/live/health.m3u8
 广东影视,http://php.jdshipin.com:8880/chudian.php?id=gdys
-广东新闻,http://219.159.147.195:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+
 广东新闻,http://iptv.eatuo.com:9901/tsfile/live/1002_1.m3u8
 广东新闻,http://php.jdshipin.com:8880/chudian.php?id=gdxw
 广东影视,http://iptv.eatuo.com:9901/tsfile/live/1008_1.m3u8
