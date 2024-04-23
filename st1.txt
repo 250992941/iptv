@@ -1,5 +1,45 @@
 央视频道,#genre#
 
+CCTV1,http://222.174.140.242:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$日照 电信
+CCTV2,http://222.174.140.242:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$日照 电信
+CCTV3,http://222.174.140.242:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$日照 电信
+CCTV4 国际,http://222.174.140.242:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$日照 电信
+CCTV5,http://222.174.140.242:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$日照 电信
+CCTV5+,http://222.174.140.242:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$日照 电信
+CCTV6,http://222.174.140.242:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$日照 电信
+CCTV7,http://222.174.140.242:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$日照 电信
+CCTV8,http://222.174.140.242:9901/tsfile/live/0008_2.m3u8?key=txiptv&playlive=1&authid=0$日照 电信
+CCTV9,http://222.174.140.242:9901/tsfile/live/0009_2.m3u8?key=txiptv&playlive=1&authid=0$日照 电信
+CCTV10,http://222.174.140.242:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$日照 电信
+CCTV11,http://222.174.140.242:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$日照 电信
+CCTV12,http://222.174.140.242:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$日照 电信
+CCTV13,http://221.1.210.106:8053/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$菏泽 联通
+CCTV14,http://222.174.140.242:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$日照 电信
+CCTV15,http://222.174.140.242:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$日照 电信
+CCTV16,http://1.30.18.218:20080/hls/16/index.m3u8$内蒙古呼和浩特 联通
+CCTV-17农业,mitv://generationnexxxt.com:19806/65a614e00004fec6e104afbe58b32445
+
+CCTV1,http://221.0.78.198:1681/hls/10201/index.m3u8
+CCTV2,http://221.0.78.198:1681/hls/10202/index.m3u8
+CCTV3,http://221.0.78.198:1681/hls/10203/index.m3u8
+CCTV4,http://221.0.78.198:1681/hls/10204/index.m3u8
+CCTV5,http://221.0.78.198:1681/hls/10205/index.m3u8
+CCTV5+,http://221.0.78.198:1681/hls/10217/index.m3u8
+CCTV6,http://221.0.78.198:1681/hls/10206/index.m3u8
+CCTV7,http://221.0.78.198:1681/hls/10207/index.m3u8
+CCTV8,http://221.0.78.198:1681/hls/10208/index.m3u8
+CCTV9,http://221.0.78.198:1681/hls/10209/index.m3u8
+CCTV10,http://221.0.78.198:1681/hls/10210/index.m3u8
+CCTV11,http://221.0.78.198:1681/hls/10211/index.m3u8
+CCTV12,http://221.0.78.198:1681/hls/10212/index.m3u8
+CCTV13,http://221.0.78.198:1681/hls/10213/index.m3u8
+CCTV14,http://221.0.78.198:1681/hls/10214/index.m3u8
+CCTV15,http://221.0.78.198:1681/hls/10215/index.m3u8
+CCTV17,http://221.0.78.198:1681/hls/10289/index.m3u8
+CCTV17,http://221.0.78.198:1681/hls/10289/index.m3u8
+
+
+
 CCTV1,http://14.19.148.193:5555/udp/239.77.1.17:5146
 CCTV1,http://14.19.148.193:5555/udp/239.77.1.144:5146
 CCTV1,http://14.19.148.193:5555/udp/239.77.0.86:5146
@@ -258,6 +298,35 @@ CCTV15,http://219.159.147.195:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 凤凰资讯,http://220.168.77.132:8082/hls/50/index.m3u8
 凤凰中文,http://e2.woc.iiiya.cn:8888/rtp/239.61.2.184:9092
 凤凰中文,http://220.168.77.132:8082/hls/49/index.m3u8
+
+深圳卫视,http://222.241.154.37:9901/tsfile/live/23035_1.m3u8
+湖南卫视,http://222.241.154.37:9901/tsfile/live/23019_1.m3u8
+浙江卫视,http://222.241.154.37:9901/tsfile/live/23028_1.m3u8
+江苏卫视,http://222.241.154.37:9901/tsfile/live/23029_1.m3u8
+东方卫视,http://222.241.154.37:9901/tsfile/live/23033_1.m3u8
+重庆卫视,http://222.241.154.37:9901/tsfile/live/23042_1.m3u8
+北京卫视,http://222.241.154.37:9901/tsfile/live/23030_1.m3u8
+广东卫视,http://222.241.154.37:9901/tsfile/live/23038_1.m3u8
+广西卫视,http://222.241.154.37:9901/tsfile/live/23039_1.m3u8
+东南卫视,http://222.241.154.37:9901/tsfile/live/23037_1.m3u8
+安徽卫视,http://222.241.154.37:9901/tsfile/live/23031_1.m3u8
+天津卫视,http://222.241.154.37:9901/tsfile/live/23032_1.m3u8
+江西卫视,http://222.241.154.37:9901/tsfile/live/23034_1.m3u8
+四川卫视,http://222.241.154.37:9901/tsfile/live/23041_1.m3u8
+贵州卫视,http://222.241.154.37:9901/tsfile/live/23046_1.m3u8
+云南卫视,http://222.241.154.37:9901/tsfile/live/23043_1.m3u8
+海南卫视,http://222.241.154.37:9901/tsfile/live/23044_1.m3u8
+河北卫视,http://222.241.154.37:9901/tsfile/live/23047_1.m3u8
+陕西卫视,http://222.241.154.37:9901/tsfile/live/23048_1.m3u8
+辽宁卫视,http://222.241.154.37:9901/tsfile/live/23036_1.m3u8
+黑龙江卫视,http://222.241.154.37:9901/tsfile/live/23045_1.m3u8
+
+
+
+
+
+
+
 湖南卫视,http://14.19.148.193:5555/udp/239.77.1.5:5146
 湖南卫视,http://14.19.148.193:5555/udp/239.77.1.129:5146
 湖南卫视,http://14.19.148.193:5555/udp/239.77.0.88:5146
