@@ -19,6 +19,40 @@ CCTV15,http://222.174.140.242:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 CCTV16,http://1.30.18.218:20080/hls/16/index.m3u8$内蒙古呼和浩特 联通
 CCTV-17,mitv://generationnexxxt.com:19806/65a614e00004fec6e104afbe58b32445
 
+CCTV2,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=065
+CCTV3,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=126
+CCTV4,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=14
+CCTV5+,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=124
+CCTV5,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=125
+CCTV6,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=127
+CCTV7,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=41
+CCTV8,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=128
+CCTV9,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=050
+CCTV10,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=099
+CCTV11,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=008
+CCTV12,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=168
+CCTV13,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=032
+CCTV14,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=151
+CCTV15,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=007
+CCTV17,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=200
+CCTV第一剧场,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=097
+CCTV电视指南,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=141
+CCTV发现之旅,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=037
+CCTV风云剧场,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=096
+CCTV风云音乐,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=098
+CCTV风云足球,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=094
+CCTV怀旧剧场,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=092
+CCTV老故事,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=038
+CCTV女性时尚,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=035
+CCTV世界地理,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=095
+CCTV卫生健康,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=102
+CCTV新科动漫,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=067
+CCTV央视文化精品,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=093
+CCTV中视国宝,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=144
+
+
+
+
 CCTV1,http://221.0.78.198:1681/hls/10201/index.m3u8
 CCTV2,http://221.0.78.198:1681/hls/10202/index.m3u8
 CCTV3,http://221.0.78.198:1681/hls/10203/index.m3u8
@@ -293,11 +327,13 @@ CCTV15,http://219.159.147.195:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 
 
 卫视频道,#genre#
-
+凤凰中文,https://ali.hlspull.yximgs.com/live/df7edbebae2dc24d33f87d0e61f0f237.flv
+凤凰资讯,https://ali.hlspull.yximgs.com/live/25f2f5ef46a9f6c3377c99786d35eec5.flv
 凤凰资讯,http://e2.woc.iiiya.cn:8888/rtp/239.61.2.183:9086
 凤凰资讯,http://220.168.77.132:8082/hls/50/index.m3u8
 凤凰中文,http://e2.woc.iiiya.cn:8888/rtp/239.61.2.184:9092
 凤凰中文,http://220.168.77.132:8082/hls/49/index.m3u8
+凤凰香港,https://ali.hlspull.yximgs.com/live/b71d0efc1dcee0bc84d05b8e38254a83.flv
 
 深圳卫视,http://222.241.154.37:9901/tsfile/live/23035_1.m3u8
 湖南卫视,http://222.241.154.37:9901/tsfile/live/23019_1.m3u8
@@ -321,6 +357,38 @@ CCTV15,http://219.159.147.195:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 辽宁卫视,http://222.241.154.37:9901/tsfile/live/23036_1.m3u8
 黑龙江卫视,http://222.241.154.37:9901/tsfile/live/23045_1.m3u8
 
+安徽卫视,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=133
+北京卫视,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=152
+东方卫视,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=117
+东南卫视,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=140
+甘肃卫视,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=132
+广东卫视,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=085
+广西卫视,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=083
+贵州卫视,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=016
+海南卫视,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=170
+河北卫视,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=173
+河南卫视,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=136
+黑龙江卫视,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=162
+湖北卫视,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=131
+湖南卫视,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=153
+吉林卫视,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=088
+江苏卫视,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=156
+江西卫视,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=080
+辽宁卫视,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=089
+南方卫视,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=086
+内蒙古卫视,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=018
+宁夏卫视,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=146
+青海卫视,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=078
+山东教育卫视,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=072
+山东卫视,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=130
+四川卫视,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=015
+天津卫视,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=129
+西藏卫视,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=019
+新疆卫视,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=149
+延边卫视,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=071
+云南卫视,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=082
+浙江卫视,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=157
+重庆卫视,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=148
 
 
 
@@ -1113,6 +1181,7 @@ the movie channel,https://epg.pw/stream/f747e7889d1f7e21fca76031a1cccbd644868b1c
 湖南娱乐,http://175.10.59.126:4022/udp/239.76.246.105:1234
 湖南娱乐,http://175.10.59.126:4022/udp/239.76.245.121:1234
 湖南娱乐,http://113.218.218.5:8001/tsfile/live/1005_1.m3u8
+茶频道,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=057
 茶频道,http://117.66.232.100:2000/rtp/238.1.79.30:4352
 茶频道,http://222.241.145.134:8888/udp/239.76.245.239:1234
 茶频道,http://175.10.59.126:4022/udp/239.76.245.239:1234
@@ -1132,6 +1201,7 @@ the movie channel,https://epg.pw/stream/f747e7889d1f7e21fca76031a1cccbd644868b1c
 金鹰卡通,http://175.10.59.126:4022/udp/239.76.246.107:1234
 金鹰卡通,http://175.10.59.126:4022/udp/239.76.245.120:1234
 金鹰卡通,http://113.218.218.5:8001/tsfile/live/1007_1.m3u8
+快乐垂钓,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=040
 快乐垂钓,http://222.241.145.134:8888/udp/239.76.252.127:9000
 快乐垂钓,http://222.241.145.134:8888/udp/239.76.245.127:1234
 快乐垂钓,http://175.10.59.126:4022/udp/239.76.245.127:1234
