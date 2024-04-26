@@ -327,6 +327,10 @@ CCTV15,http://219.159.147.195:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 
 
 卫视频道,#genre#
+
+
+凤凰资讯,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=4ea97af53693ae02392251697dbb52fd
+凤凰中文,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=7eeb6c4285b0fcd7c9a265cf4d5bfac5
 凤凰中文,https://ali.hlspull.yximgs.com/live/df7edbebae2dc24d33f87d0e61f0f237.flv
 凤凰资讯,https://ali.hlspull.yximgs.com/live/25f2f5ef46a9f6c3377c99786d35eec5.flv
 凤凰资讯,http://e2.woc.iiiya.cn:8888/rtp/239.61.2.183:9086
@@ -334,6 +338,41 @@ CCTV15,http://219.159.147.195:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 凤凰中文,http://e2.woc.iiiya.cn:8888/rtp/239.61.2.184:9092
 凤凰中文,http://220.168.77.132:8082/hls/49/index.m3u8
 凤凰香港,https://ali.hlspull.yximgs.com/live/b71d0efc1dcee0bc84d05b8e38254a83.flv
+
+湖南卫视,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=93e7f487ec23f5c99d8137e29933a083
+北京卫视,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=ebbfea54712e740cd1fc0d3b36873d52
+浙江卫视,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=a37bf5f7dbfb7bb35a5e6c9b5899dc69
+江苏卫视,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=ced2b0d62dabbd8651b18f4323c18c24
+安徽卫视,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=bbe500382f3ee26a529e6e27f7f2935c
+天津卫视,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=bc3dcb148fc5c2d805dd0f61997fc683
+兵团卫视,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=0f425d173b623ea4c49c96c6f073d109
+东方卫视,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=d697d7112f7cf3609cd88b63cce479d4
+甘肃卫视,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=576a584528110c09d82de6b45d7ce182
+广东卫视,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=02f45209e8dab92899920d74157fe58b
+广西卫视,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=187ab8cbe6c6ba5db7a938edab1e049a
+海南卫视,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=c4e94cc2af30425e578d55a030379a65
+河北卫视,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=6916ee9ac9ec7c8da50c2b76bb18ffa8
+河南卫视,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=a30fc79dc17df5a58885f43cd1aaaf2e
+黑龙江卫视,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=9e3f3b7d57c55d7df8ef1cfb24d56e0e
+湖北卫视,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=21a70fb0fad52b17d49c5554f513d2ca
+吉林卫视,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=27975dec3d5bb0158291c75402d4a691
+江西卫视,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=5cd94d06a28dc264b537cbac9b7dec19
+辽宁卫视,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=1b84ff537ca4f4b4e57d070563309c56
+内蒙古卫视,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=c429d41e2e18aa0cd5bd2c838d35eda7
+宁夏卫视,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=5ca170032259b805051967fe22da8e32
+青海卫视,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=d563232cc923dbc4efb4293d8d588aeb
+山东卫视,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=1db177c7492ad2769a93e3746f25f701
+陕西卫视,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=9206b0f22c4febf2d490a85ac02766a1
+深圳卫视,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=9259af3b5798880664666d1977a63376
+四川卫视,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=a87d8615af79b7fc8eccaa2014eaf5ca
+西藏卫视,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=9e0df14790c0e020e939da4d2bfa0521
+新疆卫视,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=9f18a3278d5b83dc37d52b059e5b068e
+云南卫视,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=ddeb36cf1dfe993107c20e7d42b14948
+重庆卫视,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=4491a96771fb324b6469a9ac6e25f5b9
+贵州卫视,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=9245676006cb79b03798b89fa05576b1
+
+
+
 
 深圳卫视,http://222.241.154.37:9901/tsfile/live/23035_1.m3u8
 湖南卫视,http://222.241.154.37:9901/tsfile/live/23019_1.m3u8
