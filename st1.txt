@@ -371,6 +371,39 @@ CCTV15,http://219.159.147.195:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 重庆卫视,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=4491a96771fb324b6469a9ac6e25f5b9
 贵州卫视,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=9245676006cb79b03798b89fa05576b1
 
+北京卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=bjws
+东方卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=dfws
+天津卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=tjws
+重庆卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=cqws
+黑龙江卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=hljws
+吉林卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=jlws
+辽宁卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=lnws
+内蒙古卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=nmws
+宁夏卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=nxws
+青海卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=qhws
+河北卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=hbws
+山西卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=sxiws
+安徽卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=ahws
+河南卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=hnws
+湖北卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=hubws
+湖南卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=hunws
+江西卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=jxws
+江苏卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=jsws
+浙江卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=zjws
+东南卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=dnws
+广东卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=gdws
+深圳卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=szws
+广西卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=gxws
+云南卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=ynws
+贵州卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=gzws
+四川卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=scws
+新疆卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=xjws
+兵团卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=btws
+西藏卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=xzws
+海南卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=hinws
+三沙卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=ssws
+
+
 
 
 
