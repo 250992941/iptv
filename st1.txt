@@ -18,7 +18,6 @@ CCTV13,rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13
 CCTV13,http://hls.hsrtv.cn/live/hsyouxian.m3u8
 CCTV14,http://222.174.140.242:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$日照 电信
 CCTV15,http://222.174.140.242:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$日照 电信
-CCTV16,http://1.30.18.218:20080/hls/16/index.m3u8$内蒙古呼和浩特 联通
 CCTV17,mitv://generationnexxxt.com:19806/65a614e00004fec6e104afbe58b32445
 
 CCTV1,http://14.19.148.193:5555/udp/239.77.1.17:5146
@@ -154,38 +153,24 @@ CCTV15,http://125.94.180.195:10001/udp/239.77.1.239:5146
 CCTV15,http://117.66.232.100:2000/rtp/238.1.78.222:7648
 CCTV15,http://e2.woc.iiiya.cn:8888/rtp/239.61.2.25:8144
 CCTV15,http://27.11.254.102:8009/udp/225.0.4.220:7980
-CCTV16,http://14.19.148.193:5555/udp/239.77.0.165:5146
-CCTV16,http://14.19.148.193:5555/udp/239.77.1.76:5146
-CCTV16,http://125.94.180.195:10001/udp/239.77.0.165:5146
-CCTV16,http://125.94.180.195:10001/udp/239.77.1.76:5146
-CCTV16,http://14.19.148.193:5555/udp/239.77.1.98:5146
-CCTV16,http://125.94.180.195:10001/udp/239.77.1.98:5146
+CCTV16,http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv16hd8m/8000000/mnf.m3u8
+CCTV16,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel116/index.m3u8
+CCTV16,http://58.35.70.169:10055/live/cctv16/hls.m3u8
+CCTV16,http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+CCTV16,http://58.42.59.104/hljbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+CCTV16,http://58.42.59.104/hljbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
+CCTV16,http://php.jdshipin.com:8880/bst.php?id=cctv16hd8m/8000000
 CCTV17,http://14.19.148.193:5555/udp/239.77.1.121:5146
 CCTV17,http://125.94.180.195:10001/udp/239.77.1.121:5146
 CCTV17,http://117.66.232.100:2000/rtp/238.1.78.178:7296
 CCTV17,http://e2.woc.iiiya.cn:8888/rtp/239.61.3.9:9572
 CCTV17,http://27.11.254.102:8009/udp/225.0.4.179:7980
-CCTV兵器科技,http://117.66.232.100:2000/rtp/238.1.79.56:4584
-CCTV第一剧场,http://117.66.232.100:2000/rtp/238.1.79.63:4640
-CCTV电视指南,http://117.66.232.100:2000/rtp/238.1.79.53:4560
-CCTV风云剧场,http://117.66.232.100:2000/rtp/238.1.79.62:4632
-CCTV风云音乐,http://117.66.232.100:2000/rtp/238.1.79.64:4648
-CCTV风云足球,http://117.66.232.100:2000/rtp/238.1.79.57:4592
-CCTV高尔夫网球,http://117.66.232.100:2000/rtp/238.1.79.58:4600
-CCTV怀旧剧场,http://117.66.232.100:2000/rtp/238.1.79.61:4624
-CCTV女性时尚,http://117.66.232.100:2000/rtp/238.1.79.55:4576
-CCTV世界地理,http://117.66.232.100:2000/rtp/238.1.79.60:4616
-CCTV央视台球,http://117.66.232.100:2000/rtp/238.1.79.59:4608
-CCTV央视文化精品,http://117.66.232.100:2000/rtp/238.1.79.54:4568
-CGTNN,http://14.19.148.193:5555/udp/239.77.0.45:5146
-CGTNN,http://14.19.148.193:5555/udp/239.77.1.27:5146
-CGTNN,http://117.66.232.100:2000/rtp/238.1.78.50:6272
-CGTNN,http://e2.woc.iiiya.cn:8888/rtp/239.61.2.19:8108
-CGTNN,http://27.11.254.102:8009/udp/225.0.4.12:7980
-CGTNN,http://125.94.180.195:10001/udp/239.77.0.45:5146
-CGTNN,http://125.94.180.195:10001/udp/239.77.1.27:5146
-CGTN英语,http://14.19.148.193:5555/udp/239.77.0.199:5146
-CGTN英语,http://125.94.180.195:10001/udp/239.77.0.199:5146
+CCTV17,http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv17hd8m/8000000/mnf.m3u8
+CCTV17,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel90/index.m3u8
+CCTV17,http://58.42.59.104/hljbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
+CCTV17,http://159.75.85.63:5678/zb.php?id=douyin
+CCTV17,http://php.jdshipin.com:8880/bst.php?id=cctv17hd8m/8000000
+CCTV17,http://58.35.70.169:10055/live/cctv17/hls.m3u8
 
 CCTV1,http://110.189.183.237:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://113.57.109.36:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
