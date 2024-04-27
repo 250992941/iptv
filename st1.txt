@@ -321,12 +321,7 @@ CCTV15,http://219.159.147.195:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 吉林卫视,http://60.6.255.8:2180/live/jlws/index.m3u8
 辽宁卫视,http://60.6.255.8:2180/live/lnws/index.m3u8
 黑龙江卫视,http://60.6.255.8:2180/live/hljws/index.m3u8
-河北经济,http://60.6.255.8:2180/live/hebjj/index.m3u8
-河北都市,http://60.6.255.8:2180/live/hebds/index.m3u8
-河北影视,http://60.6.255.8:2180/live/hebys/index.m3u8
-少儿科教,http://60.6.255.8:2180/live/hebse/index.m3u8
-河北公共,http://60.6.255.8:2180/live/hebsgg/index.m3u8
-河北农民,http://60.6.255.8:2180/live/hebnm/index.m3u8
+
 江苏卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 浙江卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 东方卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
@@ -354,7 +349,6 @@ CCTV15,http://219.159.147.195:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 甘肃卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 吉林卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 云南卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000305/index.m3u8?IAS
-三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 青海卫视,http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
 新疆卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 西藏卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000317/index.m3u8?IAS
@@ -448,11 +442,8 @@ CCTV15,http://219.159.147.195:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226251/index.m3u8
 辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226254/index.m3u8
 青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
-上海东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226336/index.m3u8
+东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226336/index.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226342/index.m3u8
-黑龙江影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226365/index.m3u8
-黑龙江新闻法治,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226368/index.m3u8
-黑龙江少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226371/index.m3u8
 广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226374/index.m3u8
 东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226377/index.m3u8
 广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
@@ -464,9 +455,6 @@ CCTV15,http://219.159.147.195:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226421/index.m3u8
-某地区新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226422/index.m3u8
-黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8
-黑龙江都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226427/index.m3u8
 西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
 兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226445/index.m3u8
@@ -565,7 +553,7 @@ CCTV15,http://219.159.147.195:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 兵团卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=btws
 西藏卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=xzws
 海南卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=hinws
-三沙卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=ssws
+
 
 
 
@@ -810,7 +798,6 @@ CCTV15,http://219.159.147.195:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 山东教育卫视,http://117.66.232.100:2000/rtp/238.1.78.254:7904
 厦门卫视,http://117.66.232.100:2000/rtp/238.1.78.246:7840
 厦门卫视,http://e2.woc.iiiya.cn:8888/rtp/239.61.2.11:8060
-三沙卫视,http://117.66.232.100:2000/rtp/238.1.78.27:6144
 三沙卫视,http://e2.woc.iiiya.cn:8888/rtp/239.61.3.10:9578
 青海卫视,http://117.66.232.100:2000/rtp/238.1.78.102:6688
 青海卫视,http://e2.woc.iiiya.cn:8888/rtp/239.61.2.60:8354
@@ -1185,12 +1172,23 @@ CCTV15,http://113.81.20.104:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 CCTV15,http://180.136.236.127:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://110.53.191.212:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&down=1
 CCTV17,http://113.81.20.104:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+
 IPTV卫视,#genre#
 
 湖南卫视,http://111.22.114.2:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&down=1
 北京卫视,http://111.22.114.2:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&down=1
 广东卫视,http://111.22.114.2:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&down=1
 深圳卫视,http://111.22.114.2:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&down=1
+浙江卫视,http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/zjwshd8m/8000000/mnf.m3u8
+浙江卫视,http://58.35.70.169:10055/live/zjtv/hls.m3u8
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://14.29.76.30:9901/tsfile/live/0124_1.m3u8
+浙江卫视,http://58.42.59.104/hljbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/zjwshd8m/8000000/mnf.m3u8
+浙江卫视,http://58.35.70.169:10055/live/
+浙江卫视,http://8.134.82.80:32858/ysp0409/haiouysp.php?id=42
+浙江卫视,http://php.jdshipin.com:8880/bst.php?id=zjwshd/4000000
+
+
 湖北卫视,http://111.22.114.2:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&down=1
 黑龙江卫视,http://111.22.114.2:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&down=1
 安徽卫视,http://111.22.114.2:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&down=1
