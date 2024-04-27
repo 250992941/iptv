@@ -114,10 +114,10 @@ CCTV1-综合,http://36.249.165.130:9901/tsfile/live/0001_1.m3u8?key=txiptv&playl
 CCTV2-财经,http://36.249.165.130:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3-综艺,http://36.249.165.130:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4-国际,http://36.249.165.130:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5-体育,http://36.249.165.130:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6-电影,http://36.249.165.130:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://36.249.165.130:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV7-军农,http://36.249.165.130:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8-电视剧,http://36.249.165.130:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV10-科教,http://36.249.165.130:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9-纪录,http://36.249.165.130:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11-戏曲,http://36.249.165.130:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -150,8 +150,7 @@ CCTV17-农业农村,http://36.249.165.130:9901/tsfile/live/1001_1.m3u8?key=txipt
 青海卫视,http://36.249.165.130:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 宁夏卫视,http://36.249.165.130:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://36.249.165.130:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://36.249.165.130:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙古卫视,http://36.249.165.130:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+
 新疆卫视,http://36.249.165.130:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 南方卫视,http://36.249.165.130:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://36.249.165.130:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
