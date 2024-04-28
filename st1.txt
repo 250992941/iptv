@@ -254,10 +254,6 @@ CCTV15,http://123.118.54.187:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 CCTV15,http://180.164.93.200:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://219.159.147.195:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 
-
-
-
-
 卫视频道,#genre#
 
 凤凰中文,http://183.204.13.13/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
@@ -474,13 +470,6 @@ CCTV15,http://219.159.147.195:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 延边,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226522/index.m3u8
 
-
-
-
-
-
-
-
 凤凰资讯,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=4ea97af53693ae02392251697dbb52fd
 凤凰中文,http://103.45.68.47:6800/gy/gy_YHEE/贵州长id.php?id=7eeb6c4285b0fcd7c9a265cf4d5bfac5
 凤凰中文,https://ali.hlspull.yximgs.com/live/df7edbebae2dc24d33f87d0e61f0f237.flv
@@ -554,11 +543,6 @@ CCTV15,http://219.159.147.195:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 西藏卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=xzws
 海南卫视,http://103.45.68.47:6800/gy/gy_YHEE/cqyx.php?id=hinws
 
-
-
-
-
-
 深圳卫视,http://222.241.154.37:9901/tsfile/live/23035_1.m3u8
 湖南卫视,http://222.241.154.37:9901/tsfile/live/23019_1.m3u8
 浙江卫视,http://222.241.154.37:9901/tsfile/live/23028_1.m3u8
@@ -613,11 +597,6 @@ CCTV15,http://219.159.147.195:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 云南卫视,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=082
 浙江卫视,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=157
 重庆卫视,http://103.45.68.47:6800/gy/gy_ZMmg/阳泉.php?id=148
-
-
-
-
-
 
 湖南卫视,http://14.19.148.193:5555/udp/239.77.1.5:5146
 湖南卫视,http://14.19.148.193:5555/udp/239.77.1.129:5146
@@ -1087,7 +1066,7 @@ CCTV15,http://219.159.147.195:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 重庆卫视,http://180.164.93.200:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://219.159.147.195:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 
-央视2,#genre#
+央视IPTV,#genre#
 
 CCTV1,http://111.22.114.2:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&down=1
 CCTV2,http://111.22.114.2:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&down=1
@@ -1121,13 +1100,6 @@ CCTV12,http://113.64.94.214:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&a
 CCTV13,http://113.64.94.214:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://113.64.94.214:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://113.64.94.214:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-
-
-
-
-
 
 CCTV1,http://113.81.20.104:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://180.136.236.127:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1173,7 +1145,7 @@ CCTV15,http://180.136.236.127:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1
 CCTV15,http://110.53.191.212:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&down=1
 CCTV17,http://113.81.20.104:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 
-卫视2,#genre#
+卫视IPTV,#genre#
 
 湖南卫视,http://111.22.114.2:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&down=1
 北京卫视,http://111.22.114.2:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&down=1
@@ -1186,7 +1158,6 @@ CCTV17,http://113.81.20.104:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&a
 浙江卫视,http://58.35.70.169:10055/live/
 浙江卫视,http://8.134.82.80:32858/ysp0409/haiouysp.php?id=42
 浙江卫视,http://php.jdshipin.com:8880/bst.php?id=zjwshd/4000000
-
 
 湖北卫视,http://111.22.114.2:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&down=1
 黑龙江卫视,http://111.22.114.2:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&down=1
@@ -1215,8 +1186,6 @@ CCTV17,http://113.81.20.104:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&a
 湖南卫视,http://113.64.94.214:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://113.64.94.214:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://113.64.94.214:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
 
 湖南卫视,http://113.81.20.104:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://180.136.236.127:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
