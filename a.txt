@@ -1,3 +1,24 @@
+📡央视频道👉电信,#genre#
+
+cctv01hd,http://180.142.178.98:8181/live/cctv1hd/index.m3u8
+cctv02hd,http://180.142.178.98:8181/live/cctv2hd/index.m3u8
+cctv03hd,http://180.142.178.98:8181/live/cctv3hd/index.m3u8
+cctv04hd,http://180.142.178.98:8181/live/cctv4hd/index.m3u8
+cctv05hd,http://180.142.178.98:8181/live/cctv5hd/index.m3u8
+cctv5+hd,http://180.142.178.98:8181/live/cctv55hd/index.m3u8
+cctv06hd,http://180.142.178.98:8181/live/cctv6hd/index.m3u8
+cctv07hd,http://180.142.178.98:8181/live/cctv7hd/index.m3u8
+cctv08hd,http://180.142.178.98:8181/live/cctv8hd/index.m3u8
+cctv09hd,http://180.142.178.98:8181/live/cctv9hd/index.m3u8
+cctv10hd,http://180.142.178.98:8181/live/cctv10hd/index.m3u8
+cctv11hd,http://180.142.178.98:8181/live/cctv11hd/index.m3u8
+cctv12hd,http://180.142.178.98:8181/live/cctv12hd/index.m3u8
+cctv13hd,http://180.142.178.98:8181/live/cctv13hd/index.m3u8
+cctv14hd,http://180.142.178.98:8181/live/cctv14hd/index.m3u8
+cctv15hd,http://180.142.178.98:8181/live/cctv15hd/index.m3u8
+cctv17hd,http://180.142.178.98:8181/live/cctv17hd/index.m3u8
+
+
 央.视,#genre#
 CCTV-1 综合,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576803.m3u8
 CCTV-2 财经,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576703.m3u8
