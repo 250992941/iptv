@@ -1,322 +1,35 @@
 央视频道,#genre#
-CCTV1,http://171.117.30.3:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://219.145.93.74:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://106.46.114.29:8011/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV1,http://221.234.25.122:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://111.161.149.182:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://171.117.30.3:9999/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://219.145.93.74:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://106.46.114.29:8011/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV3,http://111.161.149.182:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://171.117.30.3:9999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://219.145.93.74:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://106.46.114.29:8011/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV3,http://221.234.25.122:9999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://111.161.149.182:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://171.117.30.3:9999/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://219.145.93.74:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://106.46.114.29:8011/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV5,http://111.161.149.182:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://219.145.93.74:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://106.46.114.29:8011/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV5+,http://113.218.218.5:8001/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://106.46.114.29:8011/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV6,http://219.145.93.74:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://111.161.149.182:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://171.117.30.3:9999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://106.46.114.29:8011/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV7,http://111.161.149.182:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://219.145.93.74:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://106.46.114.29:8011/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV8,http://219.145.93.74:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://106.46.114.29:8011/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV9,http://111.161.149.182:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://219.145.93.74:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://124.90.208.196:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV9,http://106.46.114.29:8011/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV10,http://111.161.149.182:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://219.145.93.74:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://124.90.208.196:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV10,http://106.46.114.29:8011/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV11,http://171.117.30.3:9999/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://113.218.218.5:8001/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://219.145.93.74:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://124.90.208.196:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV11,http://106.46.114.29:8011/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV12,http://113.218.218.5:8001/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12,http://111.161.149.182:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12,http://219.145.93.74:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12,http://124.90.208.196:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV12,http://106.46.114.29:8011/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV13,http://113.218.218.5:8001/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://219.145.93.74:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://124.90.208.196:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV13,http://106.46.114.29:8011/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV13,http://221.234.25.122:9999/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://111.161.149.182:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://113.218.218.5:8001/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://219.145.93.74:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://124.90.208.196:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV14,http://106.46.114.29:8011/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV15,http://171.117.30.3:9999/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://113.218.218.5:8001/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://123.183.24.94:6666/tsfile/live/faacts/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://111.161.149.182:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://219.145.93.74:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://124.90.208.196:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV15,http://106.46.114.29:8011/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV17,http://221.234.25.122:9999/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
-卫视频道,#genre#
-上海卫视,http://106.46.114.29:8011/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
-东南卫视,http://219.145.93.74:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视,http://124.90.208.196:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
-东南卫视,http://106.46.114.29:8011/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
-东方卫视,http://111.161.149.182:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://124.90.208.196:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
-云南卫视,http://106.46.114.29:8011/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
-内蒙古卫视,http://111.161.149.182:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙古卫视,http://106.46.114.29:8011/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
-北京卫视,http://111.161.149.182:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://219.145.93.74:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://124.90.208.196:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
-北京卫视,http://106.46.114.29:8011/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
-吉林卫视,http://111.161.149.182:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林卫视,http://219.145.93.74:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林卫视,http://106.46.114.29:8011/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
-四川卫视,http://111.161.149.182:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://171.117.30.3:9999/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://219.145.93.74:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://106.46.114.29:8011/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
-天津卫视,http://171.117.30.3:9999/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://106.46.114.29:8011/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
-天津卫视台,http://111.161.149.182:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-宁夏卫视,http://219.145.93.74:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-宁夏卫视,http://106.46.114.29:8011/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
-安徽卫视,http://219.145.93.74:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://124.90.208.196:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
-安徽卫视,http://106.46.114.29:8011/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
-山东卫视,http://219.145.93.74:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://106.46.114.29:8011/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
-山西卫视,http://219.145.93.74:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://106.46.114.29:8011/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
-广东卫视,http://113.66.4.64:4433/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://111.161.149.182:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://171.117.30.3:9999/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://219.145.93.74:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://124.90.208.196:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
-广东卫视,http://106.46.114.29:8011/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
-广西卫视,http://219.145.93.74:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://106.46.114.29:8011/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
-新疆卫视,http://111.161.149.182:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://113.66.4.64:4433/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://219.145.93.74:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://106.46.114.29:8011/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
-江西卫视,http://111.161.149.182:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://123.183.24.94:6666/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://219.145.93.74:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://124.90.208.196:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
-河北卫视,http://111.161.149.182:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://111.161.149.182:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://219.145.93.74:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://106.46.114.29:8011/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
-浙江卫视,http://111.161.149.182:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://113.66.4.64:4433/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://123.183.24.94:6666/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://106.46.114.29:8011/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
-海南卫视,http://219.145.93.74:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://111.161.149.182:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://219.145.93.74:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://106.46.114.29:8011/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
-湖北卫视,http://171.117.30.3:9999/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://111.161.149.182:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://106.46.114.29:8011/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
-湖北卫视,http://221.234.25.122:9999/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://113.66.4.64:4433/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://171.117.30.3:9999/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://219.145.93.74:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://124.90.208.196:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
-湖南卫视,http://106.46.114.29:8011/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
-湖南卫视,http://113.218.218.5:8001/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://111.161.149.182:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://123.183.24.94:6666/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-西藏卫视,http://111.161.149.182:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
-西藏卫视,http://219.145.93.74:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视,http://124.90.208.196:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
-贵州卫视,http://106.46.114.29:8011/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
-辽宁卫视,http://111.161.149.182:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://219.145.93.74:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://106.46.114.29:8011/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
-重庆卫视,http://219.145.93.74:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://171.117.30.3:9999/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://124.90.208.196:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
-陕西卫视,http://111.161.149.182:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://219.145.93.74:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://106.46.114.29:8011/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
-青海卫视,http://219.145.93.74:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://171.117.30.3:9999/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://219.145.93.74:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-央.视,#genre#
-CCTV-1 综合,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576803.m3u8
-CCTV-2 财经,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576703.m3u8
-CCTV-3 综艺,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576503.m3u8
-CCTV-4 国际,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576603.m3u8
-CCTV-5 体育,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576403.m3u8
-CCTV5+ 赛事,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576303.m3u8
-CCTV-6 电影,http://183.204.13.13/1.v.smtcdns.net/mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
-CCTV-6 电影,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574303.m3u8
-CCTV-7 军事,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576203.m3u8
-CCTV-8 剧场,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576103.m3u8
-CCTV-9 记录,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576003.m3u8
-CCTV-10 科教,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022573001.m3u8
-CCTV-11 戏曲,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575903.m3u8
-CCTV-12 法律,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575803.m3u8
-CCTV-13 新闻,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575703.m3u8
-CCTV-13 新闻,http://60.6.255.8:2180/live/cctv13/index.m3u8
-CCTV-13 新闻,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-CCTV-13 新闻,http://hls.hsrtv.cn/live/hsyouxian.m3u8
-CCTV-13 新闻,http://222.241.154.37:9901/tsfile/live/23013_1.m3u8
-CCTV-13 新闻,http://117.81.169.180:8888/rtp/239.49.9.43:6000
-CCTV-13 新闻,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575703.m3u8
-CCTV-14 少儿,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575603.m3u8
-CCTV-15 音乐,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575503.m3u8
-CCTV-16 奥运,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575403.m3u8
-CCTV-16 奥运,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575103.m3u8
-CCTV-17 农业,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575303.m3u8
-CCTV4K,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575203.m3u8
-CCTV8K,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
-CCTV兵器科技,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
-CCTV第一剧场,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
-CCTV怀旧剧场,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
-CCTV风云剧场,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
-CCTV风云音乐,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
-CCTV风云足球,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
-CCTV电视指南,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
-CCTV女性时尚,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513903.m3u8
-CCTV央视文化精品,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
-CCTV世界地理,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
-CCTV高尔夫网球,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
-CCTV央视台球,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513703.m3u8
-CCTV卫生健康,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
-CGTN,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575001.m3u8
-CGTN纪录,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574703.m3u8
-CGTN西语,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022571703.m3u8
-CGTN法语,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574903.m3u8
-CGTN阿语,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574603.m3u8
-CGTN俄语,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574803.m3u8
-CCTV-1 综合,http://60.6.255.8:2180/live/cctv1/index.m3u8
-CCTV-2 财经,http://60.6.255.8:2180/live/cctv2/index.m3u8
-CCTV-3 综艺,http://60.6.255.8:2180/live/cctv3/index.m3u8
-CCTV-4 中文国际,http://60.6.255.8:2180/live/cctv4/index.m3u8
-CCTV-5 体育,http://60.6.255.8:2180/live/cctv5/index.m3u8
-CCTV-5+ 体育赛事,http://60.6.255.8:2180/live/cctv5q/index.m3u8
-CCTV-6 电影,http://60.6.255.8:2180/live/cctv6/index.m3u8
-CCTV-7 国防军事,http://60.6.255.8:2180/live/cctv7/index.m3u8
-CCTV-8 电视剧,http://60.6.255.8:2180/live/cctv8/index.m3u8
-CCTV-9 纪录,http://60.6.255.8:2180/live/cctv9/index.m3u8
-CCTV-10 科教,http://60.6.255.8:2180/live/cctv10/index.m3u8
-CCTV-11 戏曲,http://60.6.255.8:2180/live/cctv11/index.m3u8
-CCTV-12 社会与法,http://60.6.255.8:2180/live/cctv12/index.m3u8
-CCTV-13 新闻,http://60.6.255.8:2180/live/cctv13/index.m3u8
-CCTV-14 少儿,http://60.6.255.8:2180/live/cctv14/index.m3u8
-CCTV-15 音乐,http://60.6.255.8:2180/live/cctv15/index.m3u8
-CCTV-16 奥林匹克,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225893/index.m3u8
-CCTV-17 农业农村,http://60.6.255.8:2180/live/cctv17/index.m3u8
-CCTV第一剧场,http://60.6.255.8:2180/live/dyjc/index.m3u8
-CCTV风云剧场,http://60.6.255.8:2180/live/fyjc/index.m3u8
-CCTV怀旧剧场,http://60.6.255.8:2180/live/hjjc/index.m3u8
-CCTV风云音乐,http://60.6.255.8:2180/live/fyyy/index.m3u8
-CCTV风云足球,http://60.6.255.8:2180/live/fyzq/index.m3u8
-CCTV高尔夫网球,http://60.6.255.8:2180/live/gefwq/index.m3u8
-CCTV武术世界,http://60.6.255.8:2180/live/wssj/index.m3u8
-CCTV兵器科技,http://60.6.255.8:2180/live/gfjs/index.m3u8
-CCTV世界地理,http://60.6.255.8:2180/live/sjdl/index.m3u8
-CCTV老 故 事,http://60.6.255.8:2180/live/lgsh/index.m3u8
-CCTV女性时尚,http://60.6.255.8:2180/live/nxss/index.m3u8
-CCTV央视文化精品,http://60.6.255.8:2180/live/whjp/index.m3u8
-CCTV-1 综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-CCTV-1 综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-CCTV-2 财经,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
-CCTV-3 综艺,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8
-CCTV-4 中文国际,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-CCTV-5 体育,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV-5+ 体育赛事,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225507/index.m3u8
-CCTV-6 电影,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-CCTV-7 国防军事,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-CCTV-8 电视剧,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-CCTV-9 纪录,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV-10 科教,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225677/index.m3u8
-CCTV-11 戏曲,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
-CCTV-12 社会与法,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV-13 新闻,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-CCTV-14 少儿,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-CCTV-15 音乐,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
-CCTV-16 奥林匹克,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225893/index.m3u8
-CCTV-17 农业农村,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CCTV-1 综合,mitv://generationnexxxt.com:19806/f1e3bc8a344e49dab603272c8fd2641e
-CCTV-2 财经,mitv://generationnexxxt.com:19806/ce08ee69cea5402c99bf285704eac3e5
-CCTV-3 综艺,mitv://generationnexxxt.com:19806/784f6703531044be9cee14b793948d30
-CCTV-4 国际,mitv://generationnexxxt.com:19806/50c3e18e04bf478db59251455cf3d309
-CCTV-5 体育,mitv://generationnexxxt.com:19806/7d00bdeddb6c422796e62ae9e8b9398d
-CCTV-5+赛事,mitv://generationnexxxt.com:19806/65a531aa00057c26dd8d1ccf196a034e
-CCTV-6 电影,mitv://generationnexxxt.com:19806/3ec70c48b2024e4f9210169aec2914c7
-CCTV-7 军事,mitv://generationnexxxt.com:19806/e70ef03e57794075962ec3960df5b167
-CCTV-8 剧场,mitv://generationnexxxt.com:19806/65a52e1d00012b4cdd7f3cee366e723b
-CCTV-9 记录,mitv://generationnexxxt.com:19806/65a52e1d0007b3b6dd7f3e945c727248
-CCTV-10科教,mitv://generationnexxxt.com:19806/65a52e1d000c0c0bdd7f3fad13ad7f10
-CCTV-11戏曲,mitv://generationnexxxt.com:19806/65a52e1e0002f04bdd7f414333117e01
-CCTV-12法律,mitv://generationnexxxt.com:19806/65a52e1e0008b4e1dd7f42ba38ef4a02
-CCTV-13新闻,mitv://generationnexxxt.com:19806/65a52dc0000d93bbdd7dd4d235813afb
-CCTV-14少儿,mitv://generationnexxxt.com:19806/65a52dc1000332e5dd7dd60b29277892
-CCTV-15音乐,mitv://generationnexxxt.com:19806/65a52dc10008dffbdd7dd78215274e95
-CCTV-16奥运,mitv://generationnexxxt.com:19806/65a614e0000be91ae104b1833fc057ba
-CCTV-17农业,mitv://generationnexxxt.com:19806/65a614e00004fec6e104afbe58b32445
-CGTN记录ᴴᴰ,https://livedoc.cgtn.com/500d/prog_index.m3u8
-CGTN俄语ᴴᴰ,https://liveru.cgtn.com/1000r/prog_index.m3u8
-CGTN法语ᴴᴰ,https://livefr.cgtn.com/1000f/prog_index.m3u8
-CGTN西语ᴴᴰ,https://livees.cgtn.com/1000e/prog_index.m3u8
-CGTN阿语ᴴᴰ,https://livear.cgtn.com/1000a/prog_index.m3u8
-CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV-2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-CCTV-3 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-CCTV-4 国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-CCTV-5 体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV-5+赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-CCTV-6 电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-CCTV-7 军事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-CCTV-8 剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-CCTV-9 纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV-10科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-CCTV-11戏曲,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-CCTV-12法律,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV-13新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-CCTV-15音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-CCTV-16奥运,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV-17农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
-CGTN纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
-CGTN法语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226520/index.m3u8
-CGTN俄语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226543/index.m3u8
-CGTN西班牙语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226431/index.m3u8
-CGTN阿拉伯语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226517/index.m3u8
-CETV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-CETV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV-2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
-CCTV-3 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-CCTV-4 国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-CCTV-5 体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV-5+赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-CCTV-6 电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-CCTV-7 军事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-CCTV-8 剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-CCTV-9 纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV-10科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-CCTV-12法律,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV-13新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-CCTV-16奥运,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV-17农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+CCTV1,rtsp://115.153.254.81/PLTV/88888888/224/3221225699/iptv8040.smil
+CCTV2,rtsp://115.153.254.81/PLTV/88888888/224/3221226825/59814584.smil
+CCTV3,rtsp://115.153.254.81/PLTV/88888888/224/3221226930/65406412.smil
+CCTV4,rtsp://115.153.254.81/PLTV/88888888/224/3221226838/59814684.smil
+CCTV5,rtsp://115.153.254.81/PLTV/88888888/224/3221226907/65396401.smil
+CCTV6,rtsp://115.153.254.81/PLTV/88888888/224/3221226909/65396493.smil
+CCTV7,rtsp://115.153.254.81/PLTV/88888888/224/3221226827/59814693.smil
+CCTV8,rtsp://115.153.254.81/PLTV/88888888/224/3221226911/65406606.smil
+CCTV9,rtsp://115.153.254.81/PLTV/88888888/224/3221226840/59814699.smil
+CCTV10,rtsp://115.153.254.81/PLTV/88888888/224/3221226630/51813372.smil
+CCTV11,rtsp://115.153.254.81/PLTV/88888888/224/3221226986/85722616.smil
+CCTV12,rtsp://115.153.254.81/PLTV/88888888/224/3221226829/59814709.smil
+CCTV13,rtsp://115.153.254.81/PLTV/88888888/224/3221227037/87447722.smil
+CCTV14,rtsp://115.153.254.81/PLTV/88888888/224/3221226634/51813368.smil
+CCTV15,rtsp://115.153.254.81/PLTV/88888888/224/3221226988/85722541.smil
+CCTV16-4K,rtsp://115.153.254.81/PLTV/88888888/224/3221227051/92603106.smil
+CCTV17,rtsp://115.153.254.81/PLTV/88888888/224/3221226846/61397282.smil
+CCTV5+,rtsp://115.153.254.81/PLTV/88888888/224/3221226976/85722488.smil
+CCTV4HD-欧洲,rtsp://115.153.254.81/PLTV/88888888/224/3221226964/77799053.smil
+CCTV4HD-美洲,rtsp://115.153.254.81/PLTV/88888888/224/3221226962/77799052.smil
+CGTN,rtsp://115.153.254.81/PLTV/88888888/224/3221226694/55738457.smil
+CGTN-英语,rtsp://115.153.254.81/PLTV/88888888/224/3221226947/77798966.smil
+CGTN-英文纪录,rtsp://115.153.254.81/PLTV/88888888/224/3221226960/77798993.smil
+CGTN-西班牙语,rtsp://115.153.254.81/PLTV/88888888/224/3221226949/77798970.smil
+CGTN-法语,rtsp://115.153.254.81/PLTV/88888888/224/3221226968/77799060.smil
+CGTN-阿拉伯语,rtsp://115.153.254.81/PLTV/88888888/224/3221226951/77799001.smil
+CGTN-俄语,rtsp://115.153.254.81/PLTV/88888888/224/3221226966/77798997.smil
+CCTV3,rtsp://115.153.254.81/PLTV/88888888/224/3221226841/63329606.smil
+CCTV5,rtsp://115.153.254.81/PLTV/88888888/224/3221226852/63329574.smil
+CCTV6,rtsp://115.153.254.81/PLTV/88888888/224/3221226843/63329570.smil
+CCTV8,rtsp://115.153.254.81/PLTV/88888888/224/3221226854/63329578.smil
+央视台球,rtsp://115.153.254.81/PLTV/88888888/224/3221226955/86106661.smil
+央视精品,rtsp://115.153.254.81/PLTV/88888888/224/3221226957/86128679.smil
+导视,rtsp://115.153.254.81/PLTV/88888888/224/3221225623/iptv8002.smil
