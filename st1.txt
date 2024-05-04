@@ -24,10 +24,11 @@ CCTV13,rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13
 CCTV13,http://hls.hsrtv.cn/live/hsyouxian.m3u8
 CCTV14,http://222.174.140.242:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$日照 电信
 CCTV15,http://222.174.140.242:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$日照 电信
-CCTV-16,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575403.m3u8
-CCTV-16,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575103.m3u8
+CCTV16,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575403.m3u8
+CCTV16,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575103.m3u8
 CCTV16,http://113.67.96.237:9999/udp/239.77.1.76:5146
 CCTV16,http://113.67.96.237:9999/udp/239.77.0.165:5146
+CCTV17,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575303.m3u8
 CCTV17,http://113.67.96.237:9999/udp/239.77.1.121:5146
 CCTV17,mitv://generationnexxxt.com:19806/65a614e00004fec6e104afbe58b32445
 
@@ -1414,6 +1415,51 @@ the movie channel,https://epg.pw/stream/f747e7889d1f7e21fca76031a1cccbd644868b1c
 番禺电视台,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 
 湖南地方,#genre#
+
+湖南都市,http://222.241.154.37:9901/tsfile/live/23021_1.m3u8
+湖南经视,http://222.241.154.37:9901/tsfile/live/23020_1.m3u8
+湖南娱乐,http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
+湖南国际,http://222.241.154.37:9901/tsfile/live/23024_1.m3u8
+湖南电影,http://222.241.154.37:9901/tsfile/live/23025_1.m3u8
+湖南剧场,http://222.241.154.37:9901/tsfile/live/23026_1.m3u8
+湖南教育,http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
+湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
+湖南卫视,http://58.210.168.86:10800/newlive/live/hls/21/live.m3u8
+湖南卫视,http://58.210.168.86:10800/newlive/live/hls/21/live.m3u8
+湖南卫视,http://58.210.168.86:10800/newlive/live/hls/21/live.m3u8
+金鹰卡通,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43025/index.m3u8
+动漫秀场,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43045/index.m3u8
+湖南都市,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43028/index.m3u8
+湖南都市,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43094/index.m3u8
+湖南经视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43024/index.m3u8
+湖南爱晚,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43080/index.m3u8
+湖南娱乐,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43027/index.m3u8
+湖南电影,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43029/index.m3u8
+湖南剧场,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43030/index.m3u8
+欢笑剧场,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43039/index.m3u8
+湖南教育,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43021/index.m3u8
+益阳教育,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43089/index.m3u8
+生活时尚,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43043/index.m3u8
+湖南娱乐,http://iptvcyp.top:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南剧场,http://iptvcyp.top:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南电影,http://iptvcyp.top:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南经视,http://iptvcyp.top:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南都市,http://iptvcyp.top:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南教育,http://iptvcyp.top:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南国际,http://iptvcyp.top:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南金鹰纪实,http://iptvcyp.top:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南公共频道,http://iptvcyp.top:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南电影,http://iptvcyp.top:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南都市,http://iptvcyp.top:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南娱乐,http://iptvcyp.top:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://60.6.255.8:2180/live/jykt/index.m3u8
+茶 频 道,http://60.6.255.8:2180/live/chapd/index.m3u8
+快乐垂钓,http://60.6.255.8:2180/live/klcd/index.m3u8
+卡酷少儿,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+金鹰卡通,http://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
+
+
+
 
 湖南公共,http://175.9.161.233:8989/udp/239.76.245.123:1234
 湖南都市,http://175.9.161.233:8989/udp/239.76.245.117:1234
