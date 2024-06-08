@@ -1,24 +1,52 @@
-歐华央视,#genre#
-玉玉软件,http://8.210.232.168/php/tuiguang.php
-CCTV综合,p3p://108.181.20.159:57410/62c200310006b7b2a8c4dade0fd02231
-CCTV财经,p3p://108.181.20.159:57410/5fe15a4400093f55773aac0c576366b8
-CCTV综艺,p3p://108.181.20.159:57410/62be83ea0001dbed9b27d7bb43427d30
-CCTV国际,p3p://108.181.20.159:57410/61244d9c0006885d64b1b7591f6c12a0
-CCTV体育,p3p://108.181.20.159:57410/62c2e10a000954acac332b30611a0e9d
-CCTV电影,p3p://108.181.20.159:57410/62c1fdfa0006353aa8bc33e5054a54db
-CCTV军事,p3p://108.181.20.159:57410/5fe3e41800087c1581251001631763fa
-CCTV电视剧,p3p://108.181.20.159:57410/5ff866900007a9fbd141d26a26c3200d
-CCTV纪录片,p3p://108.181.20.159:57410/600b6ba2000d52801b8cbfda6cd319a2
-CCTV科教,p3p://108.181.20.159:57410/600b6e71000738431b97b6e5675e67a4
-CCTV戏曲,p3p://108.181.20.159:57410/600b70950000f68f1ba011e06e003057
-CCTV社会与法,p3p://108.181.20.159:57410/5fe3e42d00068cbf812561891e0e6b52
-CCTV新闻,p3p://108.181.20.159:57410/632351570006042224e55806316a7512
-CCTV少儿,p3p://108.181.20.159:57410/600b718b0006dd9f1ba3d45468b1762e
-CCTV音乐,p3p://108.181.20.159:57410/63235101000d828724e40a062bb62592
-CCTV奥林匹克,p3p://108.181.20.159:57410/632350a5000deee324e2a2bc22a37dd9
-CCTV农业农村,p3p://108.181.20.159:57410/61396e64000c4165b738e08c29be1bd0
-CCTV农业农村,http://39.134.115.163:57410/PLTV/88888910/224/3221225907/index.m3u8
-CCTV体育赛事,p3p://108.181.20.159:57410/6323522b0000ad5c24e892c57ad041c7
+中国大陆,#genre#
+CCTV1 ,p2p://generationnexxxt.com:19806/f1e3bc8a344e49dab603272c8fd2641e
+CCTV2 ,p2p://generationnexxxt.com:19806/ce08ee69cea5402c99bf285704eac3e5
+CCTV3 ,p2p://generationnexxxt.com:19806/784f6703531044be9cee14b793948d30
+CCTV4 ,p2p://generationnexxxt.com:19806/50c3e18e04bf478db59251455cf3d309
+CCTV5 ,p2p://generationnexxxt.com:19806/7d00bdeddb6c422796e62ae9e8b9398d
+CCTV5+ ,p2p://generationnexxxt.com:19806/65a531aa00057c26dd8d1ccf196a034e
+CCTV6 ,p2p://generationnexxxt.com:19806/3ec70c48b2024e4f9210169aec2914c7
+CCTV7 ,p2p://generationnexxxt.com:19806/e70ef03e57794075962ec3960df5b167
+CCTV8 ,p2p://generationnexxxt.com:19806/65a52e1d00012b4cdd7f3cee366e723b
+CCTV9 ,p2p://generationnexxxt.com:19806/65a52e1d0007b3b6dd7f3e945c727248
+CCTV10 ,p2p://generationnexxxt.com:19806/65a52e1d000c0c0bdd7f3fad13ad7f10
+CCTV11 ,p2p://generationnexxxt.com:19806/65a52e1e0002f04bdd7f414333117e01
+CCTV12 ,p2p://generationnexxxt.com:19806/65a52e1e0008b4e1dd7f42ba38ef4a02
+CCTV13 ,p2p://generationnexxxt.com:19806/65a52dc0000d93bbdd7dd4d235813afb
+CCTV14 ,p2p://generationnexxxt.com:19806/65a52dc1000332e5dd7dd60b29277892
+CCTV15 ,p2p://generationnexxxt.com:19806/65a52dc10008dffbdd7dd78215274e95
+北京衛視,p2p://generationnexxxt.com:19806/8d7d0547db754c32bca6011693893b40
+天津衛視,p2p://generationnexxxt.com:19806/0d7fa1ec8c4348e29bc3f09a38ae3691
+河北衛視,p2p://generationnexxxt.com:19806/f0390f4cc1fa4b9991338bc6426deb17
+黑龍江衛視,p2p://generationnexxxt.com:19806/2f690600a9454710b15b0e90853268c3
+遼寧衛視,p2p://generationnexxxt.com:19806/4b1903b35f804f1180a4b346efbabfc9
+東方衛視,p2p://generationnexxxt.com:19806/10521db17e054dbeba85448ac091ae64
+江蘇衛視,p2p://generationnexxxt.com:19806/13f3f27751184d95902e5c588264551e
+浙江衛視,p2p://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
+江西衛視,p2p://generationnexxxt.com:19806/d3548b106a7d45b4972427c3a75135ab
+山東衛視,p2p://generationnexxxt.com:19806/be77ccef4df042ab909e0a2586844431
+東南衛視,p2p://generationnexxxt.com:19806/00aae4669ca24ddabf43997323ceef8e
+湖北衛視,p2p://generationnexxxt.com:19806/7553b94400ac4d85b752579acb37c0ce
+湖南衛視,p2p://generationnexxxt.com:19806/45dc7947c5574ebfb0e68e5d0a537ed0
+深圳衛視,p2p://generationnexxxt.com:19806/b8c8ef10f65649c9a43388d771203f61
+廣東衛視,p2p://generationnexxxt.com:19806/cf7073fbb4c5490a86aca002247700f9
+廣西衛視,p2p://generationnexxxt.com:19806/eb435193f43d4c8ca09c9ce477d4d7b9
+重慶衛視,p2p://generationnexxxt.com:19806/c173700eaecc412695b37ac062b6abac
+雲南衛視,p2p://generationnexxxt.com:19806/9203ba029385410793e3f2b7bffb3335
+星空衛視,p2p://generationnexxxt.com:19806/0b87528420394614b1016123ff4fda4c
+大灣區衛視,p2p://generationnexxxt.com:19806/587bc565d5a4413987fdce380a48a332
+珠江台 ,p2p://generationnexxxt.com:19806/a050c8e736174de681b13b8ebd2ce3c4
+快樂垂釣,p2p://generationnexxxt.com:19806/65a4f19a000ece67dc92e0b05e060435
+魅力足球,p2p://generationnexxxt.com:19806/ca7a1a18635e453a9a77e5fd5d425e89
+五星體育,p2p://generationnexxxt.com:19806/d75057c993f84e7c86f94e8f1e56ad24
+廣東體育,p2p://generationnexxxt.com:19806/bb744a1252da46a6a2ae5546f4da7c72
+CCTV16 ,p2p://generationnexxxt.com:19806/65a614e0000be91ae104b1833fc057ba
+私人影院,p2p://generationnexxxt.com:19806/3cfadd5e9af14d6db652b3c23acd7a7d
+CCTV17 ,p2p://generationnexxxt.com:19806/65a614e00004fec6e104afbe58b32445
+CHC動作電影,p2p://generationnexxxt.com:19806/1b4ebad47ed94c6291646a4a5d1ff3b6
+廣東影視,p2p://generationnexxxt.com:19806/f2dbc62d3b0b4af3ac2420174eadf202
+CHC高清电影,p2p://generationnexxxt.com:19806/02385419696a411db959037c2190cf11
+CHC家庭影院,p2p://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21cf
 
 
 
