@@ -3082,6 +3082,7 @@ the movie channel,https://epg.pw/stream/f747e7889d1f7e21fca76031a1cccbd644868b1c
 
 
 港澳台,#genre#
+TVB无线新闻,p3p://147.135.39.171:9906/658f93d500090264f39e82304f2d4370
 TVB无线新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjpthljjsjsjjbvdljdmnbjhdhyjyjtvbwxxw.flv
 TVB无线新闻,http://ali.hlspull.yximgs.com/live/twlivefhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw.flv
 TVB无线新闻,http://ali.hlspull.yximgs.com/live/wxxwokk.flv
