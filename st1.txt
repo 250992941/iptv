@@ -192,6 +192,16 @@ CCTV4K,http://58.215.231.58/live2.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
 
 
 新加坡,#genre#
+
+CNA ,p2p://generationnexxxt.com:19806/52b67f21b37b4764a87c33dd46844fdb
+CNA ,p2p://generationnexxxt.com:19806/52b67f21b37b4764a87c33dd46844fdb
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+CNA,https://epg.pw/stream/16915b442b7966be83a6f2b2761cc873be07f60f8da37202fcdfa0ff4bd097d3.ctv
+CNA,p3p://108.181.20.159:57410/64be9bb50006c1b519c62cba356951a9
+CNA,p3p://108.181.32.169:48125/6426077a00093ea7ede6b8b64d6d4c6e
+CNA,p3p://generationnexxxt.com:19806/52b67f21b37b4764a87c33dd46844fdb
+
+
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_1.m3u8
@@ -223,7 +233,7 @@ Channel 8,p3p://108.181.32.169:48125/642605590007b381edde676b090919b0
 Channel 8,p3p://108.181.32.169:48125/642606be0002dd54ede3d8b40d6c04dc
 Channel u,p3p://108.181.32.169:48125/642606ee00041309ede4948330973faf
 Channel u,p3p://108.181.32.169:48125/642606fa000535beede4c3ae3202280b
-CHANNEL V,https://epg.pw/stream/38a967322df96f5d1a525b105f0a760533fa6220861bbcd7bd50a37ca2002b50.ctv
+Channel V,https://epg.pw/stream/38a967322df96f5d1a525b105f0a760533fa6220861bbcd7bd50a37ca2002b50.ctv
 Channel V,http://vl15191373.imwork.net:8880/udp/239.93.1.7:2194
 
 
