@@ -496,6 +496,35 @@ ViuTV6,P2p://generationnexxxt.com:19806/4117b4e170014c2fbce73011cfaf066a
 
 
 台湾频道,#genre#
+
+东森新闻,http://shuma04.chunfengyun.top:8080/live/20/hls.m3u8
+镜新闻,http://shuma04.chunfengyun.top:8080/live/62/hls.m3u8
+三立综合,http://shuma04.chunfengyun.top:8080/live/31/hls.m3u8
+民视第一,http://shuma04.chunfengyun.top:8080/live/4/hls.m3u8
+民视台湾,http://shuma04.chunfengyun.top:8080/live/5/hls.m3u8
+民视,http://shuma04.chunfengyun.top:8080/live/6/hls.m3u8
+龙华戏剧,http://shuma04.chunfengyun.top:8080/live/41/hls.m3u8
+龙华日韩,http://shuma04.chunfengyun.top:8080/live/42/hls.m3u8
+龙华电影,http://shuma04.chunfengyun.top:8080/live/19/hls.m3u8
+中视经典,http://shuma04.chunfengyun.top:8080/live/47/hls.m3u8
+中视青采,http://shuma04.chunfengyun.top:8080/live/48/hls.m3u8
+中视,http://shuma04.chunfengyun.top:8080/live/7/hls.m3u8
+新唐人,http://shuma04.chunfengyun.top:8080/live/51/hls.m3u8
+寰宇台湾,http://shuma04.chunfengyun.top:8080/live/63/hls.m3u8
+寰宇财经,http://shuma04.chunfengyun.top:8080/live/65/hls.m3u8
+全球财经,http://shuma04.chunfengyun.top:8080/live/64/hls.m3u8
+智林体育,http://shuma04.chunfengyun.top:8080/live/77/hls.m3u8
+华视,http://shuma04.chunfengyun.top:8080/live/8/hls.m3u8
+旅游,http://shuma04.chunfengyun.top:8080/live/82/hls.m3u8
+elta生活旅游,http://shuma04.chunfengyun.top:8080/live/85/hls.m3u8
+公视戏剧,http://shuma04.chunfengyun.top:8080/live/87/hls.m3u8
+综艺,http://shuma04.chunfengyun.top:8080/live/67/hls.m3u8
+影剧,http://shuma04.chunfengyun.top:8080/live/88/hls.m3u8
+影迷,http://shuma04.chunfengyun.top:8080/live/92/hls.m3u8
+
+
+
+
 中视新闻,mitv://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4
 华视新闻,mitv://generationnexxxt.com:19806/ebe8db2daafa47768f37bcae17bfe299
 台视新闻,mitv://generationnexxxt.com:19806/9817b59742464113bd5656fcc7dced84
@@ -701,77 +730,7 @@ MOMO综合,P2p://generationnexxxt.com:19806/659391fc000353d298b54dbe4b486dab
 MOMO亲子,P2p://generationnexxxt.com:19806/2f2d9ad70ce7410aa99f2b9fa1753dd4
 
 
-台視HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1047
-中視HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1048
-華視HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1049
-民視HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1050
-公視,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1201
-人間衛視,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1198
-大愛電視,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1216
-好消息GOOD TV,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1669
-Trace Sport Stars,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1003
-DISCOVERY,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1002
-旅遊生活,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1005
-動物星球,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1004
-亞洲旅遊,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1219
-MOMO親子台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1007
-東森幼幼HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1008
-龍華卡通台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1670
-緯來綜合HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1044
-八大第一HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1043
-八大綜合HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1019
-三立台灣HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1021
-三立都會HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1020
-韓國娛樂台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1024
-東森綜合HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1041
-超視HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1180
-中天綜合HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1022
-中天娛樂HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1023
-東風衛視,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1195
-MUCH TV,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1189
-東森戲劇HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1042
-八大戲劇HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1057
-TVBS歡樂HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1018
-緯來戲劇,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1186
-龍華戲劇台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1671
-龍華日韓劇,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1672
-龍華偶像劇,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1673
-緯來日本HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1026
-Taiwan Plus,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1674
-年代新聞,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1192
-東森新聞HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1014
-中天新聞,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1675
-民視新聞,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1204
-三立新聞HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1016
-TVBS新聞HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1052
-TVBS HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1668
-非凡新聞HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1013
-非凡商業HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1012
-東森財經HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1017
-寰宇新聞,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1222
-壹新聞,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1676
-Bloomberg News,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1066
-NHK世界HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1027
-鏡電視新聞台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1031
-好萊塢電影HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1025
-緯來電影HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1183
-龍華電影台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1677
-HBO,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1029
-AXN,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1054
-CINEMAX HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1030
-AMC 電影台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1032
-寵物頻道,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1040
-緯來育樂HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1045
-緯來體育HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1011
-博斯運動一,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1678
-momo綜合台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1225
-DAZN 1,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1069
-DAZN 2,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1072
-海峽衛視,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1035
-浙江衛視,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1036
-東方衛視,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1037
-湖南衛視,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1038
-鳯凰衛視資訊,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1666
+
 
 HBO,#genre#
 
