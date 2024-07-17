@@ -244,15 +244,10 @@ Channel V,http://vl15191373.imwork.net:8880/udp/239.93.1.7:2194
 湖南电视剧,http://php.jdshipin.com:8880/iptv.php?id=hndsj
 
 极速港台,#genre#
-NOW 星影,http://60.208.140.180:5544/NOW星影/香蕉哥专用-易發TV.live.flv
-NOW 爆谷,http://60.208.140.180:5544/NOW爆谷/香蕉哥专用-易發TV.live.flv
-NOW 新闻(不稳定),http://60.208.140.180:5544/NOW新闻/香蕉哥专用-易發TV.live.flv
-NOW新闻台,http://dl.yidiandian.online/11.php?id=332
-NOW直播台,http://dl.yidiandian.online/11.php?id=331
-NOW财经台,http://dl.yidiandian.online/11.php?id=333
-翡翠4K,https://cdn.1678520.xyz/fct4k.php
-TVB翡翠,http://60.208.140.180:5544/tvb翡翠2/香蕉哥专用-易發TV.live.flv
-无线新闻,http://60.208.140.180:5544/tvb新闻/香蕉哥专用-易發TV.live.flv
+NOW 星影,http://123.150.5.131:9000/NOW星影/香蕉哥专用-易發TV.live.ts
+NOW 爆谷,http://123.150.5.131:9000/NOW爆谷/香蕉哥专用-易發TV.live.ts
+TVB 翡翠,http://123.150.5.131:9000/tvb翡翠/香蕉哥专用-易發TV.live.ts
+无线 新闻,http://60.208.140.180:5544/tvb新闻/香蕉哥专用-易發TV.live.flv
 HOY 77,http://60.208.140.180:5544/HOY77/香蕉哥专用-易發TV.live.flv
 HOY 78,http://60.208.140.180:5544/hoy78/香蕉哥专用-易發TV.live.flv
 有线18,http://60.208.140.180:5544/yx18/香蕉哥专用-易發TV.live.flv
@@ -296,6 +291,7 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
+
 
 TVBS News 新闻台,http://156.238.230.135:8888/channel/n2335fe49/index.m3u8?q=fd33f3a0246f92404921feccc6334093
 TVBS 欢乐台 ,http://156.238.230.135:8888/channel/n3130f898/index.m3u8?q=fd33f3a0246f92404921feccc6334093
