@@ -270,17 +270,18 @@ Channel V,http://vl15191373.imwork.net:8880/udp/239.93.1.7:2194
 极速港台,#genre#
 NOW 星影,http://123.150.5.131:9000/NOW星影/香蕉哥专用-易發TV.live.ts
 NOW 爆谷,http://123.150.5.131:9000/NOW爆谷/香蕉哥专用-易發TV.live.ts
-TVB 翡翠,http://123.150.5.131:9000/tvb翡翠/香蕉哥专用-易發TV.live.ts
+TVB翡翠,http://123.150.5.131:9000/tvb翡翠/香蕉哥专用-易發TV.live.ts
 无线 新闻,http://60.208.140.180:5544/tvb新闻/香蕉哥专用-易發TV.live.flv
 HOY 77,http://60.208.140.180:5544/HOY77/香蕉哥专用-易發TV.live.flv
 HOY 78,http://60.208.140.180:5544/hoy78/香蕉哥专用-易發TV.live.flv
 有线18,http://60.208.140.180:5544/yx18/香蕉哥专用-易發TV.live.flv
-mytv18,http://dl.yidiandian.online/11.php?id=18
+有线18备,http://60.208.140.180:5544/yx18备1/香蕉哥专用-易發TV.live.flv
+中华电信MOD,http://123.150.5.131:9000/中华电信MOD/香蕉哥专用-易發TV.live.ts
 TVB-Plus,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
 TVB-Plus,http://138.113.24.59/libof.kesx.top/live/5658kwkojtz.flv
 TVB-Plus,http://138.113.24.59/libof.kesx.top/live/22222testk.flv
 TVB-Plus,http://14.221.164.125:8086/0.ts
-TVB星河,http://117.114.153.1:8180/TV00000000000000000073@HHZT
+TVB星河,http://117.114.153.12:8180/TV00000000000000000073@HHZT
 无线 新闻,http://live.cooltv.top/tv/tvb.php?id=2
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
 凤凰中文,http://122.224.232.226:8888/udp/233.50.200.191:5140
@@ -294,6 +295,27 @@ TVB星河3,https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 功夫,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 娱乐新闻,https://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+
+翡翠,http://209.141.47.175:51080/hstv.php?id=1
+明珠,http://209.141.47.175:51080/hstv.php?id=2
+无新闻,http://209.141.47.175:51080/hstv.php?id=3
+tvbplus,http://209.141.47.175:51080/hstv.php?id=5
+mytv,http://209.141.47.175:51080/hstv.php?id=6
+mytv18,http://209.141.47.175:51080/hstv.php?id=7
+mytv2,http://209.141.47.175:51080/hstv.php?id=8
+mytv3,http://209.141.47.175:51080/hstv.php?id=9
+mytv4,http://209.141.47.175:51080/hstv.php?id=10
+娱乐新闻,http://209.141.47.175:51080/hstv.php?id=12
+mytv5,http://209.141.47.175:51080/hstv.php?id=13
+mytv6,http://209.141.47.175:51080/hstv.php?id=14
+mytv7,http://209.141.47.175:51080/hstv.php?id=15
+美亚电影,http://209.141.47.175:51080/hstv.php?id=17
+animax,http://209.141.47.175:51080/hstv.php?id=18
+mytv8,http://209.141.47.175:51080/hstv.php?id=19
+ccm,http://209.141.47.175:51080/hstv.php?id=24
+TVN,http://209.141.47.175:51080/hstv.php?id=31
+
+
 
 中视,rtmp://f13h.mine.nu/sat/tv091
 华视,rtmp://f13h.mine.nu/sat/tv111
