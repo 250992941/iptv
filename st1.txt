@@ -208,6 +208,9 @@ CNA,https://epg.pw/stream/d5be2b97ac98332e8f4085ad32baedbb565633833f7262c6939a09
 Channel 5,P2p://generationnexxxt.com:19806/68798aed16c6475180d6239acdecd888
 Channel 8,P2p://generationnexxxt.com:19806/3564da7fb0ea488cba5f0179145e0394
 
+Channel 5,P2p://generationnexxxt.com:19806/68798aed16c6475180d6239acdecd888
+Channel 8,P2p://generationnexxxt.com:19806/3564da7fb0ea488cba5f0179145e0394
+
 
 Channel 5,p3p://108.181.32.169:48125/642606cc000ea9beede41269137f162d
 Channel 5,p3p://108.181.32.169:48125/642606de000ae43dede457c221b81de1
