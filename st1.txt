@@ -193,16 +193,14 @@ CETV1,http://115.171.216.195:4000/udp/225.1.8.32:8152
 
 
 新加坡,#genre#
-
-CNA ,p2p://generationnexxxt.com:19806/52b67f21b37b4764a87c33dd46844fdb
-CNA ,p2p://generationnexxxt.com:19806/52b67f21b37b4764a87c33dd46844fdb
+CNA,http://php.jdshipin.com:8880/xsj.php?id=channelnewsasia
+CNA,p2p://generationnexxxt.com:19806/52b67f21b37b4764a87c33dd46844fdb
+CNA,p2p://generationnexxxt.com:19806/52b67f21b37b4764a87c33dd46844fdb
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA,https://epg.pw/stream/16915b442b7966be83a6f2b2761cc873be07f60f8da37202fcdfa0ff4bd097d3.ctv
 CNA,p3p://108.181.20.159:57410/64be9bb50006c1b519c62cba356951a9
 CNA,p3p://108.181.32.169:48125/6426077a00093ea7ede6b8b64d6d4c6e
 CNA,p3p://generationnexxxt.com:19806/52b67f21b37b4764a87c33dd46844fdb
-
-
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_1.m3u8
@@ -227,22 +225,11 @@ CNA,https://epg.pw/stream/ad3b3dde62843ee18770e05f263aa10dccac712c8e04a6cdd2670b
 CNA,https://epg.pw/stream/c0b29688c61e123b729913e9ce6b09f3fc93e51cd2ecbf0b4e258ee331c23daa.ctv
 CNA,https://epg.pw/stream/d5be2b97ac98332e8f4085ad32baedbb565633833f7262c6939a09ece2ad5e2f.ctv
 
-Channel 5,P2p://generationnexxxt.com:19806/68798aed16c6475180d6239acdecd888
-Channel 8,P2p://generationnexxxt.com:19806/3564da7fb0ea488cba5f0179145e0394
-
-Channel 5,P2p://generationnexxxt.com:19806/68798aed16c6475180d6239acdecd888
-Channel 8,P2p://generationnexxxt.com:19806/3564da7fb0ea488cba5f0179145e0394
-
-
-Channel 5,p3p://108.181.32.169:48125/642606cc000ea9beede41269137f162d
-Channel 5,p3p://108.181.32.169:48125/642606de000ae43dede457c221b81de1
-Channel 8,p3p://108.181.32.169:48125/642605590007b381edde676b090919b0
-Channel 8,p3p://108.181.32.169:48125/642606be0002dd54ede3d8b40d6c04dc
-Channel u,p3p://108.181.32.169:48125/642606ee00041309ede4948330973faf
-Channel u,p3p://108.181.32.169:48125/642606fa000535beede4c3ae3202280b
-Channel V,https://epg.pw/stream/38a967322df96f5d1a525b105f0a760533fa6220861bbcd7bd50a37ca2002b50.ctv
-Channel V,http://vl15191373.imwork.net:8880/udp/239.93.1.7:2194
-
+Channel 5,http://php.jdshipin.com:8880/xsj.php?id=channel-5
+Channel 8,http://php.jdshipin.com:8880/xsj.php?id=channel8
+Channel U,http://php.jdshipin.com:8880/xsj.php?id=channel-u
+Hub都会,http://php.jdshipin.com:8880/xsj.php?id=HubECity
+Hub娱家,http://php.jdshipin.com:8880/xsj.php?id=HubVVDrama
 
 
 广东频道,#genre#
