@@ -454,6 +454,10 @@ CNA,https://epg.pw/stream/ad3b3dde62843ee18770e05f263aa10dccac712c8e04a6cdd2670b
 CNA,https://epg.pw/stream/c0b29688c61e123b729913e9ce6b09f3fc93e51cd2ecbf0b4e258ee331c23daa.ctv
 CNA,https://epg.pw/stream/d5be2b97ac98332e8f4085ad32baedbb565633833f7262c6939a09ece2ad5e2f.ctv
 
+Channel 5,P2p://generationnexxxt.com:19806/017fd55e92854a829db7f5c8c3150376
+Channel 8,P2p://generationnexxxt.com:19806/057c93df99e844a18f1b9ccbfba9fb08
+
+
 Channel 5,http://php.jdshipin.com:8880/xsj.php?id=channel-5
 Channel 8,http://php.jdshipin.com:8880/xsj.php?id=channel8
 Channel U,http://php.jdshipin.com:8880/xsj.php?id=channel-u
