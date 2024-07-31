@@ -1,10 +1,11 @@
 2024巴黎奥运,#genre#
-HOY 77,http://123.150.5.131:9000/HOY77/香蕉哥专用-易發TV.live.flv
+
 CCTV5,http://42.101.3.124:8888/newlive/live/hls/6/live.m3u8
 CCTV5+,http://42.101.3.124:8888/newlive/live/hls/7/live.m3u8
 CCTV16,http://42.101.3.124:8888/newlive/live/hls/18/live.m3u8
 Astro Arena,P2p://generationnexxxt.com:19806/8320c917bc6b48cea94601d851635400
 Astro SuperSport,P2p://generationnexxxt.com:19806/6b8163e5f6c24dd3b971c0d22add38dc
+HOY 77,http://123.150.5.131:9000/HOY77/香蕉哥专用-易發TV.live.flv
 咪咕直播4K-1,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3$LR•IPV4
 咪咕直播4K-2,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3$LR•IPV4
 咪咕直播1,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3$LR•IPV4『线路1』
