@@ -348,40 +348,13 @@ CCTV17,http://42.101.3.124:8888/newlive/live/hls/19/live.m3u8
 甘肃卫视,http://42.101.3.124:8888/newlive/live/hls/43/live.m3u8
 
 新加坡,#genre#
+CNA,P2p://generationnexxxt.com:19806/061076408ecc4e4c97af6cbe74f897d9
 CNA,http://php.jdshipin.com:8880/xsj.php?id=channelnewsasia
-CNA,p2p://generationnexxxt.com:19806/52b67f21b37b4764a87c33dd46844fdb
-CNA,p2p://generationnexxxt.com:19806/52b67f21b37b4764a87c33dd46844fdb
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-CNA,https://epg.pw/stream/16915b442b7966be83a6f2b2761cc873be07f60f8da37202fcdfa0ff4bd097d3.ctv
-CNA,p3p://108.181.20.159:57410/64be9bb50006c1b519c62cba356951a9
-CNA,p3p://108.181.32.169:48125/6426077a00093ea7ede6b8b64d6d4c6e
-CNA,p3p://generationnexxxt.com:19806/52b67f21b37b4764a87c33dd46844fdb
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_1.m3u8
-CNA,https://epg.pw/stream/b5b19fbfb125a535f19fcb679715eeed348bbd5ca23839f7cc99079738f27a2e.ctv
-CNA,https://epg.pw/stream/9ca71aba2b2b57a4cd1aac8f2b707e4a4b9a72d118a159e7c8c8d4e77a7cf664.ctv
-CNA,https://epg.pw/stream/a876fd65823a9aa757409102542c79a523f52cb5541b24a4834e946c662b8d3a.ctv
-CNA,https://epg.pw/stream/ec23f9233ea821cc795913ec3a20ac79d96a7c36fc45013a8ce85e56f0be903e.ctv
-CNA,https://epg.pw/stream/16915b442b7966be83a6f2b2761cc873be07f60f8da37202fcdfa0ff4bd097d3.ctv
-CNA,https://epg.pw/stream/fd0830cad60db0e9502d6b7d8ffc2b278d26e3c506b696c91931ea49d040f5c3.ctv
-CNA,https://epg.pw/stream/713cd8e67351c482369cdc6566deabc75413dbea1a333fe08570fbdd1ac1ddb6.ctv
-CNA,https://epg.pw/stream/d6b5c8d44f4b7314ea1f6df82901b3b6e3b93cc4a4f8b6990437964d6dd48470.ctv
-CNA,https://epg.pw/stream/ba3f8da3c0d0adc9da7f9e6734899a352b08b10d79aeb7867fe390285d85b312.ctv
-CNA,https://epg.pw/stream/12a659d9afef6a69829ff6a54f20704b7382723467b06c2b4749eedb47a6757b.ctv
-CNA,https://epg.pw/stream/9b5090cf70c6472220e7ae791f2b5098ffb65cd407a25c53fbe0502e93d562af.ctv
-CNA,https://epg.pw/stream/72166d765bc97a457a3bf29c2bca45ca03d93b9da5ab84479d00135387746cf3.ctv
-CNA,https://epg.pw/stream/0e3ddbec2ba2f883ab6bb33f4dd6047b83ea7f432c19740e76cc43f2d0157cb9.ctv
-CNA,https://epg.pw/stream/c43770050ab536ec324d970ac910557c994334aef9d1d3be305db2813476a347.m3u8
-CNA,https://epg.pw/stream/b799553595f5ee00cf4175739a987b505a45aaaad1b8730b82d05f689d438242.ctv
-CNA,https://epg.pw/stream/be09605c1fb26cb7602278358fc82e45eb32d6bfbdcb5589baba9c5c53b22975.ctv
-CNA,https://epg.pw/stream/d9d5af34c3c6fde235cedb287d81bf6d655c8eacf90679d7e34526109c7dea54.ctv
-CNA,https://epg.pw/stream/ad3b3dde62843ee18770e05f263aa10dccac712c8e04a6cdd2670b0a292241bc.m3u8
-CNA,https://epg.pw/stream/c0b29688c61e123b729913e9ce6b09f3fc93e51cd2ecbf0b4e258ee331c23daa.ctv
-CNA,https://epg.pw/stream/d5be2b97ac98332e8f4085ad32baedbb565633833f7262c6939a09ece2ad5e2f.ctv
 
-Channel 5,P2p://generationnexxxt.com:19806/017fd55e92854a829db7f5c8c3150376
-Channel 8,P2p://generationnexxxt.com:19806/057c93df99e844a18f1b9ccbfba9fb08
+
+Channel 5,P2p://generationnexxxt.com:19806/e701bea921da476497494dffe17fa18f
+Channel 8,P2p://generationnexxxt.com:19806/916b5919192c43d7afa4496e9ba6090b
 
 
 Channel 5,http://php.jdshipin.com:8880/xsj.php?id=channel-5
