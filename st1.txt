@@ -63,6 +63,7 @@ CCTV2-财经,http://175.18.189.238:9902/tsfile/live/0002_1.m3u8?key=txiptv
 CCTV3-综艺,http://175.18.189.238:9902/tsfile/live/0003_1.m3u8?key=txiptv
 CCTV4-国际,http://175.18.189.238:9902/tsfile/live/0004_1.m3u8?key=txiptv
 CCTV5-体育,http://175.18.189.238:9902/tsfile/live/0005_1.m3u8?key=txiptv
+CCTV5+体育赛事,http://175.18.189.238:9902/tsfile/live/0016_1.m3u8?key=txiptv
 CCTV6-电影,http://175.18.189.238:9902/tsfile/live/0006_1.m3u8?key=txiptv
 CCTV7-军农,http://175.18.189.238:9902/tsfile/live/0007_1.m3u8?key=txiptv
 CCTV8-电视剧,http://175.18.189.238:9902/tsfile/live/0008_1.m3u8?key=txiptv
@@ -75,7 +76,7 @@ CCTV14-少儿,http://175.18.189.238:9902/tsfile/live/0014_1.m3u8?key=txiptv
 CCTV15-音乐,http://175.18.189.238:9902/tsfile/live/0015_1.m3u8?key=txiptv
 CCTV-16 奥林匹克,http://175.18.189.238:9902/tsfile/live/1061_1.m3u8?key=txiptv
 CCTV17-军农,http://175.18.189.238:9902/tsfile/live/1042_1.m3u8?key=txiptv
-CCTV5+体育赛事,http://175.18.189.238:9902/tsfile/live/0016_1.m3u8?key=txiptv
+
 吉林卫视,http://175.18.189.238:9902/tsfile/live/0116_1.m3u8?key=txiptv
 辽宁卫视,http://175.18.189.238:9902/tsfile/live/0121_1.m3u8?key=txiptv
 黑龙江卫视,http://175.18.189.238:9902/tsfile/live/0143_1.m3u8?key=txiptv
