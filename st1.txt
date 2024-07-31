@@ -3,11 +3,12 @@ HOY 77,http://123.150.5.131:9000/HOY77/香蕉哥专用-易發TV.live.flv
 CCTV5,http://42.101.3.124:8888/newlive/live/hls/6/live.m3u8
 CCTV5+,http://42.101.3.124:8888/newlive/live/hls/7/live.m3u8
 CCTV16,http://42.101.3.124:8888/newlive/live/hls/18/live.m3u8
+Astro Arena,P2p://generationnexxxt.com:19806/8320c917bc6b48cea94601d851635400
+Astro SuperSport,P2p://generationnexxxt.com:19806/6b8163e5f6c24dd3b971c0d22add38dc
 咪咕直播4K-1,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3$LR•IPV4
 咪咕直播4K-2,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3$LR•IPV4
 咪咕直播1,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3$LR•IPV4『线路1』
 咪咕直播1,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$LR•IPV6『线路2』
-
 咪咕直播2,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3$LR•IPV4『线路1』
 咪咕直播2,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$LR•IPV6『线路2』
 咪咕直播3,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3$LR•IPV4『线路1』
@@ -962,79 +963,55 @@ MOMO亲子,P2p://generationnexxxt.com:19806/2f2d9ad70ce7410aa99f2b9fa1753dd4
 
 
 HBO,#genre#
+HBO原创巨献,P2p://generationnexxxt.com:19806/39c393cd52cb4a1b9b51a542f897570e
+HBO原创巨献(B),P2p://generationnexxxt.com:19806/03579c59806d4cd9b1b3100caacadede
+HBO强档巨献,P2p://generationnexxxt.com:19806/7199aae1ab984d4fa9562d1babe7ba06
+HBO强档巨献(B),P2p://generationnexxxt.com:19806/55d1f251a1cc4043b0b2a748bcd26242
+HBO,P2p://generationnexxxt.com:19806/ccabaebf243e4385a8f39a6abf31f8bb
+HBO Family,P2p://generationnexxxt.com:19806/a478d349433544c894aef4e3dc167d64
+HBO Family(B),P2p://generationnexxxt.com:19806/e8c4b36eccf04b64aee2e9ef6b12a980
+amc电影台,P2p://generationnexxxt.com:19806/951cecbe3fd745498d5216c042600ccf
+amc电影台(B),P2p://generationnexxxt.com:19806/f3c27a21d7c94ce897675ac9dbcf304f
+影迷数位电影台,P2p://generationnexxxt.com:19806/68111c16e7bc42d3bc27791997d39a4b
+影迷数位电影台(B),P2p://generationnexxxt.com:19806/953af90f5a014c74b239928d831a1480
+壹电视电影台,P2p://generationnexxxt.com:19806/8ce448f9cbae4feb805286d5b11bcf4d
+纬来电影台,P2p://generationnexxxt.com:19806/73fb2db46b6c4ec885e3709d9b7a4983
+纬来电影台(B),P2p://generationnexxxt.com:19806/c919ad41b4a9444bbc9fdf332a13724d
+天映频道,P2p://generationnexxxt.com:19806/179f2b9026a9449198a6486cb1bc8481
+天映经典,P2p://generationnexxxt.com:19806/3496dc2c5dc1421c8c403eb9c475753e
+私人影院,P2p://generationnexxxt.com:19806/1b0075d4c3324fcea02675e856556cd0
+美亚电影台HD,P2p://generationnexxxt.com:19806/6c34f21c2c634e5db469a2971a6e4ed0
+美亚电影台(粤语),P2p://generationnexxxt.com:19806/81ea49b841454e1c901ac507f231a581
+龙祥电影,P2p://generationnexxxt.com:19806/1c325d3c69ec458c852b173bf2e397a9
+龙华电影,P2p://generationnexxxt.com:19806/40368423d7dc44baaac3fbfc644ee9bf
+靖天映画,P2p://generationnexxxt.com:19806/02870872a71c4d2296b35dd02d5a9973
+靖天电影台,P2p://generationnexxxt.com:19806/37bdc9a3001d4081a0f0885b317d7221
+好莱坞电影台,P2p://generationnexxxt.com:19806/c4810d15af404015859a5fc5059e4716
+东森洋片台,P2p://generationnexxxt.com:19806/29384d5c65734485903a3e592c9ef54f
+东森电影台,P2p://generationnexxxt.com:19806/90fe82037af64fd3bfc08879b08f3e2f
+采昌影剧台,P2p://generationnexxxt.com:19806/2f739a4b287f479bbd28c962f1eb6367
+WARNER TV,P2p://generationnexxxt.com:19806/3565510269ca47e2b0183ec1cdeca375
+WARNER TV(B),P2p://generationnexxxt.com:19806/fcf665244a5740ebb61fcba5ef2f6cee
+tvN Movies HD,P2p://generationnexxxt.com:19806/2272a99a946d4f7fac4cbf0dc62fd58b
+tvN Movies HD(B),P2p://generationnexxxt.com:19806/4cc0c1c2f4204fe0b99ca3552f63894c
+Thrill,P2p://generationnexxxt.com:19806/d20fff7aa7d64ab19d2a39da2970734a
+Smart知识台,P2p://generationnexxxt.com:19806/b90dd56d139b4ef9af62cfa2a07478f8
+HITS Movies,P2p://generationnexxxt.com:19806/0ea3b9948f824611b4a575cc5a8b4c13
+CINEMAX,P2p://generationnexxxt.com:19806/a7ef892dc3d54789b8a29e5b8b06882e
+CINEMAX(B),P2p://generationnexxxt.com:19806/d559fe6e91584b87bff1eaeb0660c6ef
+CinemaWorld,P2p://generationnexxxt.com:19806/b132ee920a4c47b284c08292e8c215f7
+CinemaWorld(B),P2p://generationnexxxt.com:19806/023f59ea320a4c6e92921cefdbaa56fa
+CHC家庭影院,P2p://generationnexxxt.com:19806/9151cec1ea824240b5ee3be1a48ae2c9
+CHC家庭影院(B),P2p://generationnexxxt.com:19806/8083b7def9404a41808df7039034cac8
+CHC高清电影,P2p://generationnexxxt.com:19806/c77364a223374152b5dfccd162cc159a
+CHC高清电影(B),P2p://generationnexxxt.com:19806/71dc6da8b03a42059dae9204b5395a89
+CHC动作电影,P2p://generationnexxxt.com:19806/ba97d7744f9b4bbaac3d6bb6b9e3798b
+CHC动作电影(B),P2p://generationnexxxt.com:19806/3dd6b903d6c84def8c6d24db55156032
+CatchPlay电影台,P2p://generationnexxxt.com:19806/6c90e32dd9b14d1f9eebb3c57a351d15
+BOO,P2p://generationnexxxt.com:19806/b98310cd5c794352bca4cffc500b0cc6
+AXN,P2p://generationnexxxt.com:19806/6c01776274094a4191d223378054782b
 
-HBO ᴴᴰ,mitv://generationnexxxt.com:19806/37f11d742fee447ab15f07db28095bd6
-HBO强档 ᴴᴰ,mitv://generationnexxxt.com:19806/563a5981b8ad4df085b59ce98bbecb95
-HBO原创 ᴴᴰ,mitv://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16e
-HBO家庭 ᴴᴰ,mitv://generationnexxxt.com:19806/8a0208ebdfa04b5eab112f0c8b01719c
-Hollywood-1 ᴴᴰ,mitv://generationnexxxt.com:19806/9862f4958472458ca2ebc718bb92a5c6
-Hollywood-2 ᴴᴰ,http://213.226.69.130/iptv/BF9GWX8VNPYM9X/209/index.m3u8
-Bollywood ᴴᴰ,http://213.226.69.130/iptv/BF9GWX8VNPYM9X/239/index.m3u8
-MACAU ᴴᴰ,mitv://generationnexxxt.com:19806/4c56fbe4e68541a9a759fa269574f98b
-HITS ᴴᴰ,mitv://generationnexxxt.com:19806/a65416c2039f4644aeef10da853fb928
-AXN ᴴᴰ,mitv://generationnexxxt.com:19806/893f7dec641a42458f47ccfbd93525ba
-CINEMAX ᴴᴰ,mitv://generationnexxxt.com:19806/fd7fd316ff5f4ae0a79d274a86483a4f
-CatchPlay ᴴᴰ,mitv://generationnexxxt.com:19806/2dccaec60f0e418d82d2d0bb09f0c4a8
-CinemaWorld ᴴᴰ,mitv://generationnexxxt.com:19806/e262f40881b2461f9a270b4d9d0b54c3
-Star Movies ᴴᴰ,mitv://generationnexxxt.com:19806/cdbfcfca93f846c7bcc30d0fd108923f
-AMC ᴴᴰ,mitv://generationnexxxt.com:19806/24ce0147e36a438eab843a3168cea3bc
-MBC 韩剧,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-KBS 国际,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
-韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
-韩国电影3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
-WB TV,http://208.115.225.174:14132
-HBO 1,http://208.115.225.174:14165
-HBO 2,http://208.115.225.174:14140
-HBO 3,http://208.115.225.174:14160
-HBO 4,http://208.115.225.174:14136
-HBO XTEME,http://208.115.225.174:14165
-HBO Mundi,http://208.115.225.174:14148
-HBO signature,http://208.115.225.174:14160
-HBO Pop,http://208.115.225.174:14156
-HBO Family,http://208.115.225.174:14144
-HBO+,http://190.60.36.103:8000/play/a00o/index.m3u8
-HBO+,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10626
-HBO,http://15.235.10.31:14378
-HBO,http://15.235.10.31:14379
-HBO,http://15.235.10.31:14380
-HBO2,http://15.235.10.31:14381
-HBO2,http://15.235.10.31:14382
-HBO2,http://15.235.10.31:14383
-HBO2,http://15.235.10.31:14384
-HBO Mundi,http://15.235.10.31:14385
-HBO Family,http://15.235.10.31:14386
-HBO Family,http://15.235.10.31:14387
-HBO Family,http://15.235.10.31:14388
-HBO Mundi,http://15.235.10.31:14392
-HBO Mundi,http://15.235.10.31:14393
-HBO Mundi,http://15.235.10.31:14394
-HBO Mundi,http://15.235.10.31:14395
-HBO Pop,http://15.235.10.31:14396
-HBO Pop,http://15.235.10.31:14397
-HBO Pop,http://15.235.10.31:14398
-HBO Pop,http://15.235.10.31:14399
-HBO Signature,http://15.235.10.31:14400
-HBO Signature,http://15.235.10.31:14401
-HBO Signature,http://15.235.10.31:14402
-HBO Signature,http://15.235.10.31:14403
-HBO Xtreme,http://15.235.10.31:14405
-HBO Xtreme,http://15.235.10.31:14406
-HBO Xtreme,http://15.235.10.31:14407
-HBO+,http://15.235.10.31:14408
-HBO+,http://15.235.10.31:14409
-HBO+,http://15.235.10.31:14410
-HBO+,http://15.235.10.31:14411
-HBO Family,https://epg.pw/stream/e630168962ef858be879b07867cb51209502977f929fcd0806d6c56beb4e5344.ctv
-hbo hits,https://epg.pw/stream/0c2a6c611af57cc68b53b046bbdfb735b0bd03db50b60683762370ff81d79897.ctv
-hbo hits,https://epg.pw/stream/f2fe6e00cabb3ca24e0d2bd16452e6dffe54480a28d304e66ffbfa8ced3b2477.ctv
-HBO WEST,https://epg.pw/stream/0d49d9be7e86d3def1afddb64b22227a5048cd31fc4f15916f7412cf402e2d0a.ctv
-HBO WEST,https://epg.pw/stream/4e80b4452792f736b3f185c8122600e968fffc3fbd8067af05e1dab6b5247c98.ctv
-HBO WEST,https://epg.pw/stream/6086733b5f7045eb5ac3f5b3d99f147fb99e715976a69d647fe21d291f0bc888.ctv
-hbo,https://epg.pw/stream/9016d08da7eb828b053bb9863bf74799f30354c7e05fdaf488abb5417315c364.ctv
-hbo,https://epg.pw/stream/ec46009a9351290a355aad9f3d054d5e1db568c2df268681f0d4c2be76c9d37e.ctv
-hbo 2,https://epg.pw/stream/b55e548ed34239f35f054d5d41b5c17d2cce1da7d596252e33e544855cdea106.ctv
-moviesphere,https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+
 
 电影频道,#genre#
 电视剧频道1,http://zby.xjqxz.top/dsdsj1/live.m3u8
