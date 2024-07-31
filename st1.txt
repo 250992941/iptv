@@ -355,10 +355,9 @@ CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index
 
 Channel 5,P2p://generationnexxxt.com:19806/e701bea921da476497494dffe17fa18f
 Channel 8,P2p://generationnexxxt.com:19806/916b5919192c43d7afa4496e9ba6090b
-
-
 Channel 5,http://php.jdshipin.com:8880/xsj.php?id=channel-5
 Channel 8,http://php.jdshipin.com:8880/xsj.php?id=channel8
+Channel U,P2p://generationnexxxt.com:19806/56d9f8daf4584cc5af47c72f471ae9d7
 Channel U,http://php.jdshipin.com:8880/xsj.php?id=channel-u
 Hub都会,http://php.jdshipin.com:8880/xsj.php?id=HubECity
 Hub娱家,http://php.jdshipin.com:8880/xsj.php?id=HubVVDrama
