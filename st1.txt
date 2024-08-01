@@ -349,7 +349,7 @@ CGTN,http://110.189.102.15:9901/tsfile/live/0140_1.m3u8?key=txiptv
 
 
 
-央卫视P2P,#genre#
+央卫频道P2P,#genre#
 CCTV1,P2p://generationnexxxt.com:19806/cff3529e8cf64e3195f997c50b5052e6
 CCTV1,P2p://generationnexxxt.com:19806/01803b4a49244bbeb8ae6a184892e94c
 CCTV2,P2p://generationnexxxt.com:19806/db4a43b89aa1499d805620313fef2e71
