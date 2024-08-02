@@ -1,13 +1,3 @@
-下列P3P和MITV,#genre#
-宝全影院,http://live.dxms.top:80/dwy/mgak.php#https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8#http://1.62.64.76/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/tlive-test-cdn.ysp.cctv.cn/ysp/2022576803.m3u8#https://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8?aliyun_uuid=b3b8e538-3470-4fa0-b6ed-2b138e5f5fef&auth_key=2145888000-0-0-fda7ddb73d3cb5ac5bddf4eeba9b665e#http://110.249.196.71/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/index.m3u8
-OK影视,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
-蜜蜂影视,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
-开心TV,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
-开心影视,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
-521影视,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
-可以使用,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
-影视仓不能用,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
-会闪退,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
 央卫P3p晴天,#genre#
 CCTV-1,p3p://108.181.32.169:18642/64260c74000c73e9edfa2a0e354364a8
 CCTV-2,p3p://108.181.32.169:18642/64260c83000b5f74edfa64604fe67a12
