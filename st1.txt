@@ -674,20 +674,15 @@ Hub娱家,http://php.jdshipin.com:8880/xsj.php?id=HubVVDrama
 
 
 极速港台,#genre#
-NOW 星影,http://123.150.5.131:9000/NOW星影/香蕉哥专用-易發TV.live.ts
-NOW 爆谷,http://123.150.5.131:9000/NOW爆谷/香蕉哥专用-易發TV.live.ts
-TVB翡翠,http://123.150.5.131:9000/tvb翡翠/香蕉哥专用-易發TV.live.ts
-无线 新闻,http://60.208.140.180:5544/tvb新闻/香蕉哥专用-易發TV.live.flv
-HOY 77,http://60.208.140.180:5544/HOY77/香蕉哥专用-易發TV.live.flv
-HOY 78,http://60.208.140.180:5544/hoy78/香蕉哥专用-易發TV.live.flv
-有线18,http://60.208.140.180:5544/yx18/香蕉哥专用-易發TV.live.flv
-有线18备,http://60.208.140.180:5544/yx18备1/香蕉哥专用-易發TV.live.flv
-中华电信MOD,http://123.150.5.131:9000/中华电信MOD/香蕉哥专用-易發TV.live.ts
+POPC,http://60.208.140.180:5544/popc-盗源可耻/易發TV专用.live.flv
+NOW 星影,http://123.150.5.131:9000/NOW星影盗源可耻/易發TV专用.live.flv
+NOW 爆谷,http://123.150.5.131:9000/NOW爆谷盗源可耻/易發TV专用.live.flv
+TVB翡翠,http://123.150.5.131:9000/tvb翡翠盗源可耻/易發TV专用.live.flv
+无线 新闻,http://123.150.5.131:9000/tvb新闻盗源可耻/易發TV专用.live.flv
+HOY 77,http://60.208.140.180:5544/hoy77-盗源可耻/易發TV专用.live.flv
+HOY 78,http://123.150.5.131:9000/hoy78盗源可耻/易發TV专用.live.flv
+有线18,http://123.150.5.131:9000/yx18盗源可耻/易發TV专用.live.flv
 TVB-Plus,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
-TVB-Plus,http://138.113.24.59/libof.kesx.top/live/5658kwkojtz.flv
-TVB-Plus,http://138.113.24.59/libof.kesx.top/live/22222testk.flv
-TVB-Plus,http://14.221.164.125:8086/0.ts
-TVB星河,http://117.114.153.12:8180/TV00000000000000000073@HHZT
 无线 新闻,http://live.cooltv.top/tv/tvb.php?id=2
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
 凤凰中文,http://122.224.232.226:8888/udp/233.50.200.191:5140
@@ -701,6 +696,7 @@ TVB星河3,https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 功夫,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 娱乐新闻,https://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+
 
 翡翠,http://209.141.47.175:51080/hstv.php?id=1
 明珠,http://209.141.47.175:51080/hstv.php?id=2
@@ -720,8 +716,6 @@ animax,http://209.141.47.175:51080/hstv.php?id=18
 mytv8,http://209.141.47.175:51080/hstv.php?id=19
 ccm,http://209.141.47.175:51080/hstv.php?id=24
 TVN,http://209.141.47.175:51080/hstv.php?id=31
-
-
 
 中视,rtmp://f13h.mine.nu/sat/tv091
 华视,rtmp://f13h.mine.nu/sat/tv111
@@ -743,6 +737,8 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
+
+
 
 
 TVBS News 新闻台,http://156.238.230.135:8888/channel/n2335fe49/index.m3u8?q=fd33f3a0246f92404921feccc6334093
