@@ -3,6 +3,7 @@
 CCTV5,P2p://generationnexxxt.com:19806/38c87f18f93c440594b45fd7de89a768
 CCTV5+,P2p://generationnexxxt.com:19806/7ed1624a62004620bfecc83fe0b70935
 CCTV16,P2p://generationnexxxt.com:19806/3bb4c4f6ec8d45db81ede1415820dba0
+HOY 77,http://60.208.140.180:5544/hoy77-盗源可耻/易發TV专用.live.flv
 Astro Arena,P2p://generationnexxxt.com:19806/8320c917bc6b48cea94601d851635400
 Astro SuperSport,P2p://generationnexxxt.com:19806/6b8163e5f6c24dd3b971c0d22add38dc
 
