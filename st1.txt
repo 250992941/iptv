@@ -1,10 +1,7 @@
 2024巴黎奥运,#genre#
+
 实时奥运金牌排行榜,https://pull-flv-f6.douyincdn.com/media/stream-692028292559012524.flv?abr_pts=-800&_session_id=037-202407291921458CA4EAA478C16011032F.1722252116805.55119
 
-CCTV5,https://iptv.doyoulinkwantyousee.top:2672/stream/channelid/1002778810?profile=pass
-CCTV5+,https://iptv.doyoulinkwantyousee.top:2672/stream/channelid/1778412076?profile=pass
-CCTV-16,https://iptv.doyoulinkwantyousee.top:2672/stream/channelid/1387079866?profile=pass
-CCTV-16 4K,https://iptv.doyoulinkwantyousee.top:2672/stream/channelid/127146888?profile=pass
 
 CCTV5,P2p://generationnexxxt.com:19806/38c87f18f93c440594b45fd7de89a768
 CCTV5+,P2p://generationnexxxt.com:19806/7ed1624a62004620bfecc83fe0b70935
