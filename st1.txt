@@ -593,23 +593,19 @@ Hub娱家,http://php.jdshipin.com:8880/xsj.php?id=HubVVDrama
 
 
 港台频道2,#genre#
-POPC,https://short-link.me/POPC
-黄金翡翠,https://short-link.me/HJFC
-mytv亚洲剧,https://short-link.me/YZJ
-广电翡翠,https://short-link.me/gdfct
-TVB翡翠4k,https://short-link.me/GDFC4K
+
 NOW 星影,http://123.150.5.131:9000/NOW星影盗源可耻/易發TV专用.live.flv
 NOW 爆谷,http://123.150.5.131:9000/NOW爆谷盗源可耻/易發TV专用.live.flv
-NOW 爆谷2,http://223.244.26.190:8082/NOW爆谷-盗源可耻/易發TV专用/hls.m3u8
+NOW 爆谷B,http://223.244.26.190:8082/NOW爆谷-盗源可耻/易發TV专用/hls.m3u8
 NOW 新闻,http://223.244.26.190:8082/now新闻-盗源可耻/易發TV专用/hls.m3u8
 TVB翡翠,http://123.150.5.131:9000/tvb翡翠盗源可耻/易發TV专用.live.flv
-TVB翡翠2,http://223.244.26.190:8082/tvb翡翠-盗源可耻/易發TV专用/hls.m3u8
-无线 新闻,http://123.150.5.131:9000/tvb新闻盗源可耻/易發TV专用.live.flv
-HOY 77,http://223.244.26.190:8082/hoy77-盗源可耻/易發TV专用/hls.m3u8
-HOY 78,http://123.150.5.131:9000/hoy78盗源可耻/易發TV专用.live.flv
+TVB翡翠B,http://223.244.26.190:8082/tvb翡翠-盗源可耻/易發TV专用/hls.m3u8
+无线新闻,http://123.150.5.131:9000/tvb新闻盗源可耻/易發TV专用.live.flv
+HOY77,http://223.244.26.190:8082/hoy77-盗源可耻/易發TV专用/hls.m3u8
+HOY78,http://123.150.5.131:9000/hoy78盗源可耻/易發TV专用.live.flv
 有线18,http://123.150.5.131:9000/yx18盗源可耻/易發TV专用.live.flv
 TVB-Plus,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
-无线 新闻,http://live.cooltv.top/tv/tvb.php?id=2
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=2
 美亚电影,http://60.208.140.180:5544/美亚电影-盗源可耻/易發TV专用.live.ts
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
 凤凰中文,http://122.224.232.226:8888/udp/233.50.200.191:5140
@@ -619,8 +615,8 @@ TVB-Plus,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb2
 香港33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 香港34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 香港35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-TVB星河3,https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-功夫,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+TVB星河,https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+TVB功夫,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 娱乐新闻,https://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 
@@ -646,37 +642,7 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 
 
-TVBS News 新闻台,http://156.238.230.135:8888/channel/n2335fe49/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-TVBS 欢乐台 ,http://156.238.230.135:8888/channel/n3130f898/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-TVBS HD,http://156.238.230.135:8888/channel/5dc12d9b/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-中天新闻 HD,http://156.238.230.135:8888/channel/n1f633079/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-中天娱乐 CTI Entertaiment,http://156.238.230.135:8888/channel/n1da327bf/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-中天综合 CTI Metro,http://156.238.230.135:8888/channel/77c104e7/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-中天亚洲台,http://156.238.230.135:8888/channel/n42b858d2/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-三立台湾 Sanli Taiwan,http://156.238.230.135:8888/channel/n12e15073/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-三立戏剧台,http://156.238.230.135:8888/channel/n3523f838/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-三立综合 Sanli Metro,http://156.238.230.135:8888/channel/44a3d5b2/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-东森新闻 ETTV News,http://156.238.230.135:8888/channel/3cdfce0d/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-CINEMAX,http://156.238.230.135:8888/channel/n3b145cc7/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-东森综合 ETTV Metro,http://156.238.230.135:8888/channel/n6f08bfc2/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-台视 TTV HD,http://156.238.230.135:8888/channel/6d67c242/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-台视新闻台,http://156.238.230.135:8888/channel/24eddba1/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-中视 HD,http://156.238.230.135:8888/channel/n2dd3468b/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-中视新闻台,http://156.238.230.135:8888/channel/n2c4390a2/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-民视 HD,http://156.238.230.135:8888/channel/77634559/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-民视新闻台 FTV News,http://156.238.230.135:8888/channel/547ad9e9/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-民视台湾台,http://156.238.230.135:8888/channel/78ab915f/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-东森财经新闻 ETTV Business,http://156.238.230.135:8888/channel/274599e7/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-寰宇新闻台,http://156.238.230.135:8888/channel/n7f5bd1c0/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-大爱1台,http://156.238.230.135:8888/channel/n57abf929/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-非凡新闻台,http://156.238.230.135:8888/channel/n3e45c9ec/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-华视 CTS HD,http://156.238.230.135:8888/channel/7d15c3f4/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-公视 CTV,http://156.238.230.135:8888/channel/n28a6f33/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-八大第一 GTV First,http://156.238.230.135:8888/channel/n706c08e9/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-八大综合 GTV Metro,http://156.238.230.135:8888/channel/n176e9848/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-八大戏剧 GTV Drama,http://156.238.230.135:8888/channel/n2dfb744e/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-东森戏剧 ETTV Drama,http://156.238.230.135:8888/channel/n1be373a0/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-东森超视,http://156.238.230.135:8888/channel/n5cc27fbf/index.m3u8?q=fd33f3a0246f92404921feccc6334093
+
 
 香港频道,#genre#
 
@@ -804,6 +770,39 @@ ViuTV6,P2p://generationnexxxt.com:19806/4117b4e170014c2fbce73011cfaf066a
 
 
 台湾频道,#genre#
+
+TVBS News 新闻台,http://156.238.230.135:8888/channel/n2335fe49/index.m3u8?q=fd33f3a0246f92404921feccc6334093
+TVBS 欢乐台 ,http://156.238.230.135:8888/channel/n3130f898/index.m3u8?q=fd33f3a0246f92404921feccc6334093
+TVBS HD,http://156.238.230.135:8888/channel/5dc12d9b/index.m3u8?q=fd33f3a0246f92404921feccc6334093
+中天新闻 HD,http://156.238.230.135:8888/channel/n1f633079/index.m3u8?q=fd33f3a0246f92404921feccc6334093
+中天娱乐 CTI Entertaiment,http://156.238.230.135:8888/channel/n1da327bf/index.m3u8?q=fd33f3a0246f92404921feccc6334093
+中天综合 CTI Metro,http://156.238.230.135:8888/channel/77c104e7/index.m3u8?q=fd33f3a0246f92404921feccc6334093
+中天亚洲台,http://156.238.230.135:8888/channel/n42b858d2/index.m3u8?q=fd33f3a0246f92404921feccc6334093
+三立台湾 Sanli Taiwan,http://156.238.230.135:8888/channel/n12e15073/index.m3u8?q=fd33f3a0246f92404921feccc6334093
+三立戏剧台,http://156.238.230.135:8888/channel/n3523f838/index.m3u8?q=fd33f3a0246f92404921feccc6334093
+三立综合 Sanli Metro,http://156.238.230.135:8888/channel/44a3d5b2/index.m3u8?q=fd33f3a0246f92404921feccc6334093
+东森新闻 ETTV News,http://156.238.230.135:8888/channel/3cdfce0d/index.m3u8?q=fd33f3a0246f92404921feccc6334093
+CINEMAX,http://156.238.230.135:8888/channel/n3b145cc7/index.m3u8?q=fd33f3a0246f92404921feccc6334093
+东森综合 ETTV Metro,http://156.238.230.135:8888/channel/n6f08bfc2/index.m3u8?q=fd33f3a0246f92404921feccc6334093
+台视 TTV HD,http://156.238.230.135:8888/channel/6d67c242/index.m3u8?q=fd33f3a0246f92404921feccc6334093
+台视新闻台,http://156.238.230.135:8888/channel/24eddba1/index.m3u8?q=fd33f3a0246f92404921feccc6334093
+中视 HD,http://156.238.230.135:8888/channel/n2dd3468b/index.m3u8?q=fd33f3a0246f92404921feccc6334093
+中视新闻台,http://156.238.230.135:8888/channel/n2c4390a2/index.m3u8?q=fd33f3a0246f92404921feccc6334093
+民视 HD,http://156.238.230.135:8888/channel/77634559/index.m3u8?q=fd33f3a0246f92404921feccc6334093
+民视新闻台 FTV News,http://156.238.230.135:8888/channel/547ad9e9/index.m3u8?q=fd33f3a0246f92404921feccc6334093
+民视台湾台,http://156.238.230.135:8888/channel/78ab915f/index.m3u8?q=fd33f3a0246f92404921feccc6334093
+东森财经新闻 ETTV Business,http://156.238.230.135:8888/channel/274599e7/index.m3u8?q=fd33f3a0246f92404921feccc6334093
+寰宇新闻台,http://156.238.230.135:8888/channel/n7f5bd1c0/index.m3u8?q=fd33f3a0246f92404921feccc6334093
+大爱1台,http://156.238.230.135:8888/channel/n57abf929/index.m3u8?q=fd33f3a0246f92404921feccc6334093
+非凡新闻台,http://156.238.230.135:8888/channel/n3e45c9ec/index.m3u8?q=fd33f3a0246f92404921feccc6334093
+华视 CTS HD,http://156.238.230.135:8888/channel/7d15c3f4/index.m3u8?q=fd33f3a0246f92404921feccc6334093
+公视 CTV,http://156.238.230.135:8888/channel/n28a6f33/index.m3u8?q=fd33f3a0246f92404921feccc6334093
+八大第一 GTV First,http://156.238.230.135:8888/channel/n706c08e9/index.m3u8?q=fd33f3a0246f92404921feccc6334093
+八大综合 GTV Metro,http://156.238.230.135:8888/channel/n176e9848/index.m3u8?q=fd33f3a0246f92404921feccc6334093
+八大戏剧 GTV Drama,http://156.238.230.135:8888/channel/n2dfb744e/index.m3u8?q=fd33f3a0246f92404921feccc6334093
+东森戏剧 ETTV Drama,http://156.238.230.135:8888/channel/n1be373a0/index.m3u8?q=fd33f3a0246f92404921feccc6334093
+东森超视,http://156.238.230.135:8888/channel/n5cc27fbf/index.m3u8?q=fd33f3a0246f92404921feccc6334093
+
 
 hokkotv,http://shuma04.chunfengyun.top:8080/live/1/hls.m3u8
 亚洲旅游,http://shuma04.chunfengyun.top:8080/live/10/hls.m3u8
