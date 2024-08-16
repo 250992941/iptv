@@ -354,7 +354,7 @@ Hub娱家,http://php.jdshipin.com:8880/xsj.php?id=HubVVDrama
 金鹰卡通,http://175.8.213.198:8081/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://124.228.160.169:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 
-港台P2p,#genre#
+港台频道,#genre#
 香港*凤凰中文台,P2p://generationnexxxt.com:19806/d897c583969747fc8a362653e01faf4f#P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
 香港*凤凰资讯台,P2p://generationnexxxt.com:19806/d207c4a98e784d1299a9aa63268f21c6#P2p://generationnexxxt.com:19806/3f7b6ed02526445e89ce536992d04ef5
 香港*凤凰香港台,P2p://generationnexxxt.com:19806/51ed8623722a469f8caa15a0e12a6761
@@ -1128,18 +1128,7 @@ CHC动作电影(B),P2p://generationnexxxt.com:19806/3dd6b903d6c84def8c6d24db5515
 CatchPlay电影台,P2p://generationnexxxt.com:19806/6c90e32dd9b14d1f9eebb3c57a351d15
 BOO,P2p://generationnexxxt.com:19806/b98310cd5c794352bca4cffc500b0cc6
 AXN,P2p://generationnexxxt.com:19806/6c01776274094a4191d223378054782b
-
-电影P3p,#genre#
-HBO原创,p3p://108.181.20.159:31079/623a6e38000091d497395ce957b27132
-HBO家庭,p3p://108.181.20.159:31079/623a706d0003edf59741fcc023dc0089
-HBO巨献,p3p://108.181.20.159:31079/623a700000069676974053b555b700d4
-HBO HD,p3p://108.181.20.159:31079/64e364fb000a0212a977a1cd342976da
-龙祥时代,p3p://108.181.20.159:31079/60115453000a238d32a1418142be77f7
-东森电影,p3p://108.181.20.159:31079/62c103a5000b5a66a4eacca77822079a
-东森洋片,p3p://108.181.20.159:31079/64c62c06000d1cf03751bf246ed813e7
-好莱坞电影,p3p://108.181.20.159:31079/62cee8b3000ea6aedb30a55616047866
-龙华电影,p3p://108.181.20.159:31079/621471310004d28d02d6aeb471c265ec
-         
+      
 
 电影频道,#genre#
 电视剧频道1,http://zby.xjqxz.top/dsdsj1/live.m3u8
