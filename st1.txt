@@ -267,40 +267,52 @@ Hub娱家,http://php.jdshipin.com:8880/xsj.php?id=HubVVDrama
 广东体育,http://125.93.74.27:9002/tsfile/live/0140_1.m3u8?key=txiptv
 广东影视,http://125.93.74.27:9002/tsfile/live/1006_1.m3u8?key=txiptv
 广东新闻,http://125.93.74.27:9002/tsfile/live/1001_1.m3u8?key=txiptv
-大湾区卫视,http://119.129.173.13:8081/hls/23/index.m3u8
-广州新闻,http://119.129.173.13:8081/hls/24/index.m3u8
-广州珠江,http://119.129.173.13:8081/hls/25/index.m3u8
-广东民生,http://119.129.173.13:8081/hls/26/index.m3u8
-广东新闻,http://119.129.173.13:8081/hls/27/index.m3u8
-嘉佳卡通,http://119.129.173.13:8081/hls/28/index.m3u8
-广东经济科教,http://119.129.173.13:8081/hls/30/index.m3u8
-广东影视,http://119.129.173.13:8081/hls/31/index.m3u8
-广东少儿,http://119.129.173.13:8081/hls/32/index.m3u8
 
-广东珠江,http://113.110.72.52:8090/hls/105/index.m3u8
-广东经济科教,http://113.110.72.52:8090/hls/129/index.m3u8
-岭南戏曲,http://113.110.72.52:8090/hls/22/index.m3u8
-广东新闻,http://113.110.72.52:8090/hls/106/index.m3u8
-广东公共,http://113.110.72.52:8090/hls/107/index.m3u8
-大湾区卫视,http://113.110.72.52:8090/hls/109/index.m3u8
-广东卫视,http://113.110.72.52:8090/hls/152/index.m3u8
-广东体育,http://113.110.72.52:8090/hls/108/index.m3u8
-广东影视,http://113.110.72.52:8090/hls/110/index.m3u8
-广东少儿,http://113.110.72.52:8090/hls/111/index.m3u8
+广东珠江,http://ddns.cyruslee.top:8888/udp/239.77.0.1:5146
+广东珠江,http://ddns.cyruslee.top:8888/udp/239.77.0.114:5146
+广东新闻,http://ddns.cyruslee.top:8888/udp/239.77.0.173:5146
+广东民生,http://ddns.cyruslee.top:8888/udp/239.77.0.225:5146
+广东体育,http://ddns.cyruslee.top:8888/udp/239.77.0.112:5146
+广东体育,http://ddns.cyruslee.top:8888/udp/239.77.0.168:5146
+经济科教,http://ddns.cyruslee.top:8888/udp/239.77.0.85:5146
+经济科教,http://ddns.cyruslee.top:8888/udp/239.77.0.167:5146
+大湾区卫视,http://ddns.cyruslee.top:8888/udp/239.77.0.215:5146
+广东影视,http://ddns.cyruslee.top:8888/udp/239.77.0.217:5146
+广东少儿,http://ddns.cyruslee.top:8888/udp/239.77.0.250:5146
+嘉佳卡通,http://ddns.cyruslee.top:8888/udp/239.77.0.179:5146
+岭南戏曲,http://ddns.cyruslee.top:8888/udp/239.77.0.16:5146
+广东房产,http://ddns.cyruslee.top:8888/udp/239.77.0.14:5146
+现代教育,http://ddns.cyruslee.top:8888/udp/239.77.0.18:5146
+广东移动,http://ddns.cyruslee.top:8888/udp/239.77.0.20:5146
+广东综艺 4K,http://ddns.cyruslee.top:8888/udp/239.77.1.236:5146
+广东综艺 4K,http://ddns.cyruslee.top:8888/udp/239.77.1.237:5146
+广东综艺 4K,http://ddns.cyruslee.top:8888/udp/239.77.0.244:5146
+广东综艺 宽色域(4k),http://ddns.cyruslee.top:8888/udp/239.77.0.246:5146
+广东综艺 4K,http://ddns.cyruslee.top:8888/udp/239.77.0.245:5146
+广东综艺 宽色域AVS2(4k) (AVS2),http://ddns.cyruslee.top:8888/udp/239.77.0.252:5146
+广州综合,http://ddns.cyruslee.top:8888/udp/239.253.43.71:5146
+广州新闻,http://ddns.cyruslee.top:8888/udp/239.253.43.72:5146
+广州影视,http://ddns.cyruslee.top:8888/udp/239.253.43.73:5146
+广州法治,http://ddns.cyruslee.top:8888/udp/239.253.43.74:5146
+广州竞赛,http://ddns.cyruslee.top:8888/udp/239.253.43.75:5146
+南国都市 4K,http://ddns.cyruslee.top:8888/udp/239.253.43.99:5146
+深圳都市频道,http://ddns.cyruslee.top:8888/udp/239.77.1.176:5146
+深圳都市频道,http://ddns.cyruslee.top:8888/udp/239.77.1.124:5146
+深圳电视剧频道,http://ddns.cyruslee.top:8888/udp/239.77.1.177:5146
+深圳电视剧频道,http://ddns.cyruslee.top:8888/udp/239.77.1.125:5146
+深圳财经生活,http://ddns.cyruslee.top:8888/udp/239.77.1.242:5146
+深圳娱乐频道,http://ddns.cyruslee.top:8888/udp/239.77.1.243:5146
+深圳体育健康,http://ddns.cyruslee.top:8888/udp/239.77.1.128:5146
+深圳体育健康,http://ddns.cyruslee.top:8888/udp/239.77.1.140:5146
+深圳少儿频道,http://ddns.cyruslee.top:8888/udp/239.77.1.244:5146
+深圳公共频道,http://ddns.cyruslee.top:8888/udp/239.77.1.178:5146
+深圳公共频道,http://ddns.cyruslee.top:8888/udp/239.77.1.126:5146
+深圳东部频道,http://ddns.cyruslee.top:8888/udp/239.77.1.224:5146
+深圳众创TV,http://ddns.cyruslee.top:8888/udp/239.77.1.247:5146
+深圳移动电视,http://ddns.cyruslee.top:8888/udp/239.77.1.175:5146
 
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=e381ab098841a0badbf7e11f24143cf7&txTime=18e6ff43701
-广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d217bd6cf85c93e3b47b96504cd2dc1c&txTime=18e6ff29019
-广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=d3dad1fd1a965ff59d3db3990b923267&txTime=18ee6e4efc1
-广州法治,https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=c180b67d43e34b97c970524c05ef3b4e&txTime=18ee6e4efc1
-广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a1ddef2fd21ffe1e040d9f21833b5677&txTime=18e7b8d5d44
-广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
-广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
-广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
-广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
-广州南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 
 番禺电视台,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
-
 广东体育,http://fhqwvfwxf.xyz:5555/udp/239.77.0.112:5146
 广东体育,http://fhqwvfwxf.xyz:5555/udp/239.77.0.168:5146
 广东体育,http://203.88.42.189:55555/udp/239.10.0.47:1025
