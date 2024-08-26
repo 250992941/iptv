@@ -642,54 +642,216 @@ Hub娱家,http://php.jdshipin.com:8880/xsj.php?id=HubVVDrama
 
 
 港台频道2,#genre#
-
-NOW 星影,http://123.150.5.131:9000/NOW星影盗源可耻/易發TV专用.live.flv
-NOW 爆谷,http://123.150.5.131:9000/NOW爆谷盗源可耻/易發TV专用.live.flv
-NOW 爆谷B,http://223.244.26.190:8082/NOW爆谷-盗源可耻/易發TV专用/hls.m3u8
-NOW 新闻,http://223.244.26.190:8082/now新闻-盗源可耻/易發TV专用/hls.m3u8
-TVB翡翠,http://123.150.5.131:9000/tvb翡翠盗源可耻/易發TV专用.live.flv
-TVB翡翠B,http://223.244.26.190:8082/tvb翡翠-盗源可耻/易發TV专用/hls.m3u8
-无线新闻,http://123.150.5.131:9000/tvb新闻盗源可耻/易發TV专用.live.flv
-HOY77,http://223.244.26.190:8082/hoy77-盗源可耻/易發TV专用/hls.m3u8
-HOY78,http://123.150.5.131:9000/hoy78盗源可耻/易發TV专用.live.flv
-有线18,http://123.150.5.131:9000/yx18盗源可耻/易發TV专用.live.flv
-TVB-Plus,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
-无线新闻,http://live.cooltv.top/tv/tvb.php?id=2
-美亚电影,http://60.208.140.180:5544/美亚电影-盗源可耻/易發TV专用.live.ts
-凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
-凤凰中文,http://122.224.232.226:8888/udp/233.50.200.191:5140
-凤凰资讯,http://122.224.232.226:8888/udp/233.50.200.192:5140
-香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
-香港32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
-香港33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-香港34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-香港35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-TVB星河,https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-TVB功夫,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-娱乐新闻,https://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
-
-中视,rtmp://f13h.mine.nu/sat/tv091
-华视,rtmp://f13h.mine.nu/sat/tv111
-台视,rtmp://f13h.mine.nu/sat/tv071
-民视,rtmp://f13h.mine.nu/sat/tv051
-纬来体育,http://mtw.so/5yqGDH
-纬来体育,rtmp://f13h.mine.nu/sat/tv721
-纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-纬来日本,rtmp://f13h.mine.nu/sat/tv771
-东森超视,rtmp://f13h.mine.nu/sat/tv331
-八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
-八大戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
-AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
-凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
-纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
-49号,http://61.221.215.25:8800/hls/49/index.m3u8
-探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
-八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
-动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
-
+新时代电视二台,https://test.zapi.us.kg/?id=fairchildtv2
+CI 罪案侦查频道,https://test.zapi.us.kg/?id=ci
+Astro AOD 311 粤语,https://test.zapi.us.kg/?id=astro-aod-311-hk
+TVB千禧经典台,https://test.zapi.us.kg/?id=tvb-classic
+Asian Food Network,https://test.zapi.us.kg/?id=asian-food-network
+TVB娱乐新闻台,https://test.zapi.us.kg/?id=TVB ylxw
+Now HBO Signature,https://test.zapi.us.kg/?id=now-hbo-signature
+Astro Vellithirai,https://test.zapi.us.kg/?id=astro-vellithirai
+TVB 华语剧台,https://test.zapi.us.kg/?id=tvb-drama
+VOA 美国之音,https://test.zapi.us.kg/?id=voa
+无线新闻台,https://test.zapi.us.kg/?id=tvb-news
+HOY国际财经,https://test.zapi.us.kg/?id=hoy-ibc
+三立都会台,https://test.zapi.us.kg/?id=settv-city
+Astro 爱奇艺,https://test.zapi.us.kg/?id=astro-iqiyi
+龙祥电影台,https://test.zapi.us.kg/?id=lstime
+NowViu剧集台,https://test.zapi.us.kg/?id=now-viu-drama
+中视菁采台,https://test.zapi.us.kg/?id=bravo
+新时代电视,https://test.zapi.us.kg/?id=fairchildtv
+好莱坞电影,https://test.zapi.us.kg/?id=hollywood-movie
+日本电视台,https://test.zapi.us.kg/?id=nippon-tv
+朝日电视台,https://test.zapi.us.kg/?id=tv-asahi
+东京电视台,https://test.zapi.us.kg/?id=tv-tokyo
+History 频道,https://test.zapi.us.kg/?id=history
+ELTA体育4台,https://test.zapi.us.kg/?id=elta-sport4
+HOY 资讯台,https://test.zapi.us.kg/?id=hoy-info
+Now 爆谷台,https://test.zapi.us.kg/?id=baogu-movies
+Now 新闻台,https://test.zapi.us.kg/?id=now-news
+EYE 旅游台,https://test.zapi.us.kg/?id=eye-travel
+ARIRANG 阿里郎频道,https://test.zapi.us.kg/?id=arirang
+CHC动作电影,https://test.zapi.us.kg/?id=chc-dzdy
+TVB 明珠台,https://test.zapi.us.kg/?id=pearl
+Now 星影台,https://test.zapi.us.kg/?id=now-baogu-superstars
+HBO Family HD,https://test.zapi.us.kg/?id=hbo-family
+TVB翡翠台,https://test.zapi.us.kg/?id=golden-jade
+凤凰资讯,https://test.zapi.us.kg/?id=phtv-info
+星空卫视,https://test.zapi.us.kg/?id=star-xing-kong
+年代新闻,https://test.zapi.us.kg/?id=era-news
+纬来戏剧,https://test.zapi.us.kg/?id=videoland-drama
+东森洋片,https://test.zapi.us.kg/?id=ebc-emovie
+天映经典,https://test.zapi.us.kg/?id=cccm
+Now HBO Hits,https://test.zapi.us.kg/?id=now-hbo-hits
+八大第一,https://test.zapi.us.kg/?id=gtv27
+中视新闻,https://test.zapi.us.kg/?id=ctv-news
+台视新闻,https://test.zapi.us.kg/?id=ttv-news
+ColorsTamil,https://test.zapi.us.kg/?id=colorstamil
+Astro ONE,https://test.zapi.us.kg/?id=astro-one
+TVB PLUS,https://test.zapi.us.kg/?id=tvb-plus
+ShowCase,https://test.zapi.us.kg/?id=showcase
+SunMusic,https://test.zapi.us.kg/?id=sunmusic
+DidikTV7,https://test.zapi.us.kg/?id=didiktv7
+TVBS HD,https://test.zapi.us.kg/?id=tvbs-hd
+TV3,https://test.zapi.us.kg/?id=tv3-my
+J2,https://test.zapi.us.kg/?id=j2
+ARIRANG 阿里郎频道,https://test.zapi.us.kg/?id=arirang
+TLC 旅游生活頻道,https://test.zapi.us.kg/?id=tlc
+Now jelli紫金国际台,https://test.zapi.us.kg/?id=now-jelli
+视纳华仁纪实频道,https://test.zapi.us.kg/?id=cnex
+半岛国际新闻台,https://test.zapi.us.kg/?id=aljazeera
+影迷数位纪实台,https://test.zapi.us.kg/?id=ymswjst
+影迷数字电影台,https://test.zapi.us.kg/?id=fans-cinema
+Lifetime 娱乐频道,https://test.zapi.us.kg/?id=lifetime
+Astro AOD 311 国语,https://test.zapi.us.kg/?id=astro-aod
+myTV SUPER直播足球1台,https://test.zapi.us.kg/?id=mytv-super-soccer1
+韩国娱乐台 KMTV,https://test.zapi.us.kg/?id=kmtv
+myTV SUPER直播足球2台,https://test.zapi.us.kg/?id=mytv-super-soccer2
+myTV SUPER直播足球3台,https://test.zapi.us.kg/?id=mytv-super-soccer3
+myTV SUPER直播足球4台,https://test.zapi.us.kg/?id=mytv-super-soccer4
+DreamWorks 梦工厂动画,https://test.zapi.us.kg/?id=dreamworks
+ELTA 生活旅游台,https://test.zapi.us.kg/?id=elta-lifetravel
+KLT-靖天国际台,https://test.zapi.us.kg/?id=jtgj
+Mediacorp Vasantham,https://test.zapi.us.kg/?id=mediacorp-vasantham
+fun 探索娱乐台,https://test.zapi.us.kg/?id=festival4k
+ELTV生活英語台,https://test.zapi.us.kg/?id=eltv
+Astro SuperSport 2,https://test.zapi.us.kg/?id=super-sports2
+探索亚洲频道,https://test.zapi.us.kg/?id=discovery-asia
+动物星球频道,https://test.zapi.us.kg/?id=animal-planet
+猪哥亮歌厅秀,https://test.zapi.us.kg/?id=zglgtx
+美国中文电视,https://test.zapi.us.kg/?id=sinovision
+Now Sports 英超1,https://test.zapi.us.kg/?id=now-sports-premier-league1
+Now Sports 619 欧洲杯,https://test.zapi.us.kg/?id=now-sports-619
+视纳华仁纪实频道,https://test.zapi.us.kg/?id=cnex
+靖洋卡通 NiceBingo,https://test.zapi.us.kg/?id=nice-bingo
+寰宇新闻台湾台,https://test.zapi.us.kg/?id=global-news-tw
+半岛国际新闻台,https://test.zapi.us.kg/?id=aljazeera
+影迷数位纪实台,https://test.zapi.us.kg/?id=ymswjst
+影迷数字电影台,https://test.zapi.us.kg/?id=fans-cinema
+Lifetime 娱乐频道,https://test.zapi.us.kg/?id=lifetime
+Astro AOD 311 国语,https://test.zapi.us.kg/?id=astro-aod
+myTV SUPER直播足球1台,https://test.zapi.us.kg/?id=mytv-super-soccer1
+韩国娱乐台 KMTV,https://test.zapi.us.kg/?id=kmtv
+myTV SUPER直播足球2台,https://test.zapi.us.kg/?id=mytv-super-soccer2
+myTV SUPER直播足球3台,https://test.zapi.us.kg/?id=mytv-super-soccer3
+myTV SUPER直播足球4台,https://test.zapi.us.kg/?id=mytv-super-soccer4
+DreamWorks 梦工厂动画,https://test.zapi.us.kg/?id=dreamworks
+ELTA 生活旅游台,https://test.zapi.us.kg/?id=elta-lifetravel
+KLT-靖天国际台,https://test.zapi.us.kg/?id=jtgj
+SBN 全球财经台,https://test.zapi.us.kg/?id=sbn
+Mediacorp Vasantham,https://test.zapi.us.kg/?id=mediacorp-vasantham
+fun 探索娱乐台,https://test.zapi.us.kg/?id=festival4k
+ELTV生活英語台,https://test.zapi.us.kg/?id=eltv
+Astro SuperSport 2,https://test.zapi.us.kg/?id=super-sports2
+尼克儿童频道,https://test.zapi.us.kg/?id=nickelodeon
+探索亚洲频道,https://test.zapi.us.kg/?id=discovery-asia
+MTV Live HD 频道,https://test.zapi.us.kg/?id=mtv
+美食星球频道,https://test.zapi.us.kg/?id=food-planet
+动物星球频道,https://test.zapi.us.kg/?id=animal-planet
+猪哥亮歌厅秀,https://test.zapi.us.kg/?id=zglgtx
+美国中文电视,https://test.zapi.us.kg/?id=sinovision
+Now Sports 英超1,https://test.zapi.us.kg/?id=now-sports-premier-league1
+Astro SuperSport 3,https://test.zapi.us.kg/?id=super-sports3
+Astro SuperSport 4,https://test.zapi.us.kg/?id=super-sports4
+ROCK Entertainment,https://test.zapi.us.kg/?id=rock-entertaiment
+Now beIN SPORTS 1,https://test.zapi.us.kg/?id=now-bein-sports1
+Now beIN SPORTS 2,https://test.zapi.us.kg/?id=now-bein-sports2
+Astro GolfChannel,https://test.zapi.us.kg/?id=astro-golfchannel
+TRACE Sport Stars,https://test.zapi.us.kg/?id=trace-sport-stars
+HBO Signature HD,https://test.zapi.us.kg/?id=hbo-signature
+Now Sports精选,https://test.zapi.us.kg/?id=now-sports-prime
+Astro SuperSport,https://test.zapi.us.kg/?id=super-sports1
+amc 最爱电影,https://test.zapi.us.kg/?id=amc-movie
+History-2 频道,https://test.zapi.us.kg/?id=history-2
+靖天日本台,https://test.zapi.us.kg/?id=jtrb
+CHC家庭影院,https://test.zapi.us.kg/?id=chc-jtyy
+民视台湾台,https://test.zapi.us.kg/?id=ftv-tw
+寰宇新闻台,https://test.zapi.us.kg/?id=global-news
+澳门莲花卫视,https://test.zapi.us.kg/?id=lotustv
+镜电视新闻台,https://test.zapi.us.kg/?id=mnews
+Astro SuperSport 3,https://test.zapi.us.kg/?id=super-sports3
+Astro SuperSport 4,https://test.zapi.us.kg/?id=super-sports4
+ROCK Entertainment,https://test.zapi.us.kg/?id=rock-entertaiment
+MyCinema Europe HD,https://test.zapi.us.kg/?id=mycinema-europe
+探索科学频道,https://test.zapi.us.kg/?id=discovery-sci
+CNN International,https://test.zapi.us.kg/?id=cnn-international
+AstroWarna Hub版,https://test.zapi.us.kg/?id=astro-warna-hub
+Now beIN SPORTS 1,https://test.zapi.us.kg/?id=now-bein-sports1
+Now beIN SPORTS 2,https://test.zapi.us.kg/?id=now-bein-sports2
+Now beIN SPORTS 3,https://test.zapi.us.kg/?id=now-bein-sports3
+Astro GolfChannel,https://test.zapi.us.kg/?id=astro-golfchannel
+TRACE Sport Stars,https://test.zapi.us.kg/?id=trace-sport-stars
+HBO Signature HD,https://test.zapi.us.kg/?id=hbo-signature
+Now Sports精选,https://test.zapi.us.kg/?id=now-sports-prime
+Astro SuperSport,https://test.zapi.us.kg/?id=super-sports1
+amc 最爱电影,https://test.zapi.us.kg/?id=amc-movie
+History-2 频道,https://test.zapi.us.kg/?id=history-2
+滚动力 rollor,https://test.zapi.us.kg/?id=rollor
+纬来电影台,https://test.zapi.us.kg/?id=videoland-movie
+东森综合台,https://test.zapi.us.kg/?id=ebc-ettv
+靖天日本台,https://test.zapi.us.kg/?id=jtrb
+CHC家庭影院,https://test.zapi.us.kg/?id=chc-jtyy
+CHC高清电影,https://test.zapi.us.kg/?id=chc-gqdy
+民视台湾台,https://test.zapi.us.kg/?id=ftv-tw
+寰宇新闻台,https://test.zapi.us.kg/?id=global-news
+东森幼幼台,https://test.zapi.us.kg/?id=ebc-yoyo
+大湾区卫视,https://test.zapi.us.kg/?id=gdwqws
+小尼克频道,https://test.zapi.us.kg/?id=nick-jr
+TVB亚洲剧台,https://test.zapi.us.kg/?id=tvb-asia-drama
+公视台语台,https://test.zapi.us.kg/?id=pts-ty
+靖天戏剧台,https://test.zapi.us.kg/?id=jtxjt
+DW 德国之声,https://test.zapi.us.kg/?id=dw
+TVB粤语片台,https://test.zapi.us.kg/?id=tvb-yueyu
+港台电视 31,https://test.zapi.us.kg/?id=rthk31
+港台电视 32,https://test.zapi.us.kg/?id=rthk32
+Now Sports Plus,https://test.zapi.us.kg/?id=now-sports-plus
+民视第一台,https://test.zapi.us.kg/?id=ftv-one
+靖天综合台,https://test.zapi.us.kg/?id=jtzh
+靖天资讯台,https://test.zapi.us.kg/?id=jtzx
+龙华戏剧台,https://test.zapi.us.kg/?id=ltv-xiju
+龙华日韩台,https://test.zapi.us.kg/?id=ltv-rihan
+八大精彩台,https://test.zapi.us.kg/?id=gtv-jct
+采昌影剧台,https://test.zapi.us.kg/?id=caichang
+ChannelNewsAsia,https://test.zapi.us.kg/?id=channelnewsasia
+GINX Esports TV,https://test.zapi.us.kg/?id=ginx-esports
+智林体育台,https://test.zapi.us.kg/?id=zl-sports
+达文西频道,https://test.zapi.us.kg/?id=da-vinci
+亚洲旅游台,https://test.zapi.us.kg/?id=asia-travel
+LUXE TV Channel,https://test.zapi.us.kg/?id=luxe-tv
+富士电视台,https://test.zapi.us.kg/?id=fujitv
+TVBS 新闻台,https://test.zapi.us.kg/?id=tvbs-news
+Now HBO Family,https://test.zapi.us.kg/?id=now-hbof-amily
+Now Sports 641,https://test.zapi.us.kg/?id=now-sports641
+TVBS 精采台,https://test.zapi.us.kg/?id=tvbs-jc
+TVBS 欢乐台,https://test.zapi.us.kg/?id=tvbs-huanle
+Astro Vaanavil,https://test.zapi.us.kg/?id=astro-vaanavil
+Astro TUTOR TV,https://test.zapi.us.kg/?id=astro-tutor-tv
+博斯运动-1,https://test.zapi.us.kg/?id=sportcast1
+博斯运动-2,https://test.zapi.us.kg/?id=sportcast2
+博斯高球-1,https://test.zapi.us.kg/?id=sportcast-golf1
+博斯高球-2,https://test.zapi.us.kg/?id=sportcast-golf2
+时尚运动 X,https://test.zapi.us.kg/?id=ssydx
+BBC World News,https://test.zapi.us.kg/?id=bbc-world-news
+MOMO 亲子台,https://test.zapi.us.kg/?id=momo-kids
+PremierSports,https://test.zapi.us.kg/?id=premiersports
+TVBS台剧台,https://test.zapi.us.kg/?id=tvbs-taiju
+TVBS综艺台,https://test.zapi.us.kg/?id=tvbs-zongyi
+Now 直播台,https://test.zapi.us.kg/?id=now-direct
+Now 财经台,https://test.zapi.us.kg/?id=now-finance
+Hub Premier 1,https://test.zapi.us.kg/?id=hubpremier1
+Astro Arena 2,https://test.zapi.us.kg/?id=astro-arena2
+beIN Sports 2,https://test.zapi.us.kg/?id=beinsports2
+beIN Sports 3,https://test.zapi.us.kg/?id=beinsports3
+NHK Education,https://test.zapi.us.kg/?id=nhk-e
+民视综艺,https://test.zapi.us.kg/?id=ftv-reality
+澳视澳门,https://test.zapi.us.kg/?id=tdm
+纬来综合,https://test.zapi.us.kg/?id=videoland
+东森电影,https://test.zapi.us.kg/?id=ebc-movie
+中天综合,https://test.zapi.us.kg/?id=ctitv36
+博斯魅力,https://test.zapi.us.kg/?id=sportcast-meili
+澳门资讯,https://test.zapi.us.kg/?id=tdm-information
+Now Sports 6,https://test.zapi.us.kg/?id=now-sports-6
+纬来日本,https://test.zapi.us.kg/?id=videoland-japan
 
 
 
