@@ -857,49 +857,6 @@ Now Sports 6,https://test.zapi.us.kg/?id=now-sports-6
 
 香港频道,#genre#
 
-凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
-凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
-凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
-翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-TVB翡翠,http://60.208.140.180:5544/tvb翡翠2/香蕉哥专用-易發TV.live.flv
-香港32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
-香港33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-香港34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-香港35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-TVB星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-TVB功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-TVB娱乐新闻,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-TVB亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-华丽翡翠,http://php.jdshipin.com:8880/smt.php?id=Wlt
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-TVB Plus,http://php.jdshipin.com:8880/smt.php?id=j2_twn
-明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-凤凰香港,http://php.jdshipin.com:8880/smt.php?id=tvbcaijing_twn
-VIUTV6,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
-VIUTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
-TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
-TVB星河,http://php.jdshipin.com:8880/smt.php?id=tvbxinhe_twn
-RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
-RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
-凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-星空卫视,http://117.114.153.1:8180/TV00000000000000000071@HHZT
-凤凰资讯,http://117.114.153.1:8180/TV00000000000000000068@HHZT
-凤凰中文,http://117.114.153.1:8180/TV00000000000000000069@HHZT
-凤凰电影,http://117.114.153.1:8180/TV00000000000000000072@HHZT
-探索频道,http://117.114.153.1:8180/TV00000000000000000077@HHZT
-国家地理,http://117.114.153.1:8180/TV00000000000000000112@HHZT
-STAR电影台,http://117.114.153.1:8180/TV00000000000000000075@HHZT
-STAR体育台,http://117.114.153.1:8180/TV00000000000000000070@HHZT
-AXN,http://117.114.153.1:8180/TV00000000000000000076@HHZT
-CINEMAX,http://117.114.153.1:8180/TV00000000000000000109@HHZT
-HBO,http://117.114.153.1:8180/TV00000000000000000074@HHZT
-星空卫视,http://117.114.153.1:8180/TV00000000000000000071@HHZT
-V音乐台,http://117.114.153.1:8180/TV00000000000000000067@HHZT
-澳亚卫视,http://117.114.153.1:8180/TV00000000000000000082@HHZT
-CHC影迷电影,http://117.114.153.1:8180/TV00000000000000000094@HHZT
-
 新闻台,mitv://147.135.39.171:9906/658f93d500090264f39e82304f2d4370
 新闻台,mitv://147.135.39.171:9906/659ad8a20009ddcb1fa351025e007328
 新闻台,mitv://generationnexxxt.com:19806/85a50e6db781406bacc41b10a75a70d5
@@ -981,83 +938,6 @@ ViuTV6,P2p://generationnexxxt.com:19806/4117b4e170014c2fbce73011cfaf066a
 
 
 台湾频道,#genre#
-
-TVBS News 新闻台,http://156.238.230.135:8888/channel/n2335fe49/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-TVBS 欢乐台 ,http://156.238.230.135:8888/channel/n3130f898/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-TVBS HD,http://156.238.230.135:8888/channel/5dc12d9b/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-中天新闻 HD,http://156.238.230.135:8888/channel/n1f633079/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-中天娱乐 CTI Entertaiment,http://156.238.230.135:8888/channel/n1da327bf/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-中天综合 CTI Metro,http://156.238.230.135:8888/channel/77c104e7/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-中天亚洲台,http://156.238.230.135:8888/channel/n42b858d2/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-三立台湾 Sanli Taiwan,http://156.238.230.135:8888/channel/n12e15073/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-三立戏剧台,http://156.238.230.135:8888/channel/n3523f838/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-三立综合 Sanli Metro,http://156.238.230.135:8888/channel/44a3d5b2/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-东森新闻 ETTV News,http://156.238.230.135:8888/channel/3cdfce0d/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-CINEMAX,http://156.238.230.135:8888/channel/n3b145cc7/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-东森综合 ETTV Metro,http://156.238.230.135:8888/channel/n6f08bfc2/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-台视 TTV HD,http://156.238.230.135:8888/channel/6d67c242/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-台视新闻台,http://156.238.230.135:8888/channel/24eddba1/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-中视 HD,http://156.238.230.135:8888/channel/n2dd3468b/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-中视新闻台,http://156.238.230.135:8888/channel/n2c4390a2/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-民视 HD,http://156.238.230.135:8888/channel/77634559/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-民视新闻台 FTV News,http://156.238.230.135:8888/channel/547ad9e9/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-民视台湾台,http://156.238.230.135:8888/channel/78ab915f/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-东森财经新闻 ETTV Business,http://156.238.230.135:8888/channel/274599e7/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-寰宇新闻台,http://156.238.230.135:8888/channel/n7f5bd1c0/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-大爱1台,http://156.238.230.135:8888/channel/n57abf929/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-非凡新闻台,http://156.238.230.135:8888/channel/n3e45c9ec/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-华视 CTS HD,http://156.238.230.135:8888/channel/7d15c3f4/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-公视 CTV,http://156.238.230.135:8888/channel/n28a6f33/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-八大第一 GTV First,http://156.238.230.135:8888/channel/n706c08e9/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-八大综合 GTV Metro,http://156.238.230.135:8888/channel/n176e9848/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-八大戏剧 GTV Drama,http://156.238.230.135:8888/channel/n2dfb744e/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-东森戏剧 ETTV Drama,http://156.238.230.135:8888/channel/n1be373a0/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-东森超视,http://156.238.230.135:8888/channel/n5cc27fbf/index.m3u8?q=fd33f3a0246f92404921feccc6334093
-
-
-hokkotv,http://shuma04.chunfengyun.top:8080/live/1/hls.m3u8
-亚洲旅游,http://shuma04.chunfengyun.top:8080/live/10/hls.m3u8
-人间卫视,http://shuma04.chunfengyun.top:8080/live/101/hls.m3u8
-动漫,http://shuma04.chunfengyun.top:8080/live/105/hls.m3u8
-动漫2,http://shuma04.chunfengyun.top:8080/live/106/hls.m3u8
-哆啦A梦,http://shuma04.chunfengyun.top:8080/live/107/hls.m3u8
-电视剧,http://shuma04.chunfengyun.top:8080/live/108/hls.m3u8
-电视剧2,http://shuma04.chunfengyun.top:8080/live/109/hls.m3u8
-电影,http://shuma04.chunfengyun.top:8080/live/11/hls.m3u8
-超人,http://shuma04.chunfengyun.top:8080/live/110/hls.m3u8
-电视剧3,http://shuma04.chunfengyun.top:8080/live/111/hls.m3u8
-nickelodeon,http://shuma04.chunfengyun.top:8080/live/12/hls.m3u8
-titv,http://shuma04.chunfengyun.top:8080/live/2/hls.m3u8
-nickjr,http://shuma04.chunfengyun.top:8080/live/22/hls.m3u8
-居家,http://shuma04.chunfengyun.top:8080/live/26/hls.m3u8
-momo,http://shuma04.chunfengyun.top:8080/live/3/hls.m3u8
-东森新闻,http://shuma04.chunfengyun.top:8080/live/20/hls.m3u8
-镜新闻,http://shuma04.chunfengyun.top:8080/live/62/hls.m3u8
-三立综合,http://shuma04.chunfengyun.top:8080/live/31/hls.m3u8
-民视第一,http://shuma04.chunfengyun.top:8080/live/4/hls.m3u8
-民视台湾,http://shuma04.chunfengyun.top:8080/live/5/hls.m3u8
-民视,http://shuma04.chunfengyun.top:8080/live/6/hls.m3u8
-龙华戏剧,http://shuma04.chunfengyun.top:8080/live/41/hls.m3u8
-龙华日韩,http://shuma04.chunfengyun.top:8080/live/42/hls.m3u8
-龙华电影,http://shuma04.chunfengyun.top:8080/live/19/hls.m3u8
-中视经典,http://shuma04.chunfengyun.top:8080/live/47/hls.m3u8
-中视青采,http://shuma04.chunfengyun.top:8080/live/48/hls.m3u8
-中视,http://shuma04.chunfengyun.top:8080/live/7/hls.m3u8
-新唐人,http://shuma04.chunfengyun.top:8080/live/51/hls.m3u8
-寰宇台湾,http://shuma04.chunfengyun.top:8080/live/63/hls.m3u8
-寰宇财经,http://shuma04.chunfengyun.top:8080/live/65/hls.m3u8
-全球财经,http://shuma04.chunfengyun.top:8080/live/64/hls.m3u8
-智林体育,http://shuma04.chunfengyun.top:8080/live/77/hls.m3u8
-华视,http://shuma04.chunfengyun.top:8080/live/8/hls.m3u8
-旅游,http://shuma04.chunfengyun.top:8080/live/82/hls.m3u8
-elta生活旅游,http://shuma04.chunfengyun.top:8080/live/85/hls.m3u8
-公视戏剧,http://shuma04.chunfengyun.top:8080/live/87/hls.m3u8
-综艺,http://shuma04.chunfengyun.top:8080/live/67/hls.m3u8
-影剧,http://shuma04.chunfengyun.top:8080/live/88/hls.m3u8
-影迷,http://shuma04.chunfengyun.top:8080/live/92/hls.m3u8
-
-
-
 
 中视新闻,mitv://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4
 华视新闻,mitv://generationnexxxt.com:19806/ebe8db2daafa47768f37bcae17bfe299
