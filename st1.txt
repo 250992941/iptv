@@ -1332,3 +1332,6 @@ PDD影院,http://allinone.netsite.cc/douyu/1274132
 科学黑历史,http://allinone.netsite.cc/douyu/9317739
 周杰伦MV,http://allinone.netsite.cc/douyu/7537296
 音乐MV,http://allinone.netsite.cc/douyu/3870925
+
+央卫备用,#genre#
+https://raw.gitmirror.com/outcastveron/iTV/main/iptv_list.txt
