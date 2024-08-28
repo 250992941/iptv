@@ -959,23 +959,41 @@ Hub娱家,http://php.jdshipin.com:8880/xsj.php?id=HubVVDrama
 凤凰资讯,http://test.zapi.us.kg/?id=phtv-info
 凤凰资讯,https://test.zapi.us.kg/?id=phtv-info
 凤凰资讯,http://122.224.232.226:8888/udp/233.50.200.192:5140
-
-
-
-无线新闻台,http://test.zapi.us.kg/?id=tvb-news
-无线新闻台,https://test.zapi.us.kg/?id=tvb-news
-无线新闻台,http://zsntlqj.xicp.net:8896/bysid/83.m3u8
+TVB无线新闻台,http://test.zapi.us.kg/?id=tvb-news
+TVB无线新闻台,https://test.zapi.us.kg/?id=tvb-news
+TVB无线新闻台,http://zsntlqj.xicp.net:8896/bysid/83.m3u8
+TVB星河台,http://test.zapi.us.kg/?id=tvb-xinghe
+TVB亚洲剧台,http://test.zapi.us.kg/?id=tvb-asia-drama
+TVB亚洲旅游台,https://test.zapi.us.kg/?id=asia-travel
+TVB粤语片台,http://test.zapi.us.kg/?id=tvb-yueyu
+TVB plus,http://test.zapi.us.kg/?id=j2
+TVB plus,http://test.zapi.us.kg/?id=tvb-plus
+TVB plus,http://zsntlqj.xicp.net:8896/bysid/82.m3u8
+TVB plus,https://test.zapi.us.kg/?id=tvb-plus
+TVB 华语剧台,https://test.zapi.us.kg/?id=tvb-drama
+TVB 明珠台,https://test.zapi.us.kg/?id=pearl
+TVB翡翠台,https://test.zapi.us.kg/?id=golden-jade
+TVB粤语片台,https://test.zapi.us.kg/?id=tvb-yueyu
+TVB明珠台,http://test.zapi.us.kg/?id=pearl
+TVB明珠台,http://zsntlqj.xicp.net:8896/bysid/2.m3u8
+TVB翡翠台,http://zsntlqj.xicp.net:8895/bysid/1.m3u8
+TVB华语剧台,http://test.zapi.us.kg/?id=tvb-drama
+黄金翡翠台,http://test.zapi.us.kg/?id=golden-jade
+黄金华剧台,http://test.zapi.us.kg/?id=golden-chinese-drama
 香港33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 香港34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 香港35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
 香港卫视,http://test.zapi.us.kg/?id=hks
+HKC 18台,http://test.zapi.us.kg/?id=hkc18
+HOY TV,http://test.zapi.us.kg/?id=hoytv
+HOY 资讯台,http://test.zapi.us.kg/?id=hoy-info
+HOY 资讯台,https://test.zapi.us.kg/?id=hoy-info
+ViuTV,http://test.zapi.us.kg/?id=viutv
+ViuTV,http://zsntlqj.xicp.net:8895/bysid/99.m3u8
+ViuTV6,http://test.zapi.us.kg/?id=viutv6
+ViuTVsix,http://zsntlqj.xicp.net:8895/bysid/96.m3u8
 新时代电视,https://test.zapi.us.kg/?id=fairchildtv
-星河台,http://test.zapi.us.kg/?id=tvb-xinghe
-亚洲剧台,http://test.zapi.us.kg/?id=tvb-asia-drama
-亚洲旅游台,https://test.zapi.us.kg/?id=asia-travel
-粤语片台,http://test.zapi.us.kg/?id=tvb-yueyu
-49号,http://61.221.215.25:8800/hls/49/index.m3u8
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 ARIRANG 阿里郎频道,https://test.zapi.us.kg/?id=arirang
 Astro AOD 311 国语,https://test.zapi.us.kg/?id=astro-aod
@@ -998,10 +1016,6 @@ ELTV生活英語台,https://test.zapi.us.kg/?id=eltv
 EYE 旅游台,https://test.zapi.us.kg/?id=eye-travel
 HBO Family HD,https://test.zapi.us.kg/?id=hbo-family
 History 频道,https://test.zapi.us.kg/?id=history
-HKC 18台,http://test.zapi.us.kg/?id=hkc18
-HOY TV,http://test.zapi.us.kg/?id=hoytv
-HOY 资讯台,http://test.zapi.us.kg/?id=hoy-info
-HOY 资讯台,https://test.zapi.us.kg/?id=hoy-info
 Hub Premier 1,https://test.zapi.us.kg/?id=hubpremier1
 J2,https://test.zapi.us.kg/?id=j2
 Mediacorp Vasantham,https://test.zapi.us.kg/?id=mediacorp-vasantham
@@ -1052,12 +1066,6 @@ SunMusic,https://test.zapi.us.kg/?id=sunmusic
 Thrill,http://test.zapi.us.kg/?id=thrill
 TLC 旅游生活頻道,https://test.zapi.us.kg/?id=tlc
 TV3,https://test.zapi.us.kg/?id=tv3-my
-TVB plus,http://test.zapi.us.kg/?id=j2
-TVB plus,http://test.zapi.us.kg/?id=tvb-plus
-TVB Plus,http://zsntlqj.xicp.net:8896/bysid/82.m3u8
-TVB PLUS,https://test.zapi.us.kg/?id=tvb-plus
-TVB 华语剧台,https://test.zapi.us.kg/?id=tvb-drama
-TVB 明珠台,https://test.zapi.us.kg/?id=pearl
 TVBS Asia,http://test.zapi.us.kg/?id=tvbs-asia
 TVBS HD,https://test.zapi.us.kg/?id=tvbs-hd
 TVBS 欢乐台,http://test.zapi.us.kg/?id=tvbs-huanle
@@ -1068,12 +1076,6 @@ TVBS台剧台,https://test.zapi.us.kg/?id=tvbs-taiju
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS综艺台,http://test.zapi.us.kg/?id=tvbs-zongyi
 TVBS综艺台,https://test.zapi.us.kg/?id=tvbs-zongyi
-TVB翡翠台,https://test.zapi.us.kg/?id=golden-jade
-TVB粤语片台,https://test.zapi.us.kg/?id=tvb-yueyu
-ViuTV,http://test.zapi.us.kg/?id=viutv
-ViuTV,http://zsntlqj.xicp.net:8895/bysid/99.m3u8
-ViuTV6,http://test.zapi.us.kg/?id=viutv6
-ViuTVsix,http://zsntlqj.xicp.net:8895/bysid/96.m3u8
 澳门资讯,http://test.zapi.us.kg/?id=tdm-information
 澳门资讯,https://test.zapi.us.kg/?id=tdm-information
 澳视澳门,http://test.zapi.us.kg/?id=tdm
@@ -1103,16 +1105,12 @@ ViuTVsix,http://zsntlqj.xicp.net:8895/bysid/96.m3u8
 东森洋片,https://test.zapi.us.kg/?id=ebc-emovie
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 非凡新闻,http://test.zapi.us.kg/?id=unique-business-news
-翡翠台,http://zsntlqj.xicp.net:8895/bysid/1.m3u8
 富士电视台,https://test.zapi.us.kg/?id=fujitv
 港台电视 31,http://test.zapi.us.kg/?id=rthk31
 港台电视 31,https://test.zapi.us.kg/?id=rthk31
 港台电视 32,http://test.zapi.us.kg/?id=rthk32
 港台电视 32,https://test.zapi.us.kg/?id=rthk32
 好莱坞电影,https://test.zapi.us.kg/?id=hollywood-movie
-华语剧台,http://test.zapi.us.kg/?id=tvb-drama
-黄金翡翠台,http://test.zapi.us.kg/?id=golden-jade
-黄金华剧台,http://test.zapi.us.kg/?id=golden-chinese-drama
 龙祥电影台,http://test.zapi.us.kg/?id=lstime
 龙祥电影台,https://test.zapi.us.kg/?id=lstime
 民视,http://test.zapi.us.kg/?id=ftv
@@ -1122,8 +1120,6 @@ ViuTVsix,http://zsntlqj.xicp.net:8895/bysid/96.m3u8
 民视影剧,http://test.zapi.us.kg/?id=ftv-drama
 民视综艺,http://test.zapi.us.kg/?id=ftv-reality
 民视综艺,https://test.zapi.us.kg/?id=ftv-reality
-明珠台,http://test.zapi.us.kg/?id=pearl
-明珠台,http://zsntlqj.xicp.net:8896/bysid/2.m3u8
 年代新闻,http://test.zapi.us.kg/?id=era-news
 年代新闻,https://test.zapi.us.kg/?id=era-news
 千禧经典台,http://test.zapi.us.kg/?id=tvb-classic
