@@ -357,7 +357,7 @@ Hub都会,http://php.jdshipin.com:8880/xsj.php?id=HubECity
 Hub娱家,http://php.jdshipin.com:8880/xsj.php?id=HubVVDrama
 
 
-广东频道,#genre#
+广东频道1,#genre#
 
 广东体育,http://14.19.179.158:4022/udp/239.77.0.112:5146$源1-电信
 广东珠江,http://14.19.179.158:4022/udp/239.77.0.1:5146$源1-电信
@@ -368,7 +368,7 @@ Hub娱家,http://php.jdshipin.com:8880/xsj.php?id=HubVVDrama
 广东少儿,http://14.19.179.158:4022/udp/239.77.0.250:5146$源1-电信
 嘉佳卡通,http://14.19.179.158:4022/udp/239.77.0.179:5146$源1-电信
 
-
+广东频道2,#genre#
 
 
 广东体育,http://61.140.234.92:4000/rtp/239.77.0.6:5146
@@ -414,11 +414,22 @@ Hub娱家,http://php.jdshipin.com:8880/xsj.php?id=HubVVDrama
 
 番禺电视台,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 
+湖南频道1,#genre#
+湖南经视(高清),http://home.itvro.com:381/stream/channelid/1903218051?profile=pass
+湖南都市(高清),http://home.itvro.com:381/stream/channelid/1204581479?profile=pass
+湖南电视剧(高清),http://home.itvro.com:381/stream/channelid/720558513?profile=pass
+湖南电影(高清),http://home.itvro.com:381/stream/channelid/1643583930?profile=pass
+湖南爱晚(高清),http://home.itvro.com:381/stream/channelid/1717998403?profile=pass
+湖南娱乐(高清),http://home.itvro.com:381/stream/channelid/1318162874?profile=pass
+金鹰纪实(高清),http://home.itvro.com:381/stream/channelid/1789319764?profile=pass
+金鹰卡通(高清),http://home.itvro.com:381/stream/channelid/1264862751?profile=pass
+快乐购(高清),http://home.itvro.com:381/stream/channelid/1811752910?profile=pass
+湖南导视老年,http://home.itvro.com:381/stream/channelid/1362925538?profile=pass
+湖南教育(高清),http://home.itvro.com:381/stream/channelid/634185094?profile=pass
+湖南导视(高清),http://home.itvro.com:381/stream/channelid/463932330?profile=pass
 
 
-
-
-湖南频道,#genre#
+湖南频道2,#genre#
 湖南经视高清,http://118.254.201.45:8888/rtp/239.76.253.103:9000
 湖南经视高清,http://118.254.201.45:8888/rtp/239.76.251.86:9000
 湖南都市高清,http://118.254.201.45:8888/rtp/239.76.253.104:9000
