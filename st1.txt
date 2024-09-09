@@ -379,25 +379,31 @@ Hub娱家,http://php.jdshipin.com:8880/xsj.php?id=HubVVDrama
 
 湖南频道1,#genre#
 
-金鹰纪实,http://dsm.ikun.hn.cn:9981/stream/channelid/1983775382?profile=pass
-湖南经视,http://dsm.ikun.hn.cn:9981/stream/channelid/1420823875?profile=pass
-湖南娱乐,http://dsm.ikun.hn.cn:9981/stream/channelid/1307884414?profile=pass
-湖南国际,http://dsm.ikun.hn.cn:9981/stream/channelid/1802769943?profile=pass
-湖南教育,http://dsm.ikun.hn.cn:9981/stream/channelid/1009097522?profile=pass
-湖南电影,http://dsm.ikun.hn.cn:9981/stream/channelid/642965036?profile=pass
+湖南经视,http://124.230.56.32:55555/udp/239.76.245.116:1234$源1-电信lived
+湖南都市,http://124.230.56.32:55555/udp/239.76.245.117:1234$源1-电信
+湖南电视剧,http://124.230.56.32:55555/udp/239.76.245.118:1234$源1-电信
+金鹰卡通,http://124.230.56.32:55555/udp/239.76.245.120:1234$源1-电信
+湖南电影,http://124.230.56.32:55555/udp/239.76.245.119:1234$源1-电信
+金鹰纪实,http://124.230.56.32:55555/udp/239.76.245.122:1234$源1-电信
+湖南娱乐,http://124.230.56.32:55555/udp/239.76.245.121:1234$源1-电信
+湖南国际,http://124.230.56.32:55555/udp/239.76.245.124:1234$源1-电信
+湖南公共,http://124.230.56.32:55555/udp/239.76.245.123:1234$源1-电信
+快乐垂钓,http://124.230.56.32:55555/udp/239.76.245.127:1234$源1-电信
+湖南教育,http://124.230.56.32:55555/udp/239.76.245.233:1234$源1-电信
+茶频道,http://124.230.56.32:55555/udp/239.76.245.239:1234$源1-电信
 
-湖南经视(高清),http://home.itvro.com:381/stream/channelid/1903218051?profile=pass
-湖南都市(高清),http://home.itvro.com:381/stream/channelid/1204581479?profile=pass
-湖南电视剧(高清),http://home.itvro.com:381/stream/channelid/720558513?profile=pass
-湖南电影(高清),http://home.itvro.com:381/stream/channelid/1643583930?profile=pass
-湖南爱晚(高清),http://home.itvro.com:381/stream/channelid/1717998403?profile=pass
-湖南娱乐(高清),http://home.itvro.com:381/stream/channelid/1318162874?profile=pass
-金鹰纪实(高清),http://home.itvro.com:381/stream/channelid/1789319764?profile=pass
-金鹰卡通(高清),http://home.itvro.com:381/stream/channelid/1264862751?profile=pass
-快乐购(高清),http://home.itvro.com:381/stream/channelid/1811752910?profile=pass
-湖南导视老年,http://home.itvro.com:381/stream/channelid/1362925538?profile=pass
-湖南教育(高清),http://home.itvro.com:381/stream/channelid/634185094?profile=pass
-湖南导视(高清),http://home.itvro.com:381/stream/channelid/463932330?profile=pass
+芒果乐搜,http://124.230.56.32:55555/udp/239.76.245.200:1234$源1-电信
+芒果乐活,http://124.230.56.32:55555/udp/239.76.245.201:1234$源1-电信
+IPTV高清院线,http://124.230.56.32:55555/udp/239.76.245.217:1234$源1-电信
+芒果乐淘,http://124.230.56.32:55555/udp/239.76.245.215:1234$源1-电信
+IPTV抗战剧场,http://124.230.56.32:55555/udp/239.76.245.218:1234$源1-电信
+IPTV古装剧场,http://124.230.56.32:55555/udp/239.76.245.219:1234$源1-电信
+IPTV经典剧场,http://124.230.56.32:55555/udp/239.76.245.221:1234$源1-电信
+IPTV家庭剧场,http://124.230.56.32:55555/udp/239.76.245.220:1234$源1-电信
+IPTV戏曲频道,http://124.230.56.32:55555/udp/239.76.253.40:9000$源1-电信
+IPTV故事频道,http://124.230.56.32:55555/udp/239.76.253.41:9000$源1-电信
+IPTV健康之路,http://124.230.56.32:55555/udp/239.76.253.42:9000$源1-电信
+IPTV高清院线,http://124.230.56.32:55555/udp/239.76.252.217:9000$源1-电信
 
 
 湖南频道2,#genre#
