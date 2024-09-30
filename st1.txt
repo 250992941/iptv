@@ -1553,9 +1553,16 @@ EYE TV戏剧台,P2p://generationnexxxt.com:19806/bffdd8e7cb994d9e80a697632cf0a40
 电视剧频道4,http://zby.xjqxz.top/dzzypd/live.m3u8
 电视剧频道5,http://zby.xjqxz.top/dzzypd2/live.m3u8
 
-
+CHC动作电影,http://119.98.71.95:8888/udp/239.69.1.242:11094
+CHC动作电影,http://ik6.iptv8.net:8888/udp/225.1.4.208:1261
 CHC动作电影,http://annaxi.lw-home.com:11111/udp/239.253.254.153:8000
+CHC高清电影,http://ik6.iptv8.net:8888/udp/225.1.4.207:1260
+CHC高清电影,http://120.234.49.38:7000/udp/239.21.0.119:3820
+CHC高清电影,http://ddns.cyruslee.top:8888/udp/239.77.0.27:5146
 CHC高清电影,http://113.57.109.48:1111/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC家庭影院,http://ik6.iptv8.net:8888/udp/225.1.4.209:1262
+CHC家庭影院,http://xuys.top:8888/udp/225.1.1.220:5002
+CHC家庭影院,http://xuys.top:8888/udp/225.1.1.213:5002
 CHC家庭影院,http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
 CHC影迷电影,http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
 CHC影迷电影,http://xuys.top:8888/udp/225.1.1.214:5002
