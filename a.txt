@@ -576,5 +576,5 @@ CCTV4 美洲,http://222.141.132.159:888/rtp/225.1.5.32:1343?$河南联通
 吉林卫视,http://180.115.133.252:1024/rtp/239.49.8.113:8000
 辽宁卫视,http://180.115.133.252:1024/rtp/239.49.8.48:8000
 
-全国,#genre#
-上海,https://gyssi.link/live/%E4%B8%8A%E6%B5%B7.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ
+上海,#genre#
+https://gyssi.link/live/%E4%B8%8A%E6%B5%B7.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ
