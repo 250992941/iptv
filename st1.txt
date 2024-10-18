@@ -3008,8 +3008,32 @@ TVBS综艺台,https://test.zapi.us.kg/?id=tvbs-zongyi
 中天娱乐,http://test.zapi.us.kg/?id=cti-yule
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 
-
-
+AKTV,#genre#
+鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+翡翠台(泰国),http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
+翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+无线新闻台(北美),http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
+明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+三立綜合台,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+三立財經新聞,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
+中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 
 
 
