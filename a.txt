@@ -1,22 +1,22 @@
 央卫频道1,#genre#
-CCTV-1综合：https://m.miguvideo.com/m/liveDetail/?channelid=100300010010001&contId=608807420&sharefrom=miguvideoapp&pwId=c33163d9958e4bf985a8c49fc4266220
-CCTV-2财经：https://m.miguvideo.com/m/liveDetail/?channelid=100300010010001&contId=631780532&pwId=9312b3607d10417db693a1f10022eb78
-CCTV-3综艺：http://aikanvod.miguvideo.com/video/p/live.jsp?user=guest&channel=265667206
-CCTV-4中文国际：http://aikanvod.miguvideo.com/video/p/live.jsp?user=guest&channel=265667639
-CCTV-5体育：http://aikanvod.miguvideo.com/video/p/live.jsp?user=guest&channel=265667565
-CCTV-5+体育赛事：http://aikanvod.miguvideo.com/video/p/live.jsp?user=guest&channel=265106763
-CCTV-6电影：http://aikanvod.miguvideo.com/video/p/live.jsp?user=guest&channel=265667482
-CCTV-7国防军事：http://aikanvod.miguvideo.com/video/p/live.jsp?user=guest&channel=265667268
-CCTV-8电视剧：http://aikanvod.miguvideo.com/video/p/live.jsp?user=guest&channel=265667466
-CCTV-9纪录：http://aikanvod.miguvideo.com/video/p/live.jsp?user=guest&channel=265667202
-CCTV-10科教：http://aikanvod.miguvideo.com/video/p/live.jsp?user=guest&channel=265667631
-CCTV-11戏曲：http://aikanvod.miguvideo.com/video/p/live.jsp?user=guest&channel=265667429
-CCTV-12社会与法：http://aikanvod.miguvideo.com/video/p/live.jsp?user=guest&channel=265667607
-CCTV-13新闻：http://aikanvod.miguvideo.com/video/p/live.jsp?user=guest&channel=265667474
-CCTV-14少儿：http://aikanvod.miguvideo.com/video/p/live.jsp?user=guest&channel=265667325
-CCTV-15音乐：http://aikanvod.miguvideo.com/video/p/live.jsp?user=guest&channel=265667535
-CCTV-16奥林匹克：http://aikanvod.miguvideo.com/video/p/live.jsp?user=guest&channel=915650564
-CCTV-17农业农村：http://aikanvod.miguvideo.com/video/p/live.jsp?user=guest&channel=265667526
+CCTV-1综合,https://m.miguvideo.com/m/liveDetail/?channelid=100300010010001&contId=608807420&sharefrom=miguvideoapp&pwId=c33163d9958e4bf985a8c49fc4266220
+CCTV-2财经,https://m.miguvideo.com/m/liveDetail/?channelid=100300010010001&contId=631780532&pwId=9312b3607d10417db693a1f10022eb78
+CCTV-3综艺,http://aikanvod.miguvideo.com/video/p/live.jsp?user=guest&channel=265667206
+CCTV-4中文国际,http://aikanvod.miguvideo.com/video/p/live.jsp?user=guest&channel=265667639
+CCTV-5体育,http://aikanvod.miguvideo.com/video/p/live.jsp?user=guest&channel=265667565
+CCTV-5+体育赛事,http://aikanvod.miguvideo.com/video/p/live.jsp?user=guest&channel=265106763
+CCTV-6电影,http://aikanvod.miguvideo.com/video/p/live.jsp?user=guest&channel=265667482
+CCTV-7国防军事,http://aikanvod.miguvideo.com/video/p/live.jsp?user=guest&channel=265667268
+CCTV-8电视剧,http://aikanvod.miguvideo.com/video/p/live.jsp?user=guest&channel=265667466
+CCTV-9纪录,http://aikanvod.miguvideo.com/video/p/live.jsp?user=guest&channel=265667202
+CCTV-10科教,http://aikanvod.miguvideo.com/video/p/live.jsp?user=guest&channel=265667631
+CCTV-11戏曲,http://aikanvod.miguvideo.com/video/p/live.jsp?user=guest&channel=265667429
+CCTV-12社会与法,http://aikanvod.miguvideo.com/video/p/live.jsp?user=guest&channel=265667607
+CCTV-13新闻,http://aikanvod.miguvideo.com/video/p/live.jsp?user=guest&channel=265667474
+CCTV-14少儿,http://aikanvod.miguvideo.com/video/p/live.jsp?user=guest&channel=265667325
+CCTV-15音乐,http://aikanvod.miguvideo.com/video/p/live.jsp?user=guest&channel=265667535
+CCTV-16奥林匹克,http://aikanvod.miguvideo.com/video/p/live.jsp?user=guest&channel=915650564
+CCTV-17农业农村,http://aikanvod.miguvideo.com/video/p/live.jsp?user=guest&channel=265667526
 
 
 
