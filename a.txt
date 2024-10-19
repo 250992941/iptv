@@ -1,174 +1,40 @@
 央卫频道1,#genre#
-CCTV1  综合,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265001
-CCTV2  财经,http://www.72444165.xyz:5005/itv/ystenlive/1000000001000023315
-CCTV3  综艺,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265003
-CCTV4  国际,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265004
-CCTV5  体育,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265005
-CCTV5+ 赛事,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265016
-CCTV6  电影,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265006
-CCTV7  军事,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265007
-CCTV8  剧场,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265008
-CCTV9  记录,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265009
-CCTV10 科教,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265010
-CCTV11 戏曲,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265011
-CCTV12 法律,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265012
-CCTV13 新闻,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031108
-CCTV14 少儿,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265013
-CCTV15 音乐,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265014
-CCTV16 奥运,http://www.72444165.xyz:5005/itv/ystenlive/1000000006000233002
-CCTV17 农业,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265015
-北京卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265027
-东方卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265018
-江苏卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265030
-浙江卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265031
-湖南卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265024
-广东卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265034
-深圳卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265028
-天津卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265026
-安徽卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265025
-东南卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265033
-河北卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000006000040016
-河南卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031119
-湖北卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265023
-广西卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031118
-四川卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000004000006119
-重庆卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265017
-贵州卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000004000025843
-海南卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000004000006211
-山东卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265019
-江西卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265032
-辽宁卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265022
-青海卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000002000013359
-云南卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031120
-甘肃卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031121
-吉林卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031117
-黑龙江视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265029
+北京卫视HD,http://beijinglive.online.domybox.com:91/live/BJWShd-8M/live.m3u8
+东方卫视HD,http://beijinglive.online.domybox.com:91/live/DFWShd-8M/live.m3u8
+天津卫视HD,http://beijinglive.online.domybox.com:91/live/TJWShd-8M/live.m3u8
+重庆卫视HD,http://beijinglive.online.domybox.com:91/live/CQWShd-8M/live.m3u8
+黑龙江卫视HD,http://beijinglive.online.domybox.com:91/live/HLJWShd-8M/live.m3u8
+吉林卫视HD,http://beijinglive.online.domybox.com:91/live/JLWShd-8M/live.m3u8
+辽宁卫视HD,http://beijinglive.online.domybox.com:91/live/LNWShd-8M/live.m3u8
+内蒙卫视,http://beijinglive.online.domybox.com:91/live/NMGWS-1500k/live.m3u8
+宁夏卫视,http://beijinglive.online.domybox.com:91/live/NXWS-1500k/live.m3u8
+甘肃卫视,http://beijinglive.online.domybox.com:91/live/GSWS-1500k/live.m3u8
+青海卫视,http://beijinglive.online.domybox.com:91/live/QHWS-1500k/live.m3u8
+陕西卫视,http://beijinglive.online.domybox.com:91/live/SXWS3-1500k/live.m3u8
+河北卫视HD,http://beijinglive.online.domybox.com:91/live/HeBWShd-8M/live.m3u8
+山西卫视,http://beijinglive.online.domybox.com:91/live/SXWS1-1500k/live.m3u8
+山东卫视HD,http://beijinglive.online.domybox.com:91/live/SDWShd-8M/live.m3u8
+安徽卫视HD,http://beijinglive.online.domybox.com:91/live/AHWShd-8M/live.m3u8
+河南卫视HD,http://beijinglive.online.domybox.com:91/live/HuNWShd-8M/live.m3u8
+湖北卫视HD,http://beijinglive.online.domybox.com:91/live/HuBWShd-8M/live.m3u8
+湖南卫视HD,http://beijinglive.online.domybox.com:91/live/HuNWShd-8M/live.m3u8
+江西卫视HD,http://beijinglive.online.domybox.com:91/live/JXWShd-8M/live.m3u8
+江苏卫视HD,http://beijinglive.online.domybox.com:91/live/JSWShd-8M/live.m3u8
+浙江卫视HD,http://beijinglive.online.domybox.com:91/live/ZJWShd-8M/live.m3u8
+东南卫视HD,http://beijinglive.online.domybox.com:91/live/DNWShd-8M/live.m3u8
+厦门卫视,http://beijinglive.online.domybox.com:91/live/XMWS-1500k/live.m3u8
+广东卫视HD,http://beijinglive.online.domybox.com:91/live/GDWShd-8M/live.m3u8
+深圳卫视HD,http://beijinglive.online.domybox.com:91/live/SZWShd-8M/live.m3u8
+广西卫视,http://beijinglive.online.domybox.com:91/live/GXWS-1500k/live.m3u8
+云南卫视,http://beijinglive.online.domybox.com:91/live/YNWS-1500k/live.m3u8
+贵州卫视HD,http://beijinglive.online.domybox.com:91/live/GZWShd-8M/live.m3u8
+四川卫视,http://beijinglive.online.domybox.com:91/live/SCWS-1500k/live.m3u8
+新疆卫视,http://beijinglive.online.domybox.com:91/live/XJWS-1500k/live.m3u8
+兵团卫视,http://beijinglive.online.domybox.com:91/live/BTWS-1500k/live.m3u8
+西藏卫视,http://beijinglive.online.domybox.com:91/live/XZWS-1500k/live.m3u8
+海南卫视,http://beijinglive.online.domybox.com:91/live/LYWS-1500k/live.m3u8
+三沙卫视,http://beijinglive.online.domybox.com:91/live/SSWS-1500k/live.m3u8
 
-央卫频道2,#genre#
-CCTV1  综合,http://ygbh666.cn/aikmigu.php?id=cctv1
-CCTV2  财经,http://ygbh666.cn/aikmigu.php?id=cctv2
-CCTV3  综艺,http://ygbh666.cn/aikmigu.php?id=cctv3
-CCTV4  国际,http://ygbh666.cn/aikmigu.php?id=cctv4
-CCTV4  欧洲,http://ygbh666.cn/aikmigu.php?id=cctv4o
-CCTV4  美洲,http://ygbh666.cn/aikmigu.php?id=cctv4a
-CCTV5  体育,http://ygbh666.cn/aikmigu.php?id=cctv5
-CCTV5+ 赛事,http://ygbh666.cn/aikmigu.php?id=cctv5p
-CCTV6  电影,http://ygbh666.cn/aikmigu.php?id=cctv6
-CCTV7  军事,http://ygbh666.cn/aikmigu.php?id=cctv7
-CCTV8  剧场,http://ygbh666.cn/aikmigu.php?id=cctv8
-CCTV9  记录,http://ygbh666.cn/aikmigu.php?id=cctv9
-CCTV10 科教,http://ygbh666.cn/aikmigu.php?id=cctv10
-CCTV11 戏曲,http://ygbh666.cn/aikmigu.php?id=cctv11
-CCTV12 法律,http://ygbh666.cn/aikmigu.php?id=cctv12
-CCTV13 新闻,http://ygbh666.cn/aikmigu.php?id=cctv13
-CCTV14 少儿,http://ygbh666.cn/aikmigu.php?id=cctv14
-CCTV15 音乐,http://ygbh666.cn/aikmigu.php?id=cctv15
-CCTV17 农业,http://ygbh666.cn/aikmigu.php?id=cctv17
-湖南卫视,http://ygbh666.cn/aikmigu.php?id=hunws
-发现之旅,http://ygbh666.cn/aikmigu.php?id=fxzl
-老故事,http://ygbh666.cn/aikmigu.php?id=lgs
-中学生,http://ygbh666.cn/aikmigu.php?id=zxs
-深圳卫视,http://wouu.net:9977/udp/239.93.0.182:5140
-湖南卫视,http://ygbh666.cn/aikmigu.php?id=hunws
-江苏卫视,http://ygbh666.cn/aikmigu.php?id=jsws
-东方卫视,http://ygbh666.cn/aikmigu.php?id=dfws
-重庆卫视,http://ygbh666.cn/aikmigu.php?id=cqws
-湖北卫视,http://ygbh666.cn/aikmigu.php?id=hubws
-江西卫视,http://ygbh666.cn/aikmigu.php?id=jxws
-湖北卫视,http://ygbh666.cn/aikmigu.php?id=hubws
-广东卫视,http://ygbh666.cn/aikmigu.php?id=gdws
-大湾区卫视,http://ygbh666.cn/aikmigu.php?id=dwqws
-海南卫视,http://ygbh666.cn/aikmigu.php?id=hinws
-四川卫视,http://ygbh666.cn/aikmigu.php?id=scws
-内蒙古卫视,http://ygbh666.cn/aikmigu.php?id=nmws
-宁夏卫视,http://ygbh666.cn/aikmigu.php?id=nxws
-甘肃卫视,http://ygbh666.cn/aikmigu.php?id=gsws
-山东卫视,http://ygbh666.cn/aikmigu.php?id=sdws
-辽宁卫视,http://ygbh666.cn/aikmigu.php?id=lnws
-吉林卫视,http://ygbh666.cn/aikmigu.php?id=jlws
-青海卫视,http://ygbh666.cn/aikmigu.php?id=qhws
-陕西卫视,http://ygbh666.cn/aikmigu.php?id=sxws
-新疆卫视,http://ygbh666.cn/aikmigu.php?id=xjws
-西藏卫视,http://ygbh666.cn/aikmigu.php?id=xzws
-
-
-
-
-
-央卫频道3,#genre#
-CCTV1  综合,http://rihou.cc:567/aikan.php?id=cctv1
-CCTV2  财经,http://rihou.cc:567/aikan.php?id=cctv2
-CCTV3  综艺,http://rihou.cc:567/aikan.php?id=cctv3
-CCTV4  国际,http://rihou.cc:567/aikan.php?id=cctv4
-CCTV5  体育,http://rihou.cc:567/aikan.php?id=cctv5
-CCTV5+ 赛事,http://rihou.cc:567/aikan.php?id=cctv5p
-CCTV6  电影,http://rihou.cc:567/aikan.php?id=cctv6
-CCTV7  军事,http://rihou.cc:567/aikan.php?id=cctv7
-CCTV8  剧场,http://rihou.cc:567/aikan.php?id=cctv8
-CCTV9  记录,http://rihou.cc:567/aikan.php?id=cctv9
-CCTV10 科教,http://rihou.cc:567/aikan.php?id=cctv10
-CCTV11 戏曲,http://rihou.cc:567/aikan.php?id=cctv11
-CCTV12 法律,http://rihou.cc:567/aikan.php?id=cctv12
-CCTV13 新闻,http://rihou.cc:567/aikan.php?id=cctv13
-CCTV14 少儿,http://rihou.cc:567/aikan.php?id=cctv14
-CCTV15 音乐,http://rihou.cc:567/aikan.php?id=cctv15
-CCTV17 农业,http://rihou.cc:567/aikan.php?id=cctv17
-东方卫视,http://rihou.cc:567/aikan.php?id=dfws
-吉林卫视,http://rihou.cc:567/aikan.php?id=jlws
-青海卫视,http://rihou.cc:567/aikan.php?id=qhws
-陕西卫视,http://rihou.cc:567/aikan.php?id=sxws
-湖北卫视,http://rihou.cc:567/aikan.php?id=hubws
-江西卫视,http://rihou.cc:567/aikan.php?id=jxws
-江苏卫视,http://rihou.cc:567/aikan.php?id=jsws
-广东卫视,http://rihou.cc:567/aikan.php?id=gdws
-湾区卫视,http://rihou.cc:567/aikan.php?id=dwqws
-海南卫视,http://rihou.cc:567/aikan.php?id=hinws
-
-央卫频道4,#genre#
-CCTV 13 新闻,http://wouu.net:9977/udp/239.93.0.66:5140
-CCTV1  综合,http://wouu.net:9977/udp/239.93.0.184:5140
-CCTV2  财经,http://wouu.net:9977/udp/239.93.1.23:6000
-CCTV3  综艺,http://wouu.net:9977/udp/239.93.1.11:2223
-CCTV4  国际,http://wouu.net:9977/udp/239.93.1.105:5140
-CCTV5  体育,http://wouu.net:9977/udp/239.93.42.37:5140
-CCTV5+ 赛事,http://wouu.net:9977/udp/239.93.1.36:8004
-CCTV6  电影,http://wouu.net:9977/udp/239.93.1.13:2226
-CCTV7  军事,http://wouu.net:9977/udp/239.93.1.67:5140
-CCTV8  剧场,http://wouu.net:9977/udp/239.93.42.39:5140
-CCTV9  记录,http://wouu.net:9977/udp/239.93.1.24:5140
-CCTV10 科教,http://wouu.net:9977/udp/239.93.1.28:5140
-CCTV11 戏曲,http://wouu.net:9977/udp/239.93.0.102:5140
-CCTV12 法律,http://wouu.net:9977/udp/239.93.1.30:8124
-CCTV13 新闻,http://wouu.net:9977/udp/239.93.0.66:5140
-CCTV14 少儿,http://wouu.net:9977/udp/239.93.1.29:6000
-CCTV15 音乐,http://wouu.net:9977/udp/239.93.0.103:5140
-CCTV17 农业,http://wouu.net:9977/udp/239.93.0.92:5140
-CGTN 英语,http://wouu.net:9977/udp/239.93.0.104:5140
-深圳卫视,http://wouu.net:9977/udp/239.93.0.182:5140
-湖南卫视,http://wouu.net:9977/udp/239.93.0.88:5140
-江苏卫视,http://wouu.net:9977/udp/239.93.0.89:5140
-浙江卫视,http://wouu.net:9977/udp/239.93.0.124:5140
-东方卫视,http://wouu.net:9977/udp/239.93.0.123:5140
-北京卫视,http://wouu.net:9977/udp/239.93.0.180:5140
-重庆卫视,http://wouu.net:9977/udp/239.93.1.107:5140
-天津卫视,http://wouu.net:9977/udp/239.93.0.167:5140
-安徽卫视,http://wouu.net:9977/udp/239.93.1.106:5140
-湖北卫视,http://wouu.net:9977/udp/239.93.0.250:5140
-江西卫视,http://wouu.net:9977/udp/239.93.0.134:5140
-东南卫视,http://wouu.net:9977/udp/239.93.0.42:5140
-广东卫视,http://wouu.net:9977/udp/239.93.0.181:5140
-广西卫视,http://wouu.net:9977/udp/239.93.42.46:5140
-山东卫视,http://wouu.net:9977/udp/239.93.0.168:5140
-云南卫视,http://wouu.net:9977/udp/239.93.1.174:5140
-贵州卫视,http://wouu.net:9977/udp/239.93.0.131:5140
-四川卫视,http://wouu.net:9977/udp/239.93.1.188:5140
-康巴卫视,http://wouu.net:9977/udp/239.93.0.41:5140
-河南卫视,http://wouu.net:9977/udp/239.93.42.45:5140
-河北卫视,http://wouu.net:9977/udp/239.93.0.132:5140
-辽宁卫视,http://wouu.net:9977/udp/239.93.1.108:5140
-吉林卫视,http://wouu.net:9977/udp/239.93.0.248:5140
-甘肃卫视,http://wouu.net:9977/udp/239.93.0.81:5140
-黑龙江卫视,http://wouu.net:9977/udp/239.93.0.183:5140
 
 咪咕频道,#genre#
 CCTV1,http://rihou.cc:567/dd.php?id=cctv1
