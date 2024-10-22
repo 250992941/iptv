@@ -259,8 +259,9 @@ CCTV-17,P2p://generationnexxxt.com:19806/d155cd0903944373a0c13e8164532313
 
 
 新闻频道JW,#genre#
-凤凰中文台,P2p://generationnexxxt.com:19806/d897c583969747fc8a362653e01faf4f#P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f	
 凤凰中文台,http://119.125.134.236:9902/tsfile/live/1019_1.m3u8
+
+凤凰中文台,P2p://generationnexxxt.com:19806/d897c583969747fc8a362653e01faf4f#P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f	
 凤凰资讯台,P2p://generationnexxxt.com:19806/d207c4a98e784d1299a9aa63268f21c6#P2p://generationnexxxt.com:19806/3f7b6ed02526445e89ce536992d04ef5
 凤凰香港台,P2p://generationnexxxt.com:19806/51ed8623722a469f8caa15a0e12a6761
 无线新闻台,P2p://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
