@@ -1,4 +1,57 @@
 央卫频道1,#genre#
+CCTV1-综合高清,http://116.11.140.122:18181/tsfile/live/faacts/0001_1.m3u8
+CCTV2-财经高清,http://116.11.140.122:18181/tsfile/live/0002_1.m3u8
+CCTV3-综艺高清,http://116.11.140.122:18181/tsfile/live/faacts/0003_1.m3u8
+CCTV4-国际高清,http://116.11.140.122:18181/tsfile/live/0004_1.m3u8
+CCTV5-体育高清,http://116.11.140.122:18181/tsfile/live/0005_1.m3u8
+CCTV5+体育赛事高清,http://116.11.140.122:18181/tsfile/live/faacts/1046_1.m3u8
+CCTV6-电影,http://116.11.140.122:18181/tsfile/live/0006_1.m3u8
+CCTV7-国防军事高清,http://116.11.140.122:18181/tsfile/live/0007_1.m3u8
+CCTV8-电视剧高清,http://116.11.140.122:18181/tsfile/live/faacts/0008_1.m3u8
+CCTV9-纪录高清,http://116.11.140.122:18181/tsfile/live/0009_1.m3u8
+CCTV10-科教高清,http://116.11.140.122:18181/tsfile/live/0010_1.m3u8
+CCTV11-戏曲高清,http://116.11.140.122:18181/tsfile/live/0011_1.m3u8
+CCTV-12社会与法 高清,http://116.11.140.122:18181/tsfile/live/0012_1.m3u8
+CCTV13-新闻,http://116.11.140.122:18181/tsfile/live/0013_1.m3u8
+CCTV14-少儿 高清,http://116.11.140.122:18181/tsfile/live/0014_1.m3u8
+CCTV15-音乐高清,http://116.11.140.122:18181/tsfile/live/0015_1.m3u8
+CCTV-16-奥运匹克 高清,http://116.11.140.122:18181/tsfile/live/1051_1.m3u8
+CCTV-17农业农村 高清,http://116.11.140.122:18181/tsfile/live/0019_1.m3u8
+广西卫视 高清,http://116.11.140.122:18181/tsfile/live/faacts/0113_1.m3u8
+浙江卫视高清,http://116.11.140.122:18181/tsfile/live/faacts/0127_1.m3u8
+湖南卫视高清,http://116.11.140.122:18181/tsfile/live/faacts/1047_1.m3u8
+广东卫视高清,http://116.11.140.122:18181/tsfile/live/faacts/0125_1.m3u8
+深圳卫视高清,http://116.11.140.122:18181/tsfile/live/faacts/0126_1.m3u8
+江苏卫视高清,http://116.11.140.122:18181/tsfile/live/faacts/1042_1.m3u8
+山东卫视高清,http://116.11.140.122:18181/tsfile/live/1043_1.m3u8
+北京卫视高清,http://116.11.140.122:18181/tsfile/live/faacts/1044_1.m3u8
+东方卫视高清,http://116.11.140.122:18181/tsfile/live/faacts/1045_1.m3u8
+辽宁卫视 高清,http://116.11.140.122:18181/tsfile/live/1092_1.m3u8
+甘肃卫视 高清,http://116.11.140.122:18181/tsfile/live/1093_1.m3u8
+江西卫视 高清,http://116.11.140.122:18181/tsfile/live/1094_1.m3u8
+四川卫视 高清,http://116.11.140.122:18181/tsfile/live/1095_1.m3u8
+安徽卫视 高清,http://116.11.140.122:18181/tsfile/live/1096_1.m3u8
+黑龙江卫视高清,http://116.11.140.122:18181/tsfile/live/faacts/1041_1.m3u8
+云南卫视,http://116.11.140.122:18181/tsfile/live/0119_1.m3u8
+重庆卫视,http://116.11.140.122:18181/tsfile/live/0142_1.m3u8
+三沙卫视,http://116.11.140.122:18181/tsfile/live/1010_1.m3u8
+河北卫视,http://116.11.140.122:18181/tsfile/live/0132_1.m3u8
+兵团卫视,http://116.11.140.122:18181/tsfile/live/1011_1.m3u8
+宁夏卫视,http://116.11.140.122:18181/tsfile/live/1012_1.m3u8
+山西卫视,http://116.11.140.122:18181/tsfile/live/0118_1.m3u8
+陕西卫视,http://116.11.140.122:18181/tsfile/live/0136_1.m3u8
+河南卫视,http://116.11.140.122:18181/tsfile/live/0139_1.m3u8
+湖北卫视,http://116.11.140.122:18181/tsfile/live/0132_2.m3u8
+天津卫视,http://116.11.140.122:18181/tsfile/live/0135_1.m3u8
+新疆卫视,http://116.11.140.122:18181/tsfile/live/0110_1.m3u8
+西藏卫视,http://116.11.140.122:18181/tsfile/live/0111_1.m3u8
+吉林卫视,http://116.11.140.122:18181/tsfile/live/0116_1.m3u8
+青海卫视,http://116.11.140.122:18181/tsfile/live/0140_1.m3u8
+内蒙古卫视,http://116.11.140.122:18181/tsfile/live/1003_1.m3u8
+
+
+央卫频道2,#genre#
+
 CCTV1,http://tvbox6.icu/tv/migu.php?id=cctv1$咪咕1
 CCTV2,http://tvbox6.icu/tv/migu.php?id=cctv2
 CCTV3,http://tvbox6.icu/tv/migu.php?id=cctv3
@@ -92,59 +145,6 @@ CHC动作电影,http://rihou.cc:567/dd.php?id=chcdz
 四川卫视,http://rihou.cc:567/dd.php?id=scws
 新疆卫视,http://rihou.cc:567/dd.php?id=xjws
 西藏卫视,http://rihou.cc:567/dd.php?id=xzws
-
-
-央卫频道2,#genre#
-CCTV1-综合高清,http://116.11.140.122:18181/tsfile/live/faacts/0001_1.m3u8
-CCTV2-财经高清,http://116.11.140.122:18181/tsfile/live/0002_1.m3u8
-CCTV3-综艺高清,http://116.11.140.122:18181/tsfile/live/faacts/0003_1.m3u8
-CCTV4-国际高清,http://116.11.140.122:18181/tsfile/live/0004_1.m3u8
-CCTV5-体育高清,http://116.11.140.122:18181/tsfile/live/0005_1.m3u8
-CCTV5+体育赛事高清,http://116.11.140.122:18181/tsfile/live/faacts/1046_1.m3u8
-CCTV6-电影,http://116.11.140.122:18181/tsfile/live/0006_1.m3u8
-CCTV7-国防军事高清,http://116.11.140.122:18181/tsfile/live/0007_1.m3u8
-CCTV8-电视剧高清,http://116.11.140.122:18181/tsfile/live/faacts/0008_1.m3u8
-CCTV9-纪录高清,http://116.11.140.122:18181/tsfile/live/0009_1.m3u8
-CCTV10-科教高清,http://116.11.140.122:18181/tsfile/live/0010_1.m3u8
-CCTV11-戏曲高清,http://116.11.140.122:18181/tsfile/live/0011_1.m3u8
-CCTV-12社会与法 高清,http://116.11.140.122:18181/tsfile/live/0012_1.m3u8
-CCTV13-新闻,http://116.11.140.122:18181/tsfile/live/0013_1.m3u8
-CCTV14-少儿 高清,http://116.11.140.122:18181/tsfile/live/0014_1.m3u8
-CCTV15-音乐高清,http://116.11.140.122:18181/tsfile/live/0015_1.m3u8
-CCTV-16-奥运匹克 高清,http://116.11.140.122:18181/tsfile/live/1051_1.m3u8
-CCTV-17农业农村 高清,http://116.11.140.122:18181/tsfile/live/0019_1.m3u8
-广西卫视 高清,http://116.11.140.122:18181/tsfile/live/faacts/0113_1.m3u8
-浙江卫视高清,http://116.11.140.122:18181/tsfile/live/faacts/0127_1.m3u8
-湖南卫视高清,http://116.11.140.122:18181/tsfile/live/faacts/1047_1.m3u8
-广东卫视高清,http://116.11.140.122:18181/tsfile/live/faacts/0125_1.m3u8
-深圳卫视高清,http://116.11.140.122:18181/tsfile/live/faacts/0126_1.m3u8
-江苏卫视高清,http://116.11.140.122:18181/tsfile/live/faacts/1042_1.m3u8
-山东卫视高清,http://116.11.140.122:18181/tsfile/live/1043_1.m3u8
-北京卫视高清,http://116.11.140.122:18181/tsfile/live/faacts/1044_1.m3u8
-东方卫视高清,http://116.11.140.122:18181/tsfile/live/faacts/1045_1.m3u8
-辽宁卫视 高清,http://116.11.140.122:18181/tsfile/live/1092_1.m3u8
-甘肃卫视 高清,http://116.11.140.122:18181/tsfile/live/1093_1.m3u8
-江西卫视 高清,http://116.11.140.122:18181/tsfile/live/1094_1.m3u8
-四川卫视 高清,http://116.11.140.122:18181/tsfile/live/1095_1.m3u8
-安徽卫视 高清,http://116.11.140.122:18181/tsfile/live/1096_1.m3u8
-黑龙江卫视高清,http://116.11.140.122:18181/tsfile/live/faacts/1041_1.m3u8
-云南卫视,http://116.11.140.122:18181/tsfile/live/0119_1.m3u8
-重庆卫视,http://116.11.140.122:18181/tsfile/live/0142_1.m3u8
-三沙卫视,http://116.11.140.122:18181/tsfile/live/1010_1.m3u8
-河北卫视,http://116.11.140.122:18181/tsfile/live/0132_1.m3u8
-兵团卫视,http://116.11.140.122:18181/tsfile/live/1011_1.m3u8
-宁夏卫视,http://116.11.140.122:18181/tsfile/live/1012_1.m3u8
-山西卫视,http://116.11.140.122:18181/tsfile/live/0118_1.m3u8
-陕西卫视,http://116.11.140.122:18181/tsfile/live/0136_1.m3u8
-河南卫视,http://116.11.140.122:18181/tsfile/live/0139_1.m3u8
-湖北卫视,http://116.11.140.122:18181/tsfile/live/0132_2.m3u8
-天津卫视,http://116.11.140.122:18181/tsfile/live/0135_1.m3u8
-新疆卫视,http://116.11.140.122:18181/tsfile/live/0110_1.m3u8
-西藏卫视,http://116.11.140.122:18181/tsfile/live/0111_1.m3u8
-吉林卫视,http://116.11.140.122:18181/tsfile/live/0116_1.m3u8
-青海卫视,http://116.11.140.122:18181/tsfile/live/0140_1.m3u8
-内蒙古卫视,http://116.11.140.122:18181/tsfile/live/1003_1.m3u8
-
 
 央卫频道3,#genre#
 CCTV-1,http://163.177.122.6:9901/tsfile/live/1019_1.m3u8
