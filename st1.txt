@@ -1320,6 +1320,7 @@ YAIWAN,http://211.72.65.236:8538/.m3u8
 
 
 AKTV,#genre#
+以下AKTV源,
 鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
@@ -1345,7 +1346,98 @@ TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-
+以下CS源,
+鳳凰衛視資訊台,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV43.m3u8
+鳳凰衛視資訊台,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV22.m3u8
+寰宇新聞台灣台,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV41.m3u8
+寰宇新聞台,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV02.m3u8
+寰宇新聞財經台,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV85.m3u8
+豬哥會社,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV73.m3u8
+中天亞洲台,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV13.m3u8
+中天電視,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV28.m3u8
+中天2台,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV49.m3u8
+中視新聞,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV09.m3u8
+中視經典綜藝,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV34.m3u8
+運通財經台,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV06.m3u8
+信大電視台,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV07.m3u8
+新唐人LIVE,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV23.m3u8
+小猪佩奇,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV64.m3u8
+台視新聞台,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV25.m3u8
+三立新聞台,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV32.m3u8
+三立iNEWS,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV01.m3u8
+倪珍24小時播新聞,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV90.m3u8
+民視新聞,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV17.m3u8
+民視戲劇館,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV76.m3u8
+美好購物2台,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV55.m3u8
+美好購物1台,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV54.m3u8
+立法院會議,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV57.m3u8
+鏡新聞,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV70.m3u8
+飢餓遊戲,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV81.m3u8
+華視綜藝頻道,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV26.m3u8
+華視戲劇頻道,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV12.m3u8
+國會頻道１,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV56.m3u8
+東森購物台CH60,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV18.m3u8
+東森購物台CH47,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV48.m3u8
+東森購物台CH46,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV19.m3u8
+東森購物台CH34,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV87.m3u8
+東森財經新聞,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV03.m3u8
+大陸尋奇,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV71.m3u8
+大愛一臺HD,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV30.m3u8
+大愛二臺HD,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV47.m3u8
+YOYO TV,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV63.m3u8
+TVBS選新聞,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV83.m3u8
+TVBS NEWS,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV82.m3u8
+TVBS NEWS,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV31.m3u8
+TV5 News,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV91.m3u8
+Tokyo Walk,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV29.m3u8
+TIMES NOW,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV74.m3u8
+THE K-POP,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV16.m3u8
+TBS NEWS,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV45.m3u8
+Tayo the Little Bus,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV68.m3u8
+TalkingFriendsTVMini,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV66.m3u8
+Talking Tom,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV65.m3u8
+TaiwanPlus,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV78.m3u8
+Sky News,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV35.m3u8
+SBS Running Man,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV80.m3u8
+NewsTamil24x7,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV46.m3u8
+News18 India,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV40.m3u8
+NBC News,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV39.m3u8
+Muse木棉花-闔家歡,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV60.m3u8
+momo購物一台,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV04.m3u8
+momo購物二台,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV05.m3u8
+MIT台灣誌,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV42.m3u8
+MediaoneTV Live,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV44.m3u8
+Malayalam News,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV50.m3u8
+Malaimurasu Tv 24X7,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV10.m3u8
+Lofi Girl,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV77.m3u8
+LiveNOW from FOX,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV86.m3u8
+LIVE NOW,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV20.m3u8
+KBS News,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV61.m3u8
+JapaNews24,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV15.m3u8
+InquizeX,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV88.m3u8
+India Today,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV36.m3u8
+HTB北海道ニュース,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV53.m3u8
+Haberturk TV,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV21.m3u8
+GTV DRAMA 八大劇樂部,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV75.m3u8
+GB News,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV33.m3u8
+FRANCE 24 English,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV38.m3u8
+Euronews English,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV37.m3u8
+Entertainment - Mediacorp,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV84.m3u8
+earthTV,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV79.m3u8
+DW News,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV08.m3u8
+Disney Junio,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV69.m3u8
+Dave and Ava,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV67.m3u8
+CRUX,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV72.m3u8
+CNA LIVE,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV52.m3u8
+Astro AWANI,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV27.m3u8
+Asianet News,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV11.m3u8
+Arirang TV,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV51.m3u8
+Al Jazeera English,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV59.m3u8
+Al Jazeera Arabic,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV14.m3u8
+ABCテレビニュース,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV62.m3u8
+ABC News,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV24.m3u8
+8world,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV89.m3u8
+123 GO! Live,https://raw.gitmirror.com/ChiSheng9/iptv/refs/heads/master/TV58.m3u8
 
 
 
