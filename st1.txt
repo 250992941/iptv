@@ -376,7 +376,7 @@ BBC World News,P2p://generationnexxxt.com:19806/f666946be06f45e8a2e08ebf1136d385
 BBC World News,P2p://generationnexxxt.com:19806/68b66fcb526a469c95968a8a62c27f01
 BBC World News,P2p://generationnexxxt.com:19806/7fa4771def7c4896b1b9ea7e022f278c
 
-乒羽频道,#genre#
+体育频道,#genre#
 
 先锋乒羽,http://124.231.213.87:9999/tsfile/live/1119_1.m3u8
 先锋乒羽,http://nas.jumping.wang:5555/udp/239.93.42.56:5140
@@ -387,6 +387,11 @@ BBC World News,P2p://generationnexxxt.com:19806/7fa4771def7c4896b1b9ea7e022f278c
 先锋乒羽,rtsp://115.153.254.81/PLTV/88888888/224/3221226935/72307307.smil
 先锋乒羽,rtp://228.0.0.241:6108
 
+广东体育,http://119.125.104.196:9901/tsfile/live/1010_1.m3u8
+广东体育,http://116.11.140.122:18181/tsfile/live/1026_1.m3u8
+广东体育,http://120.84.121.98:808/hls/22/index.m3u8
+广东体育,http://120.238.84.44:9901/tsfile/live/1012_1.m3u8
+广东体育,http://163.177.122.30:9901/tsfile/live/1011_1.m3u8
 
 
 
