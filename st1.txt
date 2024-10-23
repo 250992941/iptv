@@ -1461,6 +1461,7 @@ EYE TV戏剧台,P2p://generationnexxxt.com:19806/bffdd8e7cb994d9e80a697632cf0a40
 东森戏剧台(B),P2p://generationnexxxt.com:19806/4c925da5e039498a85b4d3fa0bfb5910
 
 乒羽频道,#genre#
+先锋乒羽,http://171.107.203.17:4022/rtp/239.81.0.236:4056
 先锋乒羽,http://113.117.74.28:8081/hls/113/index.m3u8
 先锋乒羽,http://117.141.194.182:39581/stream/channelid/5105184
 先锋乒羽,http://120.76.248.139/live/bfgd/4200000349.m3u8
