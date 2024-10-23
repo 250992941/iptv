@@ -376,26 +376,20 @@ BBC World News,P2p://generationnexxxt.com:19806/f666946be06f45e8a2e08ebf1136d385
 BBC World News,P2p://generationnexxxt.com:19806/68b66fcb526a469c95968a8a62c27f01
 BBC World News,P2p://generationnexxxt.com:19806/7fa4771def7c4896b1b9ea7e022f278c
 
+乒羽频道,#genre#
+
+先锋乒羽,http://124.231.213.87:9999/tsfile/live/1119_1.m3u8
+先锋乒羽,http://nas.jumping.wang:5555/udp/239.93.42.56:5140
+先锋乒羽,http://171.107.203.17:4022/rtp/239.81.0.236:4056
+先锋乒羽,http://120.76.248.139/live/bfgd/4200000349.m3u8
+先锋乒羽,rtp://239.253.93.219:6397
+先锋乒羽,rtp/239.254.201.160:7172
+先锋乒羽,rtsp://115.153.254.81/PLTV/88888888/224/3221226935/72307307.smil
+先锋乒羽,rtp://228.0.0.241:6108
 
 
 
 
-新加坡,#genre#
-CNA,P2p://generationnexxxt.com:19806/061076408ecc4e4c97af6cbe74f897d9
-CNA,http://php.jdshipin.com:8880/xsj.php?id=channelnewsasia
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-
-
-Channel 5,P2p://generationnexxxt.com:19806/e701bea921da476497494dffe17fa18f
-Channel 8,P2p://generationnexxxt.com:19806/916b5919192c43d7afa4496e9ba6090b
-Channel 5,http://php.jdshipin.com:8880/xsj.php?id=channel-5
-Channel 8,http://php.jdshipin.com:8880/xsj.php?id=channel8
-Channel U,P2p://generationnexxxt.com:19806/56d9f8daf4584cc5af47c72f471ae9d7
-Channel U,http://php.jdshipin.com:8880/xsj.php?id=channel-u
-Hub都会,http://php.jdshipin.com:8880/xsj.php?id=HubECity
-Hub娱家,http://php.jdshipin.com:8880/xsj.php?id=HubVVDrama
-Channel 5,P2p://ns2.hellotvvod.com:9906/16c0058d68ac462e986d7cf573cce5a3.ts
-Channel 8,P2p://ns2.hellotvvod.com:9906/8167457c05b041689ee4e4c50449e6ca.ts
 
 
 广东频道1,#genre#
@@ -536,7 +530,22 @@ Channel 8,P2p://ns2.hellotvvod.com:9906/8167457c05b041689ee4e4c50449e6ca.ts
 金鹰纪实,http://110.52.99.109:9901/tsfile/live/1028_1.m3u8
 金鹰纪实,http://124.231.213.87:9999/tsfile/live/1095_1.m3u8
 
+新加坡,#genre#
+CNA,P2p://generationnexxxt.com:19806/061076408ecc4e4c97af6cbe74f897d9
+CNA,http://php.jdshipin.com:8880/xsj.php?id=channelnewsasia
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
+
+Channel 5,P2p://generationnexxxt.com:19806/e701bea921da476497494dffe17fa18f
+Channel 8,P2p://generationnexxxt.com:19806/916b5919192c43d7afa4496e9ba6090b
+Channel 5,http://php.jdshipin.com:8880/xsj.php?id=channel-5
+Channel 8,http://php.jdshipin.com:8880/xsj.php?id=channel8
+Channel U,P2p://generationnexxxt.com:19806/56d9f8daf4584cc5af47c72f471ae9d7
+Channel U,http://php.jdshipin.com:8880/xsj.php?id=channel-u
+Hub都会,http://php.jdshipin.com:8880/xsj.php?id=HubECity
+Hub娱家,http://php.jdshipin.com:8880/xsj.php?id=HubVVDrama
+Channel 5,P2p://ns2.hellotvvod.com:9906/16c0058d68ac462e986d7cf573cce5a3.ts
+Channel 8,P2p://ns2.hellotvvod.com:9906/8167457c05b041689ee4e4c50449e6ca.ts
 
 
 
@@ -1460,16 +1469,7 @@ EYE TV戏剧台,P2p://generationnexxxt.com:19806/bffdd8e7cb994d9e80a697632cf0a40
 亚洲剧台,P2p://generationnexxxt.com:19806/08cc25f383fd45e8b063efb2b2708dbc
 东森戏剧台(B),P2p://generationnexxxt.com:19806/4c925da5e039498a85b4d3fa0bfb5910
 
-乒羽频道,#genre#
 
-先锋乒羽,http://124.231.213.87:9999/tsfile/live/1119_1.m3u8
-先锋乒羽,http://nas.jumping.wang:5555/udp/239.93.42.56:5140
-先锋乒羽,http://171.107.203.17:4022/rtp/239.81.0.236:4056
-先锋乒羽,http://120.76.248.139/live/bfgd/4200000349.m3u8
-先锋乒羽,rtp://239.253.93.219:6397
-先锋乒羽,rtp/239.254.201.160:7172
-先锋乒羽,rtsp://115.153.254.81/PLTV/88888888/224/3221226935/72307307.smil
-先锋乒羽,rtp://228.0.0.241:6108
 
 
 
