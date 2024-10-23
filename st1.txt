@@ -1462,15 +1462,13 @@ EYE TV戏剧台,P2p://generationnexxxt.com:19806/bffdd8e7cb994d9e80a697632cf0a40
 
 乒羽频道,#genre#
 
-先锋乒羽,https://live.goodiptv.club/api/sxg.php?id=xfpy_4000
-先锋乒羽,https://live.goodiptv.club/api/cqyx.php?id=xianfeng
-先锋乒羽,http://bxny.667789.cn:88/hls/79/index.m3u8
+
 先锋乒羽,http://nas.jumping.wang:5555/udp/239.93.42.56:5140
 先锋乒羽,http://171.107.203.17:4022/rtp/239.81.0.236:4056
 先锋乒羽,http://120.76.248.139/live/bfgd/4200000349.m3u8
 
 
-晴彩羽毛球,http://220.189.110.51:19888/udp/233.50.201.195:5140
+
 晴彩羽毛球,http://220.189.110.51:19888/udp/233.50.202.28:5140
 晴彩羽毛球,http://115.230.189.122:9999/udp/233.50.202.28:5140
 晴彩羽毛球,http://183.249.114.8:58888/udp/233.50.202.28:5140
