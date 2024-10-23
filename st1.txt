@@ -391,7 +391,7 @@ BBC World News,P2p://generationnexxxt.com:19806/7fa4771def7c4896b1b9ea7e022f278c
 广东体育,http://116.11.140.122:18181/tsfile/live/1026_1.m3u8
 广东体育,http://120.84.121.98:808/hls/22/index.m3u8
 广东体育,http://120.238.84.44:9901/tsfile/live/1012_1.m3u8
-广东体育,http://163.177.122.30:9901/tsfile/live/1011_1.m3u8
+
 
 
 
