@@ -308,7 +308,7 @@ CCTV-17,P2p://generationnexxxt.com:19806/d155cd0903944373a0c13e8164532313
 
 
 新闻频道JW,#genre#
-凤凰中文台,http://113.64.94.163:9901/tsfile/live/1037_1.m3u8
+凤凰中文台,http://119.125.104.157:9901/tsfile/live/1036_1.m3u8
 
 凤凰中文台,P2p://generationnexxxt.com:19806/d897c583969747fc8a362653e01faf4f#P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f	
 凤凰资讯台,P2p://generationnexxxt.com:19806/d207c4a98e784d1299a9aa63268f21c6#P2p://generationnexxxt.com:19806/3f7b6ed02526445e89ce536992d04ef5
@@ -370,11 +370,13 @@ BBC World News,P2p://generationnexxxt.com:19806/7fa4771def7c4896b1b9ea7e022f278c
 先锋乒羽,rtsp://115.153.254.81/PLTV/88888888/224/3221226935/72307307.smil
 先锋乒羽,rtp://228.0.0.241:6108
 
+
+广东体育,http://www.zzlag.top:9003/hls/30/index.m3u8
 广东体育,http://113.109.250.116:9999/rtp/239.77.0.6:5146
 广东体育,http://113.109.250.116:9999/rtp/239.77.1.97:5146
 广东体育,http://113.109.250.116:9999/rtp/239.77.0.112:5146
 广东体育,http://113.109.250.116:9999/rtp/239.77.0.168:5146
-
+广东体育,http://219.159.194.225:8181/tsfile/live/1001_1.m3u8
 广东体育,http://119.125.104.196:9901/tsfile/live/1010_1.m3u8
 广东体育,http://116.11.140.122:18181/tsfile/live/1026_1.m3u8
 广东体育,http://120.84.121.98:808/hls/22/index.m3u8
