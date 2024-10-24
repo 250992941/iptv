@@ -123,17 +123,17 @@ CCTV17,http://tvbox6.icu/tv/migu.php?id=cctv17
 西藏卫视,http://tvbox6.icu/tv/migu.php?id=xzws
 海南卫视,http://tvbox6.icu/tv/migu.php?id=hin
 
-CCTV01,http://rihou.cc:567/47193.php?id=cctv1$咪咕2
-CCTV02,http://rihou.cc:567/47193.php?id=cctv2
-CCTV03,http://rihou.cc:567/47193.php?id=cctv3
-CCTV04,http://rihou.cc:567/47193.php?id=cctv4
-CCTV05,http://rihou.cc:567/47193.php?id=cctv5
+CCTV1,http://rihou.cc:567/47193.php?id=cctv1$咪咕2
+CCTV2,http://rihou.cc:567/47193.php?id=cctv2
+CCTV3,http://rihou.cc:567/47193.php?id=cctv3
+CCTV4,http://rihou.cc:567/47193.php?id=cctv4
+CCTV5,http://rihou.cc:567/47193.php?id=cctv5
 CCTV5+,http://rihou.cc:567/47193.php?id=cctv5p
-CCTV06,http://mobilelivetimeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
-CCTV06,http://rihou.cc:567/47193.php?id=cctv6
-CCTV07,http://rihou.cc:567/47193.php?id=cctv7
-CCTV08,http://rihou.cc:567/47193.php?id=cctv8
-CCTV09,http://rihou.cc:567/47193.php?id=cctv9
+CCTV6,http://mobilelivetimeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
+CCTV6,http://rihou.cc:567/47193.php?id=cctv6
+CCTV7,http://rihou.cc:567/47193.php?id=cctv7
+CCTV8,http://rihou.cc:567/47193.php?id=cctv8
+CCTV9,http://rihou.cc:567/47193.php?id=cctv9
 CCTV10,http://rihou.cc:567/47193.php?id=cctv10
 CCTV11,http://rihou.cc:567/47193.php?id=cctv11
 CCTV12,http://rihou.cc:567/47193.php?id=cctv12
