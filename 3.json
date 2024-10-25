@@ -20,7 +20,7 @@
           "name": "3",
           "type":"0",
           "pass": true,
-          "url": "https://fmbox.cc",
+          "url": "https://notabug.org/jick/ji/raw/master/jilive",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
