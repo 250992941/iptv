@@ -3,33 +3,40 @@
     "spider": "./jar/XYQ.jar;md5;857c3864f652a8f670797d2002aadb82",
     "lives": [
         {
-          "name": "Yoursmile7",
+          "name": "1",
           "type":"0",
           "pass": true,
-          "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+          "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/st1.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "JUNDIE",
+          "name": "2",
           "type":"0",
           "pass": true,
-          "url":"http://home.jundie.top:81/ray/tvlive.txt",
+          "url":"http://120.79.4.185/new/mdlive.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "fanmingming",
+          "name": "3",
           "type":"0",
           "pass": true,
-          "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+          "url": "https://fmbox.cc",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "初秋语",
+          "name": "HS",
           "type":"0",
           "pass": true,
-          "url":"./list.txt",
+          "url":"https://raw.gitmirror.com/mlzlzj/hs/refs/heads/main/iptv_list.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "沐辰",
+          "type":"0",
+          "pass": true,
+          "url":"https://json.doube.eu.org/live/migu/Sub.php",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
-    ],
+    ]
 }
