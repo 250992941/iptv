@@ -38,7 +38,6 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-
     {
       "name": "HS",
       "url": "https://raw.gitmirror.com/mlzlzj/hs/refs/heads/main/iptv_list.txt",
@@ -47,6 +46,6 @@
       "playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
+     },
   ]
 }
