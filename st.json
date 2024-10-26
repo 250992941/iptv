@@ -1,0 +1,112 @@
+{
+    "wallpaper": "https://picsum.photos/1280/720/?blur=2",
+    "spider": "./jar/XYQ.jar;md5;857c3864f652a8f670797d2002aadb82",
+    "lives": [
+        {
+          "name": "ST",
+          "type":"0",
+          "pass": true,
+          "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/st1.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "MDXGH",
+          "type":"0",
+          "pass": true,
+          "url":"https://raw.gitmirror.com/250992941/iptv/refs/heads/main/st1.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "沐辰",
+          "type":"0",
+          "pass": true,
+          "url": "https://json.doube.eu.org/live/migu/Sub.php",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "AKTV",
+          "type":"0",
+          "pass": true,
+          "url":"http://aktv.top/live.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "HS",
+          "type":"0",
+          "pass": true,
+          "url":"https://raw.gitmirror.com/mlzlzj/hs/refs/heads/main/iptv_list.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "Kimwang",
+          "type":"0",
+          "pass": true,
+          "url":"https://raw.gitmirror.com/kimwang1978/collect-tv-txt/refs/heads/main/merged_output.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "VBSKYN",
+          "type":"0",
+          "pass": true,
+          "url":"https://raw.gitmirror.com/vbskycn/iptv/refs/heads/master/tv/hd.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "MUT",
+          "type":"0",
+          "pass": true,
+          "url":"https://raw.gitmirror.com/govnn/govnn.github.io/refs/heads/main/a/mut",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "MercuryZz",
+          "type":"0",
+          "pass": true,
+          "url":"https://raw.gitmirror.com/MercuryZz/IPTVN/refs/heads/Files/IPTV.m3u",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "YueChan",
+          "type":"0",
+          "pass": true,
+          "url":"https://raw.gitmirror.com/YueChan/Live/refs/heads/main/IPTV.m3u",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "家的味道",
+          "type":"0",
+          "pass": true,
+          "url":"https://raw.gitmirror.com/huangxinyueus/zby/refs/heads/main/%E5%AE%B6%E7%9A%84%E5%91%B3%E9%81%93/%E5%AE%B6%E7%9A%84%E5%91%B3%E9%81%93.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "I529987",
+          "type":"0",
+          "pass": true,
+          "url":"https://github.com/l529987/av/blob/main/lived.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "zzmaze",
+          "type":"0",
+          "pass": true,
+          "url":"https://raw.gitmirror.com/zzmaze/iptv/refs/heads/main/itvlist.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "jilive",
+          "type":"0",
+          "pass": true,
+          "url":"https://notabug.org/jick/ji/raw/master/jilive",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "YuYu",
+          "type":"0",
+          "pass": true,
+          "url":"https://fmbox.cc",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
+    ],
+}
