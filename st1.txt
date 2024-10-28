@@ -360,7 +360,7 @@ BBC World News,P2p://generationnexxxt.com:19806/68b66fcb526a469c95968a8a62c27f01
 BBC World News,P2p://generationnexxxt.com:19806/7fa4771def7c4896b1b9ea7e022f278c
 
 体育频道,#genre#
-
+先锋乒羽,http://221.237.92.253:9999/udp/239.93.42.56:5140
 先锋乒羽,http://124.231.213.87:9999/tsfile/live/1119_1.m3u8
 先锋乒羽,http://nas.jumping.wang:5555/udp/239.93.42.56:5140
 先锋乒羽,http://171.107.203.17:4022/rtp/239.81.0.236:4056
