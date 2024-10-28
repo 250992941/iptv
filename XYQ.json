@@ -6,7 +6,7 @@
           "name": "yc",
           "type":"0",
           "pass": true,
-          "url": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Adult.m3u",
+          "url": "https://raw.gitmirrorcom/YueChan/Live/refs/heads/main/Adult.m3u",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
