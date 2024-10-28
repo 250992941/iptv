@@ -115,12 +115,26 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "YuYu",
+          "name": "GD",
           "type":"0",
           "pass": true,
-          "url":"https://fmbox.cc",
+          "url":"https://gyssi.link/live/%E5%B9%BF%E4%B8%9C1.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
-        }
+        },{
+          "name": "HN",
+          "type":"0",
+          "pass": true,
+          "url":"https://gyssi.link/live/%E6%B9%96%E5%8D%971.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+       },{
+          "name": "GC",
+          "type":"0",
+          "pass": true,
+          "url":"https://gyssi.link/live/%E5%B9%BF%E8%A5%BF%E5%A3%AE%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8C%BA.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+       }
     ]
 }
