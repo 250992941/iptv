@@ -1,0 +1,35 @@
+{
+    "wallpaper": "https://picsum.photos/1280/720/?blur=2",
+    "spider": "./jar/XYQ.jar;md5;857c3864f652a8f670797d2002aadb82",
+    "lives": [
+        {
+          "name": "tv543",
+          "type":"0",
+          "pass": true,
+          "url": "https://tv543.cc/173.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "YueChan",
+          "type":"0",
+          "pass": true,
+          "url":"https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Adult.m3u",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "f",
+          "type":"0",
+          "pass": true,
+          "url": "./list.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "f",
+          "type":"0",
+          "pass": true,
+          "url":"./list.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
+    ]
+}
