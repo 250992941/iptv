@@ -17,6 +17,13 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
+          "name": "yuyu",
+          "type":"0",
+          "pass": true,
+          "url": "http://47.99.102.252/live.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
           "name": "jilive",
           "type":"0",
           "pass": true,
