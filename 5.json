@@ -83,7 +83,7 @@
           "name": "YueChan",
           "type":"0",
           "pass": true,
-          "url":"https://raw.gitmirror.com/YueChan/Live/refs/heads/main/IPTV.m3u",
+          "url":"https://raw.gitmirror.com/YueChan/Live/refs/heads/main/Global.m3u",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
