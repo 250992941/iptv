@@ -104,7 +104,7 @@
           "name": "TW",
           "type":"0",
           "pass": true,
-          "url":"https://raw.gitmirror.com/KJW5487/iptv/refs/heads/main/test_tw.m3u",
+          "url":"https://raw.githubusercontent.com/hus888yu/app/refs/heads/main/tw.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
