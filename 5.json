@@ -80,10 +80,10 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "MercuryZz",
+          "name": "G027",
           "type":"0",
           "pass": true,
-          "url":"https://raw.gitmirror.com/MercuryZz/IPTVN/refs/heads/Files/IPTV.m3u",
+          "url":"https://gitee.com/g027/tv0816/raw/master/hubeiliantong.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
