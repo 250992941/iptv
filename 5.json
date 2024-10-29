@@ -101,10 +101,10 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "I529987",
+          "name": "TW",
           "type":"0",
           "pass": true,
-          "url":"https://github.com/l529987/av/blob/main/lived.txt",
+          "url":"https://raw.gitmirror.com/KJW5487/iptv/refs/heads/main/test_tw.m3u",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
