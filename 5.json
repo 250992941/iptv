@@ -24,10 +24,10 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "jilive",
+          "name": "暮雨",
           "type":"0",
           "pass": true,
-          "url": "https://notabug.org/jick/ji/raw/master/jilive",
+          "url": "https://4key.cn/FP",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
