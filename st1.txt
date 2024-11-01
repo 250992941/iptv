@@ -51,7 +51,52 @@ CCTV17,http://111.8.224.6:8085/tsfile/live/1025_1.m3u8
 
 央卫频道2,#genre#
 
-CCTV1,http://tvbox6.icu/tv/migu.php?id=cctv1$咪咕1
+CCTV1,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265183188&sign=2ff7c62fd49592927e0a60f2496e05d0$咪咕1
+CCTV2,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667329&sign=2ff7c62fd49592927e0a60f2496e05d0 
+CCTV3,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667206&sign=2ff7c62fd49592927e0a60f2496e05d0 
+CCTV4,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667639&sign=2ff7c62fd49592927e0a60f2496e05d0 
+CCTV4欧洲,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667313&sign=2ff7c62fd49592927e0a60f2496e05d0 
+CCTV4美洲,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667335&sign=2ff7c62fd49592927e0a60f2496e05d0 
+CCTV5,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667565&sign=2ff7c62fd49592927e0a60f2496e05d0 
+CCTV5+,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265106763&sign=2ff7c62fd49592927e0a60f2496e05d0 
+CCTV6,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667482&sign=2ff7c62fd49592927e0a60f2496e05d0 
+CCTV7,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667268&sign=2ff7c62fd49592927e0a60f2496e05d0 
+CCTV8,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667466&sign=2ff7c62fd49592927e0a60f2496e05d0 
+CCTV9,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667202&sign=2ff7c62fd49592927e0a60f2496e05d0 
+CCTV10,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667631&sign=2ff7c62fd49592927e0a60f2496e05d0 
+CCTV11,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667429&sign=2ff7c62fd49592927e0a60f2496e05d0 
+CCTV12,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667607&sign=2ff7c62fd49592927e0a60f2496e05d0 
+CCTV13,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667474&sign=2ff7c62fd49592927e0a60f2496e05d0 
+CCTV14,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667325&sign=2ff7c62fd49592927e0a60f2496e05d0 
+CCTV15,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667535&sign=2ff7c62fd49592927e0a60f2496e05d0 
+CCTV17,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667526&sign=2ff7c62fd49592927e0a60f2496e05d0 
+发现之旅,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=810326624&sign=2ff7c62fd49592927e0a60f2496e05d0 
+老故事,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=810326846&sign=2ff7c62fd49592927e0a60f2496e05d0 
+中学生,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=810326679&sign=2ff7c62fd49592927e0a60f2496e05d0 
+CGTN纪录,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265218920&sign=2ff7c62fd49592927e0a60f2496e05d0 
+CHC家庭影院,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667645&sign=2ff7c62fd49592927e0a60f2496e05d0 
+CHC动作电影,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265218967&sign=2ff7c62fd49592927e0a60f2496e05d0 
+东方卫视,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=264104266&sign=2ff7c62fd49592927e0a60f2496e05d0 
+吉林卫视,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=531262154&sign=2ff7c62fd49592927e0a60f2496e05d0 
+青海卫视,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=531262027&sign=2ff7c62fd49592927e0a60f2496e05d0 
+陕西卫视,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=816409120&sign=2ff7c62fd49592927e0a60f2496e05d0 
+湖北卫视,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=531261978&sign=2ff7c62fd49592927e0a60f2496e05d0 
+江西卫视,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=810783159&sign=2ff7c62fd49592927e0a60f2496e05d0 
+江苏卫视,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=264104188&sign=2ff7c62fd49592927e0a60f2496e05d0 
+广东卫视,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=263541274&sign=2ff7c62fd49592927e0a60f2496e05d0 
+大湾区卫视,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265218882&sign=2ff7c62fd49592927e0a60f2496e05d0 
+海南卫视,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=531262161&sign=2ff7c62fd49592927e0a60f2496e05d0 
+军事迷必看大片,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265218878&sign=2ff7c62fd49592927e0a60f2496e05d0 
+热剧联播,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265218955&sign=2ff7c62fd49592927e0a60f2496e05d0 
+赛事最经典,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265218921&sign=2ff7c62fd49592927e0a60f2496e05d0 
+体坛名栏汇,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265218759&sign=2ff7c62fd49592927e0a60f2496e05d0 
+新片放映厅,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265218930&sign=2ff7c62fd49592927e0a60f2496e05d0 
+Y+剧场,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=140151866&sign=2ff7c62fd49592927e0a60f2496e05d0 
+
+
+
+
+CCTV1,http://tvbox6.icu/tv/migu.php?id=cctv1$咪咕2
 CCTV2,http://tvbox6.icu/tv/migu.php?id=cctv2
 CCTV3,http://tvbox6.icu/tv/migu.php?id=cctv3
 CCTV4,http://tvbox6.icu/tv/migu.php?id=cctv4
@@ -94,7 +139,7 @@ CCTV17,http://tvbox6.icu/tv/migu.php?id=cctv17
 西藏卫视,http://tvbox6.icu/tv/migu.php?id=xzws
 海南卫视,http://tvbox6.icu/tv/migu.php?id=hin
 
-CCTV1,http://rihou.cc:567/47193.php?id=cctv1$咪咕2
+CCTV1,http://rihou.cc:567/47193.php?id=cctv1$咪咕3
 CCTV2,http://rihou.cc:567/47193.php?id=cctv2
 CCTV3,http://rihou.cc:567/47193.php?id=cctv3
 CCTV4,http://rihou.cc:567/47193.php?id=cctv4
@@ -137,47 +182,7 @@ CGT俄语,http://rihou.cc:567/47193.php?id=cgtnr
 
 
 
-CCTV1,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265183188&sign=d5481a955cff66b5e624057bfc29c908$咪咕3
-CCTV2,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667329&sign=d5481a955cff66b5e624057bfc29c908 
-CCTV3,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667206&sign=d5481a955cff66b5e624057bfc29c908 
-CCTV4,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667639&sign=d5481a955cff66b5e624057bfc29c908 
-CCTV4欧洲,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667313&sign=d5481a955cff66b5e624057bfc29c908 
-CCTV4美洲,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667335&sign=d5481a955cff66b5e624057bfc29c908 
-CCTV5,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667565&sign=d5481a955cff66b5e624057bfc29c908 
-CCTV5+,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265106763&sign=d5481a955cff66b5e624057bfc29c908 
-CCTV6,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667482&sign=d5481a955cff66b5e624057bfc29c908 
-CCTV7,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667268&sign=d5481a955cff66b5e624057bfc29c908 
-CCTV8,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667466&sign=d5481a955cff66b5e624057bfc29c908 
-CCTV9,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667202&sign=d5481a955cff66b5e624057bfc29c908 
-CCTV10,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667631&sign=d5481a955cff66b5e624057bfc29c908 
-CCTV11,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667429&sign=d5481a955cff66b5e624057bfc29c908 
-CCTV12,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667607&sign=d5481a955cff66b5e624057bfc29c908 
-CCTV13,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667474&sign=d5481a955cff66b5e624057bfc29c908 
-CCTV14,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667325&sign=d5481a955cff66b5e624057bfc29c908 
-CCTV15,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667535&sign=d5481a955cff66b5e624057bfc29c908 
-CCTV17,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667526&sign=d5481a955cff66b5e624057bfc29c908 
-发现之旅,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=810326624&sign=d5481a955cff66b5e624057bfc29c908 
-老故事,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=810326846&sign=d5481a955cff66b5e624057bfc29c908 
-中学生,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=810326679&sign=d5481a955cff66b5e624057bfc29c908 
-CGTN纪录,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265218920&sign=d5481a955cff66b5e624057bfc29c908 
-CHC家庭影院,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667645&sign=d5481a955cff66b5e624057bfc29c908 
-CHC动作电影,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265218967&sign=d5481a955cff66b5e624057bfc29c908 
-东方卫视,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=264104266&sign=d5481a955cff66b5e624057bfc29c908 
-吉林卫视,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=531262154&sign=d5481a955cff66b5e624057bfc29c908 
-青海卫视,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=531262027&sign=d5481a955cff66b5e624057bfc29c908 
-陕西卫视,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=816409120&sign=d5481a955cff66b5e624057bfc29c908 
-湖北卫视,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=531261978&sign=d5481a955cff66b5e624057bfc29c908 
-江西卫视,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=810783159&sign=d5481a955cff66b5e624057bfc29c908 
-江苏卫视,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=264104188&sign=d5481a955cff66b5e624057bfc29c908 
-广东卫视,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=263541274&sign=d5481a955cff66b5e624057bfc29c908 
-大湾区卫视,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265218882&sign=d5481a955cff66b5e624057bfc29c908 
-海南卫视,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=531262161&sign=d5481a955cff66b5e624057bfc29c908 
-军事迷必看大片,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265218878&sign=d5481a955cff66b5e624057bfc29c908 
-热剧联播,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265218955&sign=d5481a955cff66b5e624057bfc29c908 
-赛事最经典,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265218921&sign=d5481a955cff66b5e624057bfc29c908 
-体坛名栏汇,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265218759&sign=d5481a955cff66b5e624057bfc29c908 
-新片放映厅,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265218930&sign=d5481a955cff66b5e624057bfc29c908 
-Y+剧场,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=140151866&sign=d5481a955cff66b5e624057bfc29c908 
+
 
 
 
