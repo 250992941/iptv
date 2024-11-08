@@ -69,7 +69,7 @@
           "name": "VBSKYN",
           "type":"0",
           "pass": true,
-          "url":"https://raw.gitmirror.com/vbskycn/iptv/refs/heads/master/tv/hd.txt",
+          "url":"https://raw.gitmirror.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
