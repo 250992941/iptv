@@ -1,0 +1,106 @@
+央卫频道,#genre#
+CCTV1,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265183188&sign=45f566ccea085e390d60c0acb36eceb6
+CCTV2,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667329&sign=45f566ccea085e390d60c0acb36eceb6
+CCTV3,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667206&sign=45f566ccea085e390d60c0acb36eceb6
+CCTV4,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667639&sign=45f566ccea085e390d60c0acb36eceb6
+CCTV4欧洲,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667313&sign=45f566ccea085e390d60c0acb36eceb6
+CCTV4美洲,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667335&sign=45f566ccea085e390d60c0acb36eceb6
+CCTV5,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667565&sign=45f566ccea085e390d60c0acb36eceb6
+CCTV5+,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265106763&sign=45f566ccea085e390d60c0acb36eceb6
+CCTV6,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667482&sign=45f566ccea085e390d60c0acb36eceb6
+CCTV7,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667268&sign=45f566ccea085e390d60c0acb36eceb6
+CCTV8,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667466&sign=45f566ccea085e390d60c0acb36eceb6
+CCTV9,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667202&sign=45f566ccea085e390d60c0acb36eceb6
+CCTV10,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667631&sign=45f566ccea085e390d60c0acb36eceb6
+CCTV11,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667429&sign=45f566ccea085e390d60c0acb36eceb6
+CCTV12,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667607&sign=45f566ccea085e390d60c0acb36eceb6
+CCTV13,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667474&sign=45f566ccea085e390d60c0acb36eceb6
+CCTV14,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667325&sign=45f566ccea085e390d60c0acb36eceb6
+CCTV15,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667535&sign=45f566ccea085e390d60c0acb36eceb6
+CCTV17,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667526&sign=45f566ccea085e390d60c0acb36eceb6
+发现之旅,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=810326624&sign=45f566ccea085e390d60c0acb36eceb6
+老故事,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=810326846&sign=45f566ccea085e390d60c0acb36eceb6
+中学生,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=810326679&sign=45f566ccea085e390d60c0acb36eceb6
+CGTN外语纪录,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265218920&sign=45f566ccea085e390d60c0acb36eceb6
+CGTN西班牙语,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265218872&sign=45f566ccea085e390d60c0acb36eceb6
+CGTN阿拉伯语,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265219154&sign=45f566ccea085e390d60c0acb36eceb6
+CGTN法语,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265219025&sign=45f566ccea085e390d60c0acb36eceb6
+CGTN俄语,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265218806&sign=45f566ccea085e390d60c0acb36eceb6
+CHC家庭影院,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265667645&sign=45f566ccea085e390d60c0acb36eceb6
+CHC动作电影,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265218967&sign=45f566ccea085e390d60c0acb36eceb6
+东方卫视,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=264104266&sign=45f566ccea085e390d60c0acb36eceb6
+吉林卫视,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=531262154&sign=45f566ccea085e390d60c0acb36eceb6
+青海卫视,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=531262027&sign=45f566ccea085e390d60c0acb36eceb6
+陕西卫视,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=816409120&sign=45f566ccea085e390d60c0acb36eceb6
+湖北卫视,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=531261978&sign=45f566ccea085e390d60c0acb36eceb6
+江西卫视,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=810783159&sign=45f566ccea085e390d60c0acb36eceb6
+江苏卫视,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=264104188&sign=45f566ccea085e390d60c0acb36eceb6
+广东卫视,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=263541274&sign=45f566ccea085e390d60c0acb36eceb6
+大湾区卫视,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265218882&sign=45f566ccea085e390d60c0acb36eceb6
+海南卫视,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=531262161&sign=45f566ccea085e390d60c0acb36eceb6
+高清大片,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265218862&sign=45f566ccea085e390d60c0acb36eceb6
+经典电影,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265219029&sign=45f566ccea085e390d60c0acb36eceb6
+军事迷必看大片,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265218878&sign=45f566ccea085e390d60c0acb36eceb6
+热剧联播,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265218955&sign=45f566ccea085e390d60c0acb36eceb6
+赛事最经典,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265218921&sign=45f566ccea085e390d60c0acb36eceb6
+体坛名栏汇,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265218759&sign=45f566ccea085e390d60c0acb36eceb6
+新片放映厅,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=265218930&sign=45f566ccea085e390d60c0acb36eceb6
+Y+剧场,https://json.doube.eu.org/live/migu/migu.php/index.m3u8?id=140151866&sign=45f566ccea085e390d60c0acb36eceb6
+
+AKTV频道,#genre#
+28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+Hoy 78,http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
+myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+千禧經典台,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+娛樂新聞台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+日本全天新聞,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
+TVB 星河台,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
+viutv 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+爆谷台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+Animax-HK,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+C+台,http://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
+DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+ROCK Action,http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
+Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
