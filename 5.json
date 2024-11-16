@@ -38,10 +38,10 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "沐辰",
+          "name": "ST-NEW",
           "type":"0",
           "pass": true,
-          "url":"https://json.doube.eu.org/live/migu/Sub.php",
+          "url":"https://raw.githubusercontent.com/250992941/TV/refs/heads/master/output/result.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
@@ -157,10 +157,10 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "SP",
+          "name": "SMYUYU",
           "type":"0",
           "pass": true,
-          "url":"https://raw.githubusercontent.com/hus888yu/app/refs/heads/main/sp1.txt",
+          "url":"https://git.acwing.com/Mix2025/0/-/raw/0/Mix1.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
