@@ -24,7 +24,7 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "暮雨",
+          "name": "MUYU",
           "type":"0",
           "pass": true,
           "url": "https://4key.cn/FP",
@@ -104,7 +104,7 @@
           "name": "TW",
           "type":"0",
           "pass": true,
-          "url":"https://raw.githubusercontent.com/hus888yu/app/refs/heads/main/tw.txt",
+          "url":"https://raw.gitmirror.com/hus888yu/app/refs/heads/main/tw.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
