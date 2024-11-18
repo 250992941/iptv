@@ -101,7 +101,7 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "YiFa",
+          "name": "YFDD",
           "type":"0",
           "pass": true,
           "url":"https://gitea.moe/xiangjiao-ge/yifa169/raw/branch/main/yiyifafa.txt",
