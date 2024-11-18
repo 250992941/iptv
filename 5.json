@@ -101,10 +101,10 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "TW",
+          "name": "YiFa",
           "type":"0",
           "pass": true,
-          "url":"https://raw.gitmirror.com/hus888yu/app/refs/heads/main/tw.txt",
+          "url":"https://gitea.moe/xiangjiao-ge/yifa169/raw/branch/main/yiyifafa.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
