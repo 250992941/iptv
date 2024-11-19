@@ -1,5 +1,5 @@
 更新时间,#genre#
-2024-11-19 14:39:47,url
+2024-11-19 14:39:47,https://txmov2.a.kwimgs.com/bs3/video-hls/5211790793651941963_hlsb.m3u8
 央视频道,#genre#
 CCTV-1,http://58.20.77.182:9901/tsfile/live/0001_1.m3u8?key=txiptv$订阅源
 CCTV-1,http://218.76.32.193:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
