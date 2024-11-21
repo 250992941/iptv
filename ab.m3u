@@ -1,0 +1,1279 @@
+#EXTM3U
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-1
+http://120.76.248.139/live/bfgd/4200000488.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-1
+http://222.218.159.183:8181/tsfile/live/faacts/0001_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-1
+http://113.15.184.138:8181/tsfile/live/faacts/0001_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-1
+http://183.66.15.146:60901/tsfile/live/0001_1.m3u8?key=txiptv$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-1
+http://60.12.183.46:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-1
+http://110.177.146.152:888/rtp/239.1.1.7:8007$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-2
+http://27.41.245.129:9003//hls/5/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-2
+http://110.177.146.152:888/rtp/239.1.1.8:8008$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-2
+http://220.249.114.102:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-2
+http://116.128.242.83:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-2
+http://58.19.38.162:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-2
+http://42.48.50.232:9002/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-2
+http://183.94.146.109:2222/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-2
+http://61.136.172.236:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-2
+http://59.173.183.242:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-3
+http://218.89.240.144:59901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-3
+http://202.100.46.58:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-3
+http://112.102.217.173:9003//hls/15/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-3
+http://183.236.43.98:4014/rtp/239.77.0.169:5146$缁勬挱婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-3
+http://110.177.146.152:888/rtp/239.1.1.9:8009$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-3
+http://220.249.114.102:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-3
+http://61.136.172.236:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-3
+http://58.19.38.162:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-3
+http://59.173.183.242:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-4
+http://211.72.65.236:8569/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-4
+http://58.20.77.182:9901/tsfile/live/0004_1.m3u8?key=txiptv$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-4
+http://120.76.248.139/live/bfgd/4200000063.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-4
+http://60.12.183.46:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-4
+http://101.72.127.38:808/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-4
+http://27.41.246.172:9003//hls/7/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-4
+http://110.177.146.152:888/rtp/239.1.1.10:8010$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-4
+http://183.236.43.98:4014/rtp/239.77.1.163:5146$缁勬挱婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-4
+http://58.19.38.162:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-4
+http://220.249.114.102:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-4
+http://116.128.242.83:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-4
+http://183.94.146.109:2222/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-5
+http://218.3.138.25:1111/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-5
+http://113.57.93.165:9900/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-5
+http://223.105.252.61/PLTV/4/224/3221228502/index.m3u8?servicetype=1$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-5
+http://live.nctv.top/6688/bfgd.php?id=064$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-5
+http://120.76.248.139/live/bfgd/4200000064.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-5
+http://218.76.32.193:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-5
+http://xeace.cn:8888/rtp/239.93.42.37:5140$缁勬挱婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-5
+http://110.177.146.152:888/rtp/239.1.1.11:8011$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-5
+http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-5
+http://59.173.183.242:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-5
+http://220.249.114.102:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-5
+http://183.94.146.109:2222/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-5
+http://61.136.172.236:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-5
+http://116.128.242.83:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-5
+http://42.48.50.232:9002/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-5+
+http://58.48.5.186:1111/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-5+
+http://58.48.37.158:1111/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-5+
+http://120.76.248.139/live/bfgd/4200000246.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-5+
+http://59.173.183.242:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-5+
+http://116.128.242.83:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-5+
+http://58.19.38.162:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-5+
+http://183.94.146.109:2222/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-5+
+http://220.249.114.102:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-5+
+http://61.136.172.236:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-6
+http://124.128.73.58:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-6
+http://218.76.32.193:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-6
+http://110.177.146.152:888/rtp/239.1.1.13:8013$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-6
+http://183.236.43.98:4014/rtp/239.77.0.171:5146$缁勬挱婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-6
+http://59.173.183.242:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-6
+http://183.94.146.109:2222/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-6
+http://220.249.114.102:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-6
+http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-6
+http://116.128.242.83:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-6
+http://61.136.172.236:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-6
+http://42.48.50.232:9002/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-7
+http://218.77.81.186:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-7
+http://222.243.221.54:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-7
+http://27.41.245.129:9003//hls/10/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-7
+http://218.76.32.193:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-7
+http://27.41.246.172:9003//hls/10/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-7
+http://110.177.146.152:888/rtp/239.1.1.14:8014$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-7
+http://183.236.43.98:4014/rtp/239.77.0.138:5146$缁勬挱婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-7
+http://116.128.242.83:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-7
+http://59.173.183.242:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-7
+http://220.249.114.102:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-7
+http://183.94.146.109:2222/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-7
+http://42.48.50.232:9002/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-7
+http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-8
+http://223.105.252.57/PLTV/3/224/3221228165/index.m3u8?servicetype=1$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-8
+http://58.20.77.182:9901/tsfile/live/0008_1.m3u8?key=txiptv$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-8
+http://110.177.146.152:888/rtp/239.1.1.15:8015$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-8
+http://116.128.242.83:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-8
+http://220.249.114.102:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-8
+http://42.48.50.232:9002/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-8
+http://183.94.146.109:2222/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-8
+http://61.136.172.236:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-8
+http://59.173.183.242:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-8
+http://58.19.38.162:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-9
+http://218.89.240.144:59901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-9
+http://112.102.217.173:9003//hls/22/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-9
+http://58.20.77.182:9901/tsfile/live/0009_1.m3u8?key=txiptv$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-9
+http://61.145.208.64:9003//hls/10/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-9
+http://110.177.146.152:888/rtp/239.1.1.16:8016$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-9
+http://183.236.43.98:4014/rtp/239.77.0.135:5146$缁勬挱婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-9
+http://59.173.183.242:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-9
+http://220.249.114.102:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-9
+http://58.19.38.162:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-9
+http://116.128.242.83:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-9
+http://42.48.50.232:9002/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-9
+http://183.94.146.109:2222/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-10
+http://58.20.77.182:9901/tsfile/live/0010_1.m3u8?key=txiptv$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-10
+http://101.72.127.38:808/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-10
+http://124.128.73.58:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-10
+http://112.102.217.173:9003//hls/23/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-10
+http://110.177.146.152:888/rtp/239.1.1.17:8017$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-10
+http://116.128.242.83:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-10
+http://183.94.146.109:2222/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-10
+http://58.19.38.162:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-10
+http://59.173.183.242:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-10
+http://61.136.172.236:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-10
+http://220.249.114.102:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-10
+http://42.48.50.232:9002/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-11
+http://218.77.81.186:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-11
+http://61.145.208.64:9003//hls/12/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-11
+http://222.243.221.54:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-11
+http://183.66.15.146:60901/tsfile/live/0011_1.m3u8?key=txiptv$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-11
+http://60.12.183.46:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-11
+http://120.76.248.139/live/bfgd/4200000130.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-11
+http://110.177.146.152:888/rtp/239.1.1.18:8018$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-11
+http://220.249.114.102:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-11
+http://61.136.172.236:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-11
+http://42.48.50.232:9002/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-11
+http://58.19.38.162:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-11
+http://116.128.242.83:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-11
+http://59.173.183.242:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-11
+http://183.94.146.109:2222/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-12
+http://110.80.17.38:9901/tsfile/live/0012_1.m3u8?key=txiptv$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-12
+http://218.76.32.193:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-12
+http://124.128.73.58:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-12
+http://120.76.248.139/live/bfgd/4200000131.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-12
+http://110.177.146.152:888/rtp/239.1.1.19:8019$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-12
+http://183.94.146.109:2222/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-12
+http://220.249.114.102:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-12
+http://58.19.38.162:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-12
+http://42.48.50.232:9002/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-12
+http://61.136.172.236:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-12
+http://116.128.242.83:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-12
+http://59.173.183.242:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-13
+http://101.72.127.38:808/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-13
+http://222.218.159.183:8181/tsfile/live/faacts/0013_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-13
+http://110.177.146.152:888/rtp/239.1.1.20:8020$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-13
+http://116.128.242.83:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-13
+http://220.249.114.102:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-13
+http://42.48.50.232:9002/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-13
+http://61.136.172.236:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-13
+http://58.19.38.162:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-13
+http://183.94.146.109:2222/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-14
+http://110.177.146.152:888/rtp/239.1.1.21:8021$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-14
+http://183.236.43.98:4014/rtp/239.77.0.133:5146$缁勬挱婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-14
+http://42.48.50.232:9002/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-14
+http://220.249.114.102:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-14
+http://59.173.183.242:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-14
+http://61.136.172.236:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-14
+http://58.19.38.162:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-14
+http://116.128.242.83:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-14
+http://183.94.146.109:2222/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-15
+http://120.76.248.139/live/bfgd/4200000133.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-15
+http://183.66.15.146:60901/tsfile/live/0015_1.m3u8?key=txiptv$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-15
+http://222.218.159.183:8181/tsfile/live/faacts/0015_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-15
+http://110.177.146.152:888/rtp/239.1.1.22:8022$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-15
+http://183.236.43.98:4014/rtp/239.77.1.239:5146$缁勬挱婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-15
+http://42.48.50.232:9002/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-15
+http://183.94.146.109:2222/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-15
+http://59.173.183.242:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-15
+http://220.249.114.102:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-15
+http://116.128.242.83:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-15
+http://58.19.38.162:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-15
+http://61.136.172.236:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-16
+http://112.102.217.173:9003//hls/29/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-16
+http://61.145.208.64:9003//hls/17/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-16
+http://222.218.159.183:8181/tsfile/live/faacts/1021_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-16
+http://183.236.43.98:4014/rtp/239.77.1.76:5146$缁勬挱婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-17
+http://60.210.100.54:352/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-17
+http://159.75.85.63:5678/zb.php?id=douyin$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-17
+http://101.72.127.38:808/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-17
+http://120.76.248.139/live/bfgd/4200000204.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-17
+http://110.177.146.152:888/rtp/239.1.1.23:8023$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="澶棰戦亾",CCTV-17
+http://59.173.183.242:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶棰戦亾",CETV1
+http://101.72.127.38:808/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CETV1
+http://183.236.43.98:4014/rtp/239.77.1.222:5146$缁勬挱婧?
+#EXTINF:-1 group-title="澶棰戦亾",CETV2
+http://101.72.127.38:808/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CETV4
+http://101.72.127.38:808/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="澶棰戦亾",CETV4
+http://183.236.43.98:4014/rtp/239.253.43.40:5146$缁勬挱婧?
+#EXTINF:-1 group-title="澶鏂板奖",涓ぎ鏂板奖-鑰佹晠浜?
+http://120.76.248.139/live/bfgd/4200000166.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="澶鏂板奖",涓ぎ鏂板奖-鍙戠幇涔嬫梾
+http://120.76.248.139/live/bfgd/4200000151.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="澶鏂板奖",閲嶆俯缁忓吀
+http://120.76.248.139/live/bfgd/4200000635.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="澶鏂板奖",閲嶆俯缁忓吀
+http://120.76.248.139/live/bfgd/4200000636.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="澶鏂板奖",椋庝簯闊充箰
+http://61.145.208.64:9003//hls/67/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="澶鏂板奖",绗竴鍓у満
+http://61.145.208.64:9003//hls/69/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="澶鏂板奖",绗竴鍓у満
+http://183.236.43.98:4014/rtp/239.253.43.28:5146$缁勬挱婧?
+#EXTINF:-1 group-title="澶鏂板奖",绗竴鍓у満
+http://58.19.38.162:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶鏂板奖",椋庝簯鍓у満
+http://61.145.208.64:9003//hls/70/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="澶鏂板奖",鎬€鏃у墽鍦?
+http://61.145.208.64:9003//hls/66/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="澶鏂板奖",椋庝簯瓒崇悆
+http://58.19.38.162:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶鏂板奖",椋庝簯瓒崇悆
+http://183.94.146.109:2222/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="澶鏂板奖",鐢佃鎸囧崡
+http://183.236.43.98:4014/rtp/239.253.43.10:5146$缁勬挱婧?
+#EXTINF:-1 group-title="澶鏂板奖",鍏靛櫒绉戞妧
+http://61.145.208.64:9003//hls/68/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍑ゅ嚢涓枃
+http://211.72.65.236:8577/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍑ゅ嚢涓枃
+http://cdn3.1678520.xyz/live/live1.1.php?id=fhzw$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍑ゅ嚢涓枃
+http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzw$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍑ゅ嚢璧勮
+http://211.72.65.236:8576/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍑ゅ嚢璧勮
+http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍑ゅ嚢璧勮
+http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",骞夸笢鍗
+http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",骞夸笢鍗
+http://218.76.32.193:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",骞夸笢鍗
+http://120.76.248.139/live/bfgd/4200000092.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",骞夸笢鍗
+http://110.177.146.152:888/rtp/239.1.1.49:8049$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",骞夸笢鍗
+http://61.136.172.236:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",骞夸笢鍗
+http://183.94.146.109:2222/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",骞夸笢鍗
+http://220.249.114.102:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娴欐睙鍗
+http://211.72.65.236:8571/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娴欐睙鍗
+http://120.76.248.139/live/bfgd/4200000094.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娴欐睙鍗
+http://27.41.246.172:9003//hls/41/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娴欐睙鍗
+http://218.76.32.193:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娴欐睙鍗
+http://110.177.146.152:888/rtp/239.1.1.38:8038$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娴欐睙鍗
+http://183.236.43.98:4014/rtp/239.77.0.89:5146$缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娴欐睙鍗
+http://42.48.50.232:9002/tsfile/live/0124_2.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娴欐睙鍗
+http://116.128.242.83:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娴欐睙鍗
+http://220.249.114.102:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娴欐睙鍗
+http://61.136.172.236:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娴欐睙鍗
+http://183.94.146.109:2222/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娴欐睙鍗
+http://59.173.183.242:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娴欐睙鍗
+http://58.19.38.162:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",婀栧崡鍗
+http://61.138.128.226:19901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",婀栧崡鍗
+http://222.134.245.16:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",婀栧崡鍗
+http://101.72.127.38:808/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",婀栧崡鍗
+http://60.12.183.46:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",婀栧崡鍗
+http://222.218.159.183:8181/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",婀栧崡鍗
+http://110.177.146.152:888/rtp/239.1.1.28:8028$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",婀栧崡鍗
+http://116.128.242.83:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",婀栧崡鍗
+http://220.249.114.102:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",婀栧崡鍗
+http://42.48.50.232:9002/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",婀栧崡鍗
+http://58.19.38.162:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",婀栧崡鍗
+http://183.94.146.109:2222/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",婀栧崡鍗
+http://59.173.183.242:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",婀栧崡鍗
+http://61.136.172.236:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",姹熻嫃鍗
+http://218.76.32.193:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",姹熻嫃鍗
+http://222.169.85.8:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",姹熻嫃鍗
+http://110.177.146.152:888/rtp/239.1.1.35:8035$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",姹熻嫃鍗
+http://59.173.183.242:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",姹熻嫃鍗
+http://58.19.38.162:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",姹熻嫃鍗
+http://183.94.146.109:2222/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",姹熻嫃鍗
+http://220.249.114.102:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",姹熻嫃鍗
+http://42.48.50.232:9002/tsfile/live/0127_2.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",姹熻嫃鍗
+http://116.128.242.83:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",姹熻嫃鍗
+http://61.136.172.236:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍖椾含鍗
+http://120.76.248.139/live/bfgd/4200000083.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍖椾含鍗
+http://222.218.159.183:8181/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍖椾含鍗
+http://110.177.146.152:888/rtp/239.1.1.41:8041$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍖椾含鍗
+http://183.236.43.98:4014/rtp/239.77.0.91:5146$缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍖椾含鍗
+http://61.136.172.236:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍖椾含鍗
+http://42.48.50.232:9002/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍖椾含鍗
+http://58.19.38.162:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍖椾含鍗
+http://183.94.146.109:2222/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍖椾含鍗
+http://59.173.183.242:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍖椾含鍗
+http://220.249.114.102:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍖椾含鍗
+http://116.128.242.83:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",婀栧寳鍗
+http://124.128.73.58:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",婀栧寳鍗
+http://112.102.217.173:9003//hls/54/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",婀栧寳鍗
+http://61.145.208.64:9003//hls/31/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",婀栧寳鍗
+http://120.76.248.139/live/bfgd/4200000102.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",婀栧寳鍗
+http://110.177.146.152:888/rtp/239.1.1.32:8032$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",婀栧寳鍗
+http://183.236.43.98:4014/rtp/239.77.0.95:5146$缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",婀栧寳鍗
+http://58.19.38.162:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",婀栧寳鍗
+http://116.128.242.83:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",婀栧寳鍗
+http://183.94.146.109:2222/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",婀栧寳鍗
+http://61.136.172.236:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",婀栧寳鍗
+http://59.173.183.242:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",婀栧寳鍗
+http://220.249.114.102:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",婀栧寳鍗
+http://42.48.50.232:9002/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",瀹夊窘鍗
+http://61.145.208.64:9003//hls/36/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",瀹夊窘鍗
+http://222.218.159.183:8181/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",瀹夊窘鍗
+http://101.72.127.38:808/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",瀹夊窘鍗
+http://110.177.146.152:888/rtp/239.1.1.44:8044$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",瀹夊窘鍗
+http://183.236.43.98:4014/rtp/239.77.0.183:5146$缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",瀹夊窘鍗
+http://58.19.38.162:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",瀹夊窘鍗
+http://61.136.172.236:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",瀹夊窘鍗
+http://220.249.114.102:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",瀹夊窘鍗
+http://42.48.50.232:9002/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",瀹夊窘鍗
+http://116.128.242.83:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",瀹夊窘鍗
+http://183.94.146.109:2222/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",閲嶅簡鍗
+http://27.41.245.129:9003//hls/42/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",閲嶅簡鍗
+http://120.76.248.139/live/bfgd/4200000107.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",閲嶅簡鍗
+http://124.128.73.58:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",閲嶅簡鍗
+http://110.177.146.152:888/rtp/239.1.1.36:8036$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",閲嶅簡鍗
+http://183.236.43.98:4014/rtp/239.77.0.182:5146$缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",閲嶅簡鍗
+http://116.128.242.83:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",閲嶅簡鍗
+http://61.136.172.236:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",閲嶅簡鍗
+http://220.249.114.102:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",閲嶅簡鍗
+http://42.48.50.232:9002/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",涓滄柟鍗
+http://211.72.65.236:8572/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",涓滄柟鍗
+http://211.72.65.236:8528/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",涓滄柟鍗
+http://59.173.243.210:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",涓滄柟鍗
+http://58.19.38.162:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",涓滄柟鍗
+http://42.48.50.232:9002/tsfile/live/0107_2.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",涓滄柟鍗
+http://61.136.172.236:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",涓滄柟鍗
+http://116.128.242.83:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",涓滄柟鍗
+http://59.173.183.242:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",涓滄柟鍗
+http://220.249.114.102:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",涓滄柟鍗
+http://183.94.146.109:2222/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",涓滃崡鍗
+http://61.145.208.64:9003//hls/22/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",涓滃崡鍗
+http://112.102.217.173:9003//hls/47/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",涓滃崡鍗
+http://110.177.146.152:888/rtp/239.1.1.33:8033$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",涓滃崡鍗
+http://183.236.43.98:4014/rtp/239.77.1.104:5146$缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",涓滃崡鍗
+http://116.128.242.83:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",涓滃崡鍗
+http://58.19.38.162:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",涓滃崡鍗
+http://61.136.172.236:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",涓滃崡鍗
+http://183.94.146.109:2222/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",涓滃崡鍗
+http://42.48.50.232:9002/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",涓滃崡鍗
+http://220.249.114.102:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鐢樿們鍗
+http://112.102.217.173:9003//hls/70/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鐢樿們鍗
+http://110.177.146.152:888/rtp/239.1.1.51:8051$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鐢樿們鍗
+http://183.236.43.98:4014/rtp/239.77.0.189:5146$缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鐢樿們鍗
+http://220.249.114.102:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鐢樿們鍗
+http://59.173.183.242:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",骞胯タ鍗
+http://124.128.73.58:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",骞胯タ鍗
+http://218.76.32.193:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",骞胯タ鍗
+http://218.89.240.144:59901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",骞胯タ鍗
+http://101.72.127.38:808/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",骞胯タ鍗
+http://110.177.146.152:888/rtp/239.1.1.40:8040$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",骞胯タ鍗
+http://183.236.43.98:4014/rtp/239.253.43.36:5146$缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",骞胯タ鍗
+http://42.48.50.232:9002/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",骞胯タ鍗
+http://220.249.114.102:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",骞胯タ鍗
+http://61.136.172.236:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",骞胯タ鍗
+http://183.94.146.109:2222/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",璐靛窞鍗
+http://61.145.208.64:9003//hls/28/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",璐靛窞鍗
+http://124.128.73.58:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",璐靛窞鍗
+http://27.41.245.129:9003//hls/28/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",璐靛窞鍗
+http://222.218.159.183:8181/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",璐靛窞鍗
+http://110.177.146.152:888/rtp/239.1.1.43:8043$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",璐靛窞鍗
+http://183.236.43.98:4014/rtp/239.77.0.230:5146$缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",璐靛窞鍗
+http://220.249.114.102:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",璐靛窞鍗
+http://58.19.38.162:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",璐靛窞鍗
+http://61.136.172.236:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",璐靛窞鍗
+http://42.48.50.232:9002/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",璐靛窞鍗
+http://59.173.183.242:9901/tsfile/live/0011_2.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娴峰崡鍗
+http://61.157.139.15:9901/tsfile/live/2404_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娴峰崡鍗
+http://120.76.248.139/live/bfgd/4200000473.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娴峰崡鍗
+http://112.102.217.173:9003//hls/53/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娴峰崡鍗
+http://110.177.146.152:888/rtp/239.1.1.55:8055$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娴峰崡鍗
+http://183.236.43.98:4014/rtp/239.253.43.35:5146$缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娴峰崡鍗
+http://42.48.50.232:9002/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娴峰崡鍗
+http://220.249.114.102:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娌冲寳鍗
+http://112.102.217.173:9003//hls/56/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娌冲寳鍗
+http://110.177.146.152:888/rtp/239.1.1.48:8048$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娌冲寳鍗
+http://183.236.43.98:4014/rtp/239.77.0.148:5146$缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娌冲寳鍗
+http://59.173.183.242:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娌冲寳鍗
+http://61.136.172.236:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娌冲寳鍗
+http://116.128.242.83:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娌冲寳鍗
+http://42.48.50.232:9002/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娌冲寳鍗
+http://220.249.114.102:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娌冲崡鍗
+http://124.128.73.58:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娌冲崡鍗
+http://120.76.248.139/live/bfgd/4200000339.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娌冲崡鍗
+http://202.100.46.58:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娌冲崡鍗
+http://110.177.146.152:888/rtp/239.1.1.34:8034$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娌冲崡鍗
+http://183.236.43.98:4014/rtp/239.77.1.229:5146$缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娌冲崡鍗
+http://58.19.38.162:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娌冲崡鍗
+http://61.136.172.236:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娌冲崡鍗
+http://220.249.114.102:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍚夋灄鍗
+http://61.145.208.64:9003//hls/52/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍚夋灄鍗
+http://27.41.245.129:9003//hls/29/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍚夋灄鍗
+http://110.177.146.152:888/rtp/239.1.1.30:8030$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍚夋灄鍗
+http://61.136.172.236:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍚夋灄鍗
+http://220.249.114.102:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍚夋灄鍗
+http://183.94.146.109:2222/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍚夋灄鍗
+http://42.48.50.232:9002/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",姹熻タ鍗
+http://58.48.37.158:1111/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",姹熻タ鍗
+http://101.72.127.38:808/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",姹熻タ鍗
+http://61.145.208.64:9003//hls/32/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",姹熻タ鍗
+http://110.177.146.152:888/rtp/239.1.1.52:8052$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",姹熻タ鍗
+http://183.236.43.98:4014/rtp/239.77.1.219:5146$缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",姹熻タ鍗
+http://220.249.114.102:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",姹熻タ鍗
+http://58.19.38.162:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",姹熻タ鍗
+http://61.136.172.236:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",姹熻タ鍗
+http://42.48.50.232:9002/tsfile/live/0138_2.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",姹熻タ鍗
+http://116.128.242.83:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",杈藉畞鍗
+http://120.76.248.139/live/bfgd/4200000058.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",杈藉畞鍗
+http://61.145.208.64:9003//hls/30/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",杈藉畞鍗
+http://124.128.73.58:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",杈藉畞鍗
+http://101.72.127.38:808/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",杈藉畞鍗
+http://120.76.248.139/live/bfgd/4200000141.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",杈藉畞鍗
+http://110.177.146.152:888/rtp/239.1.1.42:8042$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",杈藉畞鍗
+http://116.128.242.83:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",杈藉畞鍗
+http://42.48.50.232:9002/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",杈藉畞鍗
+http://220.249.114.102:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",杈藉畞鍗
+http://61.136.172.236:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",杈藉畞鍗
+http://58.19.38.162:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",瀹佸鍗
+http://118.122.189.74:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",瀹佸鍗
+http://27.41.245.129:9003//hls/33/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",瀹佸鍗
+http://124.128.73.58:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",瀹佸鍗
+http://27.41.246.172:9003//hls/33/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",瀹佸鍗
+http://110.177.146.152:888/rtp/239.1.1.56:8056$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",瀹佸鍗
+http://220.249.114.102:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",瀹佸鍗
+http://42.48.50.232:9002/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",瀹佸鍗
+http://183.94.146.109:2222/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",闈掓捣鍗
+http://27.41.245.129:9003//hls/34/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",闈掓捣鍗
+http://120.76.248.139/live/bfgd/4200000111.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",闈掓捣鍗
+http://110.177.146.152:888/rtp/239.1.1.53:8053$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",闈掓捣鍗
+http://183.236.43.98:4014/rtp/239.253.43.125:5146$缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",闈掓捣鍗
+http://59.173.183.242:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",闈掓捣鍗
+http://42.48.50.232:9002/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",闈掓捣鍗
+http://220.249.114.102:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",闈掓捣鍗
+http://183.94.146.109:2222/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",灞变笢鍗
+http://101.72.127.38:808/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",灞变笢鍗
+http://61.145.208.64:9003//hls/33/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",灞变笢鍗
+http://120.76.248.139/live/bfgd/4200000099.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",灞变笢鍗
+http://110.177.146.152:888/rtp/239.1.1.47:8047$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",灞变笢鍗
+http://183.236.43.98:4014/rtp/239.77.0.94:5146$缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",灞变笢鍗
+http://42.48.50.232:9002/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",灞变笢鍗
+http://116.128.242.83:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",灞变笢鍗
+http://61.136.172.236:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",灞变笢鍗
+http://220.249.114.102:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",灞变笢鍗
+http://58.19.38.162:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",灞辫タ鍗
+http://124.128.73.58:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",灞辫タ鍗
+http://110.177.146.152:888/rtp/239.1.1.1:8001$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",灞辫タ鍗
+http://110.185.39.111:8888/rtp/239.93.0.6:5140$鍥涘窛鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",灞辫タ鍗
+http://xeace.cn:8888/rtp/239.93.0.6:5140$鍥涘窛鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",灞辫タ鍗
+http://183.94.146.109:2222/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",灞辫タ鍗
+http://220.249.114.102:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",灞辫タ鍗
+http://42.48.50.232:9002/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",闄曡タ鍗
+http://120.76.248.139/live/bfgd/4200000512.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",闄曡タ鍗
+http://61.145.208.64:9003//hls/62/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",闄曡タ鍗
+http://101.72.127.38:808/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",闄曡タ鍗
+http://112.102.217.173:9003//hls/68/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",闄曡タ鍗
+http://222.218.159.183:8181/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",闄曡タ鍗
+http://110.177.146.152:888/rtp/239.1.1.50:8050$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",闄曡タ鍗
+http://59.173.183.242:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",闄曡タ鍗
+http://220.249.114.102:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",闄曡タ鍗
+http://183.94.146.109:2222/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",闄曡タ鍗
+http://42.48.50.232:9002/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍥涘窛鍗
+http://112.102.217.173:9003//hls/50/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍥涘窛鍗
+http://118.122.189.74:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍥涘窛鍗
+http://222.218.159.183:8181/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍥涘窛鍗
+http://61.145.208.64:9003//hls/27/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍥涘窛鍗
+http://110.177.146.152:888/rtp/239.1.1.29:8029$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍥涘窛鍗
+http://183.236.43.98:4014/rtp/239.77.1.215:5146$缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍥涘窛鍗
+http://116.128.242.83:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍥涘窛鍗
+http://42.48.50.232:9002/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍥涘窛鍗
+http://61.136.172.236:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍥涘窛鍗
+http://220.249.114.102:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娣卞湷鍗
+http://27.41.245.129:9003//hls/21/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娣卞湷鍗
+http://101.72.127.38:808/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娣卞湷鍗
+http://27.41.246.172:9003//hls/21/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娣卞湷鍗
+http://61.145.208.64:9003//hls/41/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娣卞湷鍗
+http://110.177.146.152:888/rtp/239.1.1.39:8039$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娣卞湷鍗
+http://220.249.114.102:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娣卞湷鍗
+http://116.128.242.83:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娣卞湷鍗
+http://59.173.183.242:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娣卞湷鍗
+http://42.48.50.232:9002/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娣卞湷鍗
+http://61.136.172.236:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娣卞湷鍗
+http://58.19.38.162:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",娣卞湷鍗
+http://183.94.146.109:2222/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",涓夋矙鍗
+http://101.72.127.38:808/tsfile/live/0150_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",涓夋矙鍗
+http://61.138.128.226:19901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",涓夋矙鍗
+http://110.177.146.152:888/rtp/239.1.1.70:8070$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",涓夋矙鍗
+http://183.236.43.98:4014/rtp/239.253.43.113:5146$缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",涓夋矙鍗
+http://220.249.114.102:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",澶╂触鍗
+http://115.149.139.141:10001/tsfile/live/1036_1.m3u8?blog.ntnas.top$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",澶╂触鍗
+http://101.72.127.38:808/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",澶╂触鍗
+http://61.145.208.64:9003//hls/34/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",澶╂触鍗
+http://218.76.32.193:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",澶╂触鍗
+http://110.177.146.152:888/rtp/239.1.1.46:8046$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",澶╂触鍗
+http://183.236.43.98:4014/rtp/239.77.0.97:5146$缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",澶╂触鍗
+http://61.136.172.236:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",澶╂触鍗
+http://58.19.38.162:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",澶╂触鍗
+http://116.128.242.83:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",澶╂触鍗
+http://42.48.50.232:9002/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",澶╂触鍗
+http://220.249.114.102:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",瑗胯棌鍗
+http://120.76.248.139/live/bfgd/4200000121.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",瑗胯棌鍗
+http://61.145.208.64:9003//hls/61/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",瑗胯棌鍗
+http://110.177.146.152:888/rtp/239.1.1.57:8057$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",瑗胯棌鍗
+http://42.48.50.232:9002/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",瑗胯棌鍗
+http://220.249.114.102:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鏂扮枂鍗
+http://112.102.217.173:9003//hls/64/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鏂扮枂鍗
+http://61.145.208.64:9003//hls/47/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鏂扮枂鍗
+http://101.72.127.38:808/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鏂扮枂鍗
+http://27.41.245.129:9003//hls/40/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鏂扮枂鍗
+http://58.216.229.130:9901/tsfile/live/0120_6.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鏂扮枂鍗
+http://110.177.146.152:888/rtp/239.1.1.59:8059$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鏂扮枂鍗
+http://42.48.50.232:9002/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鏂扮枂鍗
+http://183.94.146.109:2222/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鏂扮枂鍗
+http://220.249.114.102:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",浜戝崡鍗
+http://222.169.85.8:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",浜戝崡鍗
+http://101.72.127.38:808/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",浜戝崡鍗
+http://110.177.146.152:888/rtp/239.1.1.54:8054$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",浜戝崡鍗
+http://42.48.50.232:9002/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",浜戝崡鍗
+http://59.173.183.242:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",浜戝崡鍗
+http://220.249.114.102:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",浜戝崡鍗
+http://183.94.146.109:2222/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",榛戦緳姹熷崼瑙?
+http://110.177.146.152:888/rtp/239.1.1.37:8037$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",榛戦緳姹熷崼瑙?
+http://183.236.43.98:4014/rtp/239.77.0.93:5146$缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",榛戦緳姹熷崼瑙?
+http://220.249.114.102:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",榛戦緳姹熷崼瑙?
+http://42.48.50.232:9002/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",榛戦緳姹熷崼瑙?
+http://61.136.172.236:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",榛戦緳姹熷崼瑙?
+http://59.173.183.242:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",榛戦緳姹熷崼瑙?
+http://116.128.242.83:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍐呰挋鍙ゅ崼瑙?
+http://59.48.75.130:3052/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍐呰挋鍙ゅ崼瑙?
+http://120.76.248.139/live/bfgd/4200000110.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍐呰挋鍙ゅ崼瑙?
+http://110.177.146.152:888/rtp/239.1.1.60:8060$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍐呰挋鍙ゅ崼瑙?
+http://110.185.39.111:8888/rtp/239.93.0.8:5140$鍥涘窛鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍐呰挋鍙ゅ崼瑙?
+http://xeace.cn:8888/rtp/239.93.0.8:5140$鍥涘窛鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="鍗棰戦亾",鍐呰挋鍙ゅ崼瑙?
+http://220.249.114.102:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鏂伴椈棰戦亾JW",槌冲嚢涓枃
+http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv$璁㈤槄婧?
+#EXTINF:-1 group-title="鏂伴椈棰戦亾JW",槌冲嚢涓枃
+http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鏂伴椈棰戦亾JW",槌冲嚢涓枃
+http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?$璁㈤槄婧?
+#EXTINF:-1 group-title="鏂伴椈棰戦亾JW",槌冲嚢璩囪▕
+http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv$璁㈤槄婧?
+#EXTINF:-1 group-title="鏂伴椈棰戦亾JW",TVB鏃犵嚎鏂伴椈
+http://cdn.iptv8k.top/dl/jspd.php?id=2$璁㈤槄婧?
+#EXTINF:-1 group-title="鏂伴椈棰戦亾JW",TVB鏃犵嚎鏂伴椈
+https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40$璁㈤槄婧?
+#EXTINF:-1 group-title="鏂伴椈棰戦亾JW",Now鏂伴椈
+https://20241108.weidu.filegear-sg.me/6fcc12cf/6fcc12cf.php?channel=9cbf2cebe7cf1446d2a9ddcb3238013c824b12019be7ef27eca28cf565c416b3421c7b1d8693f1011cc99c8da305b06e70ab75353c2440826919ac$璁㈤槄婧?
+#EXTINF:-1 group-title="鏂伴椈棰戦亾JW",TVBS HD
+http://211.72.65.236:8575/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鏂伴椈棰戦亾JW",骞翠唬鏂伴椈
+http://211.72.65.236:8539/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鏂伴椈棰戦亾JW",瀵板畤鏂伴椈鍙?
+http://211.72.65.236:8547/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鏂伴椈棰戦亾JW",涓滄．鏂伴椈
+http://211.72.65.236:8540/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鏂伴椈棰戦亾JW",涓ぉ缁煎悎
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8526/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="骞夸笢棰戦亾",骞夸笢鐝犳睙
+http://183.53.109.145:9003//hls/57/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="骞夸笢棰戦亾",骞夸笢鐝犳睙
+http://27.41.246.172:9003//hls/48/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="骞夸笢棰戦亾",骞夸笢鐝犳睙
+http://121.33.239.242:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="骞夸笢棰戦亾",骞夸笢鐝犳睙
+http://61.145.208.64:9003//hls/57/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="骞夸笢棰戦亾",骞夸笢浣撹偛
+http://27.41.245.129:9003//hls/750/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="骞夸笢棰戦亾",骞夸笢浣撹偛
+http://121.33.239.242:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="骞夸笢棰戦亾",骞夸笢浣撹偛
+http://27.41.246.172:9003//hls/750/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="骞夸笢棰戦亾",骞夸笢浣撹偛
+http://27.41.245.129:9003//hls/43/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="骞夸笢棰戦亾",骞夸笢浣撹偛
+http://183.236.43.98:4014/rtp/239.77.0.168:5146$缁勬挱婧?
+#EXTINF:-1 group-title="骞夸笢棰戦亾",骞夸笢鏂伴椈
+http://183.236.43.98:4014/rtp/239.77.0.173:5146$缁勬挱婧?
+#EXTINF:-1 group-title="骞夸笢棰戦亾",骞夸笢姘戠敓
+http://183.236.43.98:4014/rtp/239.77.0.225:5146$缁勬挱婧?
+#EXTINF:-1 group-title="骞夸笢棰戦亾",澶ф咕鍖哄崼瑙?
+http://110.177.146.152:888/udp/239.1.1.69:8069$璁㈤槄婧?
+#EXTINF:-1 group-title="骞夸笢棰戦亾",澶ф咕鍖哄崼瑙?
+http://ipv4.yximgs.top:2200/IPTV.php?id=dwqws$璁㈤槄婧?
+#EXTINF:-1 group-title="骞夸笢棰戦亾",澶ф咕鍖哄崼瑙?
+http://110.177.146.152:888/rtp/239.1.1.69:8069$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="骞夸笢棰戦亾",澶ф咕鍖哄崼瑙?
+http://183.236.43.98:4014/rtp/239.77.0.215:5146$缁勬挱婧?
+#EXTINF:-1 group-title="骞夸笢棰戦亾",骞垮窞缁煎悎
+http://183.236.43.98:4014/rtp/239.253.43.71:5146$缁勬挱婧?
+#EXTINF:-1 group-title="骞夸笢棰戦亾",骞垮窞褰辫
+http://183.236.43.98:4014/rtp/239.253.43.73:5146$缁勬挱婧?
+#EXTINF:-1 group-title="婀栧崡棰戦亾",婀栧崡鐢佃鍓?
+http://116.128.242.83:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="婀栧崡棰戦亾",婀栧崡閮藉競
+http://222.243.221.54:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="婀栧崡棰戦亾",婀栧崡閮藉競
+http://116.128.242.83:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="婀栧崡棰戦亾",婀栧崡閮藉競
+http://42.48.50.232:9002/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="婀栧崡棰戦亾",婀栧崡鐖辨櫄
+http://222.241.154.37:9901/tsfile/live/23022_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="婀栧崡棰戦亾",婀栧崡鏁欒偛
+http://222.241.154.37:9901/tsfile/live/23027_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="婀栧崡棰戦亾",婀栧崡缁忚
+http://42.48.50.232:9002/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧崡閰掑簵婧?
+#EXTINF:-1 group-title="婀栧崡棰戦亾",婀栧崡缁忚
+http://116.128.242.83:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="婀栧崡棰戦亾",婀栧崡濞变箰
+http://116.128.242.83:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="婀栧崡棰戦亾",閲戦拱绾疄
+http://110.177.146.152:888/rtp/239.1.1.63:8063$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="婀栧崡棰戦亾",閲戦拱绾疄
+http://183.236.43.98:4014/rtp/239.77.1.217:5146$缁勬挱婧?
+#EXTINF:-1 group-title="婀栧崡棰戦亾",閲戦拱绾疄
+http://220.249.114.102:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="婀栧崡棰戦亾",閲戦拱绾疄
+http://58.19.38.162:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="婀栧崡棰戦亾",閲戦拱绾疄
+http://116.128.242.83:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="婀栧崡棰戦亾",閲戦拱鍗￠€?
+http://58.48.37.158:1111/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="婀栧崡棰戦亾",閲戦拱鍗￠€?
+http://61.157.139.15:9901/tsfile/live/2419_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="婀栧崡棰戦亾",閲戦拱鍗￠€?
+http://110.177.146.152:888/rtp/239.1.1.61:8061$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="婀栧崡棰戦亾",閲戦拱鍗￠€?
+http://183.236.43.98:4014/rtp/239.77.0.164:5146$缁勬挱婧?
+#EXTINF:-1 group-title="婀栧崡棰戦亾",閲戦拱鍗￠€?
+http://116.128.242.83:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$鍖椾含閰掑簵婧?
+#EXTINF:-1 group-title="婀栧崡棰戦亾",閲戦拱鍗￠€?
+http://183.94.146.109:2222/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="婀栧崡棰戦亾",閲戦拱鍗￠€?
+http://220.249.114.102:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="婀栧崡棰戦亾",閲戦拱鍗￠€?
+http://58.19.38.162:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="婀栧崡棰戦亾",鑼堕閬?
+http://110.177.146.152:888/rtp/239.1.1.77:8077$灞辫タ鐢典俊缁勬挱婧?
+#EXTINF:-1 group-title="婀栧崡棰戦亾",鑼堕閬?
+http://183.236.43.98:4014/rtp/239.77.0.15:5146$缁勬挱婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",ViuTV6
+https://api.btbt.im/live?id=viutv$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",TVBS娆箰
+http://211.72.65.236:8532/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",TVBS鏂伴椈
+http://211.72.65.236:8574/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",TVBS浜氭床
+http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",TVBS浜氭床
+http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",ASTV浜氭床鍗
+https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",CINEMAX
+http://211.72.65.236:8508/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",CINEMAX
+http://211.72.65.236:8559/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",HOY TV
+https://api.btbt.im/live?id=hoytv$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",HOY 璧勮鍙?
+https://api.btbt.im/live?id=hoy-info$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",HOY鍥介檯璐㈢粡
+https://api.btbt.im/live?id=hoy-ibc$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",鍏ぇ鎴忓墽鍙?
+http://211.72.65.236:8531/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",鍏ぇ缁煎悎鍙?
+http://211.72.65.236:8520/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",涓滄．瓒呰
+https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",涓滄．瓒呰
+https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",涓滄．鎴忓墽
+http://211.72.65.236:8530/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",涓滄．缁煎悎
+http://211.72.65.236:8524/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",涓滄．缁煎悎
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8524/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",涓滄．缁煎悎
+https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",涓滄．缁煎悎
+https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",鍔ㄧ墿鏄熺悆
+http://211.72.65.236:8512/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",鍏
+http://211.72.65.236:8515/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",鍏
+http://211.72.65.236:8505/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",鍥藉鍦扮悊
+http://211.72.65.236:8509/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",濂借幈鍧炵數褰?
+http://211.72.65.236:8554/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",鍗庤鏂伴椈
+http://211.72.65.236:8503/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",闀滄柊闂?
+http://211.72.65.236:8578/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",榫欏崕鐢靛奖
+http://211.72.65.236:8556/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",榫欏崕鎴忓墽
+http://211.72.65.236:8549/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",缇庝簹鐢靛奖鍙?
+https://20241108.weidu.filegear-sg.me/6fcc12cf/6fcc12cf.php?channel=9cbf2cebe7cf1446d2a9ddcb3238013c824b12019be7ef27ec0b5d0c67e83cbd41127b2f8793f1011cc99c8da305b06e70aa7730300e4a8d6e13ae$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",姘戣
+http://211.72.65.236:8504/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",姘戣
+http://211.72.65.236:8573/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",鍗冪Η缁忓吀
+http://cdn.iptv8k.top/dl/jspd.php?id=5$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",浜洪棿鍗
+http://211.72.65.236:8502/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",浜洪棿鍗
+http://211.72.65.236:8506/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",涓夌珛鍙版咕鍙?
+http://211.72.65.236:8521/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",涓夌珛鍙版咕鍙?
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8521/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",涓夌珛鏂伴椈
+http://211.72.65.236:8543/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",涓夌珛鏂伴椈
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",鍙拌鏂伴椈
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",澶╂槧缁忓吀
+https://20241108.weidu.filegear-sg.me/6fcc12cf/6fcc12cf.php?channel=9cbf2cebe7cf1446d2a9ddcb3238013c824b12019be7ef27ec09472b65ca06bd6e287b178e93f1011cc99c8da305b06e70aa7730300e4a8d6e13ae$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",棣欐腐闈㈠寘
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8?$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",浜氭床鍗
+https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",鏈夌嚎鏂伴椈
+http://61.10.2.141:80/live_freedirect/freehd209_h.live/chunklist.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",鏈夌嚎鏂伴椈
+http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",鏈夌嚎鏂伴椈
+http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",鏈夌嚎鏂伴椈
+http://61.10.2.146/live_freedirect/freehd209_h.live/playlist.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",鏈夌嚎鏂伴椈
+http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",鏈夌嚎鏂伴椈
+http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",鏈夌嚎鏂伴椈
+http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u$璁㈤槄婧?
+#EXTINF:-1 group-title="娓锋境路鍙? tvg-logo=",涓ぉ濞变箰
+http://211.72.65.236:8527/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鐢靛奖棰戦亾",CHC瀹跺涵褰遍櫌
+https://20241108.weidu.filegear-sg.me/6fcc12cf/6fcc12cf.php?channel=9cbf2cebe7cf1446d2a9ddcb3238013c824b12019be7ef27ecafabc166fc10bf6f0a790683297cefaa5f5a8fa3071dbe920eadda32274e2e9aeea5a14e69$璁㈤槄婧?
+#EXTINF:-1 group-title="鐢靛奖棰戦亾",CHC瀹跺涵褰遍櫌
+http://183.94.146.109:2222/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鐢靛奖棰戦亾",CHC瀹跺涵褰遍櫌
+http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鐢靛奖棰戦亾",CHC鍔ㄤ綔鐢靛奖
+http://58.48.5.186:1111/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鐢靛奖棰戦亾",CHC鍔ㄤ綔鐢靛奖
+http://112.102.217.173:9003//hls/75/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鐢靛奖棰戦亾",CHC鍔ㄤ綔鐢靛奖
+https://20241108.weidu.filegear-sg.me/6fcc12cf/6fcc12cf.php?channel=9cbf2cebe7cf1446d2a9ddcb3238013c824b12019be7ef27ecafabc166d80ebe683b790683297cefaa5f5a8fa3071dbe920eadda32274e2e9aeea5a14e69$璁㈤槄婧?
+#EXTINF:-1 group-title="鐢靛奖棰戦亾",CHC鍔ㄤ綔鐢靛奖
+http://183.94.146.109:2222/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鐢靛奖棰戦亾",CHC鍔ㄤ綔鐢靛奖
+http://58.19.38.162:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鐢靛奖棰戦亾",CHC楂樻竻鐢靛奖
+http://220.249.114.102:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鐢靛奖棰戦亾",CHC楂樻竻鐢靛奖
+http://183.94.146.109:2222/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鐢靛奖棰戦亾",CHC楂樻竻鐢靛奖
+http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0$婀栧寳閰掑簵婧?
+#EXTINF:-1 group-title="鐢靛奖棰戦亾",Now鏄熷奖
+https://20241108.weidu.filegear-sg.me/6fcc12cf/6fcc12cf.php?channel=9cbf2cebe7cf1446d2a9ddcb3238013c824b12019be7ef27eca28cf564da20b26510780aa9297cef10e0b5342bf51183b6ab5b2a9df8a42cb3ea0655b3622cf5ae$璁㈤槄婧?
+#EXTINF:-1 group-title="鐢靛奖棰戦亾",Now鐖嗚胺
+https://20241108.weidu.filegear-sg.me/6fcc12cf/6fcc12cf.php?channel=9cbf2cebe7cf1446d2a9ddcb3238013c824b12019be7ef27eca28cf564da20b265107b1d8693f1011cc99c8da305b06e70aa7730300e4a8d6e13ae$璁㈤槄婧?
+#EXTINF:-1 group-title="鐢靛奖棰戦亾",娣樼數褰?
+http://39.134.135.80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?zoneoffset=480&servicetype=1&icpid=88888888&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=~~V2.0~XOsrWMA-UCdUl1hQSR9EKw~Q8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk~ExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2C119.123.69.186%2C20240802122114%2C10000100000000050000000003887498%2C162944%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007266384_0%2CEND&GuardEncType=2&from=6&popid=6&hms_devid=3729&prioritypopid=6&vqe=3$璁㈤槄婧?
+#EXTINF:-1 group-title="鐢靛奖棰戦亾",娣樼數褰?
+http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?servicetype=1&tenantId=8601&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EKlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20230121144555%2C3067071%2C10.30.228.104%2C20230121144555%2C10000100000000050000000003887498%2C3067071%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201370%2C%2C%2C2%2C%2C10000100000000060000000007266384_0%2CEND&GuardEncType=2&icpid=88888888&from=6&popid=6&hms_devid=3725&prioritypopid=6&vqe=3$璁㈤槄婧?
+#EXTINF:-1 group-title="鐢靛奖棰戦亾",娣樼數褰?
+http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$璁㈤槄婧?
+#EXTINF:-1 group-title="鐢靛奖棰戦亾",娣樼數褰?
+http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?servicetype=1&tenantId=8601&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EKlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20230121144555%2C3067071%2C10.30.228.104%2C20230121144555%2C10000100000000050000000003887498%2C3067071%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201370%2C%2C%2C2%2C%2C10000100000000060000000007266384_0%2CEND&GuardEncType=2&icpid=88888888&from=6&popid=6&hms_devid=3725&prioritypopid=6&vqe=3$璁㈤槄婧?
+#EXTINF:-1 group-title="鐢靛奖棰戦亾",娣樼數褰?
+http://39.134.135.80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$璁㈤槄婧?
+#EXTINF:-1 group-title="鐢靛奖棰戦亾",榛戣帗鐢靛奖
+http://112.102.217.173:9003//hls/99/index.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鐢靛奖棰戦亾",绾潵鐢靛奖
+http://211.72.65.236:8550/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="鐢靛奖棰戦亾",缁忓吀鐢靛奖
+http://113.57.20.158:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鐢靛奖棰戦亾",缁忓吀鐢靛奖
+http://11.xmyxc.cn/api/php/yy.php?id=1450556636$璁㈤槄婧?
+#EXTINF:-1 group-title="鐢靛奖棰戦亾",缁忓吀鐢靛奖
+http://59.48.75.130:3052/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="鐢靛奖棰戦亾",鏄熺┖鍗
+http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$璁㈤槄婧?
+#EXTINF:-1 group-title="HBO棰戦亾",HBO
+http://211.72.65.236:8580/.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="浣撹偛棰戦亾",鍏堥攱涔掔窘
+http://120.76.248.139/live/bfgd/4200000349.m3u8$璁㈤槄婧?
+#EXTINF:-1 group-title="浣撹偛棰戦亾",榄呭姏瓒崇悆
+http://110.177.146.152:888/udp/239.1.1.75:8075$璁㈤槄婧?
