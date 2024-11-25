@@ -1,42 +1,54 @@
 {
-    "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "./jar/XYQ.jar;md5;857c3864f652a8f670797d2002aadb82",
     "lives": [
         {
-          "name": "1",
-          "type":"0",
-          "pass": true,
-          "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/st1.txt",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "2",
-          "type":"0",
-          "pass": true,
-          "url":"http://120.79.4.185/new/mdlive.txt",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "3",
-          "type":"0",
-          "pass": true,
-          "url": "https://notabug.org/jick/ji/raw/master/jilive",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "HS",
-          "type":"0",
-          "pass": true,
-          "url":"https://raw.gitmirror.com/mlzlzj/hs/refs/heads/main/iptv_list.txt",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "沐辰",
-          "type":"0",
-          "pass": true,
-          "url":"https://json.doube.eu.org/live/migu/Sub.php",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
+            "name": "直播源1",
+            "type": 0,
+            "url": "https://gitea.moe/AV18/IPTV/raw/branch/main/%E8%A5%BF%E5%A4%8F%E5%BD%B1%E8%A7%86%E4%B8%80%E9%94%85%E7%AB%AF.txt",
+            "playerType": 1,
+            "epg": "https://epg.112114.free.hr?ch={name}&date={date}",
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+        },
+        {
+            "name": "黑软4K",
+            "type": 0,
+            "url": "http://rihou.cc:567/qtsd",
+            "playerType": 1
+        },
+        {
+            "name": "黑软松视",
+            "type": 0,
+            "url": "https://6539.kstore.space/QQ群810273966/p2p.txt",
+            "playerType": 1
+        },
+        {
+            "name": "黑软直播",
+            "type": 0,
+            "url": "https://6539.kstore.space/QQ群810273966/p2p.txt",
+            "playerType": 1
+        },
+        {
+            "name": "黑软专属",
+            "type": 0,
+            "url": "https://6539.kstore.space/QQ群810273966/p2p.txtt",
+            "playerType": 1
+        },
+        {
+            "name": "猫影视",
+            "type": 0,
+            "url": "http://rihou.55/ggzk",
+            "playerType": 1
+        },
+        {
+            "name": "春颖天下",
+            "type": 0,
+            "url": "https://gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/hailin/tvboxme/raw/lives/feihu6.txt?ref=master/",
+            "playerType": 1
+        },
+        {
+            "name": "云星线路",
+            "type": 0,
+            "url": "http://itvbox.cc/云星日记/如意直播/如意直播.txt",
+            "playerType": 1
         }
     ]
 }
