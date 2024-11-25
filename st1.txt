@@ -1639,7 +1639,7 @@ CCTV-02咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv2$订阅源
 CCTV-03咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv3$订阅源
 CCTV-04咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv4$订阅源
 CCTV-05咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv5$订阅源
-CCTV-5+咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv5p$订阅源
+CCTV-05+咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv5p$订阅源
 CCTV-06咪咕,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202$订阅源
 CCTV-06咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv6$订阅源
 CCTV-07咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv7$订阅源
@@ -1684,7 +1684,7 @@ CCTV-02咪咕,https://api.livednow.org/migu/631780532?sign=gAAAAABnJcJqr0fwyjCRZ
 CCTV-03咪咕,https://api.livednow.org/migu/624878271?sign=gAAAAABnJcJqBzuFtK_e-R8Y5zzuNWtH9dD5ErIUOw3PaGq-2cUt_ty4tVxaFlKDox0cB51jc5h1UbnYdWwVB34WOYuNc8lg2HAeZSq8eQxhLSx7-W74CNR6KtgxXvTUzW_5zsQ33PZEpqm7sIuxliL32bQtzxcIIdpid2Gub7vsNYzKJWuVjAicsjoVCenU41Q5dMi8XPDUfnmgkYYiwWzmBdMXqP4I5A%3D%3D
 CCTV-04咪咕,https://api.livednow.org/migu/631780421?sign=gAAAAABnJcJqz7oNO-xridbK_3LKb0rcdjVs_WY_BR-BFoq8eOg8Qvn3RMaRgOohlrGPc3mJhNalk-OevwcUL7y3ObKzAeZuWtWBxqyoXyW34cmtmAnNx9EC9rXDbjauxADNT6Li789Xmb3ezb7EUlD91o2aUf1qh-cxlGyyOjS9aZEyU-1CBA-uJhURtKm5m9k2wQBuSTDlSq_X2EYHz1jXzPXsKoJ7eA%3D%3D
 CCTV-05咪咕,https://api.livednow.org/migu/641886683?sign=gAAAAABnJcJq1zvWEm2fLwSljJPThpBYL_E8K7V3Vjqwa1MKKvqUi_E3bRWybwa_x3oX2iF9HH-wEJfMaE_5OvwPzGGu3NicPIuQA4yciDbKNZf7joK5ZUFzK0L36mvXUWWl9JorCKCXbQ62LAhIlbf2kzScSCcb9oUHPKWds9wWjWjam34gaFfwW7rHxvnvlcqRaj88yHfSrWqHJghFI-bLaFvNz1HoPw%3D%3D
-CCTV-5+咪咕,https://api.livednow.org/migu/641886773?sign=gAAAAABnJcJqTze6PuXdG9BEej5eW4BLImQigfoMaUf8uqVsrTWU2XPcpNAQkBcD0muMqEF9LzvxjIx7EBojiQbkHBD5j0Jhgf5-rBwl8jU3IJw5gsTQ2K6WngtWzyYcEmpoNgChlKkREdafyGUHTP8U4-G_ggVp1wP9_OuDXbCnXAQZKWP8e_nvjKVAHWsAfsrkcP2wHVy9aBq_REPOhp0w5W60Na3IcQ%3D%3D
+CCTV-05+咪咕,https://api.livednow.org/migu/641886773?sign=gAAAAABnJcJqTze6PuXdG9BEej5eW4BLImQigfoMaUf8uqVsrTWU2XPcpNAQkBcD0muMqEF9LzvxjIx7EBojiQbkHBD5j0Jhgf5-rBwl8jU3IJw5gsTQ2K6WngtWzyYcEmpoNgChlKkREdafyGUHTP8U4-G_ggVp1wP9_OuDXbCnXAQZKWP8e_nvjKVAHWsAfsrkcP2wHVy9aBq_REPOhp0w5W60Na3IcQ%3D%3D
 CCTV-06咪咕,https://api.livednow.org/migu/624878396?sign=gAAAAABnJcJqCeZPI9pdAJI3zwOoz9SDiYBoZQL2_YxTBPm_gj4SRFhG652Dpip8x7O4oFhlJnHFS7Q4Kf_7eU_C9FrHiwmE9NDcuC5hEnGmyVWm8ntsvjsPsht86e15yA-OlkJj8m8OOe0qL_OVbjhSq3iySwkXSGvcKXQvvn6bYSRHZOe8Fc0EhG8AsW_DtSzMfG2-4VfItHk5oSqULRJ7DuT8Hr-neQ%3D%3D
 CCTV-07咪咕,https://api.livednow.org/migu/673168121?sign=gAAAAABnJcJqjxuw5GDu1iojWpw4c-mjlefodslPuTvBI0grkKhdH8h_8I3xIavNltrXtbWMtHw2egHRBx-ciorem6WfS3xSWscFzvRmGcIdMlNJzhJ72fhC6f4jukCtJf6F79fYHQr5HfVJPSsBq9qCvVa1xZUsL40rtzOqtvaErO6BDEcA1JD4CyrNUboyvMBD11iNwc58nYXZiV-cubZaPaet8B6Xyg%3D%3D
 CCTV-08咪咕,https://api.livednow.org/migu/624878356?sign=gAAAAABnJcJqw9dP6jwWUpKtifWTU97cE4kDpJmHWTbZD1ezcD3BLnqA4kJ_aSSQhe-ijrx2Z5Bm-wNBbguJ08avBolBe_yGvaJ1XKsKys_EAvx1QOauipvQfuKV15NrpBtQEMBADkCRzEwhHzbrcugddFVzwBFgmu7RrqSIIe848HA7b03yYseeTrXmOBJr1i1i99vgEUQOlaa1ismbhcTCecoRnyCfpQ%3D%3D
@@ -1715,7 +1715,7 @@ CCTV-02咪咕,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv2
 CCTV-03咪咕,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv3
 CCTV-04咪咕,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv4
 CCTV-05咪咕,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv5
-CCTV-5+咪咕,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv5p
+CCTV-05+咪咕,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv5p
 CCTV-06咪咕,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 CCTV-06咪咕,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv6
 CCTV-07咪咕,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv7
@@ -1797,7 +1797,7 @@ CCTV-02咪咕,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv2
 CCTV-03咪咕,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv3
 CCTV-04咪咕,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv4
 CCTV-05咪咕,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv5
-CCTV-5+咪咕,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv5p
+CCTV-05+咪咕,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv5p
 CCTV-06咪咕,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 CCTV-06咪咕,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv6
 CCTV-07咪咕,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv7
