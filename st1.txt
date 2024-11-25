@@ -528,10 +528,10 @@ CETV4,http://122.9.151.210:887/rtp/238.255.2.222:5999$贵州电信组播源
 
 央视新影,#genre#
 
-女性时尚,http://gdctcc-livod.tx-cdn.gitv.tv/gitv_live/G_NVXINGSS/G_NVXINGSS.m3u8$广东银河源
+中央新影-老故事,http://gdctcc-livod.tx-cdn.gitv.tv/gitv_live/G_LAOGUSHI/G_LAOGUSHI.m3u8$广东银河源
+中央新影-发现之旅,http://gdctcc-livod.tx-cdn.gitv.tv/gitv_live/G_FAXIANZL/G_FAXIANZL.m3u8$广东银河源
+中央新影-女性时尚,http://gdctcc-livod.tx-cdn.gitv.tv/gitv_live/G_NVXINGSS/G_NVXINGSS.m3u8$广东银河源
 上海纪实,http://gdctcc-livod.tx-cdn.gitv.tv/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8$广东银河源
-老故事,http://gdctcc-livod.tx-cdn.gitv.tv/gitv_live/G_LAOGUSHI/G_LAOGUSHI.m3u8$广东银河源
-发现之旅,http://gdctcc-livod.tx-cdn.gitv.tv/gitv_live/G_FAXIANZL/G_FAXIANZL.m3u8$广东银河源
 
 
 中央新影-老故事,http://60.255.240.247:8090/live/lgs_2000.m3u8$订阅源
