@@ -1370,6 +1370,16 @@ CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index
 CNA,http://php.jdshipin.com:8880/xsj.php?id=channelnewsasia$订阅源
 
 新加坡频道,#genre#
+
+CNA,P2p://generationnexxxt.com:19806/061076408ecc4e4c97af6cbe74f897d9
+Channel 5,P2p://generationnexxxt.com:19806/e701bea921da476497494dffe17fa18f
+Channel 8,P2p://generationnexxxt.com:19806/916b5919192c43d7afa4496e9ba6090b
+Channel U,P2p://generationnexxxt.com:19806/56430c3beb8449ee94bd402c0860e524
+Channel 8,P2p://generationnexxxt.com:19806/c73aecdd56e54263975801fb3af30ff5
+Channel U,P2p://generationnexxxt.com:19806/56d9f8daf4584cc5af47c72f471ae9d7
+
+
+
 CNA,http://php.jdshipin.com:8880/xsj.php?id=channelnewsasia$订阅源
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8$订阅源
 CNA HD,http://php.jdshipin.com:8880/xsj.php?id=channelnewsasia$订阅源
@@ -1392,6 +1402,7 @@ Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8$订阅源
 Channel U HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8$订阅源
 Hub都会,http://php.jdshipin.com:8880/xsj.php?id=HubECity$订阅源
 Hub娱家,http://php.jdshipin.com:8880/xsj.php?id=HubVVDrama$订阅源
+
 港·澳·台,#genre#
 凤凰香港,http://60.164.128.167:8029/rtp/239.255.30.123:8231$组播源
 凤凰香港,http://www.lebaobei.top:6868/rtp/239.255.30.123:8231$甘肃电信组播源
