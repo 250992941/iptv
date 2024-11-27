@@ -38,7 +38,7 @@ CCTV4美洲,https://piccpndali.v.myalicdn.com/audio/cctvamerica_2.m3u8
 
 肇庆高新区广播,https://lhttp-hw.qtfm.cn/live/20500213/64k.mp3
 番禺电台畅快1017,https://lhttp-hw.qtfm.cn/live/20212427/64k.mp3
-怀集音乐之声,http://cnlive.cnr.cn/hls/hjyyzs.m3u8
+怀集音乐之声,http://lhttp.qingting.fm/live/4804/64k.mp3?n=8ce8473f0134e299fa9d
 广东城市之声,https://lhttp-hw.qtfm.cn/live/469/64k.mp3
 广东广播电视台股市广播,https://lhttp-hw.qtfm.cn/live/4847/64k.mp3
 广东广播电视台文体广播,https://lhttp-hw.qtfm.cn/live/471/64k.mp3
