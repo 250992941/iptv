@@ -19,6 +19,11 @@ CCTV16,https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
 CCTV17,https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
 CCTV4欧洲,https://piccpndali.v.myalicdn.com/audio/cctveurope_2.m3u8
 CCTV4美洲,https://piccpndali.v.myalicdn.com/audio/cctvamerica_2.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+东方卫视,http://satellitepull.cnr.cn/live/wx32dfws/playlist.m3u8
+浙江卫视,http://satellitepull.cnr.cn/live/wxzjws/playlist.m3u8
+江苏卫视,http://satellitepull.cnr.cn/live/wx32jsws/playlist.m3u8
+北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 
 电台音频,#genre#
 香港.第一台,https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8
