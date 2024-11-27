@@ -31,10 +31,10 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "HS",
+          "name": "Radio",
           "type":"0",
           "pass": true,
-          "url":"https://raw.gitmirror.com/mlzlzj/hs/refs/heads/main/iptv_list.txt",
+          "url":"https://raw.gitmirror.com/250992941/iptv/refs/heads/main/radio.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
