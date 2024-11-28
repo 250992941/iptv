@@ -1,6 +1,6 @@
 更新时间,#genre#
-2024-11-28 11:05:13,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000chrn8sjc77u9t0ofndkg&ratio=720p&line=0
-
+2024-11-28,https://pan.xccld.icu/f/eV3S1/wl.m3u
+11:05:13,https://pan.xccld.icu/f/0ywhy/li.m3u
 央视频道,#genre#
 CCTV1,http://183.3.134.56:9901/tsfile/live/0001_1.m3u8?key=tvbox6_com&playlive=1&authid=0$订阅源
 CCTV1,http://58.220.219.14:9901/tsfile/live/0001_1.m3u8$订阅源
