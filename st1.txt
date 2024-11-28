@@ -1922,6 +1922,21 @@ IPTV经典电影,http://123.56.129.203:4310/rtp/225.1.8.203:9024$北京电信组
 
 
 HBO频道,#genre#
+HBO HD,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476278.ts
+HBO 强档钜献,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476972.ts
+HBO family,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476973.ts
+HBO East,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476633.ts
+HBO Family,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476622.ts
+HBO,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477731.ts
+HBO EXTREME HD,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477737.ts
+HBO FAMILY HD,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477727.ts
+HBO Hits HD,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476972.ts
+HBO MUNDI HD,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477735.ts
+HBO PLUS HD,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477733.ts
+HBO POP HD,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477734.ts
+HBO SIGNATURE  HD,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477736.ts
+HBO Signature,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476634.ts
+
 HBO 原创巨献,http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee$订阅源
 HBO 家庭,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853$订阅源
 HBO 家庭,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f$订阅源
