@@ -1,6 +1,8 @@
 更新时间,#genre#
-2024-11-28,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476926.ts
-11:05:13,https://pan.xccld.icu/f/eV3S1/wl.m3u
+2024-11-28,https://res.cctvnews.cctv.com/video/1015/p/131169486959101132976001015/131169486962876006876011015/9491fce52b8743039d4ebdaf4b8a4926-4.m3u8
+
+11:05:13,https://ali-adaptive.pull.yximgs.com/gifshow/kwai_actL_ol_act_13040045634_strL_sd1000.flv?auth_key=1732869921-0-0-d92c79d54f95bd7960e5bdc724746bbc&tsc=origin&oidc=watchmen&sidc=2756&no_script=1&srcStrm=9QisBwJzCII&ss=s20&kabr_spts=-5000
+
 央视频道,#genre#
 CCTV1,http://183.3.134.56:9901/tsfile/live/0001_1.m3u8?key=tvbox6_com&playlive=1&authid=0$订阅源
 CCTV1,http://58.220.219.14:9901/tsfile/live/0001_1.m3u8$订阅源
