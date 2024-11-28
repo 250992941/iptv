@@ -5,6 +5,29 @@
 
 
 央视频道,#genre#
+
+CCTV-1,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-1-CQ
+CCTV-2,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-2-CQ
+CCTV-3,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-3-CQ
+CCTV-4,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-4-CQ
+CCTV-5,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-5-CQ
+CCTV-5+,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-5PLUS-CQ
+CCTV-6,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-6-CQ
+CCTV-7,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-7-CQ
+CCTV-8,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-8-CQ
+CCTV-9,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-9-CQ
+CCTV-10,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-10-CQ
+CCTV-11,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-11-CQ
+CCTV-12,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-12-CQ
+CCTV-13,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-13-CQ
+CCTV-14,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-14-CQ
+CCTV-15,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-15-CQ
+CCTV-16,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-16-CQ
+CCTV-17,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-17-CQ
+CCTV-NEWS,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-NEWS
+
+
+
 CCTV1,http://183.3.134.56:9901/tsfile/live/0001_1.m3u8?key=tvbox6_com&playlive=1&authid=0$订阅源
 CCTV1,http://58.220.219.14:9901/tsfile/live/0001_1.m3u8$订阅源
 CCTV1,http://113.118.13.45:808/hls/19/index.m3u8$订阅源
