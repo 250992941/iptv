@@ -3141,3 +3141,306 @@ SCTV2-单音轨,http://118.112.48.96:8178/udp/239.93.1.99:5140
 SCTV3-单音轨,http://118.112.48.96:8178/udp/239.93.1.15:5140
 热门本地-体验,http://118.112.48.96:8178/udp/239.93.1.53:5140
 影视文艺-单音轨,http://118.112.48.96:8178/udp/239.93.1.89:5140
+
+香港#genre#
+MyTV SUPER,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477554.ts
+TVB 翡翠台超清,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476929.ts
+TVB 翡翠台4K,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476927.ts
+TVB 翡翠台高清,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476930.ts
+TVB 明珠台超清,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476935.ts
+TVB 明珠台高清,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476936.ts
+無線新聞台高清,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476926.ts
+无线新闻台超清,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476925.ts
+HOY 资讯台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476957.ts
+香港國際財經台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476956.ts
+viu TV,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477538.ts
+ViuTV HD+,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476937.ts
+无线财经·资讯台4K,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476921.ts
+无线财经·资讯台高清,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476924.ts
+無線財經·資訊台超清,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476923.ts
+TVB J2 4K ,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476931.ts
+TVB J2,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476933.ts
+TVB J2高清,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476934.ts
+Now新聞,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477070.ts
+now新闻,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477070.ts
+NOW 財經台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477534.ts
+澳门莲花卫视（備）,https://fake-stream.livednow.com/redirect/lotustv?token=1a8f76fe20b71c522b58b58380c0e559
+鳳凰香港台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476963.ts
+鳳凰中文超清,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476962.ts
+凤凰資訊超清,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476961.ts
+凤凰资讯台（备）,http://210.210.155.37/qwr9ew/s/s21/index.m3u8
+凤凰卫视（备）,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/570838.ts
+港台電視31超清,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+HKC娛樂,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476213.ts
+18台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477555.ts
+澳门莲花,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476223.ts
+ViuTV6 HD+,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476939.ts
+TVB粤语片,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476225.ts
+TVB功夫台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476226.ts
+tvb功夫台（備）,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477551.ts
+TVB1,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476199.m3u8
+新時代2,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476215.m3u8
+新时代温哥华,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477610.ts
+新时代多倫多,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477609.ts
+TVB星河,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476200.ts
+TVB经典,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476210.ts
+TVB 戏曲台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477553.ts
+TVB 亚洲综艺台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477547.ts
+TVB 亚洲剧台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477549.ts
+TVB 华语台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477550.ts
+蓮花衛視,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476988.ts
+美亚高清电影台(香港),http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476212.ts
+美亞電影台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477078.ts
+星河频道,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476993.ts
+天映頻道,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476310.ts
+MYTV SUPER ,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477551.ts
+华纳WBTV,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476977.ts
+尼克动画高清,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477025.ts
+hoy资讯台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/481867.ts
+tvb综合,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/479226.ts
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+台湾#genre#
+123,rtmp://69.230.192.222/live/bgt
+cnn,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488932.ts#http://hdtvtw.com/jrlive.php?id=PhoenixChineseMY
+民視,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488996.ts
+民視（備）,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476986.ts
+人间卫视,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488957.ts
+台視,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488998.ts
+台視（备）,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476982.ts
+台視（备2）,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/507781.ts
+大愛電視,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477082.ts
+中視 HD,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476983.ts
+中視（備）,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488999.ts
+中視（備）,https://fake-stream.livednow.com/4gtv/4gtv-4gtv040?token=ca72b6ff5d757ea06da5c401301a3f49
+霹雳台湾,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488941.ts
+華視,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476985.ts
+華視（備）,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488997.ts
+華視（備）,https://fake-stream.livednow.com/4gtv/6?token=18b4ded23621c0d991b67544d09e866f
+公視,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476984.ts
+公視（備）,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/489000.ts
+幸福空間居家台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488986.ts
+好消息,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476227.ts
+原住民頻道,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476228.ts
+客家電視台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476229.ts
+客家电视台（備）,https://fake-stream.livednow.com/4gtv/107?token=687876a0addb2cb119e8f094cb9d5a09
+探索頻道,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476277.ts
+tlc旅遊台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488939.ts
+動物星球,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477088.ts
+CN卡通,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476247.ts
+迪士尼1,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/495450.ts
+Momo親子台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477060.ts
+momo亲子台（备）,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/508248.ts
+東森幼幼,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476246.ts
+緯來綜合,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477086.ts
+八大第1台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477071.ts
+八大第一台（備）,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/489004.ts
+八大綜合台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477069.ts
+八大綜合台（備）,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/489003.ts
+八大綜合台（備）,https://fake-stream.livednow.com/4gtv/114?token=d310b1c6b30326a8013de7b8ec1b9613
+三立台湾台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477050.ts
+三立台湾台（备）,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/481765.ts
+三立台湾（备2）,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/503982.ts
+三立都會台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476232.ts
+三立都會台（備）,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/489023.ts
+三立都会 备,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/518334.ts
+東森綜合,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476987.ts
+東森超視,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476234.ts
+東森購物2台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488988.ts
+momo购物2,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/495449.ts
+中天綜合,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477084.ts
+中天综合（备）,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/620132.ts
+中天娱乐 ,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/518696.ts
+中天娛樂,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476996.ts
+東森戲劇,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476994.ts
+東森戲劇台（備）,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/489002.ts
+八大戏剧台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488934.ts
+TVBS歡樂台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477068.ts
+TVBS歡樂台（备）,https://fake-stream.livednow.com/4gtv/184?token=914438a4c8a7fdcc9eb2471aa9681962
+緯來戲劇,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477067.ts
+JET綜合,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476239.ts
+東森購物3台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488989.ts
+東森購物1台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488987.ts
+壹電視新聞台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488993.ts
+壹新聞,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477087.ts
+年代新聞高清,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477030.ts
+東森新聞,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476998.ts
+東森新闻(备),http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/479200.ts
+東森新聞（備）,https://yt-stream.livednow.com/stream/S5WOGu2HSes/master.m3u8
+中天新聞,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477695.ts
+中天新闻 备,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/479209.ts
+中天新闻（備）,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/489006.ts
+中天新闻 备,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/519582.ts
+中天新闻（備）,https://yt-stream.livednow.com/stream/oIgbl7t0S_w/master.m3u8
+民視新聞,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477080.ts
+民视新闻 备,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/538797.ts
+民視新聞（備）,https://fake-stream.livednow.com/4gtv/litv-ftv13?token=b55a3e83d722a63441b3a1838a67e8bc
+三立新闻 news,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/492922.ts
+tvbs新闻(CES),http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/479199.ts
+tvbs新闻,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/494223.ts
+TVBS綜合高清,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477042.ts
+tvbs 综合 备,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/521130.ts
+東森財經新聞,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477062.ts
+非凡新聞,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477083.ts
+東森財經（備）,https://yt-stream.livednow.com/stream/WHEPzbFA3hw/master.m3u8
+viva购物台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/495452.ts
+东森购物5台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/493136.ts
+東森電影,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476995.ts
+緯來電影,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477063.ts
+龍祥電影台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476979.ts
+HBO HD,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476278.ts
+HBO 高清 ,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476974.ts
+東森洋片,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476997.ts
+東森洋片台（備）,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/489001.ts
+AXN壹湾,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476296.ts
+好萊塢電影,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476281.ts
+CineMax,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476283.ts
+緯來育樂,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477081.ts
+緯來體育,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477026.ts
+緯來體育（備）,https://fake-stream.livednow.com/redirect/videolandsports?token=fe44a6f50b373603e7ade66f751d2a37
+ELEVEN SPORTS 1 HD,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476990.ts
+ELEVEN SPORTS 2 HD,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476991.ts
+緯來日本,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477039.ts
+國興衛視,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476971.ts
+z频道,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/525785.ts
+Animax,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477583.ts
+八大娛樂,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477064.ts
+三立財經新聞,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488992.ts
+非凡商业台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488936.ts
+NHK,https://bmcc.nhkworld.jp/live/index_1M.m3u8
+華藏衛星電視台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/495256.ts
+生命电视,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
+信大電視台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/495258.ts
+正德电视频道,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/495464.ts
+台湾番薯電視台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/495096.ts
+大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+维心电视频道,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+民視第一台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476243.ts
+民視第一台（備）,https://fake-stream.livednow.com/4gtv/4gtv-4gtv003?token=3758307f36347497c96547757b1805e8
+民視台湾,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476244.ts
+民視台湾（備）,https://fake-stream.livednow.com/4gtv/4gtv-4gtv001?token=9c157dded413b0683514fe5acd3d025a
+中視菁采,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476260.ts
+中視菁采台（備）,https://fake-stream.livednow.com/4gtv/123?token=8a4c28b173681716b734325fdbd93ce7
+中視新聞台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476269.ts
+中視新聞（備）,https://fake-stream.livednow.com/4gtv/4gtv-4gtv074?token=dfede1a3669810ff4c61282a92adfb2f
+台視新聞台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476268.ts
+台視新聞（備）,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/495824.ts
+台視新聞（備）,https://yt-stream.livednow.com/stream/xL0ch83RAK8/master.m3u8
+台視新闻 备,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/529891.ts
+台視財經,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476271.ts
+台視綜合,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476261.ts
+達文西頻道,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/493134.ts
+達文西頻道（備）,https://fake-stream.livednow.com/4gtv/11?token=5d6187154f4face288d87356ae6632ff
+探索亞洲,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476978.ts
+discovery 探索科学（备）,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/489008.ts
+BBC地球高清,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477040.ts
+探索科學,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476981.ts
+緯來精采,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476286.ts
+華納電影,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476301.ts
+寰宇新聞,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476270.ts
+寰宇新闻（备）,https://fake-stream.livednow.com/4gtv/litv-longturn14?token=a48a58477f4f0bf10d930a884df8d23d
+亞洲旅遊,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476274.ts
+亞洲旅遊（備）,https://fake-stream.livednow.com/4gtv/250?token=1e7cfaf1f1673342f91b6807ebdc696d
+美食星球,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476263.ts
+HGTV居家樂活,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476328.ts
+博斯運動,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477034.ts
+AMC HD ,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477058.ts
+HBO 强档钜献,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476972.ts
+HBO family,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476973.ts
+博斯高球1,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477089.ts
+博斯高球2,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477073.ts
+博斯魅力,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477598.ts
+博斯網球,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477602.ts
+博斯運動 2,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477029.ts
+博斯無限,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477603.ts
+大爱二台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/493133.ts
+公视三台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/493131.ts
+彭博财经台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/493132.ts
+博斯無限 Ⅱ,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477604.ts
+龍華洋片,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477076.ts
+龍華日韓,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476231.ts
+龍華日韓 （备）,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/483360.ts
+龙华日韩（备）,https://fake-stream.livednow.com/4gtv/litv-longturn11?token=74540094d802181407acb91aec2b7864
+龍華經典,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476294.ts
+龍華電影,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476300.ts
+龍華電影（备）,https://fake-stream.livednow.com/4gtv/litv-longturn03?token=5fc1547ad0885b7487465cfc93c408ac
+Hollywood,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477065.ts
+龍華戲劇,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476293.ts
+龍華戲劇（備）,https://fake-stream.livednow.com/4gtv/23?token=f42cb2ceb9fbd50038ad7fa38dcc2225
+KLT靖天國際,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476254.ts
+靖天電影,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476290.ts
+靖天電影台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477061.ts
+靖天電影（备）,https://fake-stream.livednow.com/4gtv/4gtv-4gtv061?token=5b639205e26ded7a637e0257013e0744
+靖天戲劇,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476302.ts
+靖天戲劇（备）,https://fake-stream.livednow.com/4gtv/116?token=e06e34ddf1ea7376844aa5f4f9f875c9
+靖天卡通,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476249.ts
+靖天卡通台（备）,https://fake-stream.livednow.com/4gtv/15?token=154fcede334ef91894ac12b2ca7093e7
+靖天日本,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476256.ts
+靖天日本（备）,https://fake-stream.livednow.com/4gtv/4gtv-4gtv047?token=d6169004ece38bbcc7f0ef06135fbd52
+靖天歡樂台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476255.ts
+靖天歡樂（备）,https://fake-stream.livednow.com/4gtv/119?token=a12d9c7597bf7eea07ddd5c6adde3ab2
+靖天欢乐,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476253.ts
+靖天映畫,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476284.ts
+靖天映畫（备）,https://fake-stream.livednow.com/4gtv/42?token=b229f94b5c14dcf42eabd48b63c1be92
+靖天資訊台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476258.ts
+靖天綜合,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476259.ts
+靖天綜合（备）,https://fake-stream.livednow.com/4gtv/21?token=53e8ae9735c8eaddc3840946913d4859
+愛爾達影劇,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476282.ts
+ELTA體育1高清,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477037.ts
+ELTA 體育 1,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476267.ts
+愛爾達綜合高清,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477041.ts
+ELTA体育2台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488983.ts
+ELTA 體育 3,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/483407.ts
+elta 体育3 （备）,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/587744.ts
+AE,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476662.ts
+壹綜合,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476230.ts
+搜索亞洲,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476238.ts
+靖洋卡通,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476248.ts
+Baby TV(台湾),http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476250.ts
+搜索EVE,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476251.ts
+ELTA綜合,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476262.ts
+鏡新聞news,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476272.ts
+鏡電視新聞台（备）,https://fake-stream.livednow.com/4gtv/268?token=d0ae3ceca8432975e14b3da0d46715a3
+EYE 旅游,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476276.ts
+靖洋戲劇（备）,https://fake-stream.livednow.com/4gtv/118?token=9d65ed6164d628b37d484bc983cda228
+Baby TV HD,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477721.ts
+靖洋卡通nice bingo,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/481784.ts
+靖洋卡通台（备）,https://fake-stream.livednow.com/4gtv/59?token=8d7dac6ff1e42d49b1c88868a9806d1a
+靖天育樂台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/481789.ts
+靖天育樂（备）,https://fake-stream.livednow.com/4gtv/83?token=f15f03d7f5caebe3a50ba2c708e9af5c
+gtv八大精彩台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477035.ts
+AXN HD,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477730.ts
+AXN 亞洲,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476299.ts
+靖洋戲劇,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476285.ts
+尼克动画高清,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477025.ts
+華視新聞,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476266.ts
+華視新聞（備）,https://fake-stream.livednow.com/4gtv/4gtv-4gtv052?token=3f9f0dceeca5128fa572256ca3688c61
+寰宇财经台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488994.ts
+寰宇财经（备）,https://fake-stream.livednow.com/4gtv/281?token=29425fe88ac012ae389c984fd90c87b3
+公視戲劇,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476298.ts
+公視戲劇（备）,https://fake-stream.livednow.com/4gtv/4gtv-4gtv042?token=078929af7e8ca1243b15e1d86b3d0e71
+公视台语,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476235.ts
+中視經典,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476362.ts
+中視經典（備）,https://fake-stream.livednow.com/4gtv/124?token=80b3f9e7b74f066c3e523586b8d557d7
+民視綜藝,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476242.ts
+民視綜藝（備）,https://fake-stream.livednow.com/4gtv/4gtv-4gtv004?token=e6a6be636d58709b08a491a720f9fcfb
+民视旅遊,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476240.ts
+東森亞洲衛視,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476264.ts
+momo綜合台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488940.ts
+龍祥時代,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476295.ts
+三立國際,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476273.ts
+三立戲劇台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476288.ts
+智林體育台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488984.ts
+壹電視電影台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476280.ts
+TVBS精彩,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477075.ts
+中天亞洲台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476241.ts
+半岛电视（备）,https://epg.pw/stream/b7ed4a30861d17378eae7b5b2ba31e8d12f8d6679a4e66cd8425dda5f6eff50a.m3u8
+天映頻道,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476310.ts
+三立live,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/479198.ts
+探索世界,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476976.ts
+CinemaWorld,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477033.ts
+EYE TV戲劇台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476287.ts
+龙华动画,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/493135.ts
+卡通頻道,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477066.ts
+视纳华仁纪实台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/493137.ts
+历史频道,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/525779.ts
+华艺中文,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/509141.ts
