@@ -1,8 +1,5 @@
 更新时间,#genre#
-2024-11-28,https://res.cctvnews.cctv.com/video/1015/p/131169486959101132976001015/131169486962876006876011015/9491fce52b8743039d4ebdaf4b8a4926-4.m3u8
-
-11:05:13,https://hw-adaptive.pull.yximgs.com/gifshow/kwai_actL_ol_act_13036349624_strL_sd1000.flv?hwTime=67498004&hwSecret=de51c038b5191b502da1d732ac417b0d&tsc=origin&highTraffic=2&oidc=watchmen&sidc=2756&no_script=1&srcStrm=Mra51B0Ix7s&ss=s20&kabr_spts=-5000
-
+2024-11-28 11:05:13,http://tvbox6.icu/tv/gdmzyd.php?id=100
 
 央视频道,#genre#
 
