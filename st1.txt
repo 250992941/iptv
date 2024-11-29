@@ -458,6 +458,9 @@ CETV4,http://118.248.162.110:8888/rtp/239.76.252.254:9000$组播源
 
 中央新影-老故事,http://cqshushu.us.kg:2086/gitv.php?id=G_LAOGUSHI
 中央新影-发现之旅,http://cqshushu.us.kg:2086/gitv.php?id=G_FAXIANZL
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+
 
 中央新影-老故事,http://60.255.240.247:8090/live/lgs_2000.m3u8$订阅源
 中央新影-老故事,http://58.215.231.35/live2.ngaacdn.sc96655.com/live/lgs.m3u8$订阅源
@@ -1518,6 +1521,20 @@ Y+剧场台咪咕,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=yjjc
 
 
 新闻频道JW,#genre#
+
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$MY
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$MY
+鳳凰香港,https://live.hkdvb.com/hls/live/85.m3u8?token=275839252942857$MY
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$MY2
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$MY2
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk$MY2
+TVB无线新闻,http://zsntlqj.xicp.net:8896/bysid/83.m3u8$MY
+TVB无线新闻,http://cdn.iptv8k.top/dl/jspd.php?id=2$MY2
+寰宇新闻台,http://litv.zapi.us.kg/?id=litv-longturn14$YF
+
+
+
+
 凤凰中文,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8$订阅源
 凤凰中文,http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068$订阅源
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8$订阅源
