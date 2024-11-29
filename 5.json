@@ -139,7 +139,7 @@
           "name": "看电视",
           "type":"0",
           "pass": true,
-          "url":"http://8.138.7.223/v12.txt  ",
+          "url":"http://8.138.7.223/v12.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
        },{
