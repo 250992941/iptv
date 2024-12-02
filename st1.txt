@@ -1,6 +1,5 @@
 更新时间,#genre#
-2024-11-29 11:33:47,http://159.75.85.63:35455/huya/11602075
-
+2024-11-29 11:33:47,火烈鸟-云游动物园,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_ZOO-401$Cat
 
 央视频道,#genre#
 
@@ -27,6 +26,35 @@ CETV1,http://cqshushu.us.kg:2086/gitv.php?id=G_CETV-1-HQ$银河
 CETV2,http://cqshushu.us.kg:2086/gitv.php?id=G_CETV-2$银河
 CETV3,http://cqshushu.us.kg:2086/gitv.php?id=G_CETV-3$银河
 CETV4,http://cqshushu.us.kg:2086/gitv.php?id=G_CETV-4$银河
+
+CCTV1,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_CCTV-1-CQ$Cat
+CCTV2,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_CCTV-2-CQ$Cat
+CCTV3,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_CCTV-3-CQ$Cat
+CCTV4,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_CCTV-4-CQ$Cat
+CCTV5,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_CCTV-5-CQ$Cat
+CCTV5+,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_CCTV-5PLUS-CQ$Cat
+CCTV6,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_CCTV-6-CQ$Cat
+CCTV7,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_CCTV-7-CQ$Cat
+CCTV8,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_CCTV-8-CQ$Cat
+CCTV9,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_CCTV-9-CQ$Cat
+CCTV10,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_CCTV-10-CQ$Cat
+CCTV11,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_CCTV-11-CQ$Cat
+CCTV12,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_CCTV-12-CQ$Cat
+CCTV13,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_CCTV-13-CQ$Cat
+CCTV14,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_CCTV-14-CQ$Cat
+CCTV15,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_CCTV-15-CQ$Cat
+CCTV16,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_CCTV-16-CQ$Cat
+CCTV17,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_CCTV-17-CQ$Cat
+CGTN,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_CCTV-NEWS$Cat
+CETV1,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_CETV-1-HQ$Cat
+CETV2,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_CETV-2$Cat
+CETV3,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_CETV-3$Cat
+CETV4,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_CETV-4$Cat
+
+
+
+
+
 
 CCTV1,http://59.173.243.210:9901/tsfile/live/0001_1.m3u8$订阅源
 CCTV1,http://58.254.14.36:808/hls/1/index.m3u8$订阅源
@@ -468,6 +496,8 @@ CETV4,http://60.223.72.108:8004/rtp/226.0.2.70:8472$组播源
 
 中央新影-老故事,http://cqshushu.us.kg:2086/gitv.php?id=G_LAOGUSHI$银河
 中央新影-发现之旅,http://cqshushu.us.kg:2086/gitv.php?id=G_FAXIANZL$银河
+中央新影-发现之旅,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_FAXIANZL$Cat
+中央新影-老故事,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_LAOGUSHI$Cat
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv$ZZZD
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd$ZZZD
 
@@ -532,6 +562,47 @@ CETV4,http://60.223.72.108:8004/rtp/226.0.2.70:8472$组播源
 延边卫视,http://cqshushu.us.kg:2086/gitv.php?id=G_YANBIAN$银河
 云南卫视,http://cqshushu.us.kg:2086/gitv.php?id=G_YUNNAN-CQ$银河
 重庆卫视,http://cqshushu.us.kg:2086/gitv.php?id=G_CHONGQING-CQ$银河
+
+广东卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_GUANGDONG-CQ$Cat
+江苏卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_JIANGSU-CQ$Cat
+浙江卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_ZHEJIANG-CQ$Cat
+湖南卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_HUNAN-CQ$Cat
+东方卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_DONGFANG-CQ$Cat
+北京卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_BEIJING-CQ$Cat
+深圳卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_SHENZHEN-CQ$Cat
+辽宁卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_LIAONING-CQ$Cat
+安徽卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_ANHUI-CQ$Cat
+山东卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_SHANDONG-CQ$Cat
+黑龙江卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_HEILONGJIANG-CQ$Cat
+天津卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_TIANJIN-CQ$Cat
+广西卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_GUANGXI-HQ$Cat
+东南卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_DONGNAN-CQ$Cat
+甘肃卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_GANSU-HQ$Cat
+贵州卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_GUIZHOU-CQ$Cat
+海南卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_HAINAN-HQ$Cat
+河北卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_HEBEI-CQ$Cat
+河南卫视http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_HENAN-CQ$Cat
+湖北卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_HUBEI-CQ$Cat
+吉林卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_JILIN-CQ$Cat
+江西卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_JIANGXI-CQ$Cat
+康巴卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_KANGBA$Cat
+安多卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_ANDUO$Cat
+兵团卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_BINGTUAN$Cat
+内蒙古卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_NEIMENGGU$Cat
+宁夏卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_NINGXIA$Cat
+农林卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_NONGLIN$Cat
+三沙卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_SANSHA-HQ$Cat
+陕西卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_SHANXI-HQ$Cat
+上海纪实,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_SHANGHAIJS-HD$Cat
+四川卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_SICHUAN-CQ$Cat
+西藏卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_XIZANG$Cat
+新疆卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_XINJIANG$Cat
+延边卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_YANBIAN$Cat
+云南卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_YUNNAN-CQ$Cat
+重庆卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_CHONGQING-CQ$Cat
+青海卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_QINGHAI$Cat
+厦门卫视,http://php.yhtv.us.kg/公众号【睡眼迷离的猫】/proxy/p2.php?id=G_XIAMEN$Cat
+
 
 广东卫视,http://27.40.16.70:8114/GD.m3u8?Authinfo=nHYPQU3R6cXKOUxDHAdELPgbSbSCTYnboG1IAsnN%2B8SfEwEMUtPf5e9tzinDtpKi&Fsv_cid=4258&FvSeid=94317709&Fsv_ctype=LIVES&Fsv_chan_hls_se_idx=&Provider_id=GD_CUCC&Pcontent_id=G_GUANGDONG-CQ$订阅源
 广东卫视,http://36.156.94.111/cucc-livod.ks-cdn.gitv.tv/gitv_live/G_GUANGDONG-HQ/G_GUANGDONG-HQ.m3u8$订阅源
