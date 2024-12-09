@@ -1483,11 +1483,13 @@ CCTV-17咪咕,https://api.livednow.org/migu/673168256?sign=gAAAAABnJcJqaH7zxsZ2s
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8$MZ
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8$MZ
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8$MZ
+无线新闻台,http://111.222.136.121:5000/bysid/83
 无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
 无线新闻台,http://live.cooltv.top/tv/tvb.php?id=2&hq
 无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn$kw
 无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq$KDSVP
 无线新闻台,http://live.cooltv.top/tv/tvb.php?id=2&hq$KDSVP2
+寰宇新闻,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn14
 寰宇新闻,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8$kw1
 寰宇新闻,http://211.72.65.236:8547/.m3u8$kw2
 
@@ -1590,6 +1592,37 @@ Hub都会,http://php.jdshipin.com:8880/xsj.php?id=HubECity$订阅源
 Hub娱家,http://php.jdshipin.com:8880/xsj.php?id=HubVVDrama$订阅源
 
 🎥香港频道,#genre#
+
+TVB Plus,http://111.222.136.121:5000/bysid/82
+明珠台,http://111.222.136.121:5000/bysid/2
+鳳凰香港,http://111.222.136.121:5000/bysid/85
+翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
+华丽翡翠,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
+星河,http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
+千禧经典,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic
+ASTRO AOD,http://cdn9.1689.us.kg/smt1.1.php?id=Aodhd
+明珠,http://cdn9.1689.us.kg/smt1.1.php?id=pearl_twn
+TVB J1,http://cdn5.1678520.xyz/live/?id=j1
+HOY 77,http://cdn5.1678520.xyz/live/?id=hoy
+VIU TV,http://cdn5.1678520.xyz/live/?id=viu
+TVB plus,http://cdn5.1678520.xyz/live/?id=tvbp
+TVB plus备,http://117.27.251.40/libof.kesx.top/live/5658kwkojtz.m3u8
+TVB plus备2,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
+TVB plus备3,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
+
+无线 新闻,http://live.cooltv.top/tv/tvb.php?id=2
+凤凰中文,http://122.224.232.226:8888/udp/233.50.200.191:5140
+凤凰资讯,http://122.224.232.226:8888/udp/233.50.200.192:5140
+香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
+香港32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
+香港33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+香港34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+香港35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+TVB星河3,https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+功夫,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+娱乐新闻,https://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+
 鳳凰中文,http://r.jdshipin.com/cCCzW$订阅源
 鳳凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8$订阅源
 鳳凰中文,http://58.215.231.35/live2.ngaacdn.sc96655.com/live/test1.m3u8$订阅源
