@@ -2742,4 +2742,44 @@ CCTV17-农业农村,http://111.196.62.171:18888/rtp/239.3.1.151:8144?$北京联�
 浙江卫视,http://111.196.62.171:18888/rtp/239.3.1.137:8036?$北京联通
 浙江卫视,http://180.111.80.24:4022/rtp/239.49.8.20:9618?$江苏电信
 浙江卫视,http://180.126.60.187:4022/rtp/239.49.8.20:9618?$江苏电信
-
+🏛测试频道,#genre#
+翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn 
+华丽翡翠,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade 
+星河,http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe 
+千禧经典,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic 
+ASTRO AOD,http://cdn9.1689.us.kg/smt1.1.php?id=Aodhd 
+明珠,http://cdn9.1689.us.kg/smt1.1.php?id=pearl_twn 
+TVB J1,http://cdn5.1678520.xyz/live/?id=j1 
+HOY 77,http://cdn5.1678520.xyz/live/?id=hoy 
+VIU TV,http://cdn5.1678520.xyz/live/?id=viu 
+TVB plus,http://cdn5.1678520.xyz/live/?id=tvbp 
+TVB plus备,http://117.27.251.40/libof.kesx.top/live/5658kwkojtz.m3u8 
+TVB plus备2,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv 
+TVB plus备3,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv 
+无线 新闻,http://live.cooltv.top/tv/tvb.php?id=2 
+凤凰中文,http://122.224.232.226:8888/udp/233.50.200.191:5140 
+凤凰资讯,http://122.224.232.226:8888/udp/233.50.200.192:5140 
+香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8 
+香港32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8 
+香港33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8 
+香港34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8 
+香港35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8 
+TVB星河3,https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8 
+功夫,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8 
+娱乐新闻,https://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8 
+TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8 
+华丽翡翠,http://103.82.54.237/ml.php?key=feng&id=Tvbjade 
+翡翠台,http://103.82.54.237/ml.php?key=feng&id=jade_twn 
+TVB Plus,http://103.82.54.237/ml.php?key=feng&id=j2_twn 
+明珠台,http://103.82.54.237/ml.php?key=feng&id=pearl_twn 
+无线新闻台,http://103.82.54.237/ml.php?key=feng&id=inews_twn 
+凤凰香港,http://103.82.54.237/ml.php?key=feng&id=tvbcaijing_twn 
+VIUTV6,http://103.82.54.237/ml.php?key=feng&id=viusix_twn 
+VIUTV,http://103.82.54.237/ml.php?key=feng&id=viu1_twn 
+TVB星河,http://103.82.54.237/ml.php?key=feng&id=Xinhe 
+TVB星河,http://103.82.54.237/ml.php?key=feng&id=tvbxinhe_twn 
+RTHK32,http://103.82.54.237/ml.php?key=feng&id=rhk32_twn 
+RTHK31,http://103.82.54.237/ml.php?key=feng&id=rhk31_twn 
+凤凰卫视,http://103.82.54.237/ml.php?key=feng&id=phoenixtv_hd 
+千禧经典,http://103.82.54.237/ml.php?key=feng&id=Tvbclassic 
+ASTRO AOD,http://103.82.54.237/ml.php?key=feng&id=Aodhd
