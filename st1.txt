@@ -2743,43 +2743,105 @@ CCTV17-农业农村,http://111.196.62.171:18888/rtp/239.3.1.151:8144?$北京联�
 浙江卫视,http://180.111.80.24:4022/rtp/239.49.8.20:9618?$江苏电信
 浙江卫视,http://180.126.60.187:4022/rtp/239.49.8.20:9618?$江苏电信
 🏛测试频道,#genre#
-翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn 
-华丽翡翠,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade 
-星河,http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe 
-千禧经典,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic 
-ASTRO AOD,http://cdn9.1689.us.kg/smt1.1.php?id=Aodhd 
-明珠,http://cdn9.1689.us.kg/smt1.1.php?id=pearl_twn 
-TVB J1,http://cdn5.1678520.xyz/live/?id=j1 
-HOY 77,http://cdn5.1678520.xyz/live/?id=hoy 
-VIU TV,http://cdn5.1678520.xyz/live/?id=viu 
-TVB plus,http://cdn5.1678520.xyz/live/?id=tvbp 
-TVB plus备,http://117.27.251.40/libof.kesx.top/live/5658kwkojtz.m3u8 
-TVB plus备2,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv 
-TVB plus备3,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv 
-无线 新闻,http://live.cooltv.top/tv/tvb.php?id=2 
-凤凰中文,http://122.224.232.226:8888/udp/233.50.200.191:5140 
-凤凰资讯,http://122.224.232.226:8888/udp/233.50.200.192:5140 
-香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8 
-香港32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8 
-香港33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8 
-香港34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8 
-香港35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8 
-TVB星河3,https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8 
-功夫,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8 
-娱乐新闻,https://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8 
-TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8 
-华丽翡翠,http://103.82.54.237/ml.php?key=feng&id=Tvbjade 
-翡翠台,http://103.82.54.237/ml.php?key=feng&id=jade_twn 
-TVB Plus,http://103.82.54.237/ml.php?key=feng&id=j2_twn 
-明珠台,http://103.82.54.237/ml.php?key=feng&id=pearl_twn 
-无线新闻台,http://103.82.54.237/ml.php?key=feng&id=inews_twn 
-凤凰香港,http://103.82.54.237/ml.php?key=feng&id=tvbcaijing_twn 
-VIUTV6,http://103.82.54.237/ml.php?key=feng&id=viusix_twn 
-VIUTV,http://103.82.54.237/ml.php?key=feng&id=viu1_twn 
-TVB星河,http://103.82.54.237/ml.php?key=feng&id=Xinhe 
-TVB星河,http://103.82.54.237/ml.php?key=feng&id=tvbxinhe_twn 
-RTHK32,http://103.82.54.237/ml.php?key=feng&id=rhk32_twn 
-RTHK31,http://103.82.54.237/ml.php?key=feng&id=rhk31_twn 
-凤凰卫视,http://103.82.54.237/ml.php?key=feng&id=phoenixtv_hd 
-千禧经典,http://103.82.54.237/ml.php?key=feng&id=Tvbclassic 
-ASTRO AOD,http://103.82.54.237/ml.php?key=feng&id=Aodhd
+1,http://litv.zapi.us.kg/?id=litv-ftv01
+2,http://litv.zapi.us.kg/?id=litv-ftv02
+3,http://litv.zapi.us.kg/?id=litv-ftv03
+4,http://litv.zapi.us.kg/?id=litv-ftv04
+5,http://litv.zapi.us.kg/?id=litv-ftv05
+6,http://litv.zapi.us.kg/?id=litv-ftv06
+7,http://litv.zapi.us.kg/?id=litv-ftv07
+8,http://litv.zapi.us.kg/?id=litv-ftv08
+9,http://litv.zapi.us.kg/?id=litv-ftv09
+10,http://litv.zapi.us.kg/?id=litv-ftv10
+11,http://litv.zapi.us.kg/?id=litv-ftv11
+12,http://litv.zapi.us.kg/?id=litv-ftv12
+13,http://litv.zapi.us.kg/?id=litv-ftv13
+14,http://litv.zapi.us.kg/?id=litv-ftv14
+15,http://litv.zapi.us.kg/?id=litv-ftv15
+16,http://litv.zapi.us.kg/?id=litv-ftv16
+17,http://litv.zapi.us.kg/?id=litv-ftv17
+18,http://litv.zapi.us.kg/?id=litv-ftv18
+19,http://litv.zapi.us.kg/?id=litv-ftv19
+20,http://litv.zapi.us.kg/?id=litv-ftv20
+21,http://litv.zapi.us.kg/?id=litv-ftv21
+22,http://litv.zapi.us.kg/?id=litv-ftv22
+23,http://litv.zapi.us.kg/?id=litv-ftv23
+24,http://litv.zapi.us.kg/?id=litv-ftv24
+25,http://litv.zapi.us.kg/?id=litv-ftv25
+26,http://litv.zapi.us.kg/?id=litv-ftv26
+27,http://litv.zapi.us.kg/?id=litv-ftv27
+28,http://litv.zapi.us.kg/?id=litv-ftv28
+29,http://litv.zapi.us.kg/?id=litv-ftv29
+30,http://litv.zapi.us.kg/?id=litv-ftv30
+31,http://litv.zapi.us.kg/?id=litv-ftv31
+32,http://litv.zapi.us.kg/?id=litv-ftv32
+33,http://litv.zapi.us.kg/?id=litv-ftv33
+34,http://litv.zapi.us.kg/?id=litv-ftv34
+35,http://litv.zapi.us.kg/?id=litv-ftv35
+36,http://litv.zapi.us.kg/?id=litv-ftv36
+37,http://litv.zapi.us.kg/?id=litv-ftv37
+38,http://litv.zapi.us.kg/?id=litv-ftv38
+39,http://litv.zapi.us.kg/?id=litv-ftv39
+40,http://litv.zapi.us.kg/?id=litv-ftv40
+41,http://litv.zapi.us.kg/?id=litv-ftv41
+42,http://litv.zapi.us.kg/?id=litv-ftv42
+43,http://litv.zapi.us.kg/?id=litv-ftv43
+44,http://litv.zapi.us.kg/?id=litv-ftv44
+45,http://litv.zapi.us.kg/?id=litv-ftv45
+46,http://litv.zapi.us.kg/?id=litv-ftv46
+47,http://litv.zapi.us.kg/?id=litv-ftv47
+48,http://litv.zapi.us.kg/?id=litv-ftv48
+49,http://litv.zapi.us.kg/?id=litv-ftv49
+50,http://litv.zapi.us.kg/?id=litv-ftv50
+51,http://litv.zapi.us.kg/?id=litv-ftv51
+52,http://litv.zapi.us.kg/?id=litv-ftv52
+53,http://litv.zapi.us.kg/?id=litv-ftv53
+54,http://litv.zapi.us.kg/?id=litv-ftv54
+55,http://litv.zapi.us.kg/?id=litv-ftv55
+56,http://litv.zapi.us.kg/?id=litv-ftv56
+57,http://litv.zapi.us.kg/?id=litv-ftv57
+58,http://litv.zapi.us.kg/?id=litv-ftv58
+59,http://litv.zapi.us.kg/?id=litv-ftv59
+60,http://litv.zapi.us.kg/?id=litv-ftv60
+61,http://litv.zapi.us.kg/?id=litv-ftv61
+62,http://litv.zapi.us.kg/?id=litv-ftv62
+63,http://litv.zapi.us.kg/?id=litv-ftv63
+64,http://litv.zapi.us.kg/?id=litv-ftv64
+65,http://litv.zapi.us.kg/?id=litv-ftv65
+66,http://litv.zapi.us.kg/?id=litv-ftv66
+67,http://litv.zapi.us.kg/?id=litv-ftv67
+68,http://litv.zapi.us.kg/?id=litv-ftv68
+69,http://litv.zapi.us.kg/?id=litv-ftv69
+70,http://litv.zapi.us.kg/?id=litv-ftv70
+71,http://litv.zapi.us.kg/?id=litv-ftv71
+72,http://litv.zapi.us.kg/?id=litv-ftv72
+73,http://litv.zapi.us.kg/?id=litv-ftv73
+74,http://litv.zapi.us.kg/?id=litv-ftv74
+75,http://litv.zapi.us.kg/?id=litv-ftv75
+76,http://litv.zapi.us.kg/?id=litv-ftv76
+77,http://litv.zapi.us.kg/?id=litv-ftv77
+78,http://litv.zapi.us.kg/?id=litv-ftv78
+79,http://litv.zapi.us.kg/?id=litv-ftv79
+80,http://litv.zapi.us.kg/?id=litv-ftv80
+81,http://litv.zapi.us.kg/?id=litv-ftv81
+82,http://litv.zapi.us.kg/?id=litv-ftv82
+83,http://litv.zapi.us.kg/?id=litv-ftv83
+84,http://litv.zapi.us.kg/?id=litv-ftv84
+85,http://litv.zapi.us.kg/?id=litv-ftv85
+86,http://litv.zapi.us.kg/?id=litv-ftv86
+87,http://litv.zapi.us.kg/?id=litv-ftv87
+88,http://litv.zapi.us.kg/?id=litv-ftv88
+89,http://litv.zapi.us.kg/?id=litv-ftv89
+90,http://litv.zapi.us.kg/?id=litv-ftv90
+91,http://litv.zapi.us.kg/?id=litv-ftv91
+92,http://litv.zapi.us.kg/?id=litv-ftv92
+93,http://litv.zapi.us.kg/?id=litv-ftv93
+94,http://litv.zapi.us.kg/?id=litv-ftv94
+95,http://litv.zapi.us.kg/?id=litv-ftv95
+96,http://litv.zapi.us.kg/?id=litv-ftv96
+97,http://litv.zapi.us.kg/?id=litv-ftv97
+98,http://litv.zapi.us.kg/?id=litv-ftv98
+99,http://litv.zapi.us.kg/?id=litv-ftv99
+100,http://litv.zapi.us.kg/?id=litv-ftv100
+101,http://litv.zapi.us.kg/?id=litv-ftv101
+102,http://litv.zapi.us.kg/?id=litv-ftv102
