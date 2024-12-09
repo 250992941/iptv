@@ -1,6 +1,7 @@
-更新时间,#genre#
+🔥更新时间,#genre#
 2024-12-09 13:34:51,https://litv.zapi.us.kg/?id=4gtv-4gtv006
- 央视频道,#genre#
+
+🚀央视频道,#genre#
 
 CCTV1,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=cctv1
 CCTV2,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=cctv2
@@ -452,7 +453,7 @@ CETV4,http://39.88.46.255:8888/rtp/239.253.254.116:8000$组播源
 
 
 
-央视新影,#genre#
+🚀央视新影,#genre#
 
 第一剧场,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=dyjc
 央视台球,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=ystq
@@ -606,7 +607,7 @@ CETV4,http://39.88.46.255:8888/rtp/239.253.254.116:8000$组播源
 
 
 
-卫视频道,#genre#
+📡卫视频道,#genre#
 
 湖南卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=hntv
 江苏卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=jsws
@@ -1336,7 +1337,7 @@ CETV4,http://39.88.46.255:8888/rtp/239.253.254.116:8000$组播源
 
 
 
-央卫咪咕,#genre#
+📡央卫咪咕,#genre#
 
 CCTV-01咪咕,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv1 
 CCTV-02咪咕,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv2 
@@ -1470,7 +1471,7 @@ CCTV-17咪咕,https://api.livednow.org/migu/673168256?sign=gAAAAABnJcJqaH7zxsZ2s
 中国教育咪咕,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022823801/timeshift.m3u8?delay=0&cdn=5202$订阅源
 
 
-新闻频道JW,#genre#
+🌊新闻频道JW,#genre#
 凤凰中文,http://203.205.220.194/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://203.205.220.194/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://203.205.220.194/qctv.fengshows.cn/live/0701phk72.m3u8
@@ -1568,7 +1569,7 @@ BBC World News,http://50.7.234.10:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781
 
 
 
-新加坡频道,#genre#
+🎥新加坡频道,#genre#
 CNA,http://php.jdshipin.com:8880/xsj.php?id=channelnewsasia$订阅源
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8$订阅源
 CNA HD,http://php.jdshipin.com:8880/xsj.php?id=channelnewsasia$订阅源
@@ -1592,7 +1593,7 @@ Channel U HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8$订阅源
 Hub都会,http://php.jdshipin.com:8880/xsj.php?id=HubECity$订阅源
 Hub娱家,http://php.jdshipin.com:8880/xsj.php?id=HubVVDrama$订阅源
 
-香港频道,#genre#
+🎥香港频道,#genre#
 鳳凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8$订阅源
 鳳凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8$订阅源
 鳳凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv$订阅源
@@ -1686,9 +1687,9 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/st
 有线新闻,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=hoycaijing_twn$订阅源
 有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/chunklist_w1949275579.m3u8$订阅源
 
-台湾频道,#genre#
+🎥台湾频道,#genre#
 
-AMC 电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv017
+amc电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv017
 Arirang Korea,https://litv.zapi.us.kg/?id=4gtv-4gtv079
 CATCHPLAY电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv076
 CNEX纪实频道,https://litv.zapi.us.kg/?id=4gtv-4gtv013
@@ -1702,9 +1703,9 @@ MEZZ( ) Live,https://litv.zapi.us.kg/?id=4gtv-4gtv083
 MNEWS 镜新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv075
 Trace sport,https://litv.zapi.us.kg/?id=4gtv-4gtv077
 TVBS HD,https://litv.zapi.us.kg/?id=4gtv-4gtv073
-TVBS欢乐台,https://litv.zapi.us.kg/?id=4gtv-4gtv068
-TVBS精采台,https://litv.zapi.us.kg/?id=4gtv-4gtv067
-TVBS新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
+TVBS欢乐,https://litv.zapi.us.kg/?id=4gtv-4gtv068
+TVBS精采,https://litv.zapi.us.kg/?id=4gtv-4gtv067
+TVBS新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv072
 八大精彩台,https://litv.zapi.us.kg/?id=4gtv-4gtv034
 采昌电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv049
 东森财经新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv153
@@ -1742,11 +1743,12 @@ TVBS新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
 早晨财经,https://litv.zapi.us.kg/?id=4gtv-4gtv104
 中视,https://litv.zapi.us.kg/?id=4gtv-4gtv040
 中视经典,https://litv.zapi.us.kg/?id=4gtv-4gtv080
-中视菁采台,https://litv.zapi.us.kg/?id=4gtv-4gtv064
+中视菁采,https://litv.zapi.us.kg/?id=4gtv-4gtv064
 中视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv074
 中天新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv009
-中天亚洲台,https://litv.zapi.us.kg/?id=4gtv-4gtv109
+中天亚洲,https://litv.zapi.us.kg/?id=4gtv-4gtv109
 猪亮哥歌厅秀,https://litv.zapi.us.kg/?id=4gtv-4gtv006
+
 
 寰宇新闻台,http://50.7.234.10:8278/huanyuxinwen_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=2e4ba5060f39aa293606ab3341b4fcde$订阅源
 寰宇新闻台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=huanyuxinwen_twn$订阅源
@@ -1930,7 +1932,7 @@ HBO原创巨献,http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee
 中天综合,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca$订阅源
 中天综合,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctizhonghe$订阅源
 
-澳门频道,#genre#
+🎥澳门频道,#genre#
 澳门莲花台,http://nettvpro.live/hls/lotustv.php?zgangd$订阅源
 澳门莲花台,http://anren.live/HK/BiIOU11uLA.m3u8$订阅源
 澳门莲花台,http://anren.live/HK/BiIOU11uLA.m3u8?zgangd$订阅源
@@ -1951,7 +1953,7 @@ HBO原创巨献,http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee
 
 
 
-电影频道,#genre#
+🎬电影频道,#genre#
 
 AMC 电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv017
 CATCHPLAY电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv076
@@ -2079,7 +2081,7 @@ IPTV经典电影,http://39.88.46.255:8888/rtp/239.253.254.126:8000$组播源
 
 
 
-HBO频道,#genre#
+🎬HBO频道,#genre#
 HBO 原创巨献,http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee$订阅源
 HBO 原创巨献,http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb$订阅源
 HBO 家庭,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f$订阅源
@@ -2091,7 +2093,7 @@ HBO家庭,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=183
 hbo家庭,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f$订阅源
 hbo家庭,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853$订阅源
 
-体育频道,#genre#
+🏀体育频道,#genre#
 广东体育,http://218.15.214.115:10000/udp/239.77.0.112:5146$订阅源
 广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8$订阅源
 广东体育,http://58.252.12.164:8000/udp/239.77.0.112:5146$订阅源
@@ -2145,7 +2147,7 @@ hbo家庭,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=183
 魅力足球,https://api.livednow.org/migu/796070308?sign=gAAAAABnJcJqlrFGXuOxwe1Md-XR1vW2Qfvt8UbVbRmGMRw2HCaBotmmxy63qf2FHgoB1vxFJ480IN7nk3fPKKsC14EcSpsIiKAI0k4bTRVRSIM6N0J2Mhr-yHORPlMoC183bY-eRCUBjbWAH5mmWt4aOY1TAiXl6k8v5XlseEvPqOFOHsJbk-s_IR3yRznUz22lTF60_HV6D2H40sColfcl-Ows1xbbBw%3D%3D$订阅源
 魅力足球,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031207$订阅源
 
-湖南组播,#genre#
+🏛湖南组播,#genre#
 
 湖南卫视,http://111.8.242.100:9999/tsfile/live/1009_1.m3u8?key=txiptv
 湖南经视,http://111.8.242.100:9999/tsfile/live/1010_1.m3u8?key=txiptv
@@ -2285,7 +2287,7 @@ CGTN纪录,http://113.218.204.28:8081/tsfile/live/0016_1.m3u8?key=txiptv&playliv
 
 
 
-广东组播,#genre#
+🏛广东组播,#genre#
 广东卫视高清,http://61.145.208.59:9090/udp/239.77.1.19:5146
 广东卫视高清,http://61.145.208.59:9090/udp/239.77.1.152:5146
 广东卫视高清,http://61.145.208.59:9090/udp/239.77.0.84:5146
@@ -2618,7 +2620,7 @@ HZTV-2高清,http://61.145.208.59:9090/udp/239.77.1.233:5146
 东南卫视,http://61.145.208.59:9090/udp/239.77.1.213:5146
 东南卫视高清,http://61.145.208.59:9090/udp/239.77.1.104:5146
 
-组播频道,#genre#
+🏛组播频道,#genre#
 凤凰中文,http://171.216.65.135:4022/udp/239.93.0.162:2192$四川电信组播
 凤凰中文,http://171.216.65.135:4022/udp/239.93.1.9:2192$四川电信组播
 凤凰资讯,http://171.216.65.135:4022/udp/239.93.0.118:2191$四川电信组播
