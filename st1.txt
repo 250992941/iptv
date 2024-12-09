@@ -2580,7 +2580,7 @@ TVBS欢乐台,https://litv.zapi.us.kg/?id=4gtv-4gtv068
 TVBS精采台,https://litv.zapi.us.kg/?id=4gtv-4gtv067
 TVBS新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
 八大精彩台,https://litv.zapi.us.kg/?id=4gtv-4gtv034
-采昌,https://litv.zapi.us.kg/?id=4gtv-4gtv049
+采昌电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv049
 东森财经新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv153
 东森新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv152
 动画,https://litv.zapi.us.kg/?id=4gtv-4gtv053
@@ -2621,5 +2621,11 @@ TVBS新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
 中天新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv009
 中天亚洲台,https://litv.zapi.us.kg/?id=4gtv-4gtv109
 猪亮哥歌厅秀,https://litv.zapi.us.kg/?id=4gtv-4gtv006
+149,https://litv.zapi.us.kg/?id=4gtv-4gtv149
+150,https://litv.zapi.us.kg/?id=4gtv-4gtv150
+151,https://litv.zapi.us.kg/?id=4gtv-4gtv151
+152,https://litv.zapi.us.kg/?id=4gtv-4gtv152
+153,https://litv.zapi.us.kg/?id=4gtv-4gtv153
+154,https://litv.zapi.us.kg/?id=4gtv-4gtv154
 
 
