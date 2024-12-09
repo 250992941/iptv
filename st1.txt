@@ -1489,15 +1489,12 @@ TVBS HD,https://litv.zapi.us.kg/?id=4gtv-4gtv073
 TVBS新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
 东森新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv152
 非凡新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv010
-华视,https://litv.zapi.us.kg/?id=4gtv-4gtv041
 华视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv052
 靖天咨讯台,https://litv.zapi.us.kg/?id=4gtv-4gtv065
-民视,https://litv.zapi.us.kg/?id=4gtv-4gtv002
-民视,https://litv.zapi.us.kg/?id=4gtv-4gtv155
 中视,https://litv.zapi.us.kg/?id=4gtv-4gtv040
 中视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv074
 中天新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv009
-台视,https://litv.zapi.us.kg/?id=4gtv-4gtv066
+
 
 
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8$订阅源
