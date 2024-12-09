@@ -772,8 +772,6 @@ CETV4,http://171.213.213.241:4022/udp/239.93.0.50:5140$订阅源
 延边卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=ybws
 安多卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=adws
 
-
-
 江苏卫视,http://117.161.12.116/live/program/live/jswshd8m/8000000/mnf.m3u8$百事通
 广西卫视,http://117.161.12.116/live/program/live/gxwshd8m/8000000/mnf.m3u8$百事通
 四川卫视,http://117.161.12.116/live/program/live/scwshd/8000000/mnf.m3u8$百事通
