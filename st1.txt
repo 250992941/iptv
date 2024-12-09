@@ -1687,6 +1687,67 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/st
 有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/chunklist_w1949275579.m3u8$订阅源
 
 台湾频道,#genre#
+
+AMC 电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv017
+Arirang Korea,https://litv.zapi.us.kg/?id=4gtv-4gtv079
+CATCHPLAY电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv076
+CNEX纪实频道,https://litv.zapi.us.kg/?id=4gtv-4gtv013
+Da Vinci,https://litv.zapi.us.kg/?id=4gtv-4gtv018
+ELTA娱乐,https://litv.zapi.us.kg/?id=4gtv-4gtv070
+FGM Gold电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv011
+FTV综艺,https://litv.zapi.us.kg/?id=4gtv-4gtv004
+Hakka TV,https://litv.zapi.us.kg/?id=4gtv-4gtv043
+K-pop 时尚运动,https://litv.zapi.us.kg/?id=4gtv-4gtv014
+MEZZ( ) Live,https://litv.zapi.us.kg/?id=4gtv-4gtv083
+MNEWS 镜新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv075
+Trace sport,https://litv.zapi.us.kg/?id=4gtv-4gtv077
+TVBS HD,https://litv.zapi.us.kg/?id=4gtv-4gtv073
+TVBS欢乐台,https://litv.zapi.us.kg/?id=4gtv-4gtv068
+TVBS精采台,https://litv.zapi.us.kg/?id=4gtv-4gtv067
+TVBS新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
+八大精彩台,https://litv.zapi.us.kg/?id=4gtv-4gtv034
+采昌电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv049
+东森财经新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv153
+东森新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv152
+动画,https://litv.zapi.us.kg/?id=4gtv-4gtv053
+非凡商业,https://litv.zapi.us.kg/?id=4gtv-4gtv048
+非凡新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv010
+公视戏剧,https://litv.zapi.us.kg/?id=4gtv-4gtv042
+古典音乐台,https://litv.zapi.us.kg/?id=4gtv-4gtv059
+国会频道1,https://litv.zapi.us.kg/?id=4gtv-4gtv084
+国会频道2,https://litv.zapi.us.kg/?id=4gtv-4gtv085
+韩国娱乐台,https://litv.zapi.us.kg/?id=4gtv-4gtv016
+华视,https://litv.zapi.us.kg/?id=4gtv-4gtv041
+华视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv052
+健康No1,https://litv.zapi.us.kg/?id=4gtv-4gtv039
+靖天电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv061
+靖天国际台,https://litv.zapi.us.kg/?id=4gtv-4gtv063
+靖天欢乐台,https://litv.zapi.us.kg/?id=4gtv-4gtv054
+靖天卡通台,https://litv.zapi.us.kg/?id=4gtv-4gtv044
+靖天日本台,https://litv.zapi.us.kg/?id=4gtv-4gtv047
+靖天戏剧台,https://litv.zapi.us.kg/?id=4gtv-4gtv058
+靖天映画台,https://litv.zapi.us.kg/?id=4gtv-4gtv055
+靖天育乐台,https://litv.zapi.us.kg/?id=4gtv-4gtv062
+靖天咨讯台,https://litv.zapi.us.kg/?id=4gtv-4gtv065
+靖天综合台,https://litv.zapi.us.kg/?id=4gtv-4gtv046
+靖洋卡通台,https://litv.zapi.us.kg/?id=4gtv-4gtv057
+靖洋戏剧台,https://litv.zapi.us.kg/?id=4gtv-4gtv045
+民视,https://litv.zapi.us.kg/?id=4gtv-4gtv002
+民视,https://litv.zapi.us.kg/?id=4gtv-4gtv155
+民视第一台,https://litv.zapi.us.kg/?id=4gtv-4gtv003
+民视台湾台,https://litv.zapi.us.kg/?id=4gtv-4gtv001
+民视台湾台,https://litv.zapi.us.kg/?id=4gtv-4gtv156
+台视,https://litv.zapi.us.kg/?id=4gtv-4gtv066
+台视财经,https://litv.zapi.us.kg/?id=4gtv-4gtv056
+早晨财经,https://litv.zapi.us.kg/?id=4gtv-4gtv104
+中视,https://litv.zapi.us.kg/?id=4gtv-4gtv040
+中视经典,https://litv.zapi.us.kg/?id=4gtv-4gtv080
+中视菁采台,https://litv.zapi.us.kg/?id=4gtv-4gtv064
+中视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv074
+中天新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv009
+中天亚洲台,https://litv.zapi.us.kg/?id=4gtv-4gtv109
+猪亮哥歌厅秀,https://litv.zapi.us.kg/?id=4gtv-4gtv006
+
 寰宇新闻台,http://50.7.234.10:8278/huanyuxinwen_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=2e4ba5060f39aa293606ab3341b4fcde$订阅源
 寰宇新闻台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=huanyuxinwen_twn$订阅源
 TVBS HD,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223$订阅源
@@ -2691,64 +2752,6 @@ CCTV17-农业农村,http://111.196.62.171:18888/rtp/239.3.1.151:8144?$北京联�
 浙江卫视,http://180.126.60.187:4022/rtp/239.49.8.20:9618?$江苏电信
 
 LITV频道,#genre#
-AMC 电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv017
-Arirang Korea,https://litv.zapi.us.kg/?id=4gtv-4gtv079
-CATCHPLAY电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv076
-CNEX纪实频道,https://litv.zapi.us.kg/?id=4gtv-4gtv013
-Da Vinci,https://litv.zapi.us.kg/?id=4gtv-4gtv018
-ELTA娱乐,https://litv.zapi.us.kg/?id=4gtv-4gtv070
-FGM Gold电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv011
-FTV综艺,https://litv.zapi.us.kg/?id=4gtv-4gtv004
-Hakka TV,https://litv.zapi.us.kg/?id=4gtv-4gtv043
-K-pop 时尚运动,https://litv.zapi.us.kg/?id=4gtv-4gtv014
-MEZZ( ) Live,https://litv.zapi.us.kg/?id=4gtv-4gtv083
-MNEWS 镜新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv075
-Trace sport,https://litv.zapi.us.kg/?id=4gtv-4gtv077
-TVBS HD,https://litv.zapi.us.kg/?id=4gtv-4gtv073
-TVBS欢乐台,https://litv.zapi.us.kg/?id=4gtv-4gtv068
-TVBS精采台,https://litv.zapi.us.kg/?id=4gtv-4gtv067
-TVBS新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
-八大精彩台,https://litv.zapi.us.kg/?id=4gtv-4gtv034
-采昌电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv049
-东森财经新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv153
-东森新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv152
-动画,https://litv.zapi.us.kg/?id=4gtv-4gtv053
-非凡商业,https://litv.zapi.us.kg/?id=4gtv-4gtv048
-非凡新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv010
-公视戏剧,https://litv.zapi.us.kg/?id=4gtv-4gtv042
-古典音乐台,https://litv.zapi.us.kg/?id=4gtv-4gtv059
-国会频道1,https://litv.zapi.us.kg/?id=4gtv-4gtv084
-国会频道2,https://litv.zapi.us.kg/?id=4gtv-4gtv085
-韩国娱乐台,https://litv.zapi.us.kg/?id=4gtv-4gtv016
-华视,https://litv.zapi.us.kg/?id=4gtv-4gtv041
-华视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv052
-健康No1,https://litv.zapi.us.kg/?id=4gtv-4gtv039
-靖天电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv061
-靖天国际台,https://litv.zapi.us.kg/?id=4gtv-4gtv063
-靖天欢乐台,https://litv.zapi.us.kg/?id=4gtv-4gtv054
-靖天卡通台,https://litv.zapi.us.kg/?id=4gtv-4gtv044
-靖天日本台,https://litv.zapi.us.kg/?id=4gtv-4gtv047
-靖天戏剧台,https://litv.zapi.us.kg/?id=4gtv-4gtv058
-靖天映画台,https://litv.zapi.us.kg/?id=4gtv-4gtv055
-靖天育乐台,https://litv.zapi.us.kg/?id=4gtv-4gtv062
-靖天咨讯台,https://litv.zapi.us.kg/?id=4gtv-4gtv065
-靖天综合台,https://litv.zapi.us.kg/?id=4gtv-4gtv046
-靖洋卡通台,https://litv.zapi.us.kg/?id=4gtv-4gtv057
-靖洋戏剧台,https://litv.zapi.us.kg/?id=4gtv-4gtv045
-民视,https://litv.zapi.us.kg/?id=4gtv-4gtv002
-民视,https://litv.zapi.us.kg/?id=4gtv-4gtv155
-民视第一台,https://litv.zapi.us.kg/?id=4gtv-4gtv003
-民视台湾台,https://litv.zapi.us.kg/?id=4gtv-4gtv001
-民视台湾台,https://litv.zapi.us.kg/?id=4gtv-4gtv156
-台视,https://litv.zapi.us.kg/?id=4gtv-4gtv066
-台视财经,https://litv.zapi.us.kg/?id=4gtv-4gtv056
-早晨财经,https://litv.zapi.us.kg/?id=4gtv-4gtv104
-中视,https://litv.zapi.us.kg/?id=4gtv-4gtv040
-中视经典,https://litv.zapi.us.kg/?id=4gtv-4gtv080
-中视菁采台,https://litv.zapi.us.kg/?id=4gtv-4gtv064
-中视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv074
-中天新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv009
-中天亚洲台,https://litv.zapi.us.kg/?id=4gtv-4gtv109
-猪亮哥歌厅秀,https://litv.zapi.us.kg/?id=4gtv-4gtv006
+
 
 
