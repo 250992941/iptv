@@ -1484,6 +1484,22 @@ TVB无线新闻,http://live.cooltv.top/tv/tvb.php?id=2&hq$KDSVP2
 寰宇新闻,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8$kw1
 寰宇新闻,http://211.72.65.236:8547/.m3u8$kw2
 
+MNEWS 镜新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv075
+TVBS HD,https://litv.zapi.us.kg/?id=4gtv-4gtv073
+TVBS新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
+东森新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv152
+非凡新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv010
+华视,https://litv.zapi.us.kg/?id=4gtv-4gtv041
+华视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv052
+靖天咨讯台,https://litv.zapi.us.kg/?id=4gtv-4gtv065
+民视,https://litv.zapi.us.kg/?id=4gtv-4gtv002
+民视,https://litv.zapi.us.kg/?id=4gtv-4gtv155
+中视,https://litv.zapi.us.kg/?id=4gtv-4gtv040
+中视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv074
+中天新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv009
+台视,https://litv.zapi.us.kg/?id=4gtv-4gtv066
+
+
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8$订阅源
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8$订阅源
 凤凰中文,http://www.terrykang.cn:5678/sxg.php?id=test1_4000$订阅源
@@ -1855,6 +1871,18 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/st
 
 
 电影频道,#genre#
+
+AMC 电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv017
+CATCHPLAY电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv076
+FGM Gold电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv011
+采昌电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv049
+公视戏剧,https://litv.zapi.us.kg/?id=4gtv-4gtv042
+靖天电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv061
+靖天戏剧台,https://litv.zapi.us.kg/?id=4gtv-4gtv058
+靖天映画台,https://litv.zapi.us.kg/?id=4gtv-4gtv055
+靖洋戏剧台,https://litv.zapi.us.kg/?id=4gtv-4gtv045
+
+
 CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8$订阅源
 CHC家庭影院,http://183.94.146.109:2222/tsfile/live/1018_1.m3u8$订阅源
 CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8$订阅源
