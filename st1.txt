@@ -1,5 +1,5 @@
 更新时间,#genre#
-2024-12-09 13:34:51,http://221.234.166.245:16813/douyin/huanqiuwang
+2024-12-09 13:34:51,https://litv.zapi.us.kg/?id=4gtv-4gtv006
 央视频道,#genre#
 
 CCTV1,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=cctv1
@@ -2621,11 +2621,5 @@ TVBS新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
 中天新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv009
 中天亚洲台,https://litv.zapi.us.kg/?id=4gtv-4gtv109
 猪亮哥歌厅秀,https://litv.zapi.us.kg/?id=4gtv-4gtv006
-149,https://litv.zapi.us.kg/?id=4gtv-4gtv149
-150,https://litv.zapi.us.kg/?id=4gtv-4gtv150
-151,https://litv.zapi.us.kg/?id=4gtv-4gtv151
-152,https://litv.zapi.us.kg/?id=4gtv-4gtv152
-153,https://litv.zapi.us.kg/?id=4gtv-4gtv153
-154,https://litv.zapi.us.kg/?id=4gtv-4gtv154
 
 
