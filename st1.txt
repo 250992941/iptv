@@ -1663,9 +1663,176 @@ TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2
 
 🎥台湾频道,#genre#
 
+amc电影台,P2p://starvod.xyz:19806/cd374528271b481b93d5f946ad801284
+Animax,P2p://starvod.xyz:19806/9230a656fd6245adbd2f74e9498e6d0c
+AXN,P2p://starvod.xyz:19806/fccae3ecae554287914ba7bd8b09e3c7
+BBC Earth,P2p://starvod.xyz:19806/4c1787f2c8fa4b7eb12a492b55eef37b
+BBC Lifestyle,P2p://starvod.xyz:19806/6be00168ff204724a2e90ac0e5776d4f
+Bloomberg TV,P2p://starvod.xyz:19806/2d3d3948a6d54066bb24731d407c6908
+CatchPlay电影台,P2p://starvod.xyz:19806/f92ea797a53d413787bdcd14e6eb184b
+CinemaWorld,P2p://starvod.xyz:19806/c15af256226347ac889af4ad329958f1
+CINEMAX,P2p://starvod.xyz:19806/5be82fe8dd954f35a6fa4f85e9c32b95
+CLASSICA 古典乐,P2p://starvod.xyz:19806/6c795662057d4545ac27e18f809d3bca
+CN卡通频道,P2p://starvod.xyz:19806/6bcb86ec8518457bba89c19283c2b929
+DAZN 1,P2p://starvod.xyz:19806/58405d91a62f498aab4dbe1b22bcdb22
+DAZN 2,P2p://starvod.xyz:19806/b78c4a54a9cf47629cad693ff087331f
+Discovery Asia,P2p://starvod.xyz:19806/ad1c8a9c17094acdaa2b4ba81d82a1e8
+Discovery科学频道,P2p://starvod.xyz:19806/ddbf07a5349c4273809f63824771e212
+DMAX,P2p://starvod.xyz:19806/1630c9fe054343c993c8f934a27604f2
+ELTV生活英语台,P2p://starvod.xyz:19806/9578e78d85304ad692a5463e76b5e830
+ETtoday综合台,P2p://starvod.xyz:19806/255f176eaad242b0a79a18d291b095ea
+EVE,P2p://starvod.xyz:19806/ef743b41cc2c4381821f0df839db8b47
+EYE TV旅游台,P2p://starvod.xyz:19806/fdc32e24ae824449aca65043435a72e5
+EYE TV戏剧台,P2p://starvod.xyz:19806/be468864a87a45d5b5427d2dd44022c1
+France24,P2p://starvod.xyz:19806/2b7efe9e4ad942028196deae1cbb81db
+HBO Family,P2p://starvod.xyz:19806/741fb45c3c3c45ee9342501a46b3fa03
+HBO,P2p://starvod.xyz:19806/56bf3141615743a5b55585b4413790dd
+HBO强档巨献,P2p://starvod.xyz:19806/0e1f3763c81b4129abbe07590c4c8e17
+HBO原创巨献,P2p://starvod.xyz:19806/d99641dc9e24460ab5209a760947b893
+HGTV居家乐活频道,P2p://starvod.xyz:19806/67404d29000bfcbf23713b472f3642f5
+HITS,P2p://starvod.xyz:19806/ed9c868b64ab499f9c8c87ba3b9f7efc
+i-Fun动漫台,P2p://starvod.xyz:19806/b9ce68ac44fb456c8da9060e6dc8a9ad
+JET综合台,P2p://starvod.xyz:19806/4861156b455346ae8229261229f67b5b
+KLT-靖天国际台,P2p://starvod.xyz:19806/e71f70338fc54d06beed350f6784ed81
+Lifetime,P2p://starvod.xyz:19806/bf267c69754941cab169e38f370a996b
+Love Nature,P2p://starvod.xyz:19806/8d5f8fce07b346648e7f5083f10b5cf0
+Mezzo Live,P2p://starvod.xyz:19806/579c60c59cd44a8db25cead2ebcd1daf
+MOMO亲子台,P2p://starvod.xyz:19806/7fe32a4efe7c46008d320434ca22ebd7
+MOMO综合台,P2p://starvod.xyz:19806/32291d868d004153be82b6f6e23a796a
+NHK新闻资讯台,P2p://starvod.xyz:19806/7ae323b1512f41bdae116a0081de3db0
+Nice TV靖天欢乐台,P2p://starvod.xyz:19806/8b6de069a0284829ac89c8faece75f2d
+Nick Jr.,P2p://starvod.xyz:19806/6c9e4d4d1f424ab58037f4d605c57fa4
+ROCK Extreme,P2p://starvod.xyz:19806/a5e6c7d4188e458fa1dbb0d727811504
+Smart知识台,P2p://starvod.xyz:19806/1c881a6eefb04834b843098c7beab57e
+TechStorm,P2p://starvod.xyz:19806/3ecd80281514495bbc4adb297da6fe6a
+TRACE Sport Stars,P2p://starvod.xyz:19806/81e836eade1442338fe63f679dbcfcde
+TVBS,P2p://starvod.xyz:19806/ba7cc8bc72374530afab9a7661bee93f
+TVBS欢乐台,P2p://starvod.xyz:19806/0252114e563f47b68663270b4cca4726
+TVBS精采台,P2p://starvod.xyz:19806/ded68df291bb403a9b077d0c6e27d965
+TVBS新闻台,P2p://starvod.xyz:19806/2d8677ecc37c49819fa2a9a9e663fee5
+tvN,P2p://starvod.xyz:19806/91da556b2aea4bfabaa7f4882c503e30
+WARNER TV,P2p://starvod.xyz:19806/037cd313675943049373c7e16318e669
+Z频道,P2p://starvod.xyz:19806/d4c9297b510841e5be2e06f1037d8912
+爱尔达体育1台(备),P2p://starvod.xyz:19806/37c379e252234844aa42f95e9866a959
+爱尔达体育1台,P2p://starvod.xyz:19806/02c482b5dc18454fa60e8cbdc995b1f9
+爱尔达体育2台(备),P2p://starvod.xyz:19806/64e8429912474474a4f78017a88b7abc
+爱尔达体育2台,P2p://starvod.xyz:19806/b5d4ef8309684058b3013ff510ae7fc5
+爱尔达体育3台(备),P2p://starvod.xyz:19806/d28eb80eb7dc4fe691b4327d7984b7e5
+爱尔达体育3台,P2p://starvod.xyz:19806/df8a12732c4f41a985c78c30524e311a
+爱尔达体育4台,P2p://starvod.xyz:19806/2510822fe6314729aa0475e475abf7fd
+爱尔达影剧台,P2p://starvod.xyz:19806/219618e8e4864ea3bc02e066a53e77d5
+八大第一台,P2p://starvod.xyz:19806/480cb414334e45648eb2ea851401255f
+八大戏剧台,P2p://starvod.xyz:19806/62e59596c15a4e92a9b8c1c91e53a103
+八大优频道,P2p://starvod.xyz:19806/7ea3a57791814022bc9e9b6fb140a8d8
+八大娱乐台,P2p://starvod.xyz:19806/86fe2553e787492cb8b09dea6b65936a
+八大综合台,P2p://starvod.xyz:19806/d19e6cf71a54439bb039dc0d6bf1236c
+博斯高球,P2p://starvod.xyz:19806/20a1ef236547406e8a012f43abb672a5
+博斯高球二台,P2p://starvod.xyz:19806/621564410f8646bd8a443ee42c6f2053
+博斯魅力网,P2p://starvod.xyz:19806/3845c54b10aa43dea99f3edd7da7febb
+博斯网球台,P2p://starvod.xyz:19806/34eebcbccfa44763a28afa6f55a64395
+博斯无限二台,P2p://starvod.xyz:19806/b7e3a978655240d0a5fa2b0d4c7f762b
+博斯无限台,P2p://starvod.xyz:19806/882ac6b6dc434433bc775a88053ff3d3
+博斯运动,P2p://starvod.xyz:19806/f823fb8641af4f9cac59f59529c8fd53
+博斯运动二台,P2p://starvod.xyz:19806/17e150217d5a46ffbf8e3a37b0845d55
+采昌影剧台,P2p://starvod.xyz:19806/99653a96f1c24099aebcd1e5eea8bb34
+超视,P2p://starvod.xyz:19806/1c8f8812e2ea4b4ea59aa4dc41cfe73a
+达文西频道,P2p://starvod.xyz:19806/39f52db815944fb5b710d43ac22c2be7
+大爱,P2p://starvod.xyz:19806/94bf79f72be3495baaf049580bc9eb0d
+大爱2台,P2p://starvod.xyz:19806/9200c0315c7849639cf1dd041f3eed18
+东风卫视,P2p://starvod.xyz:19806/6740a0340004d55624b59c6a7c6c53e8
+东森财经新闻台,P2p://starvod.xyz:19806/361e2ff18be5489d9085014cce64dba7
+东森电影台,P2p://starvod.xyz:19806/6ea3540369244d86a78a408fab7734de
+东森购物1台,P2p://starvod.xyz:19806/a4b68427ef214113bc94475d32cc4428
+东森购物2台,P2p://starvod.xyz:19806/20401a7d32c445a787aecd170440e390
+东森戏剧台,P2p://starvod.xyz:19806/cbe5f31727e84388807399c889aad1d3
+东森新闻台,P2p://starvod.xyz:19806/a0b6c435056c4071b832f7ce232110ae
+东森新闻台,P2p://starvod.xyz:19806/7954fbb364fa4e8eb5d148f0ce27f899
+东森洋片台,P2p://starvod.xyz:19806/c96fcc121115445bbcb115f24d2a0a1a
+东森幼幼台,P2p://starvod.xyz:19806/111ec43dbead45d78a0ce831efabd81e
+东森综合台,P2p://starvod.xyz:19806/f38d6f78755a4fc6801b4e970d4545e6
+动物星球,P2p://starvod.xyz:19806/68b6ed5382b84c7e9fe6f412174f506c
+非凡商业台,P2p://starvod.xyz:19806/01b2f271b874465699c30992ac8259ed
+非凡新闻台,P2p://starvod.xyz:19806/0464715a85664461bb47ea15ad8b5355
+佛卫慈悲台,P2p://starvod.xyz:19806/d39e47f5198a48d88885289760a793e8
+高点综合台,P2p://starvod.xyz:19806/5d7656b21e794b24a8ce14c1887fe1c3
+公视,P2p://starvod.xyz:19806/bc57b395adf842b68ec650d13db17f8a
+公视3台,P2p://starvod.xyz:19806/b8364fd0726c4c69ae60d91f9343d42e
+公视台语台,P2p://starvod.xyz:19806/d9f6adc0a7834932b86ecfaa28d99214
+国兴卫视,P2p://starvod.xyz:19806/eb0a980797214010950a6d668edd9b6f
+韩国娱乐台,P2p://starvod.xyz:19806/c6fb33dfc4924f59a59cfca15a11d687
+好莱坞电影台,P2p://starvod.xyz:19806/b64cbaff0f5148d4a83e5001f023bd79
+好消息,P2p://starvod.xyz:19806/054e6b13c4b241a981e4efb7db29f2f4
+好消息2台,P2p://starvod.xyz:19806/1ebea47ed71a415891c001c7d7f6f7a4
+华视,P2p://starvod.xyz:19806/8828b16102ca45a886a038341a2e72eb
+华视新闻,P2p://starvod.xyz:19806/c725337b582841a28c53bfab40756111
+寰宇新闻台,P2p://starvod.xyz:19806/52a4ff0cb0f7452f82119dc0b580653d
+寰宇新闻台湾台,P2p://starvod.xyz:19806/fbf5f4564104482a9504c9ada69ea6e9
+靖天电影台,P2p://starvod.xyz:19806/25482b37459944f4b17ca4415dc6598b
+靖天卡通台,P2p://starvod.xyz:19806/0198c0e2e5364fa2a1b7505b3b88d52d
+靖天日本台,P2p://starvod.xyz:19806/7de37e8150904d51af697578eda84920
+靖天戏剧台,P2p://starvod.xyz:19806/d545395a5309407a9c9e06aefc7273d1
+靖天映画台,P2p://starvod.xyz:19806/02d53d73f3f448209ad9ef894e306701
+靖天育乐台,P2p://starvod.xyz:19806/8e409f4614da4d1f832b4da9b0949251
+靖天资讯台,P2p://starvod.xyz:19806/233b2871163140d3a88fee963efec7f7
+靖天综合台,P2p://starvod.xyz:19806/26100f2409c2436f899caee0a679b586
+靖洋卡通Nice Bingo,P2p://starvod.xyz:19806/b0de3ee659e748058943003ed12aa674
+靖洋戏剧台,P2p://starvod.xyz:19806/f6e466bc96234d1e9633c10ff0f8bc42
+镜新闻,P2p://starvod.xyz:19806/e49d9edb1be74375b43138bccc1fd5ed
+客家电视台,P2p://starvod.xyz:19806/dd47f6fb7129465caf6aceaabaadbb26
+历史频道,P2p://starvod.xyz:19806/14fe755fa76042dcb78b036004806cb2
+龙华电影,P2p://starvod.xyz:19806/49aa099e0d6e4acda17fd7b4b21180f8
+龙华偶像,P2p://starvod.xyz:19806/d392d5b145814cafb5a4e57f2559cc2a
+龙华戏剧,P2p://starvod.xyz:19806/5498586f87cf4e28a2e02f3349536bf9
+龙祥电影,P2p://starvod.xyz:19806/a4cf0bd50e0e4c399cf5bc7f10d8b147
+美食星球,P2p://starvod.xyz:19806/84ef5c4283df4784bb1fb01ba466627f
+美亚电影台HD,P2p://starvod.xyz:19806/d1175643ed8547a089ff04eac30f8fb7
+民视,P2p://starvod.xyz:19806/75d98c40a9f64743bdbf2ab59b8754d6
+民视第一台,P2p://starvod.xyz:19806/cf4047da7541487fa312869564020ac7
+民视台湾台,P2p://starvod.xyz:19806/071c8c26a9a446768138a1b77825f6d8
+民视新闻台,P2p://starvod.xyz:19806/e816d53913e84fb78818a5913ab3ba04
+尼克儿童频道,P2p://starvod.xyz:19806/619967c39165486d9c43cac7632be0c8
+年代新闻,P2p://starvod.xyz:19806/fd9796184bb741ef80e20dc404088625
+霹雳台湾台,P2p://starvod.xyz:19806/a0b26422b0684852a0a247b793caca27
+人间卫视,P2p://starvod.xyz:19806/0524623a90ed42f29896f1307fc577a0
+三立iNEWS,P2p://starvod.xyz:19806/b0b63b81d7bd41e097d1d1c711e786d8
+三立都会台,P2p://starvod.xyz:19806/f1783e8e2285494bb92e56fcc03b8bd2
+三立台湾台,P2p://starvod.xyz:19806/29a0fbd5f4ba47d5ba0fea5d2b867489
+三立戏剧台,P2p://starvod.xyz:19806/f16f8870bf0a439f9c67baee200b2066
+三立新闻台,P2p://starvod.xyz:19806/a1cd648fd7b5443eba7cf43f0da9bc7e
+三立综合台,P2p://starvod.xyz:19806/8b9e344befe449c5b5f4ebac6e68c04e
+台视,P2p://starvod.xyz:19806/d3ed62b7bad14191959cdac7a7089649
+台视财经台,P2p://starvod.xyz:19806/6c06b74ad8ca493fa6c2c05c78e3b545
+台视新闻台,P2p://starvod.xyz:19806/879a9ce8c43a48f49ed38ad685d7a5bb
+台视综合台,P2p://starvod.xyz:19806/c307dd8b46cb4f46ad6251c27d66b6d9
+探索频道,P2p://starvod.xyz:19806/0114387eb4ff442eb7bf650fb87e5ac7
+纬来电影台,P2p://starvod.xyz:19806/8d1e10e984d4494aab703ac006faf941
+纬来精采台,P2p://starvod.xyz:19806/19a13942497b4a099f64eb8701a4abf3
+纬来日本台,P2p://starvod.xyz:19806/00d49f677983415189cf9827d2de3e8e
+纬来体育台,P2p://starvod.xyz:19806/30a3b2a3966a408baea81859422cf070
+纬来戏剧台,P2p://starvod.xyz:19806/2396ccb765774068bf00937cb2fd7bc8
+纬来育乐台,P2p://starvod.xyz:19806/3f8d2096eeb34927910142e633e74b3c
+纬来综合台,P2p://starvod.xyz:19806/f324964b23e44a349777ac812a863dcc
+亚洲旅游台,P2p://starvod.xyz:19806/8947b18c8a3e43249a05817840e71049
+亚洲美食频道,P2p://starvod.xyz:19806/8e79d973d3cc46c0984d7710bd7f8677
+壹电视电影台,P2p://starvod.xyz:19806/423c530a8d8e406b9e5ff5f84bb4717a
+壹电视新闻台,P2p://starvod.xyz:19806/06b92ed63cce422ebaec6757d18b6c61
+壹电视综合,P2p://starvod.xyz:19806/5766a2a191dd4b00bfeb3c30eacdd696
+影迷数位电影台,P2p://starvod.xyz:19806/d613d16093fa446382be58edde88eeba
+原住民电视台,P2p://starvod.xyz:19806/eb258578466c4c528e98dbdd4b8584c4
+智林体育台,P2p://starvod.xyz:19806/3002f2b00d31470182395bf58242d97d
+中视,P2p://starvod.xyz:19806/4cbf22fb54b84449bf67ff1208df14bf
+中视经典台,P2p://starvod.xyz:19806/33fb1a37e93d4e809f9e6ce6a40edc0b
+中视菁采台,P2p://starvod.xyz:19806/4a223997a6984c2183cbad68f56d4d03
+中视新闻台,P2p://starvod.xyz:19806/c4fabeb367b44cf3926454703f69a17a
+中天新闻台,P2p://starvod.xyz:19806/2e904818dbeb4583b43e3e016a7cf8d9
+中天新闻台,P2p://starvod.xyz:19806/5101795d67f342359f9b60be98a6e360
+中天娱乐台,P2p://starvod.xyz:19806/04df869d074f436583559dab86210613
+中天综合台,P2p://starvod.xyz:19806/74f7e2793ca746169b7aea295fe86a18
+罪案侦缉频道,P2p://starvod.xyz:19806/207f68a4fd0142a3851c3f943aa4556c
+
 amc电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv017
 Arirang Korea,https://litv.zapi.us.kg/?id=4gtv-4gtv079
-CATCHPLAY电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv076
+CatchPlay电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv076
 CNEX纪实频道,https://litv.zapi.us.kg/?id=4gtv-4gtv013
 Da Vinci,https://litv.zapi.us.kg/?id=4gtv-4gtv018
 ELTA娱乐,https://litv.zapi.us.kg/?id=4gtv-4gtv070
@@ -1673,8 +1840,8 @@ FGM Gold电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv011
 FTV综艺,https://litv.zapi.us.kg/?id=4gtv-4gtv004
 Hakka TV,https://litv.zapi.us.kg/?id=4gtv-4gtv043
 K-pop 时尚运动,https://litv.zapi.us.kg/?id=4gtv-4gtv014
-MEZZ( ) Live,https://litv.zapi.us.kg/?id=4gtv-4gtv083
-MNEWS 镜新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv075
+Mezzo Live,https://litv.zapi.us.kg/?id=4gtv-4gtv083
+镜新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv075
 Trace sport,https://litv.zapi.us.kg/?id=4gtv-4gtv077
 TVBS HD,https://litv.zapi.us.kg/?id=4gtv-4gtv073
 TVBS欢乐,https://litv.zapi.us.kg/?id=4gtv-4gtv068
@@ -1682,11 +1849,11 @@ TVBS精采,https://litv.zapi.us.kg/?id=4gtv-4gtv067
 TVBS新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv072
 八大精彩台,https://litv.zapi.us.kg/?id=4gtv-4gtv034
 采昌电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv049
-东森财经新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv153
-东森新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv152
+东森财经新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv153
+东森新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv152
 动画,https://litv.zapi.us.kg/?id=4gtv-4gtv053
-非凡商业,https://litv.zapi.us.kg/?id=4gtv-4gtv048
-非凡新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv010
+非凡商业台,https://litv.zapi.us.kg/?id=4gtv-4gtv048
+非凡新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv010
 公视戏剧,https://litv.zapi.us.kg/?id=4gtv-4gtv042
 古典音乐台,https://litv.zapi.us.kg/?id=4gtv-4gtv059
 国会频道1,https://litv.zapi.us.kg/?id=4gtv-4gtv084
@@ -1705,7 +1872,7 @@ TVBS新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv072
 靖天育乐台,https://litv.zapi.us.kg/?id=4gtv-4gtv062
 靖天咨讯台,https://litv.zapi.us.kg/?id=4gtv-4gtv065
 靖天综合台,https://litv.zapi.us.kg/?id=4gtv-4gtv046
-靖洋卡通台,https://litv.zapi.us.kg/?id=4gtv-4gtv057
+靖洋卡通台Nice Bingo,https://litv.zapi.us.kg/?id=4gtv-4gtv057
 靖洋戏剧台,https://litv.zapi.us.kg/?id=4gtv-4gtv045
 民视,https://litv.zapi.us.kg/?id=4gtv-4gtv002
 民视,https://litv.zapi.us.kg/?id=4gtv-4gtv155
@@ -1713,236 +1880,68 @@ TVBS新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv072
 民视台湾台,https://litv.zapi.us.kg/?id=4gtv-4gtv001
 民视台湾台,https://litv.zapi.us.kg/?id=4gtv-4gtv156
 台视,https://litv.zapi.us.kg/?id=4gtv-4gtv066
-台视财经,https://litv.zapi.us.kg/?id=4gtv-4gtv056
+台视财经台,https://litv.zapi.us.kg/?id=4gtv-4gtv056
 早晨财经,https://litv.zapi.us.kg/?id=4gtv-4gtv104
 中视,https://litv.zapi.us.kg/?id=4gtv-4gtv040
-中视经典,https://litv.zapi.us.kg/?id=4gtv-4gtv080
-中视菁采,https://litv.zapi.us.kg/?id=4gtv-4gtv064
-中视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv074
-中天新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv009
-中天亚洲,https://litv.zapi.us.kg/?id=4gtv-4gtv109
+中视经典台,https://litv.zapi.us.kg/?id=4gtv-4gtv080
+中视菁采台,https://litv.zapi.us.kg/?id=4gtv-4gtv064
+中视新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv074
+中天新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv009
+中天亚洲台,https://litv.zapi.us.kg/?id=4gtv-4gtv109
 猪亮哥歌厅秀,https://litv.zapi.us.kg/?id=4gtv-4gtv006
 
-旅游,http://litv.zapi.us.kg/?id=litv-ftv07
-民视新闻,http://litv.zapi.us.kg/?id=litv-ftv13
+Smart知识台,http://litv.zapi.us.kg/?id=litv-longturn19
 爱放,http://litv.zapi.us.kg/?id=litv-ftv15
-好消息,http://litv.zapi.us.kg/?id=litv-ftv16
-好消息2,http://litv.zapi.us.kg/?id=litv-ftv17
-龙华卡通,http://litv.zapi.us.kg/?id=litv-longturn01 
-龙华电影,http://litv.zapi.us.kg/?id=litv-longturn03
-博斯魅力,http://litv.zapi.us.kg/?id=litv-longturn04
 博斯高球,http://litv.zapi.us.kg/?id=litv-longturn05
-博斯高球2,http://litv.zapi.us.kg/?id=litv-longturn06
-博斯运动,http://litv.zapi.us.kg/?id=litv-longturn07
-博斯运动2,http://litv.zapi.us.kg/?id=litv-longturn08
-博斯网球,http://litv.zapi.us.kg/?id=litv-longturn09
+博斯高球二台,http://litv.zapi.us.kg/?id=litv-longturn06
+博斯魅力网,http://litv.zapi.us.kg/?id=litv-longturn04
+博斯网球台,http://litv.zapi.us.kg/?id=litv-longturn09
 博斯无限,http://litv.zapi.us.kg/?id=litv-longturn10
-龙华日韩,http://litv.zapi.us.kg/?id=litv-longturn11
-龙华偶像,http://litv.zapi.us.kg/?id=litv-longturn12
-博斯无限2,http://litv.zapi.us.kg/?id=litv-longturn13
+博斯无限二台,http://litv.zapi.us.kg/?id=litv-longturn13
+博斯运动,http://litv.zapi.us.kg/?id=litv-longturn07
+博斯运动二台,http://litv.zapi.us.kg/?id=litv-longturn08
+好消息,http://litv.zapi.us.kg/?id=litv-ftv16
+好消息2台,http://litv.zapi.us.kg/?id=litv-ftv17
 寰宇新闻台湾,http://litv.zapi.us.kg/?id=litv-longturn15
-亚洲旅游,http://litv.zapi.us.kg/?id=litv-longturn17
-龙华戏剧,http://litv.zapi.us.kg/?id=litv-longturn18
-SMART,http://litv.zapi.us.kg/?id=litv-longturn19
-生活英语台,http://litv.zapi.us.kg/?id=litv-longturn20
+龙华电影,http://litv.zapi.us.kg/?id=litv-longturn03
 龙华经典,http://litv.zapi.us.kg/?id=litv-longturn21
+龙华卡通,http://litv.zapi.us.kg/?id=litv-longturn01 
+龙华偶像,http://litv.zapi.us.kg/?id=litv-longturn12
+龙华日韩,http://litv.zapi.us.kg/?id=litv-longturn11
+龙华戏剧,http://litv.zapi.us.kg/?id=litv-longturn18
+旅游,http://litv.zapi.us.kg/?id=litv-ftv07
+民视新闻台,http://litv.zapi.us.kg/?id=litv-ftv13
+生活英语台,http://litv.zapi.us.kg/?id=litv-longturn20
 台湾戏剧台,http://litv.zapi.us.kg/?id=litv-longturn22
+亚洲旅游台,http://litv.zapi.us.kg/?id=litv-longturn17
 
-
-
-
-amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8$订阅源
-astro QJ,http://50.7.234.10:8278/Quanjia/playlist.m3u8?tid=MFFF3293542732935427&ct=19226&tsum=27c80d1bed9942e20443c39f523846fb$订阅源
-ASTV亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8$订阅源
-ASTV亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0$订阅源
-CINEMAX,http://50.7.234.10:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2$订阅源
-Dali TV,http://www.dalitv.com.tw:4568/live/dali/index.m3u8$订阅源
-EYETV戏剧,http://50.7.234.10:8278/eyetvxiju_twn/playlist.m3u8?tid=ME3E6686724066867240&ct=19254&tsum=728fc49fcd53cd770381ffd87883b1d1$订阅源
-HBO家庭,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f$订阅源
-HBO家庭,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853$订阅源
-HBO原创巨献,http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee$订阅源
-HBO原创巨献,http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb$订阅源
-TVBS HD,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223$订阅源
-TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c$订阅源
-TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74$订阅源
-TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8$订阅源
-TVBS新闻,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee$订阅源
-TVBS新闻,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8$订阅源
-TVBS新闻,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd$订阅源
-TVBS新闻,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=d686e9ec5c6eda876ad3695acb7d31e6$订阅源
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$订阅源
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$订阅源
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8$订阅源
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$订阅源
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$订阅源
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$订阅源
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$订阅源
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$订阅源
-爱尔达影剧,http://50.7.234.10:8278/eltayingju_twn/playlist.m3u8?tid=MFFF8590726285907262&ct=19249&tsum=ae4cb19fed11696df934d6e2489e2978$订阅源
-爱尔达影剧,http://50.7.234.10:8278/eltayingju_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=55fa777976b94e6a6b6fd9a6e692789d$订阅源
-爱尔达影剧,http://50.7.234.10:8278/eltadrama_twn/playlist.m3u8?tid=MFDF4206608342066083&ct=19225&tsum=c6e03c86e60731f01aef66e1b32dcc84$订阅源
-八大第1台,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e$订阅源
-八大第1台,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076$订阅源
-八大第1台,http://61.221.215.25:8800/hls/55/index.m3u8$订阅源
-八大精彩台,https://4gtv.pendy.us.kg/4gtv.php?id=4gtv-4gtv034$订阅源
-八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8$订阅源
-八大戏剧台,http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=ME3E7432781774327817&ct=19193&tsum=504532547ffc646858157dd724bca18d$订阅源
-八大戏剧台,http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5$订阅源
-八大戏剧台,http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d$订阅源
-八大戏剧台,http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=MBCB2433143824331438&ct=19254&tsum=51660c351b3991d81434e43bd1ab720e$订阅源
-八大戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8$订阅源
-八大综合台,http://50.7.234.10:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790$订阅源
-八大综合台,http://50.7.234.10:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d$订阅源
-八大综合台,http://50.7.234.10:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae$订阅源
-八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8$订阅源
-八大综合台,http://50.7.234.10:8278/badazhonghe/playlist.m3u8?tid=MCFC9951205299512052&ct=19249&tsum=dc4ca0de5e57c9f4caee0bb4e80c098a$订阅源
-博斯魅力,http://50.7.234.10:8278/bosisport1_twn/playlist.m3u8?tid=MCEC3596356835963568&ct=19234&tsum=b4f0f6248548de66e4ff5d230c130d1a$订阅源
-博斯网球,http://50.7.234.10:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77$订阅源
-大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8$订阅源
-大爱1台,https://pulltv2.wanfudaluye.com/live/tv1.m3u8$订阅源
-大爱2台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8$订阅源
-大爱2台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8$订阅源
-大爱2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8$订阅源
-地理野生动物,http://50.7.234.10:8278/Natgeowild/playlist.m3u8?tid=MCEC8162047281620472&ct=19249&tsum=903a62e36d9cd6c67654b4e2ca6bcbd5$订阅源
-东森财经新闻,http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371$订阅源
-东森财经新闻,http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54$订阅源
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8$订阅源
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40$订阅源
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40$订阅源
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$订阅源
-东森电影,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859$订阅源
-东森电影,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996$订阅源
-东森戏剧,http://50.7.234.10:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc$订阅源
-东森戏剧,http://50.7.234.10:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7$订阅源
-东森新闻,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4$订阅源
-东森新闻,http://220.249.51.134:10006/东森新闻-盗源者死全家/易發TV/hls.m3u8$订阅源
-东森新闻,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8$订阅源
-东森新闻,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3$订阅源
-东森新闻,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD1D1428989414289894&ct=19346&tsum=d8fc0ab62e1d97aaca4279883cb1101c$订阅源
-东森洋片,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f$订阅源
-东森洋片,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0$订阅源
-东森综合,http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d$订阅源
-东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40$订阅源
-东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40$订阅源
-动物星球,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8$订阅源
-动物星球,http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702$订阅源
-动物星球,http://61.221.215.25:8800/hls/57/index.m3u8$订阅源
-动物星球,http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288$订阅源
-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8$订阅源
-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8$订阅源
-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8$订阅源
-非凡新闻,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d$订阅源
-非凡新闻,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997$订阅源
-非凡新闻,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378$订阅源
-公视,http://50.7.234.10:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0$订阅源
-公视,http://50.7.234.10:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0$订阅源
-公视,http://50.7.234.10:8278/ctv_taiwan/playlist.m3u8?tid=MCCC8750228587502285&ct=19225&tsum=aca6268c0dd9f618ed5e944942132557$订阅源
-公视,http://50.7.234.10:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4$订阅源
-国家地理,http://50.7.234.10:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d$订阅源
-国家地理,http://50.7.234.10:8278/natgeohd_twn/playlist.m3u8?tid=MD3D4446495344464953&ct=19249&tsum=f8c0bfc8c564a4a28247dad400acddba$订阅源
-好莱坞电影,http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859$订阅源
-好莱坞电影,http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e$订阅源
-好莱坞电影,http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f$订阅源
-华视,http://50.7.234.10:8278/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6$订阅源
-华视,http://50.7.234.10:8278/ctshd_twn/playlist.m3u8?tid=MAFA1309481213094812&ct=19226&tsum=429f7c40691cdcc6c1fb108dbd11e002$订阅源
-华视,http://50.7.234.10:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81$订阅源
-环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8$订阅源
-寰宇新闻台,http://50.7.234.10:8278/huanyuxinwen_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=2e4ba5060f39aa293606ab3341b4fcde$订阅源
-靖天国际台,http://50.7.234.10:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b$订阅源
-龙华电影,http://cdn5.1689.us.kg/litv.php?id=litv-longturn03$订阅源
-龙华卡通,http://50.7.234.10:8278/jingtiancartoon_twn/playlist.m3u8?tid=MEEE6701222267012222&ct=19226&tsum=c1da0f03bc493ce969726d15fc9c0286$订阅源
-龙华偶像,http://cdn5.1689.us.kg/litv.php?id=litv-longturn12$订阅源
-龙华偶像,http://50.7.234.10:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff$订阅源
-龙华日韩,http://cdn5.1689.us.kg/litv.php?id=litv-longturn11$订阅源
-龙华戏剧,http://50.7.234.10:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb$订阅源
-龙华戏剧,http://cdn5.1689.us.kg/litv.php?id=litv-longturn18$订阅源
-龙华戏剧,http://50.7.234.10:8278/lunghuaxiju_twn/playlist.m3u8?tid=MF2F2793524427935244&ct=19249&tsum=db1ef83fbbbae9a364979295fd690f7d$订阅源
-龙祥时代,http://50.7.234.10:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5$订阅源
-龙祥时代,http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8$订阅源
-美亚电影台,http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b$订阅源
-美亚电影台,http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e$订阅源
-美亚电影台,http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337$订阅源
-面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8$订阅源
-民视,http://50.7.234.10:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc$订阅源
-民视,http://50.7.234.10:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384$订阅源
-民视第一台,http://50.7.234.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=MC2C7597780175977801&ct=19249&tsum=b7602981567d8f0171e8de29154f5014$订阅源
-民视台湾台,http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2$订阅源
-民视台湾台,http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd$订阅源
-民视台湾台,http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a$订阅源
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8$订阅源
-民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8$订阅源
-民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8$订阅源
-民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8$订阅源
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8$订阅源
-年代新闻,http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd$订阅源
-年代新闻,http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec$订阅源
-千禧经典,http://205.185.123.236:8899/astro/qianxi/qianxi.m3u8$订阅源
-千禧经典,http://205.185.123.236:8899/astro/qianxi/stream.m3u8$订阅源
-人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8$订阅源
-人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8$订阅源
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u$订阅源
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8$订阅源
-三立台湾台,http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb$订阅源
-三立戏剧台,http://50.7.234.10:8278/sanlixiju_twn/playlist.m3u8?tid=MC3C7351075373510753&ct=19249&tsum=f70fc544635e38b2fd7b4bb39899df0e$订阅源
-三立戏剧台,http://50.7.234.10:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799$订阅源
-三立戏剧台,http://50.7.234.10:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59$订阅源
-三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8$订阅源
-三立综合,http://50.7.234.10:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b$订阅源
-時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8$订阅源
-時尚台FTV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8$订阅源
-時尚台FTV,http://50.7.234.10:8278/fashiontv_twn/playlist.m3u8?tid=MABA6457047364570473&ct=18393&tsum=82840dc94ca1ecca47ac4c26d3ee4afc$订阅源
-時尚台FTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8$订阅源
-台视,http://50.7.234.10:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e$订阅源
-台视,http://50.7.234.10:8278/ttv_taiwan/playlist.m3u8?tid=MD2D8203795682037956&ct=19249&tsum=2006edaa53ca80f074fb680d4b7372c3$订阅源
-台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8$订阅源
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8$订阅源
-台视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8$订阅源
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8$订阅源
-台视新闻,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8$订阅源
-台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8$订阅源
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top$订阅源
-探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8$订阅源
-探索亚洲,http://50.7.234.10:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e$订阅源
-唯心電视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8$订阅源
-唯心電视,https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8$订阅源
-唯心電视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8$订阅源
-纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8$订阅源
-纬来日本,http://50.7.234.10:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb$订阅源
-智林体育台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv101$订阅源
-中视,http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605$订阅源
-中视新闻,http://50.7.234.10:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376$订阅源
-中视新闻,http://50.7.234.10:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd$订阅源
-中天亚洲,http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964$订阅源
-中天娱乐,http://50.7.234.10:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3$订阅源
-中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8$订阅源
-中天娱乐,http://50.7.234.10:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac$订阅源
-中天娱乐,http://50.7.234.10:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674$订阅源
-中天综合,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca$订阅源
-中天综合,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e$订阅源
 
 
 🎥澳门频道,#genre#
-澳门莲花台,http://nettvpro.live/hls/lotustv.php?zgangd$订阅源
-澳门莲花台,http://anren.live/HK/BiIOU11uLA.m3u8$订阅源
-澳门莲花台,http://anren.live/HK/BiIOU11uLA.m3u8?zgangd$订阅源
-澳门莲花台,http://nettvpro.live/hls/lotustv.php$订阅源
+
+澳门-MACAU,P2p://starvod.xyz:19806/00ee59f193504c1a8b6c6225858a2835
+澳门莲花,P2p://starvod.xyz:19806/6f6d12b575c3468da907a21b25a17a5a
+
+
+澳门莲花,http://nettvpro.live/hls/lotustv.php?zgangd$订阅源
+澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8$订阅源
+澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8?zgangd$订阅源
+澳门莲花,http://nettvpro.live/hls/lotustv.php$订阅源
 澳门卫视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 澳亚卫视,http://219.137.203.101:8081/hls/22/index.m3u8
-澳视澳门台,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
-澳视葡文台,http://61.244.22.5/ch2/ch2.live/playelist.m3u8
-澳视卫星台,http://61.244.22.5/ch3/ch3.live/playelist.m3u8
-澳视体育台,http://61.244.22.5/ch4/ch4.live/playelist.m3u8
-澳视资讯台,http://61.244.22.5/ch5/info_ch5.live/playlist.m3u8
-澳视高清台,http://61.244.22.5/ch6/hd_ch6.live/playerlist.m3u8
-莲花卫视,http://php.jdshipin.com:8880/amlh.php
-澳视澳门台,http://1b6467f415.iok.la:9931/tsfile/live/1039_1.m3u8
-澳亚卫视台,http://8.138.7.223/tv/gdmzyd.php?id=5
-澳视澳门台,http://8.138.7.223/tv/gdmzyd.php?id=6
+澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
+澳视葡文,http://61.244.22.5/ch2/ch2.live/playelist.m3u8
+澳视卫星,http://61.244.22.5/ch3/ch3.live/playelist.m3u8
+澳视体育,http://61.244.22.5/ch4/ch4.live/playelist.m3u8
+澳视资讯,http://61.244.22.5/ch5/info_ch5.live/playlist.m3u8
+澳视高清,http://61.244.22.5/ch6/hd_ch6.live/playerlist.m3u8
+澳门莲花,http://php.jdshipin.com:8880/amlh.php
+澳视澳门,http://1b6467f415.iok.la:9931/tsfile/live/1039_1.m3u8
+澳亚卫视,http://8.138.7.223/tv/gdmzyd.php?id=5
+澳视澳门,http://8.138.7.223/tv/gdmzyd.php?id=6
 
-澳门莲花台,http://nettvpro.live/hls/lotustv.php?zgangd$订阅源
-澳门莲花台,http://nettvpro.live/hls/lotustv.php$订阅源
-澳视澳门台,http://183.237.246.14:9931/tsfile/live/1039_1.m3u8$订阅源
+
 
 
 
