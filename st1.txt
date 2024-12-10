@@ -1593,6 +1593,42 @@ Hub娱家,http://php.jdshipin.com:8880/xsj.php?id=HubVVDrama$订阅源
 
 🎥香港频道,#genre#
 
+
+凤凰中文,P2p://starvod.xyz:19806/e812370ec3d5425a96fa10fa59312380
+凤凰资讯,P2p://starvod.xyz:19806/c110f54316ee493f8554db97e9a0593e
+凤凰香港,P2p://starvod.xyz:19806/b57de3aa854d4b49895fe4244d8132b9
+无线新闻台,P2p://starvod.xyz:19806/a66874c481794af299aa1226b99cbadb
+港台电视31,P2p://starvod.xyz:19806/7271242365e5408c8c6f188d61e7c475
+港台电视32,P2p://starvod.xyz:19806/6516aa83adc24ea4a612d5d141d9525b
+HOY TV,P2p://starvod.xyz:19806/36d3594f0c184c0ea5fa239d41bd7e15
+TVB Plus,P2p://starvod.xyz:19806/4e77f973d7b44ab1b6601a23a7570460
+无线新闻台,P2p://starvod.xyz:19806/d1201eea6f3242f7814bdebe912fb6a7
+TVB娱乐新闻台,P2p://starvod.xyz:19806/c24dcce1643342cbaf7c04592950e57b
+PopC,P2p://starvod.xyz:19806/38daa884192e4a1c957070103137866b
+ViuTVsix,P2p://starvod.xyz:19806/54a6176051e942248e03923372d24a2e
+ViuTV,P2p://starvod.xyz:19806/4033930a5c32429e8a56dce5d66a0d85
+TVB星河,P2p://starvod.xyz:19806/490b1e7498944105b39a7948967e20d6
+香港34台,P2p://starvod.xyz:19806/5d9ed587089446729a6857d2ba197941
+HKC 18,P2p://starvod.xyz:19806/6c5238b068ca4115bbba31d0d3e29fd2
+戏曲台,P2p://starvod.xyz:19806/957ab5c4e11440b3a399950aaa7b17cf
+翡翠台,P2p://147.135.39.171:9906/673c3f77000a676e03217518685346e2
+千禧经典,P2p://starvod.xyz:19806/4f92fe3319104c928b756198d8a56402
+Thrill,P2p://starvod.xyz:19806/f53f968579c1414ba1eb7c5f3eb775dc
+明珠台,P2p://starvod.xyz:19806/5a054b8d7ab74c3680e3b32cfcedf269
+now财经台,P2p://starvod.xyz:19806/b7a2e449c0ea4e558963a5a112fb4756
+美亚电影台(粤语),P2p://starvod.xyz:19806/6515a7376fd64cadb0e420fce5699870
+18台,P2p://starvod.xyz:19806/a7a1270448d14a89a5f8a990bd109970
+HOY资讯台,P2p://starvod.xyz:19806/6b3daf9be0ff4a2d88c9080d95567e3a
+SUPER Kids,P2p://starvod.xyz:19806/1b634eb546ad4513bd6f84a0d179920e
+粤语片台,P2p://starvod.xyz:19806/14204040d6054c9899058fe7ce1be39a
+亚洲剧台,P2p://starvod.xyz:19806/1f266b46f7244970898dcf1315dc0080
+功夫台,P2p://starvod.xyz:19806/2bc427ed3eb84257b6810f66016dd81e
+now新闻台,P2p://starvod.xyz:19806/30ab8ab546ef4727a5466a2e87a6853f
+香港国际财经台,P2p://starvod.xyz:19806/25fc1ea0ee6f4da2962c97ac20146863
+黄金翡翠台,P2p://starvod.xyz:19806/1ce6cad822f54b5ba5a6bad081157d9b
+翡翠台,P2p://starvod.xyz:19806/b289aea8a10c439fb0c61f6bb35869d3
+
+
 TVB Plus,http://111.222.136.121:5000/bysid/82
 明珠台,http://111.222.136.121:5000/bysid/2
 鳳凰香港,http://111.222.136.121:5000/bysid/85
@@ -1623,89 +1659,7 @@ TVB星河3,https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 娱乐新闻,https://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 
-鳳凰中文,http://r.jdshipin.com/cCCzW$订阅源
-鳳凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8$订阅源
-鳳凰中文,http://58.215.231.35/live2.ngaacdn.sc96655.com/live/test1.m3u8$订阅源
-鳳凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8$订阅源
-鳳凰中文,http://171.38.85.186:8181/tsfile/live/1001_1.m3u8$订阅源
-鳳凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?$订阅源
-鳳凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-鳳凰中文,http://171.38.85.186:8181/tsfile/live/1014_1.m3u8$订阅源
-鳳凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8$订阅源
-鳳凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv$订阅源
-鳳凰中文,http://119.125.134.212:9902/tsfile/live/1019_1.m3u8$订阅源
-鳳凰中文,http://202.168.187.208:9089/tsfile/live/1009_1.m3u8$订阅源
-鳳凰中文,http://60.255.240.247:8090/live/test1_4000.m3u8$订阅源
-鳳凰中文,http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068$订阅源
-鳳凰中文,http://59.32.97.71:9901/tsfile/live/1037_1.m3u8$订阅源
-鳳凰資訊,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8$订阅源
-鳳凰資訊,http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e$订阅源
-鳳凰資訊,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8$订阅源
-鳳凰資訊,http://171.38.85.186:8181/tsfile/live/1015_1.m3u8$订阅源
-鳳凰資訊,http://58.215.231.35/live2.ngaacdn.sc96655.com/live/test2.m3u8$订阅源
-鳳凰資訊,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?$订阅源
-鳳凰資訊,http://210.210.155.37/qwr9ew/s/s21/index.m3u8$订阅源
-鳳凰資訊,http://171.38.85.186:8181/tsfile/live/1000_1.m3u8$订阅源
-鳳凰資訊,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8?$订阅源
-鳳凰資訊,http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0$订阅源
-鳳凰資訊,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8$订阅源
-鳳凰資訊,http://61.221.215.25:8800/hls/47/index.m3u8$订阅源
-鳳凰資訊,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv$订阅源
-鳳凰資訊,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-鳳凰資訊,http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44$订阅源
-鳳凰資訊,http://60.255.240.247:8090/live/test2_4000.m3u8$订阅源
-TVB翡翠台,http://50.7.234.10:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09$订阅源
-TVB明珠台,http://119.125.134.205:9902/tsfile/live/1009_1.m3u8$订阅源
-TVB明珠台,http://50.7.234.10:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad$订阅源
-TVB明珠台,http://r.jdshipin.com/GeWKr?id=mzt720$订阅源
-TVB明珠台,http://119.125.134.212:9902/tsfile/live/1009_1.m3u8$订阅源
-TVB明珠台,http://59.32.97.71:9901/tsfile/live/1030_1.m3u8$订阅源
-TVB无线新闻,https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40$订阅源
-TVB无线新闻,http://r.jdshipin.com/CkuBd$订阅源
-华丽翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8$订阅源
-ViuTV6,https://api.btbt.im/live?id=viutv$订阅源
-HOY TV,https://api.btbt.im/live?id=hoytv$订阅源
-HOY 资讯台,https://api.btbt.im/live?id=hoy-info$订阅源
-HOY国际财经,https://api.btbt.im/live?id=hoy-ibc$订阅源
-J2,http://fm1077.serv00.net/Smart.php?id=j2_twn$订阅源
-J2,http://r.jdshipin.com/Nr5jq$订阅源
-J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70$订阅源
-J2,http://r.jdshipin.com/ndGgS$订阅源
-J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032$订阅源
-J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e$订阅源
-MTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18$订阅源
-MTV,https://vnpt.nekocdn.xyz/hls/MTV/index.m3u8$订阅源
-NHK世界,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8$订阅源
-NHK世界,http://61.221.215.25:8800/hls/51/index.m3u8$订阅源
-RTHK31,http://50.7.234.10:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35$订阅源
-RTHK32,http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=MDBD4704174447041744&ct=19249&tsum=763ebe53fc33677d02ebf83b4d558d33$订阅源
-RTHK32,http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd$订阅源
-RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8$订阅源
-RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8$订阅源
-RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8$订阅源
-RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8$订阅源
-RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8$订阅源
-香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8$订阅源
-香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8$订阅源
-香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8$订阅源
-香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8$订阅源
-香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8?$订阅源
-香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8$订阅源
-亚洲旅游,http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8$订阅源
-亚洲旅游,http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d$订阅源
-亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8$订阅源
-亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0$订阅源
-亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0$订阅源
-耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8$订阅源
-有线新闻,http://61.10.2.146/live_freedirect/freehd209_h.live/playlist.m3u8$订阅源
-有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8$订阅源
-有线新闻,http://61.10.2.141:80/live_freedirect/freehd209_h.live/chunklist.m3u8$订阅源
-有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u$订阅源
-有线新闻,http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8$订阅源
-有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8$订阅源
-有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/chunklist_w1949275579.m3u8$订阅源
-有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8$订阅源
-有线新闻,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8$订阅源
+
 
 🎥台湾频道,#genre#
 
