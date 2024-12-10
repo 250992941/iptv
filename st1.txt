@@ -1453,6 +1453,10 @@ CCTV-17咪咕,https://api.livednow.org/migu/673168256?sign=gAAAAABnJcJqaH7zxsZ2s
 
 🌊新闻频道JW,#genre#
 
+凤凰中文台,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8$AK
+凤凰资讯台,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8$AK
+无线新闻台,http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8$AK
+
 凤凰中文台,P2p://starvod.xyz:19806/e812370ec3d5425a96fa10fa59312380
 凤凰资讯台,P2p://starvod.xyz:19806/c110f54316ee493f8554db97e9a0593e
 无线新闻台P2p://starvod.xyz:19806/d1201eea6f3242f7814bdebe912fb6a7
