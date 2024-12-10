@@ -1910,7 +1910,7 @@ Smart知识台,http://litv.zapi.us.kg/?id=litv-longturn19
 
 🎬电影频道,#genre#
 
-AMC 电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv017
+AMC电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv017
 CATCHPLAY电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv076
 FGM Gold电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv011
 采昌电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv049
@@ -1922,6 +1922,43 @@ FGM Gold电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv011
 龙华电影,http://litv.zapi.us.kg/?id=litv-longturn03
 龙华经典,http://litv.zapi.us.kg/?id=litv-longturn21
 台湾戏剧台,http://litv.zapi.us.kg/?id=litv-longturn22
+
+CHC动作电影,P2p://starvod.xyz:19806/d6ba9841c8cc4447b529627c683d97e3
+CHC高清电影,P2p://starvod.xyz:19806/506c22b29f21447faf2da37aebcaeabd
+CHC家庭影院,P2p://starvod.xyz:19806/757359b5a8df43f3b8a8ffa9335517f9
+amc电影台,P2p://starvod.xyz:19806/cd374528271b481b93d5f946ad801284
+影迷数位电影台,P2p://starvod.xyz:19806/d613d16093fa446382be58edde88eeba
+壹电视电影台,P2p://starvod.xyz:19806/423c530a8d8e406b9e5ff5f84bb4717a
+AXN,P2p://starvod.xyz:19806/fccae3ecae554287914ba7bd8b09e3c7
+BOO,P2p://starvod.xyz:19806/040d9d48c4964e4088dd073a6c71c25b
+CatchPlay电影台,P2p://starvod.xyz:19806/f92ea797a53d413787bdcd14e6eb184b
+CinemaWorld,P2p://starvod.xyz:19806/c15af256226347ac889af4ad329958f1
+CINEMAX,P2p://starvod.xyz:19806/5be82fe8dd954f35a6fa4f85e9c32b95
+HBO Family,P2p://starvod.xyz:19806/741fb45c3c3c45ee9342501a46b3fa03
+HBO,P2p://starvod.xyz:19806/56bf3141615743a5b55585b4413790dd
+HBO强档巨献,P2p://starvod.xyz:19806/0e1f3763c81b4129abbe07590c4c8e17
+HBO原创巨献,P2p://starvod.xyz:19806/d99641dc9e24460ab5209a760947b893
+HITS Movies,P2p://starvod.xyz:19806/e55c2251c67b48d0a69e2b8da225e4e8
+MOViE MOViE,P2p://starvod.xyz:19806/ed518ce71ed449fb9ea53ce1c9f0c564
+Thrill,P2p://starvod.xyz:19806/f53f968579c1414ba1eb7c5f3eb775dc
+tvN Movies HD,P2p://starvod.xyz:19806/32516a348c3c4adfa5122d975368efa6
+WARNER TV,P2p://starvod.xyz:19806/037cd313675943049373c7e16318e669
+采昌影剧台,P2p://starvod.xyz:19806/99653a96f1c24099aebcd1e5eea8bb34
+东森电影台,P2p://starvod.xyz:19806/6ea3540369244d86a78a408fab7734de
+东森洋片台,P2p://starvod.xyz:19806/c96fcc121115445bbcb115f24d2a0a1a
+好莱坞电影台,P2p://starvod.xyz:19806/b64cbaff0f5148d4a83e5001f023bd79
+靖天电影台,P2p://starvod.xyz:19806/25482b37459944f4b17ca4415dc6598b
+靖天映画,P2p://starvod.xyz:19806/02d53d73f3f448209ad9ef894e306701
+龙华电影,P2p://starvod.xyz:19806/49aa099e0d6e4acda17fd7b4b21180f8
+龙祥电影,P2p://starvod.xyz:19806/a4cf0bd50e0e4c399cf5bc7f10d8b147
+美亚电影台(粤语),P2p://starvod.xyz:19806/6515a7376fd64cadb0e420fce5699870
+美亚电影台HD,P2p://starvod.xyz:19806/d1175643ed8547a089ff04eac30f8fb7
+私人影院,P2p://starvod.xyz:19806/e470af6cc237474192f90c44042d46dc
+天映经典,P2p://starvod.xyz:19806/1f10286d7bb14bcda455836cb9e4c5e9
+天映频道,P2p://starvod.xyz:19806/de35dcefd74244ae9bbbb83566d6222c
+纬来电影台,P2p://starvod.xyz:19806/8d1e10e984d4494aab703ac006faf941
+
+
 
 CHC家庭影院,http://113.57.109.48:1111/tsfile/live/1044_1.m3u8$订阅源
 CHC家庭影院,http://218.76.32.193:9901/tsfile/live/1018_1.m3u8$订阅源
