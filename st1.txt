@@ -2326,7 +2326,7 @@ WARNER TV,P2p://starvod.xyz:19806/037cd313675943049373c7e16318e669
 天映频道,P2p://starvod.xyz:19806/de35dcefd74244ae9bbbb83566d6222c
 纬来电影台,P2p://starvod.xyz:19806/8d1e10e984d4494aab703ac006faf941
 
-
+影迷数位电影台,http://litv.zapi.us.kg:80/?id=4gtv-4gtv011
 
 CHC动作电影,http://cdn.jdshipin.com:8880/huya.php?id=11602077$订阅源
 CHC动作电影,http://11.xmyxc.cn/api/php/yy.php?id=1382745096$订阅源
