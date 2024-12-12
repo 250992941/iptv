@@ -3,31 +3,6 @@
 
 🚀央视频道,#genre#
 
-CCTV1,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=cctv1
-CCTV2,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=cctv2
-CCTV3,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=cctv3
-CCTV4,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=cctv4
-CCTV5,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=cctv5
-CCTV5+,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=cctv5p
-CCTV6,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=cctv6
-CCTV6,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=cctv6avs
-CCTV7,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=cctv7
-CCTV8,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=cctv8
-CCTV8,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=cctv8avs
-CCTV9,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=cctv9
-CCTV10,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=cctv10
-CCTV11,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=cctv11
-CCTV12,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=cctv12
-CCTV13,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=cctv13
-CCTV14,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=cctv14
-CCTV15,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=cctv15
-CCTV16,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=cctv16
-CCTV17,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=cctv17
-CETV1,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=cetv1
-CETV2,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=cetv2
-CETV3,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=cetv3
-CETV4,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=cetv4
-
 CCTV1,http://117.161.12.116/live/program/live/cctv1hd8m/8000000/mnf.m3u8$百事通
 CCTV2,http://117.161.12.116/live/program/live/cctv2hd8m/8000000/mnf.m3u8$百事通
 CCTV3,http://117.161.12.116/live/program/live/cctv38m/8000000/mnf.m3u8$百事通
@@ -536,44 +511,6 @@ CETV4,http://171.119.204.204:6001/rtp/226.0.2.70:8472$组播源
 
 📡卫视频道,#genre#
 
-湖南卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=hntv
-江苏卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=jsws
-浙江卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=zjws
-东方卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=dfws
-深圳卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=szws
-北京卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=bjws
-广东卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=gdws
-山东卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=sdws
-天津卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=tjws
-贵州卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=gzws
-四川卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=scws
-云南卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=ynws
-广西卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=gxws
-黑龙江卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=hljws
-安徽卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=ahws
-山西卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=sxws
-江西卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=jxws
-湖北卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=hbtv
-旅游卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=lyws
-陕西卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=ssxws
-东南卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=dnws
-吉林卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=jlws
-辽宁卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=lnws
-内蒙古卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=nmgws
-重庆卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=cqws
-河南卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=hnws
-河北卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=hbws
-宁夏卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=nxws
-甘肃卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=gsws
-青海卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=qhws
-新疆卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=xjws
-西藏卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=xzws
-兵团卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=btws
-农林卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=nlws
-厦门卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=xmws
-康巴卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=kbws
-延边卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=ybws
-安多卫视,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=adws
 
 江苏卫视,http://117.161.12.116/live/program/live/jswshd8m/8000000/mnf.m3u8$百事通
 广西卫视,http://117.161.12.116/live/program/live/gxwshd8m/8000000/mnf.m3u8$百事通
