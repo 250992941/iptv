@@ -26,6 +26,9 @@ CCTV4美洲,https://piccpndali.v.myalicdn.com/audio/cctvamerica_2.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 
 电台音频,#genre#
+粤听·精选807,http://live.cooltv.top/tv/yueting.php?id=2519
+粤听·小满音乐台,http://live.cooltv.top/tv/yueting.php?id=2490
+粤听·太平洋之声,http://live.cooltv.top/tv/yueting.php?id=2520
 香港.第一台,https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8
 香港.第二台,https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/master.m3u8
 香港.第三台,https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8
