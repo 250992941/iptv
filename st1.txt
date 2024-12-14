@@ -3213,6 +3213,9 @@ CCTV-17咪咕,http://159.75.85.63:36666/migu/673168256.m3u8?migutoken=ff14e0d8f3
 无线新闻台,http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8$AK
 寰宇新闻台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 
+无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn$KW
+
+
 凤凰中文,http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MDFD5624054756240547&ct=19235&tsum=3d8e21403954d488cd95d367f1f90d8b
 凤凰中文,http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=m18f421b0e58b&ct=18336&tsum=8e0cca627477cbd534c9cef5e2c17c1c
 凤凰资讯,http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0
