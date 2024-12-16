@@ -1388,7 +1388,7 @@ CETV4,http://113.111.19.5:8888/rtp/239.77.0.29:5146$组播源
 内蒙古卫视,http://119.98.133.74:4022/rtp/239.254.96.41:8220$组播源
 内蒙古卫视,http://140.224.147.117:9999/rtp/239.61.2.226:9344$组播源
 
-央卫咪咕,#genre#
+☘️央卫咪咕,#genre#
 CCTV-01咪咕,http://z.b.bkpcp.top/m.php?id=cctv1$订阅源
 CCTV-02咪咕,http://z.b.bkpcp.top/m.php?id=cctv2$订阅源
 CCTV-03咪咕,http://z.b.bkpcp.top/m.php?id=cctv3$订阅源
@@ -1543,206 +1543,6 @@ CCTV-17咪咕,http://z.b.bkpcp.top/m.php?id=cctv17$订阅源
 江西卫视咪咕,http://z.b.bkpcp.top/m.php?id=jxws$订阅源
 江苏卫视咪咕,http://z.b.bkpcp.top/m.php?id=jsws$订阅源
 广东卫视咪咕,http://z.b.bkpcp.top/m.php?id=gdws$订阅源
-
-
-CCTV-01咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv1$订阅源
-CCTV-02咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv2$订阅源
-CCTV-03咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv3$订阅源
-CCTV-04咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv4$订阅源
-CCTV-05咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv5$订阅源
-CCTV-05+咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv5p$订阅源
-CCTV-06咪咕,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202$订阅源
-CCTV-06咪咕,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=m3u8$订阅源
-CCTV-07咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv7$订阅源
-CCTV-08咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv8$订阅源
-CCTV-09咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv9$订阅源
-CCTV-10咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv10$订阅源
-CCTV-11咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv11$订阅源
-CCTV-12咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv12$订阅源
-CCTV-13咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv13$订阅源
-CCTV-14咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv14$订阅源
-CCTV-15咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv15$订阅源
-CCTV-17咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cctv17$订阅源
-CGT纪录咪咕,http://dd.ddzb.fun:80/php/migu.php?id=cgtnjl$订阅源
-家庭影院咪咕,http://dd.ddzb.fun:80/php/migu.php?id=chcjt$订阅源
-动作电影咪咕,http://dd.ddzb.fun:80/php/migu.php?id=chcdz$订阅源
-发现之旅咪咕,http://dd.ddzb.fun:80/php/migu.php?id=fxzl$订阅源
-老故事台咪咕,http://dd.ddzb.fun:80/php/migu.php?id=lgs$订阅源
-中学生台咪咕,http://dd.ddzb.fun:80/php/migu.php?id=zxs$订阅源
-东方卫视咪咕,http://dd.ddzb.fun:80/php/migu.php?id=dfws$订阅源
-吉林卫视咪咕,http://dd.ddzb.fun:80/php/migu.php?id=jlws$订阅源
-青海卫视咪咕,http://dd.ddzb.fun:80/php/migu.php?id=qhws$订阅源
-陕西卫视咪咕,http://dd.ddzb.fun:80/php/migu.php?id=sxws$订阅源
-陕西卫视咪咕,http://z.b.bkpcp.top/m.php?id=sxws$订阅源
-湖北卫视咪咕,http://dd.ddzb.fun:80/php/migu.php?id=hubws$订阅源
-江西卫视咪咕,http://dd.ddzb.fun:80/php/migu.php?id=jxws$订阅源
-江苏卫视咪咕,http://dd.ddzb.fun:80/php/migu.php?id=jsws$订阅源
-广东卫视咪咕,http://dd.ddzb.fun:80/php/migu.php?id=gdws$订阅源
-湾区卫视咪咕,http://dd.ddzb.fun:80/php/migu.php?id=dwqws$订阅源
-海南卫视咪咕,http://dd.ddzb.fun:80/php/migu.php?id=hinws$订阅源
-兵团卫视咪咕,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202$订阅源
-兵团卫视咪咕,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=m3u8$订阅源
-中国教育咪咕,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022823801/timeshift.m3u8?delay=0&cdn=5202$订阅源
-中国教育咪咕,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022823801/timeshift.m3u8?delay=m3u8$订阅源
-四海钓鱼咪咕,http://dd.ddzb.fun:80/php/migu.php?id=shdy$订阅源
-高清大片咪咕,http://dd.ddzb.fun:80/php/migu.php?id=gqdp$订阅源
-经典电影咪咕,http://dd.ddzb.fun:80/php/migu.php?id=jdxgdy$订阅源
-军事大片咪咕,http://dd.ddzb.fun:80/php/migu.php?id=jsdp$订阅源
-热剧联播咪咕,http://dd.ddzb.fun:80/php/migu.php?id=rjlb$订阅源
-赛事经典咪咕,http://dd.ddzb.fun:80/php/migu.php?id=sszjd$订阅源
-体坛名汇咪咕,http://dd.ddzb.fun:80/php/migu.php?id=ttmlh$订阅源
-新片映厅咪咕,http://dd.ddzb.fun:80/php/migu.php?id=xpfyt$订阅源
-Y+剧场台咪咕,http://dd.ddzb.fun:80/php/migu.php?id=yjjc$订阅源
-
-CCTV-01咪咕,http://159.75.85.63:36666/migu/608807420.m3u8?migutoken=05faefed91ee68abe6246506f4d3b6d1199f641ace715542eeb5b0aeeab31b5d496b208bcbcd0be6bc14d2642abb0225903166318d4dbf48a66731e6cab0d5677e57b44d30809abecfa55c050f$订阅源
-CCTV-01咪咕,http://159.75.85.63:36666/migu/608807420.m3u8?migutoken=eeb1112e872459659520e2370334cd123f857823a9908b2271eb845146971c4254f0cdcae55f43745cfde667f854522162359977c5f0e5d93ea045257003dfe585c98c86debbbf377ecd8786a7$订阅源
-CCTV-02咪咕,http://159.75.85.63:36666/migu/631780532.m3u8?migutoken=742e3f38ca5c2a08a3f01b23a9b9ebb4f189a35008bc96c9850060cbf848ea1f74da415f3fd2abaee6c425d7fa7db484570a16ba4f22ff93023875ba4f50b0db81e4b023990b1a008db17ffad1$订阅源
-CCTV-02咪咕,http://159.75.85.63:36666/migu/631780532.m3u8?migutoken=5a6bfb72c702864ff54769daebcc1686d6ef04ce8342bf9ebb126c2f17310efb10a29d96276c99b8e54f6fa68e3d55d80707140f65d2c6dbaa2986154e2706f19965dc4c00cf32068571b0ca12$订阅源
-CCTV-03咪咕,http://159.75.85.63:36666/migu/624878271.m3u8?migutoken=5133e15bea9cf24ed0bf80a4ced35de3c3b839bea84a5cdb44c39dd4a4612b668018b9c4f65169f5aba539ee671ade424be71123620714cc6db76c77b7c1bd2ac115f0dfb311f897a0672e66d8$订阅源
-CCTV-03咪咕,http://159.75.85.63:36666/migu/624878271.m3u8?migutoken=6d52b05ffb543af8ed09bcc27217fd7cb97716e4bf0b836535ea16f276fa18eb1f6c162e9ab530b79a7a8ad2071a0d276a93c56b187d3773f6be483773bf7165758d85cd4440706c2270545502$订阅源
-CCTV-04咪咕,http://159.75.85.63:36666/migu/631780421.m3u8?migutoken=afcdd5605aa5874bbc70bfc43b14edbb1c589dbdd2562b52f282fb111a206c8c2db4b0be09e2e3c36961f1ad151a7590524fda6a1eb929d33330457425eb9c33d300c036584aef8095ae1699ca$订阅源
-CCTV-04咪咕,http://159.75.85.63:36666/migu/631780421.m3u8?migutoken=d39f90b726a26fa506278afdfbbb544218d69a8192b22afcb6fb2e3f5c0bc637be1428b111ad26b98eab45790edc44823b4198bf72e18511a374aef1f71963022b4e24205b40b78365ce529b01$订阅源
-CCTV-05咪咕,http://159.75.85.63:36666/migu/641886683.m3u8?migutoken=8b4cbcc8e1ae07257187c3ae271cffb5971ca469bd7167ba34812b2b5331dd0f4ae7ccf0e8b9d8924da04a5204f48bc0421871bd256e263666584b0235cf2fcea6e05afe0be0d480d1368cacaf$订阅源
-CCTV-05咪咕,http://159.75.85.63:36666/migu/641886683.m3u8?migutoken=f8f9e48f1940f388830c8fa8ffb46486ac40e57631873ecd4975141934a4eb6a7548be9e2a919f95f78d9a9c6ba357e9c688f2b814cc712bccb1c46666ef5bb47c05cc3dbd369fad30b740fe75$订阅源
-CCTV-5+咪咕,http://159.75.85.63:36666/migu/641886773.m3u8?migutoken=3368be112eb26a86a0fced5d5667b4532f50a1ef5a54e2a325ed87bfdf4e632382ad1ac8507a10035459a20ed8d4e33f6f273149e488f8d4752b19c7ce3db072606b1b73c25831de133c5ffb53$订阅源
-CCTV-5+咪咕,http://159.75.85.63:36666/migu/641886773.m3u8?migutoken=4515662c0039aa36a858729be45e56e6dcc81f03b933e0af3de65f0544590668c37bd6ee12232536e182c3491d69e0ecafa7912ebe15bf4f4fb697f6aa2b8a57ac5a81ccfe0838a14fdac9722e$订阅源
-CCTV-06咪咕,http://159.75.85.63:36666/migu/624878396.m3u8?migutoken=db32021a904f1bc46013da6f3ac603605f469cef55fec837555f12496f4810b8545bec7730ed10f27a26224a9407859e7a655b9e3c1c45d9722af40097639969faa7cb446d740ace5becd78351$订阅源
-CCTV-06咪咕,http://159.75.85.63:36666/migu/624878396.m3u8?migutoken=2bb1e29845d48c77fd7dc99a6baa143feecf36b5a8a67bc15d3846ea840cf4a191fef94ae650ee41d9d654507ed7ed61a9a9494284cbb7782cec259e0e8fd0471dafb06d6bb93a7579b5ee08f3$订阅源
-CCTV-07咪咕,http://159.75.85.63:36666/migu/673168121.m3u8?migutoken=53648363c115e150cec450ca403d9b7951eb9260f43ae345aa551d8595ffb7236d9833f76531dbe425b0245cc6fe8e56ff3604e978c6cdd48b40bb964661bca6f235b95cf4fc4539dff4e2c90a$订阅源
-CCTV-07咪咕,http://159.75.85.63:36666/migu/673168121.m3u8?migutoken=069dcac99ceaa2378843a92b905f0152b4768a05ac3ea0ae66846ed268650abfe3b8b2a90bf25b584bc028b7c74f6daf985e82612255a883cf972cc0857403cae4c2ed8ce25ac5670336dfb837$订阅源
-CCTV-08咪咕,http://159.75.85.63:36666/migu/624878356.m3u8?migutoken=92fc369cbc6fe1db17607b6195833bdfdae602817154df6b019959bf06ed7ac6a04070542928a6e3be0793f02a7bcbb910ee37d267bb34e2d3223b14b6d095be66ce8a687a80b3f20674640eac$订阅源
-CCTV-08咪咕,http://159.75.85.63:36666/migu/624878356.m3u8?migutoken=ba01b0df0eb6fc5baf928f6457259284cef44c1e19838572ae47d5d9cc06588ee9e63d0f9bfd1d9073f24656ea3b8d2fdbf2dc7e542fa3a840e8ea429ecd66ba8808d803f8cfca593c30ea5ee7$订阅源
-CCTV-09咪咕,http://159.75.85.63:36666/migu/673168140.m3u8?migutoken=1333a0ca144a0e92c5065c3a66bc3f44ca5eb1f5ded736ac06c5214d6c54431ee178ae321cfdaf0bf4aed7fab3a94182ce6b0b9e70aee10e9f7e2c861810cab37e8350465c35a86bd1eb578c0e$订阅源
-CCTV-09咪咕,http://159.75.85.63:36666/migu/673168140.m3u8?migutoken=c10d7ab788713b0ad2380fb20f9c129a11f6489667cb43500c1670b1be03d1fdf65bd6bfcd06b5cc175c54a76bb749eb3aa30dc833c465d6e79eb40d8a30646b044df5a35d078d308fdc76f50c$订阅源
-CCTV-10咪咕,http://159.75.85.63:36666/migu/624878405.m3u8?migutoken=652b1a43d1567adf534753f6d70bc753af7a86b078299f1070c91f9bc079942f837910ea49c890edc8dfcebedf8ee36d52a6a68b586e28ce63bd9a258f7abe8408c42cbec6070d9f01abad0bed$订阅源
-CCTV-10咪咕,http://159.75.85.63:36666/migu/624878405.m3u8?migutoken=763c699d2a8222b6d4a5a4259d9a2b281ac507a835e38e7ddacc8dc61c86f45b5c2d187ae07382030348209a3c665ada1b0260e198e7066260c5b5c10f5a5298852721fea1ce23ea333390b7c5$订阅源
-CCTV-11咪咕,http://159.75.85.63:36666/migu/667987558.m3u8?migutoken=025a549a63276d9a9abad55bb3e247943569c22eb2b7345548ea3537e2963b018035058c3ae5c2ec6ae8cf28d52020998fdd4b597edfe681e02d3db2dee11c1b0d406c6b856230c24fecfc903f$订阅源
-CCTV-11咪咕,http://159.75.85.63:36666/migu/667987558.m3u8?migutoken=0cd0cc5e9e9131769873e44212bc155f404331dbedb01884f500e0c17c5b2b8aebac1b2ef69fcc255ae175b8a0281b0cd2e39c55c6a536fcb9032eeb56254eade1194441fa33d435028328b641$订阅源
-CCTV-12咪咕,http://159.75.85.63:36666/migu/673168185.m3u8?migutoken=d451172c1fced180363f22272b033dc29e67738eb45888da2350adc1a34118499b25eaa548623485b9df7e59c84b6299a2f01070ad1b8511220aa814295b9893761de3ac47e7c919b8d4bf0687$订阅源
-CCTV-12咪咕,http://159.75.85.63:36666/migu/673168185.m3u8?migutoken=e52cc87bd7a240547db820f5bcde20d8dd7335aa76ab04d6abde1107cbba28487c0627718af96b050ca722e102a98004f9d3319337474f43a86fb0ac4c1d93eca2ac7e348487d089d0f3fe1829$订阅源
-CCTV-13咪咕,http://159.75.85.63:36666/migu/608807423.m3u8?migutoken=70643933724525747ab81b45389b110f5474a3b31d2630827a2217ea3712f9e90975fd2d840a45ee0c88bffc7a0884166b246ea693e3b977c1350ff93427105f412762ebe753346075ec8c91fb$订阅源
-CCTV-13咪咕,http://159.75.85.63:36666/migu/608807423.m3u8?migutoken=78362e7e7f944b1597d3db4af4d512d16e0ba963755b97615103f28c9abd71e05fe530c1586ae6e083f03cefc4d352854b0a89dba90f273c9891b1b05cf17edd4f16ab8fff6cb48901e9e6d545$订阅源
-CCTV-14咪咕,http://159.75.85.63:36666/migu/624878440.m3u8?migutoken=3230e0cd595c285dce8904d7c81777a4c45577395a5e8511239a40a0a425d33d89ec886527faff2fb96a3fbca33098f943338d3997fd4fa4728de6076bfea48a480dcac901ada4c26184acc09c$订阅源
-CCTV-14咪咕,http://159.75.85.63:36666/migu/624878440.m3u8?migutoken=f9e77b8bc54e22e3219b2dc7e51b1c4c5c55a53e4d5ff04c38c2d9c83ee227d7c63eb715726623a36d70ff8787d88b0befa341f6426ac78a36bf29820359ff9ca17d9262cef933a0fa59264dc4$订阅源
-CCTV-15咪咕,http://159.75.85.63:36666/migu/673168223.m3u8?migutoken=363d6e39ef348bbc2921e313a349892146eb88e148a4674e45c293fa3702d04624c59f581d24056513b2fcd875b7fb837ab8725f9e75ad060965dc625dbca5570662c921b5443689dfb1d5de5e$订阅源
-CCTV-15咪咕,http://159.75.85.63:36666/migu/673168223.m3u8?migutoken=907098853a398468c02118b81fbb12ebe643be8310c96518e56c64c6c4ceb5e546973e8770763d19b1090435a69244296c3e9ba399e88f3652a707095fd78d1158f037d61aa400eaa43e5a8cb8$订阅源
-CCTV-17咪咕,http://159.75.85.63:36666/migu/673168256.m3u8?migutoken=ce99cb849f2d3e384343413d680b9b9a38b0efbce843d3f166b183b8d4d0046bcaee275133e9b15f03e8383c08698af94d5599796cfa53489d81bcd46606bb6496189a307b75121a4bf59480cb$订阅源
-CCTV-17咪咕,http://159.75.85.63:36666/migu/673168256.m3u8?migutoken=ff14e0d8f326bd4db09b0eb5a513de9411ca4011a7e89e4417cabf859c14cbee83ee0f279c82f6acaa8cb5d80c679f0cf904489b9ff0f427704557360c46398bf06cdfce02aabab54e2da59e75$订阅源
-东方卫视咪咕,http://159.75.85.63:36666/migu/651632648.m3u8?migutoken=eddaa59301cd2cbc3938dc1f8241f4a3f9c81513e25d8330be43fa2cd63b98f65e15da48c6b436fd309b8bbfa09e3a4bfb39fcf8a6e08d1669ddf33e4cb90d4057b7c2f1672ae74dd4649731f9$订阅源
-陕西卫视咪咕,http://159.75.85.63:36666/migu/738910838.m3u8?migutoken=0f41b1a7d34337f79cf80b4dceccb32f36b801a43ddfb0dfff3d68f864e13d4cab07656ebd2879e1d51c6cc97f4ed09a7226112f4dfe9b39ce2913b8b37c3a45b992ea1dcc582e82d11f5690ba$订阅源
-陕西卫视咪咕,http://159.75.85.63:36666/migu/738910838.m3u8?migutoken=4df2a583eda9c2e770f5317eadbaf31d85f17001650f9f74628759d54ad2bfdfd4ff987288c8a5d4308095efa1aed489cf83fa0fc4fc0e46ea7fde590e6f741491acebe9dabba2ddca6ce6c869$订阅源
-湖北卫视咪咕,http://159.75.85.63:36666/migu/738906825.m3u8?migutoken=919bc2cd31f8b885399ec119d2e1887fa66dcdeb946eb1601c5617d5ecbf0f42ebec3b5715ef23f11157ffa9c813984bcc5632328f6da0d0d1e2326676194bc28a8ee7484587aed75873f5958c$订阅源
-湖北卫视咪咕,http://159.75.85.63:36666/migu/738906825.m3u8?migutoken=ebd58724213e1fb56e569c5e054b71ea5faeb26ed0e3f090d151d34ce65454a18d9ae4283bf2e62b5e9eb6786842981463463fabbfd7aa5a4eeba66a3c200876b39ec2e3330b129d51e43044f7$订阅源
-江西卫视咪咕,http://159.75.85.63:36666/migu/783847495.m3u8?migutoken=cd8d660ee5f0c8ba58cb98df909ee0554bf31ebe88f033c092df55bc7d3d1a29d22bc11eeb09d56e40ee189bb031a370b8a60064c13ec4e61c172e802f8f988e4e4ec64cd6c402d5d396bef0ec$订阅源
-江苏卫视咪咕,http://159.75.85.63:36666/migu/623899368.m3u8?migutoken=44450ee5d9805c0c359d156e873d4cc8f71e5d03261dac3242e7ef82f604c2e10f8f5e17cf1787414b5a682160148f45ba9af15e6228bead8ac342edc8f55c371c850283f55eaa4fd2641cd2c4$订阅源
-江苏卫视咪咕,http://159.75.85.63:36666/migu/623899368.m3u8?migutoken=423f464d4413a63144f0042692dc4609abf57d8577a434e35d72e0b4aff46a9bc45b3e63b076007410b7ccf8d94091c296e3bcbaa69fe0b49cd1e228a8e64c30d07afcff741923b9a35f9e1487$订阅源
-
-
-CCTV1,https://migu.freetv.top/migu/608807420.m3u8?migutoken=8687a982701639f4b45c53ff85e234bf75cda8545620c17f761915c7d3a9e041fa2097e7e370dd62aa188fea32810727926c76166772dc922d866a95677cbbaa95bb089d75c271d65b6a94f177
-CCTV2,https://migu.freetv.top/migu/631780532.m3u8?migutoken=85a6ef593c557e1899e84c8932e0db28f535a2a829e5151e4c875ac988612c2dfc236e0ee1ca31128db4e84cdaa6c2dd84cf0d996ba5e5de1c212a12ab6db623d4693182c4e4259be81a2ba380
-CCTV3,https://migu.freetv.top/migu/624878271.m3u8?migutoken=98bdcb8b67e9e3aaab36a69d4157388aa2503a846b9d151a0bc494adb9fd49e20cb0487966e0b9268af7be4e005525b8948c28c432e17b89b8882a3d5c531c22fa2788353884e174bccc5cc33f
-CCTV4,https://migu.freetv.top/migu/631780421.m3u8?migutoken=532cb82612f78fb2b8a80e05aa4f3b7e5b9c6eae01bd72b831e36a70332ccce42ecfd4835662220bd15c39d07d8fc4c739a60569800e24be6ef46073d9bc074618dbac02f551c128929c3881c6
-CCTV4,https://migu.freetv.top/migu/608807419.m3u8?migutoken=5814f16c13f760d8a2c8e3442678117c8fc8084a4ba263bd82c68286c13cac492351b793abff114bb3bf2a184abfc401d1a40ddce1756171142cf907adee80eef96533e9117fb77ff5a98c4292
-CCTV4,https://migu.freetv.top/migu/608807416.m3u8?migutoken=9f3b96cb46abeb413a8d1624ff5cb7d9ecd6532bacb42e699976a39704c3a2a52e57e7062aef496cde9e4c92b3437381f2474ba8f788f23e091aad48a08a1da5c401e01c055f89796f93a719fa
-CCTV5,https://migu.freetv.top/migu/641886683.m3u8?migutoken=818d322218ce06b3cb821de57159f87d30484a1b6a36fb835072ee6f423b66bc88aff8b724c9839646e7ee166eb46c4d7f39201b2d800a5eb73a3cc9390567204f888074b822805f380ee2e4ab
-CCTV5+,https://migu.freetv.top/migu/641886773.m3u8?migutoken=51b84c0695a4a9c4a27541c9129c2b677dfe9fa657fc5105d5ef996d6a2be24b59060b68f753d1cb211c8be61d76da65ecaaae6776ae214df3631d8a4c3cdad625cbb867ae5d800f03af42688d
-CCTV6,https://migu.freetv.top/migu/624878396.m3u8?migutoken=00db160622ee157a490aa2980e5003ee5a8bdc7ecb179b6f50c99187344ff47ba661a789468961466073742262c2e0b6cf19d515c55d15c54b8d546d4a8a8ffad1ca4fae53462f0f1ae95f6ea8
-CCTV7,https://migu.freetv.top/migu/673168121.m3u8?migutoken=c7a3988b6084f8647bb55cf0b303a411e0d2a831f71395f7d993d84f10381e8703ae4061e270b49c9fab614ac2b5b1b72b5187dd8a393b21a6857af9756c6c39e0a0279c80a862f518effee17b
-CCTV8,https://migu.freetv.top/migu/624878356.m3u8?migutoken=fe552e698848c9390268941027edf03a04c82a9ac68c3c2c892afe2bb43cbd0714aeb1c385ac0a28dcc5fd9c37f8fe8d911765e56bbf883ac75c20edd2e7e2ad020532af8b1906559f47e27bb4
-CCTV9,https://migu.freetv.top/migu/673168140.m3u8?migutoken=c777af29f9de0ddf69ce368ffbf07a71c67103860e9c864f3fd3c399098f23c69779f9370d77b6fc2c879cc6f10afabb0554160f6a5afcc8ff336397f728a820752e6fa58fccb9dbfe64bb3c88
-CCTV9,https://migu.freetv.top/migu/609006487.m3u8?migutoken=13d53fb7d9fd092e364da481f2c53d71fc1116f98c2babdc6b706a81496d08fbfde6202ad40fbaacade44d57b7c7e3d436a03a788ba5086e25e31bd52b44a26104f1b21b280ee9db40300def5d
-CCTV10,https://migu.freetv.top/migu/624878405.m3u8?migutoken=a706b38a47d2c63ea8dc67b2fc9a72d27f0519822be89f46c42d6e195328756983677e355590270b00535328f453792bf6f115eecb75599346c370413250852fb0a463a8aead07de2ef1d5cef6
-CCTV11,https://migu.freetv.top/migu/667987558.m3u8?migutoken=cdf0d6131ed2a92b0029b13c749d0faeb0798d74c4fd0cbb34f98f5474d470be266024396e0ae7c67650793e2e50c8730a2badae52eb32a0945a77e9d2a185ffa96278c4e26229178e53a69527
-CCTV12,https://migu.freetv.top/migu/673168185.m3u8?migutoken=144bdf896961815d1063661a851f69108eb650bb30a78c7f4a12a1212ddc9c991d71274685fe0edc42b1399bc1ba5c1ac742fa1666d7f962cab8271452e83396de2a602cb1317b1a2e949311f9
-CCTV13,https://migu.freetv.top/migu/608807423.m3u8?migutoken=546a4f6e5817bba04c6b133892bed79bfc1fac6052e263bb2efb672957f4fe6df5397a80126be2191620428c5218d1049e6b101ccd33da45372367a97cd7a0d5f14ede51cb5c2cb46904c12afa
-CCTV14,https://migu.freetv.top/migu/624878440.m3u8?migutoken=c7f74cc81f359ced0f509510fc9c69767c35ca9d1e94201f64564d19972842380fc68dc14d654c259259e8bb2958d855d93216c18abb87f749205068782b78a50aa3f9952bedabce868f995200
-CCTV15,https://migu.freetv.top/migu/673168223.m3u8?migutoken=edd22062cfeb0bfcfa77afca57e34c955d705803cb2be8ddd705026f97ec005194819356d8ce4a71284ecdc2a6c353e0f0b3d4650417697e1cbd037306ba5e4db56ccf096411beb560f2eb3bea
-CCTV17,https://migu.freetv.top/migu/673168256.m3u8?migutoken=e7f74f199c0b4c32b6f17d3038b3d7fb893426b3a6649c8ece30f6cc25ce3cbc16b2868618c2c05be6f1e6c213cf830e1953711d1c2f07f9bf8b1d4c6eac683675c0401cbb67011ca071016858
-CETV1,https://migu.freetv.top/migu/923287154.m3u8?migutoken=e87d9321730d72eeb03fea7bb7e53d4bedd6ae1d6330e8e7371109f1c21c6911319affe21dd33dfdcd0e59dddafc61e069cb6fa688d0c59b79b8c07696d4351794d009f57196d92ba60a6b71ba
-CETV2,https://migu.freetv.top/migu/923287211.m3u8?migutoken=2668aacc21e827aad1cad7bdacab3fdcef3b4ec8a0e9c2e0670e0f0c91661a23d64f105b06283e0d19b5aff97181e0fbeea58644419cf1552d6a670d4be65e91c9379eb6d466220140929b9344
-CETV4,https://migu.freetv.top/migu/923287339.m3u8?migutoken=d94aa18370faeca29c3613678eef786c772ed65c7a0ebe761bf5affab77b78f9784239ece8c3d87dd069e471ff54cf9abaf2108c69a4276d08bbab2126b372aa1e70905458a07cbe1f7ab5e058
-香港电影,https://migu.freetv.top/migu/625703337.m3u8?migutoken=16ec1ff14658ae81cdfca59f42e03f3df1c0b41b71d50459eab7dfa37501ec1a363f91a033b8a870ecdc1c8d27dde361ed68ade568549bcb4f87992ee2a27db47c5acc276f367ce7c13919e62c
-东方卫视,https://migu.freetv.top/migu/651632648.m3u8?migutoken=1329693be6239ceeff08ebcf1066b814e57f508598533464ffbdcc28ab51ce63efd6dfe46c83d2f73d4a8a7ccdfd094b121a48d2b3f73bf7f159416b155d1e67a93114f8be69f17edba1d115cf
-广东卫视,https://migu.freetv.top/migu/608831231.m3u8?migutoken=ee1a2817bfc089fbcccf3c6bb775df34c90bcd3adeaadefefb62ad0c1bf3bb6ccbad0b128987f21be31a47f03345eeafff845379dc0883193cce64e127e2e20050592aa0695a472643bc383528
-江苏卫视,https://migu.freetv.top/migu/623899368.m3u8?migutoken=788013c42b0213172bf9a762ab72355899df2d1b9b196e03a81496e2c5828bf444a976042340b643eabda32649b977e1c78993155328d77903c7728740f681c154e88ea15a0545b683d63a61bb
-江西卫视,https://migu.freetv.top/migu/783847495.m3u8?migutoken=8371163f1c5fd1d3f7d7e72dd3bca9acc99388dbe39f81e670f9f8036d300c4deb523cadd216189701ce86efbbbce33e9a0cab191913fea92cfba17c526c88f4acfe8ec9f782b229b90775d573
-河南卫视,https://migu.freetv.top/migu/790187291.m3u8?migutoken=a07b75ab253719cd8a87171976ab2f2dcb74f18e307c0ee45ef4373c9e92877e882180fbd6d9f18e6c3e517e3f3d4585bdbbb324048f034257b1b8848600aa7c75306f6da0d03b7e224914344f
-陕西卫视,https://migu.freetv.top/migu/738910838.m3u8?migutoken=3ba5d0180d000ed368d1667923846deb36a60deb1576667f6a22797f380c4665c2640f02361441c117b34a04d380b74cc89d55b0f78e5d06730b5d7f79b55682b1ad30b9a26731738a61dc33b9
-海南卫视,https://migu.freetv.top/migu/738906860.m3u8?migutoken=fc3ad7062a8987a004bf3b2d8a6e0a69b3009211c27cc02794001ed77c6070319cc95698a962808a4fed54fee3f07b3e05c2de1ade1381627fce56891320d7feb015bb19aa4251067ed1471749
-大湾区卫视,https://migu.freetv.top/migu/608917627.m3u8?migutoken=05180911e9f875fff042dbd0e58e30c1927bbdc688eda38c4c61a9edb263fda01eea214e1c9ee7ef8d03446dc1d120595eb5d3f8a23ad5c6b12b0dc4da481bf66098684fee771236a7a9e0495c
-湖北卫视,https://migu.freetv.top/migu/738906825.m3u8?migutoken=e30f4ec6d62c3f62d71f0cfffac462717203c4c755a85590bee3928f50aa06ea376fb5eb8ea422e5f109929c0448115b7d064ca49357c1fc5a30f4053d1e58f77aa560ae850397665bd9e84d5b
-青海卫视,https://migu.freetv.top/migu/738898486.m3u8?migutoken=05774fbd86a38c21eb6b1f504063964f16765de93b47b2bec1e21f466081f0a5403dfc566e576d5420582c210fee52f156f7b9440db387edeca15edea4c383a8f9fb78f195dfcbb917d9c88a1e
-吉林卫视,https://migu.freetv.top/migu/738906889.m3u8?migutoken=c485f2e3b3d6c72bf2bbfc03929755cf2e307a543f8d40f4146915040346e668e6558de3dd32342250e4c13437efce0d0ee10b700d5b130ad901eddb9e2a7b2229c4e95239516b8238c7f6750c
-东南卫视,https://migu.freetv.top/migu/849116810.m3u8?migutoken=cf10863a0b53ea1158b16e4774eebb5447d8beac5a7f95a6c9a613e2fbce3a354d873c2df3f40b8c4ba7700d873b54888f138d53ac6831eeb405be422c502eb0b7e590c9e3b92fbf95c425859b
-海峡卫视,https://migu.freetv.top/migu/849119120.m3u8?migutoken=cb6db61a1b2224410ad70451cb7e3e8617e664f42503c4f16779dc6771c55515c163630dfeaa1da1a69d14cf2b2eebfddfa5b196a129b9f2ef46639a46859db59994ff610c57417a9ed9bb4884
-CGTN,https://migu.freetv.top/migu/609017205.m3u8?migutoken=93a31d154f6f28ec6acd38472995104979cb1837c373832d7d71ac0ccaa346a88269eaaa64e2e3703df2f78b95f1eee8cc605467e4c7c76d654fd2a5bf512bc9234c3516fb8e6113b1e8c6c1be
-中学生,https://migu.freetv.top/migu/708869532.m3u8?migutoken=f8c4fed9e7c23114744fba51394fe6d3b4d1f41bb3be89179dddd5837acbd0f83724f3e9d95e96a3d3017024d3a0ec7913676f8e0c6ebe66d9e549ddf3342ec90833e506b59c5af692d7afcb6f
-军事迷必看大片,https://migu.freetv.top/migu/617432318.m3u8?migutoken=b0178078f23ecb6d68237040dee840e47aebc00094d8e216d187fb7ab13519fc47fbdc15e8cea1b2a044b4e6eda71263a508fade430139c2ca428deac9bb979be1ddc96ba97f9d5f8a0cfb0edc
-中国移动“新动力量”宣讲报告会,https://migu.freetv.top/migu/713589837.m3u8?migutoken=8d19fd5d2d9a3d665c11896d0a89abd9936fd33092541d27e8ee9d393bdf630b5b77b579ce09927b3daec8fbc5727334c7b49f445c5789aa9e17dc1c9d5e3a98cdd1bf0d1da6845ceb89cac1be
-七彩戏剧,https://migu.freetv.top/migu/796071456.m3u8?migutoken=720692ebd9dc8c176796abc7237406f0e0ac3f536c7a9bc349b654b6f46278b7447aea6099cc4eb69983334ba1f43651a0443baf2596293f849cc2a87bb970a26399b497c7cbc459e004466e4d
-临洮电视台,https://migu.freetv.top/migu/668225749.m3u8?migutoken=0c77ae478b6a6c541c08b02a90121cdaff0618ca9a83bc7866a2e47e8fc6816a8fe9905f37165a10bfab73f0959e03f3ea2050983c7cecde1bfd280e9972e0215e5b2f27987397889c5ceb94d6
-欢笑剧场,https://migu.freetv.top/migu/790187880.m3u8?migutoken=f21f8dbd5701780b894d6fa5e140e2e82d0f8bdf290d11b59986ec761ec86624cd38da3ed9129d36b2ae5f95697a2b7f7639875c4f20c2cf285d8bdec638b12ef6795ab178fdcb7fbb3d115224
-金色剧场,https://migu.freetv.top/migu/713591450.m3u8?migutoken=caec3b23550200f65357a2157fa2e3ce752d6be9e9077b0cadec11632bf21470b8fcdd3e6fc5c7f9b65e50eee5c766f77787eb40c7313f0179f0ed26d711316db0886c6c57ce0d5d701776f78b
-四海钓鱼,https://migu.freetv.top/migu/895358641.m3u8?migutoken=060bfabbb5bdeab2379fdc4026a0a1c3a84d5c991b6328413dae16d4d24d0ff2676e1c3b7e10443295c47daca66db7662b7abe35b53a9aa8e444a93491f938593d4db56600581fe995ba3cdaec
-游戏风云,https://migu.freetv.top/migu/790188417.m3u8?migutoken=5ac8efdc0d892200c07c38eb0da357e7f3f518960ff0c4cd5a3651f0c4dd32cb9062b4c51361c118cbb31908794e323bc1b0ba78d7d17b530811f97170a3a371506f94974d05548aafed4b0d94
-法治天地,https://migu.freetv.top/migu/790188943.m3u8?migutoken=a2d69151cd66289c894d82e7825f6c0d23a7a9c7abcbc34abeaf089d135b241092dc6039c143e7628e4eb59953b184abcc0a2cb90900820c3a94f0342134c3b11ff4182fd39816a188f7082b93
-乐游,https://migu.freetv.top/migu/796070452.m3u8?migutoken=62510d2ce6dbe658031caf764929048a3c48f29f4971265a6b8088a986117d0f677630f59061f52c6bc4e04de8952286025d4849e7c38c8bc7b9fc6c693dc87373f3e7501e4e261426c20bc53b
-上海新闻综合,https://migu.freetv.top/migu/651632657.m3u8?migutoken=f292e570fe5f4d6aeaaad25cfd5b76f49d78d5a50e4b3882304de0c2c69bf29fa4c7a0242b1cb179d1b04127f2b8af1ee0f1c87125e1577fc107c4e13c1f6f2ae605ab6b598a4c1be1c330ea5d
-南京新闻综合频道,https://migu.freetv.top/migu/838109047.m3u8?migutoken=f982885501770872245dd8598207a5f58e1e483a2d4bc36d3cdb7bcc97149a6dc645b0e834d034f830eed335a919b5e36ef5bf848cad86520b5d010529dee4378586e81e3084c41f3ec55fffc7
-连云港新闻综合,https://migu.freetv.top/migu/639731715.m3u8?migutoken=fceee425126420e441cb1837c9e86b76c9386e9597da204a223e47dad85842f8ec393e0a67143934a8907c7c344963b540549340d471bf4bc0d5cca59eb5dc15e864c6a0bd8e0c2c724e524684
-公共新闻频道,https://migu.freetv.top/migu/626064693.m3u8?migutoken=743a931280f199eb96c347c491717ff99528ff09683a5a679880101e2596f52db12557bbde09aec2b7329a8231d755e29a0e9520a1541415f2b95a23248111f8a344554e460c3c1f2bea41cae2
-淮安新闻综合,https://migu.freetv.top/migu/639731826.m3u8?migutoken=8617d1d8f948b136311ed9cc66f9c9c8b90afd19bf4b90e02aee0e641a42b1255281d9301b67c436a7d42ff365d5f6ec506b6586969069568b0af60f6159bd6f6c540aba7388bc54a960be57d2
-泰州新闻综合,https://migu.freetv.top/migu/639731818.m3u8?migutoken=ed06a92d380fb12bc16e721fb816860a6f5c7ac2ef3cae1fc24ea1d701e77f08ae40f398ac5787c32bf606b2f0bc188c9bb5c7000bb5fcc91f0c3fb7866c133387cf2f4b804570ec356d9c19cb
-宿迁新闻综合,https://migu.freetv.top/migu/639731832.m3u8?migutoken=79e4a8679ad3b81b8a8d8bf325fef93a3582e30f853f927a12196040bd19dc505c29543f7a9ece6f8f45a1c61a5b53e10f5078d45cf8cfacddfa0b32d0a864e1a3a94c5a8a7db0d9f7dd6c0994
-徐州新闻综合,https://migu.freetv.top/migu/639731747.m3u8?migutoken=e4b8aa9606d3f3132185d3cc49c92fa89e6626ed5510a1594e46b4742fb532718fbd5eb2e86b98e8fef2af6d9da6891d27564a0247641bedaad8347de65122201d488f3c462e25b2894d9a39e9
-上视东方影视,https://migu.freetv.top/migu/617290047.m3u8?migutoken=683d32bf89e3c24090ddf8d75e8ab8b477cf79a15bd07abe4bdea28d52560edaa38aaeed713cc4a673fa0581676d7116cb3e372b6508863c1c4c19500cc774d074a45f3deb62024d920f0bd398
-上视纪实人文,https://migu.freetv.top/migu/617289997.m3u8?migutoken=05bef547444df2b4b0690c68835b6dad9fb1a850ee8cf99ac5a2048d41dd29ea337e2b4ae42bcb00f5bdd28776aefe1b4476a0ff36ee632db6c268ad0edb2a48b4eeef8e8a72edc17bad909b15
-上海外语,https://migu.freetv.top/migu/618954688.m3u8?migutoken=17245bd3aca90a6c9d537792bd98c52118eb88ebc0d5c667820a3845bdb02cc6f705cd6e3d1f35a5c4cc40b15aec5f66058ca6e566cd03e96e0559ad2e4223ef4dab6991a5abdba36c6a19f09e
-上海第一财经,https://migu.freetv.top/migu/608780988.m3u8?migutoken=7923868e47aa0d3ba5d9035038cf535ab535bc80cec4b44ad97de97a09c945efec0fc5e9de39694c480ffed42821530fc3cc1b89efadf3f5d21f86875bff9a957919123f81cd50bdc78dcb5f03
-南京教科频道,https://migu.freetv.top/migu/838153729.m3u8?migutoken=d3542f78e0400bc3256c48a410760c391d6e45ebda8939839c0cfda2462099c3eaebc32ec76808f7028a2b2676e8fb13caacf4cab89ea594387da399bf31557d53dd87f8598c7593791bc6448a
-南京十八频道,https://migu.freetv.top/migu/838151753.m3u8?migutoken=61676a6e331c8a518ca16fb8f55b432acf37b7af21601ed6a3dff9b1e6044821d975317b7642bdbb3b6cc78b2271137e5c183671a0b56a09041f9b734afdd09549eb73c0d96fbf407ab32887c8
-江苏城市频道,https://migu.freetv.top/migu/626064714.m3u8?migutoken=f5b28b0233b506046c35fef2f89ac9be2d7d166ba9809828a01e75a398275daebf08472f0fec89018aedf7c6346ff78c05d634fed4d52cac1c93af0ea10fdbf550b719a5dfead8d4324d9c5b91
-江苏国际,https://migu.freetv.top/migu/626064674.m3u8?migutoken=97b2ce14f1a7daa5c44451706bcda227bf85060c6273f0fc542a912c6b64a4ac3b37151a98e6e907c4424214e4407e2c8bae4b57c749b11f3b2ac694d3bf8a1d8c68c0cba507cf49fca4e175ab
-江苏教育,https://migu.freetv.top/migu/628008321.m3u8?migutoken=3328ea60ed3b6f212bf819a5b073d6dc5583dee64d21b0f71154c16955375056e50faba2b5fbb26a3d1c6f1a40ab194f372327d4f996fb0c2bff22d87a1f791c3367fbffa02476af21814a0123
-江苏影视频道,https://migu.freetv.top/migu/626064697.m3u8?migutoken=24484e51a66489c816e30ce5c7242ad69c05e1df6b0bd97a7945d1b8757b86252301cedac878523bd5aefc128fa08dbdcc1f6a6c76e7bf721a7c0ce355dc0ecfed2478bd2fda9d8d4955997788
-江苏综艺频道,https://migu.freetv.top/migu/626065193.m3u8?migutoken=53c9bbf36cceeee39797a2b67e49f3d74b13d2096e44273a2b444c0cdd683b16ada602e4c00df5eff59dc815debbd5395b2a0acfca3502c57e3b8da4ed9fcf8ff3b03a4fe005ac22526ba0097f
-体育休闲频道,https://migu.freetv.top/migu/626064707.m3u8?migutoken=985a62cf21fe48f026c5060bc139e2fab2e89058317de32e0f96495d19a2fdb8ddccc1e1c96037490c7407ce1e4202a84e4632bec9d7d93f4584a5120c5dddcda45907114b7a65f036afbcaf1b
-NBA经典,https://migu.freetv.top/migu/788815380.m3u8?migutoken=5014ac277086354da30f12972f4f7d14f8233fb5587f39e4b9db05352d74d07a83256da66befa5220cd91fb17b4d27dc5a27868a46a9d74bc3b9b42ab5823d758001aa773ec2b28e90f6a4ab9e
-五大联赛经典,https://migu.freetv.top/migu/780288994.m3u8?migutoken=cde459fbb6644118b5982ac8d60762b830f769afbb2afa47675ab1f63fa4772785f236797e260fa91385b4bfb4adfc118e6c2e1541b1926da1fc8b95558a9452d536c3f82a0450f9f43f24ad97
-中国足球风云,https://migu.freetv.top/migu/788816794.m3u8?migutoken=3f32bcc5a0ad3b293c25d6512c651210d0fcaf2de2cc8e7d3d991c397a271ec8b3ee27db049418557e9d2df8d28ee1ce18e5f8b2d7cdbaf512878cf06423df5e6bb892c049ab76d325a30e4cee
-劲爆体育,https://migu.freetv.top/migu/796071336.m3u8?migutoken=9d9f61c82a004ced0356560b041cdc5a597cbf3f0927c4ff7bbdbc0acd385609528763253ea514d03f5388f3c84b590e9054a08778deeeb9d6e8c7af242519713d8c4e4d5409783fefabc68f7e
-魅力足球,https://migu.freetv.top/migu/796070308.m3u8?migutoken=419984a30b3df4f659154b534eede2e12665df46fa56a149ca4c9bc1c40e86e751b121b9ffe75b6313aaac21d6241b5135cf2ddce9e1fe7fc8539c6a628182fb54c08893311790c23aab1ce952
-赛事最经典,https://migu.freetv.top/migu/646596895.m3u8?migutoken=6637f6ca22e4ce5653a967daeb43fd14c6c2b53543ca6ca954d3205451e2de3ca7a2edb3bf64278dd45202cbe860105d6bf37c4aee9a6eb5024181e6b7d9e04d0495a5e6ecdad5317ea30fe09d
-体坛名栏汇,https://migu.freetv.top/migu/629943305.m3u8?migutoken=c88b9b89fd50583ca40bc6bd5fac49b6f2a3eaf9376bdb011e16f6ae0843840aa7917028991c7f0a0d98658bec7e142fcffe5120ec81992fe12bfd1920c9c974b29439bb5414f6445858f4e2e6
-咪咕24小时体育台,https://migu.freetv.top/migu/654102378.m3u8?migutoken=45b1964418037128c6edbc0d47e544f98c8d97468b512a30c9bef026649be27f7d0a31316a80cc883f63dc7efd01f07549eed3752f33ce5d5a13b6b9345c86669832c93687eae38df1cf069f7f
-优漫卡通频道,https://migu.freetv.top/migu/626064703.m3u8?migutoken=d8f229ad0162fed86fb448f5969e4b391352107b92b19b9229afab124aa757dda2ac7ad1db9f961c6f174d87deada5605b84cc18a746f65b266e483808cdb2ff4ef400a582bb008186d12f20be
-嘉佳卡通,https://migu.freetv.top/migu/614952364.m3u8?migutoken=d8de3b639bdedf69df8670128275b98c4d6014ed3851dad659b64f5f393e7263c64a50b5d7d828ca7a776d07383368e081cedcd8e9710c9c180ca2f22e703776c9fff8da1c8d32b9b5165d0afa
-经典动画大集合,https://migu.freetv.top/migu/629942219.m3u8?migutoken=cb4ed70376a8e761b0de8b593a2bc0d48b0a7917c89138c2a5b4f63a13e966e92af2e6d914fb31c92d151728f00d971fd78b03877526a035963cba68e889488a9c8d59861b9806946b3dff85fa
-大片,https://migu.freetv.top/migu/629943678.m3u8?migutoken=14c14a519fd0181b9aa7b280b58eb54d302caaf2ea4ea54e3d3e897b10797433a6abb5c77e1024be90ab1dd42fac8359b186b24e7a6f141fce6bdcf961e9c847e3ff097a4f3c3f08523beba576
-新片放映厅,https://migu.freetv.top/migu/619495952.m3u8?migutoken=dd3d141265ef2daa45cacbeb1be51d8025a7e1f7076bd70882e4cd485d52e3c94036527bc881c76104c7fbf1c31f975a6d615918ba7f375731896b21595147553283493cc7231f8e2b6b151e53
-CHC动作电影,https://migu.freetv.top/migu/644368714.m3u8?migutoken=34267d0f9e29f341cca1c0c6cef1383c0bc38ccf8a58be4c68a7e3d70846e0e211747e0e34831067424170c3f9e940f521c57930794ffe227b28c8a1c6738934a23559d7cb37c89ff563a6964a
-CHC家庭影院,https://migu.freetv.top/migu/644368373.m3u8?migutoken=ef6b413f77a7d01644e10907ae985adfd2ea6d4e0a4ee77ca6e6852368de3d0b8d167e5d93f1a8e77f16cf66af22666475c59acb912e2d546be4e374e54aae793d642f1e2a53e5551addf618b4
-南方影视,https://migu.freetv.top/migu/614961829.m3u8?migutoken=26bf77577a12a1ce45c936ba0465602bff2abcba1f98f443ef80e065f682d4d58e5f4b17384cf0407ca1937596799cb02446d5653edf948034a5fa4c1fab399df98b16961eb343b9d6115ea8d8
-红色轮播台,https://migu.freetv.top/migu/713600957.m3u8?migutoken=2f8e4a06009a73d669f258fcc69d3e819485f3872847ea9937f84f5900d3c69e975333d2ee816e4a9562d0e5327b587462a87e3fae624cf28908afe4009a2f740fdadd691cd4955110a71aa7aa
-掼蛋精英赛,https://migu.freetv.top/migu/631354620.m3u8?migutoken=76837146dec3d507a56d3f9fac2102be365e5a80549a931f2cc1042010edf7e35668378dabeec5abf58955adf3ce98218a2e46d8e85af4eed4de491562823b036cb8c6a0617746f496241054e9
-咪咕汇盛典轮播,https://migu.freetv.top/migu/939773601.m3u8?migutoken=e4d3a9cdfc8d92eb7a59cf0777899ca2f10430d6e3cd549c12b3d92a97c4998645e54d0669c749a85badbcd74d25506f0969001f36a877d1ba07c18d1b1c22293240427abd3029e5bf121b3bc2
-华语乐坛最强音,https://migu.freetv.top/migu/707671890.m3u8?migutoken=3ef0eaadd4178b4d40cf01f17fd665076b7a5eb8682abbc4ee45ed51d5efe62dc4cac5faff2d2801483e52eee63c4eafe465f7891d5b52f005b1304eeaa77bd4ff0e051072615a1410d3161904
-周杰伦现场,https://migu.freetv.top/migu/625133682.m3u8?migutoken=cc680ad070108a8057f098182fdd8941141f7a92675403d4f49c3be09e4d3e155dd6568a00e992b7c4d615de68a78b6bda831205559132f38ac91fd6cd0abf661abb459090db62b72144c83cbf
-最强综艺趴,https://migu.freetv.top/migu/629942228.m3u8?migutoken=cd62ef6f144df8868b07b504b31cbf1f693984bf46a892dacd6d51f1a286a9cca3c4b88dde684f9c62902dbdc82986bbacced3667c3207e573a1038956940230a58c8bbcd76a2c21223c353fff
-龙胜龙脊梯田,https://migu.freetv.top/migu/671441336.m3u8?migutoken=b00c6be69656d3832b0459cd876cf5a56b743279ab5564a910571a9a122803ba85a71fb396540ac97614ab1f20a4b150ae598ba1b1ef1e3c2a3314aefcb779211a88610525122205d9bb318659
-邕城,https://migu.freetv.top/migu/671442018.m3u8?migutoken=14742e7a1cc298535ea39379c9e48680192b90db8dd67c40b397c3035ce5c4118ce74cd48aad7818c56efcab71e81c10c4ad45e226616bfe9db6a7c220014732499df93f6dfa281fcd3564339b
-遇龙河,https://migu.freetv.top/migu/671653242.m3u8?migutoken=b22d5dd1bc537849a16b210c6bcca30bc33f17a4da0e8a09335b2e158f72887d1cdbc8b17f79ca0ed2fbbbad5df6fbfb4938c95d5358bef83408952cbe3556fd901425653b51c0efe28d77fb09
-钱塘江,https://migu.freetv.top/migu/647370520.m3u8?migutoken=15357706f0f81950ebc78b67c97f34affa51d240a845d96f0e4958a78bb4c838d858778948ba79d781d46145bd218192ca80ef7754018a8576a0ee276d7f832544cb4f99146f8deb3c53313fc0
-熊猫频道1,https://migu.freetv.top/migu/608933610.m3u8?migutoken=d9377cbd893c3caf95c1f25c5c1014bbb0b2552071a817037dfbe48f5f9894afb62b1eb11afbc0d1f2931ae2aa99186f2f43b01afde2e82ef99576e2d9f621fca30244d3148252ec1f0ffc957b
-熊猫频道2,https://migu.freetv.top/migu/608933640.m3u8?migutoken=5c3c40bc76715317391041de1abd1fc366aa2314f4f9d871a2fcb1e04a5d0c1f626b6b0c175eacf970fdfa0c566ce8aad69686f46042e5632c9d63db5094dd13ba07ebf5860d66a23f53b049c4
-熊猫频道3,https://migu.freetv.top/migu/608934619.m3u8?migutoken=187aa9329640d4f331674705e98b8b885e0f2b2b993bf69f8f81ed6086b5023c7793fa6e5a3c9c23e4328f5778e5bc9375306fd48f874f5037d498693dc9e8be140559b6271caca7b0e42f16fa
-熊猫频道4,https://migu.freetv.top/migu/608934721.m3u8?migutoken=edf701ce8b6cafe3cf6824f38ee7d3263e860674fc4a8c8ebf9e05d427a43c34c1f7b0fe22fadddfc79b1b723a1e797d8a09372dc84c9a2c6b503ecbe4f18fd6b4104488fb0a1d4792f1d2774e
-熊猫频道5,https://migu.freetv.top/migu/608935104.m3u8?migutoken=6c8d4e80906c00cfc5631cc7b600cd81f31103a2d2a51898cd229760c52e2821ecc91a3130c07661fe7f33c18e20d4f0825746457fd3a8c2fef973c9b52b4893c1dc637918dd5a6f53d2bd2d3f
-熊猫频道6,https://migu.freetv.top/migu/608935797.m3u8?migutoken=d3a9fe55f16563920672a0867f7ade00b000c69f236f130f6dc2bde7946f8fec92a867791f5fdf8140da28f5f1a363445cb24fe33c8b3e658af9db3178e9eb6a054716687898c22735bc721519
-熊猫频道7,https://migu.freetv.top/migu/609169286.m3u8?migutoken=f38a87fa7b469000518a57852d6c36c14a71a07815e30fd592bdd7f17bafd1e8415c780243109037a5abb81cf024736bab81524db70de000f3c285acf26a10384436335d3176517fae905e6c17
-熊猫频道8,https://migu.freetv.top/migu/609169287.m3u8?migutoken=81c4c506f07184ffaf07a1eeba03b5ae04c8a4fd075e674ec836541785d86f1d5c4791b0a8bee96ac314c226696518450230d8fb4a0d379c35ba255bcd1c50f871e37b1af7f204585a1281b1f8
-熊猫频道9,https://migu.freetv.top/migu/609169226.m3u8?migutoken=4e3ee9fb30ac1947be6c36c1c4170f9f477bc8caeb30f1d060880a7b6fdd41765e40168758e25f6e624c63ee10fbd380b4bfe2c2524f231acac22a969c2c9424e78496ca9c5f2f3269abd41061
-熊猫频道10,https://migu.freetv.top/migu/609169285.m3u8?migutoken=25f3aca19e86894d2f2fdba94fa47cab37f55e928c979e6326210605c7170ef1b1b1804afa9902d1ff643fe85fccd8e36cd7cd1101bc14fe67ef5814c20a3961ade9b20dd8c5196818ab49c1d0
 
 
 
@@ -1941,7 +1741,6 @@ Channel U,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8$订阅源
 
 
 🎥香港频道,#genre#
-
 
 凤凰中文,P2p://starvod.xyz:19806/e812370ec3d5425a96fa10fa59312380
 凤凰资讯,P2p://starvod.xyz:19806/c110f54316ee493f8554db97e9a0593e
@@ -3585,8 +3384,87 @@ PPTV-4,http://14.117.236.160:9000/rtp/239.77.1.186:5146
 
 🏛组播频道,#genre#
 
-凤凰中文,http://113.223.213.132:9000/rtp/239.76.253.135:9000
-凤凰资讯,http://113.223.213.132:9000/rtp/239.76.253.134:9000
+凤凰卫视,https://tvbox.nat.netsite.cc:8043/proxy/1650326537/1650326537.m3u8$订阅源
+凤凰卫视,http://114.105.185.143:9901/tsfile/live/1063_1.m3u8$订阅源
+凤凰卫视,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=phoenixtv_hd$订阅源
+凤凰卫视,http://114.105.185.143:9901/tsfile/live/1054_1.m3u8$订阅源
+凤凰卫视,http://0a736a.tv.netsite.cc/proxy/1650326537/1650326537.m3u8$订阅源
+凤凰卫视,http://d0bf2d.tv.netsite.cc/proxy/1650326537/1650326537.m3u8$订阅源
+凤凰香港,http://r.jdshipin.com/NfC0f$订阅源
+凤凰香港,http://zb.688768.xyz/jiudian/jddb.php?member=liubwdefd34&playurl=http://120.84.96.42:808/hls/81/index.m3u8$订阅源
+凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed$订阅源
+凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40$订阅源
+凤凰香港,http://www.lebaobei.top:6868/udp/239.255.30.123:8231$订阅源
+凤凰香港,http://114.105.185.143:9901/tsfile/live/1034_1.m3u8$订阅源
+凤凰香港,http://r.jdshipin.com/yDoTN$订阅源
+凤凰香港,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=hkphoenix_twn$订阅源
+凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MA5A4571836345718363&ct=19234&tsum=9d461ede3a5ecfa182b75574f86ae56a$订阅源
+凤凰香港,http://www.lebaobei.top:6868/rtp/239.255.30.123:8231$组播源
+凤凰中文,http://wouu.net:9977/udp/239.93.0.162:2192$订阅源
+凤凰中文,http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068$订阅源
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8$订阅源
+凤凰中文,http://r.jdshipin.com/cCCzW$订阅源
+凤凰中文,http://d0bf2d.tv.netsite.cc/proxy/1846789161/1846789161.m3u8$订阅源
+凤凰中文,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=phoenixtv_hd$订阅源
+凤凰中文,http://www.terrykang.cn:5678/sxg.php?id=test1_4000$订阅源
+凤凰中文,http://1b6467f415.iok.la:9931/tsfile/live/1037_1.m3u8$订阅源
+凤凰中文,http://119.125.134.179:9901/tsfile/live/1037_1.m3u8$订阅源
+凤凰中文,http://60.255.240.247:8090/live/test1_4000.m3u8$订阅源
+凤凰中文,http://www.lebaobei.top:6868/rtp/239.255.30.50:8231$组播源
+凤凰中文,http://222.241.236.5:9999/rtp/239.76.253.135:9000$组播源
+凤凰中文,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc$组播源
+凤凰中文,http://118.248.155.245:8888/rtp/239.76.253.135:9000$组播源
+凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+凤凰资讯,http://210.210.155.37/qwr9ew/s/s21/index.m3u8$订阅源
+凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?$订阅源
+凤凰资讯,http://58.215.231.35/live2.ngaacdn.sc96655.com/live/test2.m3u8$订阅源
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8?$订阅源
+凤凰资讯,http://wouu.net:9977/udp/239.93.0.118:2191$订阅源
+凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv$订阅源
+凤凰资讯,http://114.105.185.143:9901/tsfile/live/1071_1.m3u8$订阅源
+凤凰资讯,http://wouu.net:9977/udp/239.93.1.4:2191$订阅源
+凤凰资讯,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=phoenixinfo_hd$订阅源
+凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc$组播源
+凤凰资讯,http://222.241.236.5:9999/rtp/239.76.253.134:9000$组播源
+凤凰资讯,http://118.248.155.245:8888/rtp/239.76.253.134:9000$组播源
+鳳凰香港,http://r.jdshipin.com/NfC0f$订阅源
+鳳凰香港,http://zb.688768.xyz/jiudian/jddb.php?member=liubwdefd34&playurl=http://120.84.96.42:808/hls/81/index.m3u8$订阅源
+鳳凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed$订阅源
+鳳凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40$订阅源
+鳳凰香港,http://www.lebaobei.top:6868/udp/239.255.30.123:8231$订阅源
+鳳凰香港,http://114.105.185.143:9901/tsfile/live/1034_1.m3u8$订阅源
+鳳凰香港,http://r.jdshipin.com/yDoTN$订阅源
+鳳凰香港,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=hkphoenix_twn$订阅源
+鳳凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MA5A4571836345718363&ct=19234&tsum=9d461ede3a5ecfa182b75574f86ae56a$订阅源
+鳳凰香港,http://www.lebaobei.top:6868/rtp/239.255.30.123:8231$组播源
+鳳凰中文,http://wouu.net:9977/udp/239.93.0.162:2192$订阅源
+鳳凰中文,http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068$订阅源
+鳳凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8$订阅源
+鳳凰中文,http://r.jdshipin.com/cCCzW$订阅源
+鳳凰中文,http://d0bf2d.tv.netsite.cc/proxy/1846789161/1846789161.m3u8$订阅源
+鳳凰中文,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=phoenixtv_hd$订阅源
+鳳凰中文,http://www.terrykang.cn:5678/sxg.php?id=test1_4000$订阅源
+鳳凰中文,http://1b6467f415.iok.la:9931/tsfile/live/1037_1.m3u8$订阅源
+鳳凰中文,http://119.125.134.179:9901/tsfile/live/1037_1.m3u8$订阅源
+鳳凰中文,http://60.255.240.247:8090/live/test1_4000.m3u8$订阅源
+鳳凰中文,http://www.lebaobei.top:6868/rtp/239.255.30.50:8231$组播源
+鳳凰中文,http://222.241.236.5:9999/rtp/239.76.253.135:9000$组播源
+鳳凰中文,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc$组播源
+鳳凰中文,http://118.248.155.245:8888/rtp/239.76.253.135:9000$组播源
+鳳凰資訊,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+鳳凰資訊,http://210.210.155.37/qwr9ew/s/s21/index.m3u8$订阅源
+鳳凰資訊,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?$订阅源
+鳳凰資訊,http://58.215.231.35/live2.ngaacdn.sc96655.com/live/test2.m3u8$订阅源
+鳳凰資訊,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8?$订阅源
+鳳凰資訊,http://wouu.net:9977/udp/239.93.0.118:2191$订阅源
+鳳凰資訊,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv$订阅源
+鳳凰資訊,http://114.105.185.143:9901/tsfile/live/1071_1.m3u8$订阅源
+鳳凰資訊,http://wouu.net:9977/udp/239.93.1.4:2191$订阅源
+鳳凰資訊,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=phoenixinfo_hd$订阅源
+鳳凰資訊,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc$组播源
+鳳凰資訊,http://222.241.236.5:9999/rtp/239.76.253.134:9000$组播源
+鳳凰資訊,http://118.248.155.245:8888/rtp/239.76.253.134:9000$组播源
+
 
 CCTV1,P2p://starvod.xyz:19806/ac5be134279f461e95e69bbd29b57606
 CCTV2,P2p://starvod.xyz:19806/86a434fef18648adba904e5fdeb8771f
@@ -3697,230 +3575,230 @@ yoo电影,http://fmbox.cc/公众号玉玉软件库/huya.php?id=11352876
 国产悬疑,http://fmbox.cc/公众号玉玉软件库/huya.php?id=11342395
 
 🍏P3P测试,#genre#
-凤凰中文,p3p://108.181.32.169:18118/6410229e000655dd98612e41401e3e7d
-凤凰资讯,p3p://108.181.32.169:18118/641022be000e5cc69861ad4f5a025336
-无线新闻台,p3p://108.181.32.169:18118/6533fd5600043bdb2d1c8c0729c35d0c
-无线新闻台(b),p3p://108.181.32.169:18118/6533f9fb00006d352d0f6f9235041f8d
-无线财经台,p3p://108.181.32.169:18118/64100aec000c7bc59804a081537730cb
-NOW 新闻台,p3p://108.181.32.169:18118/6410254c0006df63986ba60f292a7500
-寰宇新闻台,p3p://108.181.32.169:18118/64295eb60008744efaf37ae07d17520b
-民视新闻台,p3p://108.181.32.169:18118/64c859e10007934267f487ac0fa618e0
-壹电视新闻台,p3p://108.181.32.169:18118/642521bd0005dfe9ea654d921969472d
-东森新闻,p3p://108.181.32.169:18118/64251f9700046520ea5ce8b85b6c11da
-TVBS 新闻台,p3p://108.181.32.169:18118/64252188000673fcea647eb0397d464d
-三立新闻,p3p://108.181.32.169:18118/64251e23000bcd04ea573d7c0f0a002e
-非凡新闻台,p3p://108.181.32.169:18118/64258e8600060f7eec0e3ebd6c49020e
-台视财经台,p3p://108.181.32.169:18118/6448a761000bec1a75267316701e7a90
-年代新闻,p3p://108.181.32.169:18118/645b2569000acf2fbd624de55e212fb2
-中天新闻台,p3p://108.181.32.169:18118/64252571000be01dea73c63b5616781e
+凤凰中文,p3p://108.181.32.169:34778/6410229e000655dd98612e41401e3e7d
+凤凰资讯,p3p://108.181.32.169:34778/641022be000e5cc69861ad4f5a025336
+无线新闻台,p3p://108.181.32.169:34778/6533fd5600043bdb2d1c8c0729c35d0c
+无线新闻台(b),p3p://108.181.32.169:34778/6533f9fb00006d352d0f6f9235041f8d
+无线财经台,p3p://108.181.32.169:34778/64100aec000c7bc59804a081537730cb
+NOW 新闻台,p3p://108.181.32.169:34778/6410254c0006df63986ba60f292a7500
+寰宇新闻台,p3p://108.181.32.169:34778/64295eb60008744efaf37ae07d17520b
+民视新闻台,p3p://108.181.32.169:34778/64c859e10007934267f487ac0fa618e0
+壹电视新闻台,p3p://108.181.32.169:34778/642521bd0005dfe9ea654d921969472d
+东森新闻,p3p://108.181.32.169:34778/64251f9700046520ea5ce8b85b6c11da
+TVBS 新闻台,p3p://108.181.32.169:34778/64252188000673fcea647eb0397d464d
+三立新闻,p3p://108.181.32.169:34778/64251e23000bcd04ea573d7c0f0a002e
+非凡新闻台,p3p://108.181.32.169:34778/64258e8600060f7eec0e3ebd6c49020e
+台视财经台,p3p://108.181.32.169:34778/6448a761000bec1a75267316701e7a90
+年代新闻,p3p://108.181.32.169:34778/645b2569000acf2fbd624de55e212fb2
+中天新闻台,p3p://108.181.32.169:34778/64252571000be01dea73c63b5616781e
 
-有线新闻台,p3p://108.181.32.169:18118/6533f8d200067abd2d0ae8f534c10d88
-无线新闻台,p3p://108.181.32.169:18118/6533f9fb00006d352d0f6f9235041f8d
-Now新闻台,p3p://108.181.32.169:18118/6410254c0006df63986ba60f292a7500
-无线翡翠台,p3p://108.181.32.169:18118/6533f5c20003762b2cfef1ac322c6404
-mytv翡翠台,p3p://108.181.32.169:18118/6533f6f8000f2ebd2d03af9d53e46544
-mytv-super,p3p://108.181.32.169:18118/6533f044000117a52ce97ce95ac54bb3
-无线Plus台,p3p://108.181.32.169:18118/641021800006a527985cd1244315142d
-无线明珠台,p3p://108.181.32.169:18118/6533f84d00047c732d08e0ea71ab4e92
-无线星河粤,p3p://108.181.32.169:18118/641021c50003c5af985dddf037af353c
-无线星河国,p3p://108.181.32.169:18118/641021e900026b0f985e6a374d7d56bb
-无线功夫台,p3p://108.181.32.169:18118/6411291b0004b01b9c62861646d00929
-无线娱乐台,p3p://108.181.32.169:18118/64102219000c6f74985f28485a5a5799
-无线经典台,p3p://108.181.32.169:18118/6410219e0000704b985d44bd2a501d47
-无线黄金台,p3p://108.181.32.169:18118/64206c63000c3a90d801201c5fe2483a
-无线粤语片,p3p://108.181.32.169:18118/643361c7000d4bee220f05703b541d41
-无线华语剧,p3p://108.181.32.169:18118/643361e10003610a220f68773c0b4c78
-无线戏曲台,p3p://108.181.32.169:18118/64336236000b18a12210b67722665e99
-有线资询台,p3p://108.181.32.169:18118/6427e50e0008e093f53042b347a45e2f
-有线综合台,p3p://108.181.32.169:18118/641022340009a273985f91092cb6113d
-Now财经台,p3p://108.181.32.169:18118/641020d00004bf91985a212731011c3c
-Now爆谷台,p3p://108.181.32.169:18118/641af90c000328bac2b691f11db2274a
-Now星影台,p3p://108.181.32.169:18118/641af926000cc2b9c2b6f9f75c8d2b97
-Now英超粤,p3p://108.181.32.169:18118/64d74c1600083555223b68096e79387e
-Now体育英,p3p://108.181.32.169:18118/64b8f92b000089e02be334b114c32320
-Now体育台,p3p://108.181.32.169:18118/64100a6b000527e19802a6b80be147fa
-Now体育备,p3p://108.181.32.169:18118/6410211d00048968985b4de16d6e5b6a
-VIUTV台粤,p3p://108.181.32.169:18118/641021400008eb86985bd7b90b510a5b
-VIUTV台英,p3p://108.181.32.169:18118/6410215d000ad4ca985c497e192b3552
-RTHK31台,p3p://108.181.32.169:18118/64101f330006ab429853d45f7940453b
-RTHK32台,p3p://108.181.32.169:18118/641020b00001b8599859a360613572d7
-澳门莲花台,p3p://108.181.32.169:18118/64100aec000c7bc59804a081537730cb
-凤凰中文台,p3p://108.181.32.169:18118/6410229e000655dd98612e41401e3e7d
-凤凰中文备,p3p://108.181.32.169:18118/641fd7b400080236d5bc536f5d82159c
-凤凰资讯台,p3p://108.181.32.169:18118/641022be000e5cc69861ad4f5a025336
-凤凰香港台,p3p://108.181.32.169:18118/641022da0005d3069862188000a64525
-凤凰电影台,p3p://108.181.32.169:18118/6410224e00097a01985ff68e53d22e70
-耀才财经台,p3p://108.181.32.169:18118/64102268000ecb1f98605d7b0a602bf4
-有线赛马台,p3p://108.181.32.169:18118/6533f34d0002237a2cf5584a11195950
-CH288赛马,p3p://108.181.32.169:18118/6533f484000c2b3e2cfa19b55cab3b9b
-CH289赛马,p3p://108.181.32.169:18118/6533f5040003559d2cfc0b7268db0ab8
-Now英超4k,p3p://108.181.32.169:18118/64d74cf7000556f0223ed6366e5f689a
-Now英超1e,p3p://108.181.32.169:18118/64d74cb1000cc276223dc6ac654a2299
-天映,p3p://108.181.32.169:18118/643361f20007b9a9220fabfc3001244e
-Now体育S3,p3p://108.181.32.169:18118/6433621d000d9c3522105573223958e1
-Now体育S4,p3p://108.181.32.169:18118/6437999f00025f983289265f38ef3722
-Now体育S5,p3p://108.181.32.169:18118/643799aa000e7bac3289547135e05a80
-Now体育S6,p3p://108.181.32.169:18118/643799bb00044f193289943e2e5f6ac1
-Now体育S7,p3p://108.181.32.169:18118/643799ca000a29a43289d0542d57262c
-HBO-HD台,p3p://108.181.32.169:18118/64137f0b0006a17fa58238155813216c
-HBO家庭台,p3p://108.181.32.169:18118/64137f3c000d4a86a582f93235111bc5
-HBO原创台,p3p://108.181.32.169:18118/64137f700008f329a583c3344ddf5dfc
-HBO强档台,p3p://108.181.32.169:18118/64137f970005246ea5845a9326ce6233
-Kix HD台,p3p://108.181.32.169:18118/6413854d000785b1a59aaa2924fa1aa7
-Discovery,p3p://108.181.32.169:18118/641383f300048101a59561c464b07293
-爱奇iQIYI台,p3p://108.181.32.169:18118/649672870005e0a5a5062d0e1384610b
+有线新闻台,p3p://108.181.32.169:34778/6533f8d200067abd2d0ae8f534c10d88
+无线新闻台,p3p://108.181.32.169:34778/6533f9fb00006d352d0f6f9235041f8d
+Now新闻台,p3p://108.181.32.169:34778/6410254c0006df63986ba60f292a7500
+无线翡翠台,p3p://108.181.32.169:34778/6533f5c20003762b2cfef1ac322c6404
+mytv翡翠台,p3p://108.181.32.169:34778/6533f6f8000f2ebd2d03af9d53e46544
+mytv-super,p3p://108.181.32.169:34778/6533f044000117a52ce97ce95ac54bb3
+无线Plus台,p3p://108.181.32.169:34778/641021800006a527985cd1244315142d
+无线明珠台,p3p://108.181.32.169:34778/6533f84d00047c732d08e0ea71ab4e92
+无线星河粤,p3p://108.181.32.169:34778/641021c50003c5af985dddf037af353c
+无线星河国,p3p://108.181.32.169:34778/641021e900026b0f985e6a374d7d56bb
+无线功夫台,p3p://108.181.32.169:34778/6411291b0004b01b9c62861646d00929
+无线娱乐台,p3p://108.181.32.169:34778/64102219000c6f74985f28485a5a5799
+无线经典台,p3p://108.181.32.169:34778/6410219e0000704b985d44bd2a501d47
+无线黄金台,p3p://108.181.32.169:34778/64206c63000c3a90d801201c5fe2483a
+无线粤语片,p3p://108.181.32.169:34778/643361c7000d4bee220f05703b541d41
+无线华语剧,p3p://108.181.32.169:34778/643361e10003610a220f68773c0b4c78
+无线戏曲台,p3p://108.181.32.169:34778/64336236000b18a12210b67722665e99
+有线资询台,p3p://108.181.32.169:34778/6427e50e0008e093f53042b347a45e2f
+有线综合台,p3p://108.181.32.169:34778/641022340009a273985f91092cb6113d
+Now财经台,p3p://108.181.32.169:34778/641020d00004bf91985a212731011c3c
+Now爆谷台,p3p://108.181.32.169:34778/641af90c000328bac2b691f11db2274a
+Now星影台,p3p://108.181.32.169:34778/641af926000cc2b9c2b6f9f75c8d2b97
+Now英超粤,p3p://108.181.32.169:34778/64d74c1600083555223b68096e79387e
+Now体育英,p3p://108.181.32.169:34778/64b8f92b000089e02be334b114c32320
+Now体育台,p3p://108.181.32.169:34778/64100a6b000527e19802a6b80be147fa
+Now体育备,p3p://108.181.32.169:34778/6410211d00048968985b4de16d6e5b6a
+VIUTV台粤,p3p://108.181.32.169:34778/641021400008eb86985bd7b90b510a5b
+VIUTV台英,p3p://108.181.32.169:34778/6410215d000ad4ca985c497e192b3552
+RTHK31台,p3p://108.181.32.169:34778/64101f330006ab429853d45f7940453b
+RTHK32台,p3p://108.181.32.169:34778/641020b00001b8599859a360613572d7
+澳门莲花台,p3p://108.181.32.169:34778/64100aec000c7bc59804a081537730cb
+凤凰中文台,p3p://108.181.32.169:34778/6410229e000655dd98612e41401e3e7d
+凤凰中文备,p3p://108.181.32.169:34778/641fd7b400080236d5bc536f5d82159c
+凤凰资讯台,p3p://108.181.32.169:34778/641022be000e5cc69861ad4f5a025336
+凤凰香港台,p3p://108.181.32.169:34778/641022da0005d3069862188000a64525
+凤凰电影台,p3p://108.181.32.169:34778/6410224e00097a01985ff68e53d22e70
+耀才财经台,p3p://108.181.32.169:34778/64102268000ecb1f98605d7b0a602bf4
+有线赛马台,p3p://108.181.32.169:34778/6533f34d0002237a2cf5584a11195950
+CH288赛马,p3p://108.181.32.169:34778/6533f484000c2b3e2cfa19b55cab3b9b
+CH289赛马,p3p://108.181.32.169:34778/6533f5040003559d2cfc0b7268db0ab8
+Now英超4k,p3p://108.181.32.169:34778/64d74cf7000556f0223ed6366e5f689a
+Now英超1e,p3p://108.181.32.169:34778/64d74cb1000cc276223dc6ac654a2299
+天映,p3p://108.181.32.169:34778/643361f20007b9a9220fabfc3001244e
+Now体育S3,p3p://108.181.32.169:34778/6433621d000d9c3522105573223958e1
+Now体育S4,p3p://108.181.32.169:34778/6437999f00025f983289265f38ef3722
+Now体育S5,p3p://108.181.32.169:34778/643799aa000e7bac3289547135e05a80
+Now体育S6,p3p://108.181.32.169:34778/643799bb00044f193289943e2e5f6ac1
+Now体育S7,p3p://108.181.32.169:34778/643799ca000a29a43289d0542d57262c
+HBO-HD台,p3p://108.181.32.169:34778/64137f0b0006a17fa58238155813216c
+HBO家庭台,p3p://108.181.32.169:34778/64137f3c000d4a86a582f93235111bc5
+HBO原创台,p3p://108.181.32.169:34778/64137f700008f329a583c3344ddf5dfc
+HBO强档台,p3p://108.181.32.169:34778/64137f970005246ea5845a9326ce6233
+Kix HD台,p3p://108.181.32.169:34778/6413854d000785b1a59aaa2924fa1aa7
+Discovery,p3p://108.181.32.169:34778/641383f300048101a59561c464b07293
+爱奇iQIYI台,p3p://108.181.32.169:34778/649672870005e0a5a5062d0e1384610b
 经典都市台,p3p://108.181.20.159:31165/6655fb08000bdb7983c186333c4d613f
 经典神话台,p3p://108.181.20.159:31165/6655fc8b0006b44083c76c9b46e67c07
 经典邵氏台,p3p://108.181.20.159:31165/665c04af000943119b570e90404a31c1
 
-中天新闻台,p3p://108.181.32.169:18118/642590050003b317ec1416371a246f3d
-东森新闻台,p3p://108.181.32.169:18118/64251f9700046520ea5ce8b85b6c11da
-Tvbs新闻台,p3p://108.181.32.169:18118/64252188000673fcea647eb0397d464d
-寰宇新闻台,p3p://108.181.32.169:18118/64295eb60008744efaf37ae07d17520b
-非凡新闻台,p3p://108.181.32.169:18118/64258e8600060f7eec0e3ebd6c49020e
-三立新闻台,p3p://108.181.32.169:18118/64251e23000bcd04ea573d7c0f0a002e
-年代新闻台,p3p://108.181.32.169:18118/645b2569000acf2fbd624de55e212fb2
-闽南壹新闻,p3p://108.181.32.169:18118/642521bd0005dfe9ea654d921969472d
-民视新闻台,p3p://108.181.32.169:18118/64c859e10007934267f487ac0fa618e0
-中视新闻台,p3p://108.181.32.169:18118/642d016e000643ab0926e0907da252ca
-公视闽南台,p3p://108.181.32.169:18118/64251df1000b5a9cea567a0e255d4664
-台视闽南台,p3p://108.181.32.169:18118/64251e0800060844ea56d28a6fad038f
-台视财经台,p3p://108.181.32.169:18118/6448a761000bec1a75267316701e7a90
-华视综合台,p3p://108.181.32.169:18118/642520cd000995d4ea61a5050eb67a8d
-中视青采台,p3p://108.181.32.169:18118/642525590004d7f3ea7366ae4aeb3d9d
-中天娱乐台,p3p://108.181.32.169:18118/642525670005ee2bea739da573c134b4
-中天亚洲台,p3p://108.181.32.169:18118/64254f7e000dfed1eb1809855c5735ce
-中天综合台,p3p://108.181.32.169:18118/642d0188000d7c49092747f97ffc7c72
-东森财经台,p3p://108.181.32.169:18118/64251ff20001f010ea5e4b9002e57212
-东森幼幼台,p3p://108.181.32.169:18118/6430b41c0001f3831798d72948126428
-东森综合台,p3p://108.181.32.169:18118/64253f6e0002d287ead9482831323a6d
-东森戏剧台,p3p://108.181.32.169:18118/64251f7a000bc46eea5c79536d5e2a0e
-东森电影台,p3p://108.181.32.169:18118/64253899000a078deabe99ff587050b0
-东森洋片台,p3p://108.181.32.169:18118/64251f8a0008854aea5cb6fe64e47b4e
-民视闽南台,p3p://108.181.32.169:18118/64251dd200003544ea55fe1c5eb00e42
-民视闽南备,p3p://108.181.32.169:18118/6442f24f00097e845edb5e492842265c
-民视第一台,p3p://108.181.32.169:18118/642520e900023cc4ea621083588c7092
-民视影剧台,p3p://108.181.32.169:18118/6425257c000bd861ea73f1315c0e6e14
-民视综艺台,p3p://108.181.32.169:18118/642d012300040bf70925bb06321b0b87
-Tvbs精彩台,p3p://108.181.32.169:18118/642521570001b275ea63be1073931dd1
-Tvbs精彩备,p3p://108.181.32.169:18118/642521a2000c7beaea64e5cc482f669a
-Tvbs欢乐台,p3p://108.181.32.169:18118/642521950001d9f2ea64b04b059b66dd
-Tvbs_HD台,p3p://108.181.32.169:18118/64252174000b39b9ea6431c97b481680
-三立台湾台,p3p://108.181.32.169:18118/64251e5e0003388bea5821c268061bfb
-三立戏剧台,p3p://108.181.32.169:18118/64251e39000ed5bbea579433569b6381
-三立综合台,p3p://108.181.32.169:18118/64251e49000e34e7ea57d28a25014df2
-三立都会台,p3p://108.181.32.169:18118/64251e7300064780ea587492773a63cc
-纬来电影台,p3p://108.181.32.169:18118/64251eae0001bef7ea5959e100ae671e
-纬来体育台,p3p://108.181.32.169:18118/64251ee9000a4e00ea5a428b26ea4156
-纬来日本台,p3p://108.181.32.169:18118/64251ef6000315a6ea5a737a6efc404a
-纬来精彩台,p3p://108.181.32.169:18118/64251f020003818bea5aa2750fef31c6
-纬来综合台,p3p://108.181.32.169:18118/64251f0d000c0b8fea5acf9d13b83665
-八大娱乐台,p3p://108.181.32.169:18118/642520730002bc15ea6043b344e032a5
-八大第一台,p3p://108.181.32.169:18118/6425207f00050f7aea60732c51b94fad
-八大综合台,p3p://108.181.32.169:18118/642520b0000c3261ea61346800d61673
-八大戏剧台,p3p://108.181.32.169:18118/642520c1000929efea61760938521b57
-八大精彩台,p3p://108.181.32.169:18118/65435f63000ba94069331ccd6399041b
-大爱第一台,p3p://108.181.32.169:18118/6425225a0002859cea67b1ff6aaf6db6
-大爱第二台,p3p://108.181.32.169:18118/64252264000022beea67d87308e9122e
-靖洋戏剧台,p3p://108.181.32.169:18118/642521b000094942ea651baa457674cb
-人间卫视台,p3p://108.181.32.169:18118/6425224d00048156ea677fb9420534b4
-MO_亲子台,p3p://108.181.32.169:18118/6425226f000463e1ea68048207b3285f
-Eleven一台,p3p://108.181.32.169:18118/6425227b000100c6ea6832842d41783a
-Eleven二台,p3p://108.181.32.169:18118/64252292000127feea688c6630d312e7
-ELTA--综合,p3p://108.181.32.169:18118/642522cd000292e6ea69733b04032ded
-ELTA体1台,p3p://108.181.32.169:18118/6425229e00024ab4ea68bb9154ab1928
-ELTA体2台,p3p://108.181.32.169:18118/642522b0000a6c14ea6903f615622aab
-ELTA体3台,p3p://108.181.32.169:18118/642522bd000ad1bbea6936d803e32fc0
-ELTA体3备,p3p://108.181.32.169:18118/6433e3220006392724084f1711880c01
-博斯魅力台,p3p://108.181.32.169:18118/642d395d0004e9950a015dce389f4c91
-博斯网球台,p3p://108.181.32.169:18118/642d0029000bd7e70921ec71212f5735
-博斯运动台,p3p://108.181.32.169:18118/642d000d000525a509217d5a62e868e8
-博斯运动二,p3p://108.181.32.169:18118/642d0087000484c5092359c47ee4201a
-博斯高球台,p3p://108.181.32.169:18118/642d009f000f1f000923ba3b26b667e4
-博斯高球二,p3p://108.181.32.169:18118/642d00ae000e846a0923f4ac45c06f09
-博斯无限台,p3p://108.181.32.169:18118/642d00bf00041ae7092434690ae526c7
-国家地理台,p3p://108.181.32.169:18118/642523f2000e0f35ea6deeb16ff816c9
-历史频道台,p3p://108.181.32.169:18118/642521e0000042a6ea65d4db3e9d23f9
-EYE-旅游台,p3p://108.181.32.169:18118/642524030003a5b2ea6e2e6f6efc45a1
-探索科学台,p3p://108.181.32.169:18118/6425241100084dfbea6e6650539d779f
-亚洲旅游台,p3p://108.181.32.169:18118/642520f70001a86dea62470d303d34d3
-美食星球台,p3p://108.181.32.169:18118/6425252400079076ea72985811e07306
-CI罪案侦查,p3p://108.181.32.169:18118/642520d9000d93c9ea61d4ea78792b01
-动物星球台,p3p://108.181.32.169:18118/6425241f00027d03ea6e9b836b853b0b
-星卫娱乐台,p3p://108.181.32.169:18118/6425242d000d55adea6ed4fa37195f98
-爱尔达影剧,p3p://108.181.32.169:18118/6425243c00046a2eea6f0d4964f8022d
-金光布袋戏,p3p://108.181.32.169:18118/6425246600099458ea6fb2ab4398320b
-Catc电影台,p3p://108.181.32.169:18118/64252479000b7f1aea6ffd6177e3015c
-卫视中文台,p3p://108.181.32.169:18118/64252507000eefc4ea7228f32f390502
-好莱坞电影,p3p://108.181.32.169:18118/6425244f0001184fea6f56a70aca63d2
-卫视电影台scm,p3p://108.181.32.169:18118/642525150008a4ecea725e071929091e
-星卫电影台,p3p://108.181.32.169:18118/642521030009ef43ea62780c438e2a38
-美亚电影台,p3p://108.181.32.169:18118/642525310003ad3cea72ca2155c734c3
-卫视HD电影,p3p://108.181.32.169:18118/6425253c0007ee60ea72f6307ae25fdd
-JET---TV台,p3p://108.181.32.169:18118/6425254d000d3abeea7339f47b5d4bf5
-Smithsonian,p3p://108.181.32.169:18118/64252459000cfdb2ea6f80c37a14067d
-HBO闽南台,p3p://108.181.32.169:18118/64137f0b0006a17fa58238155813216c
-HBO家庭台,p3p://108.181.32.169:18118/64137f3c000d4a86a582f93235111bc5
-HBO强档台,p3p://108.181.32.169:18118/64137f700008f329a583c3344ddf5dfc
-HBO原创台,p3p://108.181.32.169:18118/64137f970005246ea5845a9326ce6233
-Thrill台,p3p://108.181.32.169:18118/644a0879000272f67a89b6687af342ae
-靖天育乐台,p3p://108.181.32.169:18118/642d013d0001084409261fd04c0c3c04
-龙翔电影台,p3p://108.181.32.169:18118/642d014b0009f96e092658cb4e1b23ff
-BabyFirs台,p3p://108.181.32.169:18118/642d015f000070f00926a47a6a2e7d52
-ET综合台,p3p://108.181.32.169:18118/642d017d0000a964092719b87e2e3acd
-好消息一台,p3p://108.181.32.169:18118/642d01960008dc0109277d7a4fc40fce
-好消息二台,p3p://108.181.32.169:18118/642d07140006a38a093cf11414d83398
-CNN my,p3p://108.181.32.169:18118/641380c6000d7e73a588fc4e012b3240
-CNBC my,p3p://108.181.32.169:18118/64138101000e328aa589e2f46ee85f3d
-ABC Australia my,p3p://108.181.32.169:18118/6413811b0006e5f7a58a46a6057a4674
-Sky News HD my,p3p://108.181.32.169:18118/641381340003e883a58aa78a57c53479
-Bloomberg TV my,p3p://108.181.32.169:18118/6413814f000a6413a58b12ab52934c96
-France 24 my,p3p://108.181.32.169:18118/6413816700069158a58b6f7a03cd341c
-Euro news my,p3p://108.181.32.169:18118/6413817b0003393aa58bbcbf158b6409
-FOX NEWS my,p3p://108.181.32.169:18118/6413818e000154fca58c067b60210765
-BBC News HD,p3p://108.181.32.169:18118/641384e7000133cda5991a1b33cb3ea0
-DW HD,p3p://108.181.32.169:18118/641384f6000cbd09a59957a77daa41a1
+中天新闻台,p3p://108.181.32.169:34778/642590050003b317ec1416371a246f3d
+东森新闻台,p3p://108.181.32.169:34778/64251f9700046520ea5ce8b85b6c11da
+Tvbs新闻台,p3p://108.181.32.169:34778/64252188000673fcea647eb0397d464d
+寰宇新闻台,p3p://108.181.32.169:34778/64295eb60008744efaf37ae07d17520b
+非凡新闻台,p3p://108.181.32.169:34778/64258e8600060f7eec0e3ebd6c49020e
+三立新闻台,p3p://108.181.32.169:34778/64251e23000bcd04ea573d7c0f0a002e
+年代新闻台,p3p://108.181.32.169:34778/645b2569000acf2fbd624de55e212fb2
+闽南壹新闻,p3p://108.181.32.169:34778/642521bd0005dfe9ea654d921969472d
+民视新闻台,p3p://108.181.32.169:34778/64c859e10007934267f487ac0fa618e0
+中视新闻台,p3p://108.181.32.169:34778/642d016e000643ab0926e0907da252ca
+公视闽南台,p3p://108.181.32.169:34778/64251df1000b5a9cea567a0e255d4664
+台视闽南台,p3p://108.181.32.169:34778/64251e0800060844ea56d28a6fad038f
+台视财经台,p3p://108.181.32.169:34778/6448a761000bec1a75267316701e7a90
+华视综合台,p3p://108.181.32.169:34778/642520cd000995d4ea61a5050eb67a8d
+中视青采台,p3p://108.181.32.169:34778/642525590004d7f3ea7366ae4aeb3d9d
+中天娱乐台,p3p://108.181.32.169:34778/642525670005ee2bea739da573c134b4
+中天亚洲台,p3p://108.181.32.169:34778/64254f7e000dfed1eb1809855c5735ce
+中天综合台,p3p://108.181.32.169:34778/642d0188000d7c49092747f97ffc7c72
+东森财经台,p3p://108.181.32.169:34778/64251ff20001f010ea5e4b9002e57212
+东森幼幼台,p3p://108.181.32.169:34778/6430b41c0001f3831798d72948126428
+东森综合台,p3p://108.181.32.169:34778/64253f6e0002d287ead9482831323a6d
+东森戏剧台,p3p://108.181.32.169:34778/64251f7a000bc46eea5c79536d5e2a0e
+东森电影台,p3p://108.181.32.169:34778/64253899000a078deabe99ff587050b0
+东森洋片台,p3p://108.181.32.169:34778/64251f8a0008854aea5cb6fe64e47b4e
+民视闽南台,p3p://108.181.32.169:34778/64251dd200003544ea55fe1c5eb00e42
+民视闽南备,p3p://108.181.32.169:34778/6442f24f00097e845edb5e492842265c
+民视第一台,p3p://108.181.32.169:34778/642520e900023cc4ea621083588c7092
+民视影剧台,p3p://108.181.32.169:34778/6425257c000bd861ea73f1315c0e6e14
+民视综艺台,p3p://108.181.32.169:34778/642d012300040bf70925bb06321b0b87
+Tvbs精彩台,p3p://108.181.32.169:34778/642521570001b275ea63be1073931dd1
+Tvbs精彩备,p3p://108.181.32.169:34778/642521a2000c7beaea64e5cc482f669a
+Tvbs欢乐台,p3p://108.181.32.169:34778/642521950001d9f2ea64b04b059b66dd
+Tvbs_HD台,p3p://108.181.32.169:34778/64252174000b39b9ea6431c97b481680
+三立台湾台,p3p://108.181.32.169:34778/64251e5e0003388bea5821c268061bfb
+三立戏剧台,p3p://108.181.32.169:34778/64251e39000ed5bbea579433569b6381
+三立综合台,p3p://108.181.32.169:34778/64251e49000e34e7ea57d28a25014df2
+三立都会台,p3p://108.181.32.169:34778/64251e7300064780ea587492773a63cc
+纬来电影台,p3p://108.181.32.169:34778/64251eae0001bef7ea5959e100ae671e
+纬来体育台,p3p://108.181.32.169:34778/64251ee9000a4e00ea5a428b26ea4156
+纬来日本台,p3p://108.181.32.169:34778/64251ef6000315a6ea5a737a6efc404a
+纬来精彩台,p3p://108.181.32.169:34778/64251f020003818bea5aa2750fef31c6
+纬来综合台,p3p://108.181.32.169:34778/64251f0d000c0b8fea5acf9d13b83665
+八大娱乐台,p3p://108.181.32.169:34778/642520730002bc15ea6043b344e032a5
+八大第一台,p3p://108.181.32.169:34778/6425207f00050f7aea60732c51b94fad
+八大综合台,p3p://108.181.32.169:34778/642520b0000c3261ea61346800d61673
+八大戏剧台,p3p://108.181.32.169:34778/642520c1000929efea61760938521b57
+八大精彩台,p3p://108.181.32.169:34778/65435f63000ba94069331ccd6399041b
+大爱第一台,p3p://108.181.32.169:34778/6425225a0002859cea67b1ff6aaf6db6
+大爱第二台,p3p://108.181.32.169:34778/64252264000022beea67d87308e9122e
+靖洋戏剧台,p3p://108.181.32.169:34778/642521b000094942ea651baa457674cb
+人间卫视台,p3p://108.181.32.169:34778/6425224d00048156ea677fb9420534b4
+MO_亲子台,p3p://108.181.32.169:34778/6425226f000463e1ea68048207b3285f
+Eleven一台,p3p://108.181.32.169:34778/6425227b000100c6ea6832842d41783a
+Eleven二台,p3p://108.181.32.169:34778/64252292000127feea688c6630d312e7
+ELTA--综合,p3p://108.181.32.169:34778/642522cd000292e6ea69733b04032ded
+ELTA体1台,p3p://108.181.32.169:34778/6425229e00024ab4ea68bb9154ab1928
+ELTA体2台,p3p://108.181.32.169:34778/642522b0000a6c14ea6903f615622aab
+ELTA体3台,p3p://108.181.32.169:34778/642522bd000ad1bbea6936d803e32fc0
+ELTA体3备,p3p://108.181.32.169:34778/6433e3220006392724084f1711880c01
+博斯魅力台,p3p://108.181.32.169:34778/642d395d0004e9950a015dce389f4c91
+博斯网球台,p3p://108.181.32.169:34778/642d0029000bd7e70921ec71212f5735
+博斯运动台,p3p://108.181.32.169:34778/642d000d000525a509217d5a62e868e8
+博斯运动二,p3p://108.181.32.169:34778/642d0087000484c5092359c47ee4201a
+博斯高球台,p3p://108.181.32.169:34778/642d009f000f1f000923ba3b26b667e4
+博斯高球二,p3p://108.181.32.169:34778/642d00ae000e846a0923f4ac45c06f09
+博斯无限台,p3p://108.181.32.169:34778/642d00bf00041ae7092434690ae526c7
+国家地理台,p3p://108.181.32.169:34778/642523f2000e0f35ea6deeb16ff816c9
+历史频道台,p3p://108.181.32.169:34778/642521e0000042a6ea65d4db3e9d23f9
+EYE-旅游台,p3p://108.181.32.169:34778/642524030003a5b2ea6e2e6f6efc45a1
+探索科学台,p3p://108.181.32.169:34778/6425241100084dfbea6e6650539d779f
+亚洲旅游台,p3p://108.181.32.169:34778/642520f70001a86dea62470d303d34d3
+美食星球台,p3p://108.181.32.169:34778/6425252400079076ea72985811e07306
+CI罪案侦查,p3p://108.181.32.169:34778/642520d9000d93c9ea61d4ea78792b01
+动物星球台,p3p://108.181.32.169:34778/6425241f00027d03ea6e9b836b853b0b
+星卫娱乐台,p3p://108.181.32.169:34778/6425242d000d55adea6ed4fa37195f98
+爱尔达影剧,p3p://108.181.32.169:34778/6425243c00046a2eea6f0d4964f8022d
+金光布袋戏,p3p://108.181.32.169:34778/6425246600099458ea6fb2ab4398320b
+Catc电影台,p3p://108.181.32.169:34778/64252479000b7f1aea6ffd6177e3015c
+卫视中文台,p3p://108.181.32.169:34778/64252507000eefc4ea7228f32f390502
+好莱坞电影,p3p://108.181.32.169:34778/6425244f0001184fea6f56a70aca63d2
+卫视电影台scm,p3p://108.181.32.169:34778/642525150008a4ecea725e071929091e
+星卫电影台,p3p://108.181.32.169:34778/642521030009ef43ea62780c438e2a38
+美亚电影台,p3p://108.181.32.169:34778/642525310003ad3cea72ca2155c734c3
+卫视HD电影,p3p://108.181.32.169:34778/6425253c0007ee60ea72f6307ae25fdd
+JET---TV台,p3p://108.181.32.169:34778/6425254d000d3abeea7339f47b5d4bf5
+Smithsonian,p3p://108.181.32.169:34778/64252459000cfdb2ea6f80c37a14067d
+HBO闽南台,p3p://108.181.32.169:34778/64137f0b0006a17fa58238155813216c
+HBO家庭台,p3p://108.181.32.169:34778/64137f3c000d4a86a582f93235111bc5
+HBO强档台,p3p://108.181.32.169:34778/64137f700008f329a583c3344ddf5dfc
+HBO原创台,p3p://108.181.32.169:34778/64137f970005246ea5845a9326ce6233
+Thrill台,p3p://108.181.32.169:34778/644a0879000272f67a89b6687af342ae
+靖天育乐台,p3p://108.181.32.169:34778/642d013d0001084409261fd04c0c3c04
+龙翔电影台,p3p://108.181.32.169:34778/642d014b0009f96e092658cb4e1b23ff
+BabyFirs台,p3p://108.181.32.169:34778/642d015f000070f00926a47a6a2e7d52
+ET综合台,p3p://108.181.32.169:34778/642d017d0000a964092719b87e2e3acd
+好消息一台,p3p://108.181.32.169:34778/642d01960008dc0109277d7a4fc40fce
+好消息二台,p3p://108.181.32.169:34778/642d07140006a38a093cf11414d83398
+CNN my,p3p://108.181.32.169:34778/641380c6000d7e73a588fc4e012b3240
+CNBC my,p3p://108.181.32.169:34778/64138101000e328aa589e2f46ee85f3d
+ABC Australia my,p3p://108.181.32.169:34778/6413811b0006e5f7a58a46a6057a4674
+Sky News HD my,p3p://108.181.32.169:34778/641381340003e883a58aa78a57c53479
+Bloomberg TV my,p3p://108.181.32.169:34778/6413814f000a6413a58b12ab52934c96
+France 24 my,p3p://108.181.32.169:34778/6413816700069158a58b6f7a03cd341c
+Euro news my,p3p://108.181.32.169:34778/6413817b0003393aa58bbcbf158b6409
+FOX NEWS my,p3p://108.181.32.169:34778/6413818e000154fca58c067b60210765
+BBC News HD,p3p://108.181.32.169:34778/641384e7000133cda5991a1b33cb3ea0
+DW HD,p3p://108.181.32.169:34778/641384f6000cbd09a59957a77daa41a1
 🍏P3P测试2,#genre#
-HBO HD my,p3p://108.181.32.169:18118/64137ee50006d7eca581a3b3297e60a3
-HBO tw,p3p://108.181.32.169:18118/64137f0b0006a17fa58238155813216c
-HBO Family my,p3p://108.181.32.169:18118/64137f29000ae5e4a582ae5d42d65d7a
-HBO家庭,p3p://108.181.32.169:18118/64137f3c000d4a86a582f93235111bc5
-HBO Signature my,p3p://108.181.32.169:18118/64137f530000971da5834fca2631479a
-HBO强档,p3p://108.181.32.169:18118/64137f700008f329a583c3344ddf5dfc
-HBO Hits my,p3p://108.181.32.169:18118/64137f85000a578fa58415985b5b1f5d
-HBO原创,p3p://108.181.32.169:18118/64137f970005246ea5845a9326ce6233
-AXN tw,p3p://108.181.32.169:18118/64137fb6000e2555a584d5f94945113b
-Thrill,p3p://108.181.32.169:18118/644a0879000272f67a89b6687af342ae
-AXN tw2,p3p://108.181.32.169:18118/64137fed000660a5a585aad4055228a8
-AXN my,p3p://108.181.32.169:18118/6413800100002d47a585f75e0b4d15d4
-CINEMAX tw,p3p://108.181.32.169:18118/641380160003b61ca5864a4e3d49763a
-Cinemax my,p3p://108.181.32.169:18118/6413802a000969a0a58699e441aa3320
-Animax my,p3p://108.181.32.169:18118/6413803e00077f23a586e786585056af
-Animax tw,p3p://108.181.32.169:18118/6413807500012fe3a587bcbf2e6b7388
-Hits Movies my,p3p://108.181.32.169:18118/6413808800072695a588087e3cc239d1
-TVB 粤语片台 HYTV,p3p://108.181.32.169:18118/641022340009a273985f91092cb6113d
-电影一台,p3p://108.181.32.169:18118/6410224e00097a01985ff68e53d22e70
-CCM 天映经典,p3p://108.181.32.169:18118/64124d990007b0aaa0d9131033d9354a
-CCM 天映经典 CN中英字幕,p3p://108.181.32.169:18118/64124dd500082194a0d9fd8d736a3dff
-Celestial MY 天映,p3p://108.181.32.169:18118/64124e2b000b454ba0db4e4b137c6137
-Celestial MY 天映2,p3p://108.181.32.169:18118/64124e0f00045619a0dadf2552b73bf8
-CatchPlay电影台,p3p://108.181.32.169:18118/64252479000b7f1aea6ffd6177e3015c
-卫视中文 HD Star Chinese,p3p://108.181.32.169:18118/64252507000eefc4ea7228f32f390502
-好莱坞电影台,p3p://108.181.32.169:18118/6425244f0001184fea6f56a70aca63d2
-卫视电影台scm,p3p://108.181.32.169:18118/642525150008a4ecea725e071929091e
-星卫HD电影,p3p://108.181.32.169:18118/642521030009ef43ea62780c438e2a38
-美亚电影台,p3p://108.181.32.169:18118/642525310003ad3cea72ca2155c734c3
-卫视HD电影,p3p://108.181.32.169:18118/6425253c0007ee60ea72f6307ae25fdd
-东森电影台,p3p://108.181.32.169:18118/64253899000a078deabe99ff587050b0
-东森洋片,p3p://108.181.32.169:18118/64251f8a0008854aea5cb6fe64e47b4e
-纬来电影,p3p://108.181.32.169:18118/64251eae0001bef7ea5959e100ae671e
-龙祥电影台,p3p://108.181.32.169:18118/642d014b0009f96e092658cb4e1b23ff
-CCTV-6,p3p://108.181.32.169:18118/64260cc800087ffdedfb712c61a06569
-HBO Signature USA,p3p://108.181.32.169:18118/645fab94000cb9a6cf0e66527fc930bc
-HBO USA,p3p://108.181.32.169:18118/645faf2100095cb2cf1c4442765c172b
-HBO 2 USA,p3p://108.181.32.169:18118/645faf2e00057979cf1c760b55dd62b3
-HBO Comedy USA,p3p://108.181.32.169:18118/645faf390002967ccf1ca046036d356a
-HBO HD SIN USA,p3p://108.181.32.169:18118/645faf4700077bb5cf1cd83772282520
-HBO_West USA,p3p://108.181.32.169:18118/645faf5300023119cf1d05bc76d93f08
-Lifetime USA,p3p://108.181.32.169:18118/6462704200005b24d9de70b7255a7658
-LIFETIME MOVIES USA,p3p://108.181.32.169:18118/6463a5a5000a7afede96fe1018a905c5
+HBO HD my,p3p://108.181.32.169:34778/64137ee50006d7eca581a3b3297e60a3
+HBO tw,p3p://108.181.32.169:34778/64137f0b0006a17fa58238155813216c
+HBO Family my,p3p://108.181.32.169:34778/64137f29000ae5e4a582ae5d42d65d7a
+HBO家庭,p3p://108.181.32.169:34778/64137f3c000d4a86a582f93235111bc5
+HBO Signature my,p3p://108.181.32.169:34778/64137f530000971da5834fca2631479a
+HBO强档,p3p://108.181.32.169:34778/64137f700008f329a583c3344ddf5dfc
+HBO Hits my,p3p://108.181.32.169:34778/64137f85000a578fa58415985b5b1f5d
+HBO原创,p3p://108.181.32.169:34778/64137f970005246ea5845a9326ce6233
+AXN tw,p3p://108.181.32.169:34778/64137fb6000e2555a584d5f94945113b
+Thrill,p3p://108.181.32.169:34778/644a0879000272f67a89b6687af342ae
+AXN tw2,p3p://108.181.32.169:34778/64137fed000660a5a585aad4055228a8
+AXN my,p3p://108.181.32.169:34778/6413800100002d47a585f75e0b4d15d4
+CINEMAX tw,p3p://108.181.32.169:34778/641380160003b61ca5864a4e3d49763a
+Cinemax my,p3p://108.181.32.169:34778/6413802a000969a0a58699e441aa3320
+Animax my,p3p://108.181.32.169:34778/6413803e00077f23a586e786585056af
+Animax tw,p3p://108.181.32.169:34778/6413807500012fe3a587bcbf2e6b7388
+Hits Movies my,p3p://108.181.32.169:34778/6413808800072695a588087e3cc239d1
+TVB 粤语片台 HYTV,p3p://108.181.32.169:34778/641022340009a273985f91092cb6113d
+电影一台,p3p://108.181.32.169:34778/6410224e00097a01985ff68e53d22e70
+CCM 天映经典,p3p://108.181.32.169:34778/64124d990007b0aaa0d9131033d9354a
+CCM 天映经典 CN中英字幕,p3p://108.181.32.169:34778/64124dd500082194a0d9fd8d736a3dff
+Celestial MY 天映,p3p://108.181.32.169:34778/64124e2b000b454ba0db4e4b137c6137
+Celestial MY 天映2,p3p://108.181.32.169:34778/64124e0f00045619a0dadf2552b73bf8
+CatchPlay电影台,p3p://108.181.32.169:34778/64252479000b7f1aea6ffd6177e3015c
+卫视中文 HD Star Chinese,p3p://108.181.32.169:34778/64252507000eefc4ea7228f32f390502
+好莱坞电影台,p3p://108.181.32.169:34778/6425244f0001184fea6f56a70aca63d2
+卫视电影台scm,p3p://108.181.32.169:34778/642525150008a4ecea725e071929091e
+星卫HD电影,p3p://108.181.32.169:34778/642521030009ef43ea62780c438e2a38
+美亚电影台,p3p://108.181.32.169:34778/642525310003ad3cea72ca2155c734c3
+卫视HD电影,p3p://108.181.32.169:34778/6425253c0007ee60ea72f6307ae25fdd
+东森电影台,p3p://108.181.32.169:34778/64253899000a078deabe99ff587050b0
+东森洋片,p3p://108.181.32.169:34778/64251f8a0008854aea5cb6fe64e47b4e
+纬来电影,p3p://108.181.32.169:34778/64251eae0001bef7ea5959e100ae671e
+龙祥电影台,p3p://108.181.32.169:34778/642d014b0009f96e092658cb4e1b23ff
+CCTV-6,p3p://108.181.32.169:34778/64260cc800087ffdedfb712c61a06569
+HBO Signature USA,p3p://108.181.32.169:34778/645fab94000cb9a6cf0e66527fc930bc
+HBO USA,p3p://108.181.32.169:34778/645faf2100095cb2cf1c4442765c172b
+HBO 2 USA,p3p://108.181.32.169:34778/645faf2e00057979cf1c760b55dd62b3
+HBO Comedy USA,p3p://108.181.32.169:34778/645faf390002967ccf1ca046036d356a
+HBO HD SIN USA,p3p://108.181.32.169:34778/645faf4700077bb5cf1cd83772282520
+HBO_West USA,p3p://108.181.32.169:34778/645faf5300023119cf1d05bc76d93f08
+Lifetime USA,p3p://108.181.32.169:34778/6462704200005b24d9de70b7255a7658
+LIFETIME MOVIES USA,p3p://108.181.32.169:34778/6463a5a5000a7afede96fe1018a905c5
