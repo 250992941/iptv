@@ -3,23 +3,6 @@
 
 🚀央视频道,#genre#
 
-CCTV1,http://106.53.99.30/dl/cctv1.m3u8$央视频
-CCTV2,http://106.53.99.30/dl/cctv2.m3u8$央视频
-CCTV3,http://106.53.99.30/dl/cctv3.m3u8$央视频
-CCTV4,http://106.53.99.30/dl/cctv4.m3u8$央视频
-CCTV5,http://106.53.99.30/dl/cctv5.m3u8$央视频
-CCTV6,http://106.53.99.30/dl/cctv6.m3u8$央视频
-CCTV7,http://106.53.99.30/dl/cctv7.m3u8$央视频
-CCTV8,http://106.53.99.30/dl/cctv8.m3u8$央视频
-CCTV9,http://106.53.99.30/dl/cctv9.m3u8$央视频
-CCTV10,http://106.53.99.30/dl/cctv10.m3u8$央视频
-CCTV11,http://106.53.99.30/dl/cctv11.m3u8$央视频
-CCTV12,http://106.53.99.30/dl/cctv12.m3u8$央视频
-CCTV13,http://106.53.99.30/dl/cctv13.m3u8$央视频
-CCTV14,http://106.53.99.30/dl/cctv14.m3u8$央视频
-CCTV15,http://106.53.99.30/dl/cctv15.m3u8$央视频
-CCTV16,http://106.53.99.30/dl/cctv16.m3u8$央视频
-CCTV17,http://106.53.99.30/dl/cctv17.m3u8$央视频
 
 CCTV1,http://117.161.12.116/live/program/live/cctv1hd8m/8000000/mnf.m3u8$百事通
 CCTV2,http://117.161.12.116/live/program/live/cctv2hd8m/8000000/mnf.m3u8$百事通
@@ -508,21 +491,6 @@ CETV4,http://116.231.242.208:4022/udp/239.45.0.21:5140$订阅源
 
 🚀央视新影,#genre#
 
-第一剧场,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=dyjc
-央视台球,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=ystq
-世界地理,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=sjdl
-兵器科技,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=bqkj
-央视文化,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=yswh
-女性时尚,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=nxss
-怀旧剧场,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=hjjc
-电视指南,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=dszn
-风云剧场,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=fyjc
-风云足球,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=fyzq
-风云音乐,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=fyyy
-高尔网球,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=gefwq
-早期教育,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=cetvzqjy
-发现之旅,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=fxzl
-老故事,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]/jiangsu.php?id=lgs
 
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
