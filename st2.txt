@@ -1,3 +1,20 @@
+香港#genre#
+MyTV SUPER,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477554.ts
+TVB 翡翠台超清,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476929.ts
+TVB 翡翠台4K,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476927.ts
+TVB 翡翠台高清,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476930.ts
+TVB 明珠台超清,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476935.ts
+TVB 明珠台高清,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476936.ts
+無線新聞台高清,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476926.ts
+无线新闻台超清,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476925.ts
+HOY 资讯台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476957.ts
+香港國際財經台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476956.ts
+viu TV,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477538.ts
+ViuTV HD+,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476937.ts
+无线财经·资讯台4K,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476921.ts
+
+
+
 央卫频道P2P,#genre#
 CCTV-1,P2p://generationnexxxt.com:19806/cff3529e8cf64e3195f997c50b5052e6
 CCTV-1,P2p://generationnexxxt.com:19806/01803b4a49244bbeb8ae6a184892e94c
