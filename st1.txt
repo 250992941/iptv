@@ -1,7 +1,7 @@
 🔥更新时间,#genre#
 📹️ 2024-12-18 11:54:03,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 
-📡央卫1,#genre#
+📡央卫频道1,#genre#
 CCTV1,http://117.161.12.116/live/program/live/cctv1hd8m/8000000/mnf.m3u8$百事通
 CCTV2,http://117.161.12.116/live/program/live/cctv2hd8m/8000000/mnf.m3u8$百事通
 CCTV3,http://117.161.12.116/live/program/live/cctv38m/8000000/mnf.m3u8$百事通
@@ -115,7 +115,7 @@ CETV4,http://cqshushu.us.kg:2086/更多内容关注公众号[医工学习日志]
 
 
 
-📡央卫2,#genre#
+📡央卫频道2,#genre#
 CCTV-1,http://183.94.146.109:2222/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-1,http://221.222.162.206:8888/rtp/239.3.1.129:8008$组播源
 CCTV-1,http://49.69.201.229:10001/rtp/239.49.8.19:9614$组播源
@@ -1885,7 +1885,7 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 翡翠台4K,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
 
-🎥港澳台P2P#genre#
+🎥港澳台P2,#genre#
 凤凰中文,P2p://starvod.xyz:19806/e812370ec3d5425a96fa10fa59312380
 凤凰资讯,P2p://starvod.xyz:19806/c110f54316ee493f8554db97e9a0593e
 凤凰香港,P2p://starvod.xyz:19806/b57de3aa854d4b49895fe4244d8132b9
@@ -2091,7 +2091,7 @@ Z频道,P2p://starvod.xyz:19806/d4c9297b510841e5be2e06f1037d8912
 澳门莲花,P2p://starvod.xyz:19806/6f6d12b575c3468da907a21b25a17a5a
 
 
-🎥港澳台3#genre#
+🎥港澳台3,#genre#
 
 凤凰中文,http://223.105.252.59/PLTV/3/224/3221228527/index.m3u8$lmtv
 凤凰资讯,http://223.105.252.59/PLTV/3/224/3221228524/index.m3u8$lmtv$lmtv$lmtv
@@ -2511,7 +2511,7 @@ CN卡通频道,http://50.7.234.10:8278/momo1_twn/playlist.m3u8?tid=MDCD833733728
 amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8$订阅源
 
 
-🎥港澳台4#genre#
+🎥港澳台4,#genre#
 
 星空卫视,http://114.105.187.77:9901/tsfile/live/0117_1.m3u8
 星空卫视,http://114.105.187.47:9901/tsfile/live/0117_1.m3u8
