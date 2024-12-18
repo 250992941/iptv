@@ -3320,6 +3320,22 @@ fox sports 2,https://stream1.freetv.fun/fox-sports-2-5.ctv
 
 
 🏛湖南频道,#genre#
+湖南经视,http://tvbox6.icu/tv/mgtv.php?id=280$「芒果TV」
+湖南电影,http://tvbox6.icu/tv/mgtv.php?id=221$「芒果TV」
+湖南都市,http://tvbox6.icu/tv/mgtv.php?id=346$「芒果TV」
+湖南电视剧,http://tvbox6.icu/tv/mgtv.php?id=484$「芒果TV」
+湖南爱晚,http://tvbox6.icu/tv/mgtv.php?id=261$「芒果TV」
+湖南国际,http://tvbox6.icu/tv/mgtv.php?id=229$「芒果TV」
+湖南娱乐,http://tvbox6.icu/tv/mgtv.php?id=344$「芒果TV」
+快乐购,http://tvbox6.icu/tv/mgtv.php?id=267$「芒果TV」
+茶频道,http://tvbox6.icu/tv/mgtv.php?id=578$「芒果TV」
+金鹰纪实,http://tvbox6.icu/tv/mgtv.php?id=316$「芒果TV」
+金鹰卡通,http://tvbox6.icu/tv/mgtv.php?id=287$「芒果TV」
+快乐垂钓,http://tvbox6.icu/tv/mgtv.php?id=218$「芒果TV」
+先锋乒羽,http://tvbox6.icu/tv/mgtv.php?id=329$「芒果TV」
+
+
+
 湖南电视剧,http://222.241.236.5:9999/rtp/239.76.245.118:1234$组播源
 湖南电视剧,http://222.241.154.37:9901/tsfile/live/23026_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 湖南电影,http://222.241.236.5:9999/rtp/239.76.245.119:1234$组播源
@@ -3376,6 +3392,22 @@ fox sports 2,https://stream1.freetv.fun/fox-sports-2-5.ctv
 
 
 🏛广东频道,#genre#
+广东移动,http://183.11.239.36:808/hls/14/index.m3u8$V12
+大湾区卫视,http://183.11.239.36:808/hls/132/index.m3u8$V12
+广东新闻,http://183.11.239.36:808/hls/5/index.m3u8$V12
+岭南戏曲,http://183.11.239.36:808/hls/16/index.m3u8$V12
+经济科教,http://183.11.239.36:808/hls/4/index.m3u8$V12
+广东影视,http://183.11.239.36:808/hls/6/index.m3u8$V12
+广东少儿,http://183.11.239.36:808/hls/175/index.m3u8$V12
+广东综艺,http://183.11.239.36:808/hls/9/index.m3u8$$V12
+广东公共,http://183.11.239.36:808/hls/1/index.m3u8$V12
+广东体育,http://183.11.239.36:808/hls/2/index.m3u8$V12
+广东民生,http://183.11.239.36:808/hls/18/index.m3u8$V12
+广东珠江,http://183.11.239.36:808/hls/83/index.m3u8$V12
+广东卫视,http://183.11.239.36:808/hls/80/index.m3u8$V12
+广东卫视,http://61.141.202.118:9901/tsfile/live/0125_2.m3u8$V12
+广东珠江,http://61.141.202.118:9901/tsfile/live/0125_3.m3u8$V12
+
 广东珠江,http://14.112.86.101:4022/rtp/239.77.1.94:5146$组播源
 广东珠江,http://14.112.86.101:4022/rtp/239.77.0.114:5146$组播源
 广东珠江,http://14.112.86.101:4022/rtp/239.77.0.1:5146$组播源
