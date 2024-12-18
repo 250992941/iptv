@@ -61,6 +61,25 @@ CCTV-17,P2p://generationnexxxt.com:19806/d155cd0903944373a0c13e8164532313
 大湾区卫视,P2p://generationnexxxt.com:19806/eb2b80bc4d474bb5af212f143dad1f6c
 大湾区卫视,P2p://generationnexxxt.com:19806/6863785fe80440b58c08cc04b19caa7a
 
+香港#genre#
+
+MyTV SUPER,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477554.ts
+TVB 翡翠台超清,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476929.ts
+TVB 翡翠台4K,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476927.ts
+TVB 翡翠台高清,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476930.ts
+TVB 明珠台超清,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476935.ts
+TVB 明珠台高清,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476936.ts
+無線新聞台高清,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476926.ts
+无线新闻台超清,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476925.ts
+HOY 资讯台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476957.ts
+香港國際財經台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476956.ts
+viu TV,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477538.ts
+ViuTV HD+,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476937.ts
+无线财经·资讯台4K,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476921.ts
+
+
+
+
 
 新闻频道JW,#genre#
 凤凰中文台,http://119.125.104.34:9901/tsfile/live/1037_1.m3u8
