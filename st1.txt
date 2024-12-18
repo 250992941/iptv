@@ -2093,6 +2093,15 @@ Z频道,P2p://starvod.xyz:19806/d4c9297b510841e5be2e06f1037d8912
 
 🎥港澳台3#genre#
 
+凤凰中文,http://223.105.252.59/PLTV/3/224/3221228527/index.m3u8$lmtv
+凤凰资讯,http://223.105.252.59/PLTV/3/224/3221228524/index.m3u8$lmtv$lmtv$lmtv
+凤凰香港,http://223.105.252.59/PLTV/3/224/3221228530/index.m3u8$lmtv
+翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn$lmtv
+星河台,http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe$lmtv
+千禧经典台,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic$lmtv
+华丽频道,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade$lmtv
+翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8$lmtv
+
 凤凰中文,http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MDFD5624054756240547&ct=19235&tsum=3d8e21403954d488cd95d367f1f90d8b
 凤凰中文,http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=m18f421b0e58b&ct=18336&tsum=8e0cca627477cbd534c9cef5e2c17c1c
 凤凰资讯,http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0
@@ -2102,8 +2111,6 @@ Z频道,P2p://starvod.xyz:19806/d4c9297b510841e5be2e06f1037d8912
 凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
 凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
 
-
-香港频道,#genre#
 凤凰中文,http://222.241.236.5:9999/rtp/239.76.253.135:9000$组播源
 凤凰中文,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc$组播源
 凤凰中文,http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.162:2192$组播源
