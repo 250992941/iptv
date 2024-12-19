@@ -52,10 +52,10 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "HS",
+          "name": "ST-tv2",
           "type":"0",
           "pass": true,
-          "url":"https://raw.gitmirror.com/mlzlzj/hs/refs/heads/main/iptv_list.txt",
+          "url":"https://raw.gitmirror.com/250992941/tv2/refs/heads/main/merged_output.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
