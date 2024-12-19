@@ -1327,6 +1327,7 @@ CCTV-17咪咕,http://z.b.bkpcp.top/m.php?id=cctv17$订阅源
 💓港台新闻,#genre#
 
 寰宇新闻台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+
 无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻台,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5283&tk=97475bb89d45$订阅源
 无线新闻台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
@@ -1355,11 +1356,14 @@ CCTV-17咪咕,http://z.b.bkpcp.top/m.php?id=cctv17$订阅源
 无线新闻台,http://110.235.24.100:8800/play/a00e$订阅源
 无线新闻台,http://110.235.24.100:8800/play/a00d$订阅源
 无线新闻台,http://cdn.iptv8k.top/dl/jspd.php?id=2$订阅源
+中天新闻台,http://litv.zapi.us.kg/?id=4gtv-4gtv009
 中天新闻台,http://cdn.iptv8k.top/dl/jspd.php?id=1$订阅源
+中视新闻台,http://litv.zapi.us.kg/?id=4gtv-4gtv074
 中视新闻台,http://ali.hlspull.yximgs.com/live/7771ddsshabibscbmlabceqoklhdjhflhfsdfagksh-9999547666-8845f-52660dfb346liLecbcdncnpfhgkdfghdlivcctv9HDopdeafaiiiisgdbkasdfsbiiilllll1llllllllllllllllllilldfsldhfsfjlfjfdsklf4dlkfdfgksfhskfsfddlafakfhajdfsaad.flv$订阅源
 三立新闻台,http://ali.hlspull.yximgs.com/live/7771ddsshabibscbmlsanlixw8886755464889eqoklhdjhflhfsdfagksh-9999547666-8845f-52660dfb346liLecbcdncnpfhgkdfghdlivcctv9HDopdeafaiiiisgdbkasdfsbiiilllll1llllllllllllllllllilldfsldhfsfjlfjfdsklf4dlkfdfgksfhskfsfddlafakfhajdfsaad.flv$订阅源
 寰宇新闻台,http://ali.hlspull.yximgs.com/live/7771ddsshabibscbmlhyxwtbgeqoklhdjhflhfsdfagksh-9999547666-8845f-52660dfb346liLecbcdncnpfhgkdfghdlivcctv9HDopdeafaiiiisgdbkasdfsbiiilllll1llllllllllllllllllilldfsldhfsfjlfjfdsklf4dlkfdfgksfhskfsfddlafakfhajdfsaad.flv$订阅源
 东森新闻台,http://ali.hlspull.yximgs.com/live/7771ddsshabibscbmlyutubadsxwbbbttbteqoklhdjhflhfsdfagksh-9999547666-8845f-52660dfb346liLecbcdncnpfhgkdfghdlivcctv9HDopdeafaiiiisgdbkasdfsbiiilllll1llllllllllllllllllilldfsldhfsfjlfjfdsklf4dlkfdfgksfhskfsfddlafakfhajdfsaad.flv$订阅源
+TVBS新闻台,http://litv.zapi.us.kg/?id=4gtv-4gtv072
 TVBS新闻台,http://125.227.210.55:8186/VideoInput/play.ts$订阅源
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8$订阅源
 CGTN,http://113.119.11.155:10000/rtp/239.77.1.27:5146$组播源
