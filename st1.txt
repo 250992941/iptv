@@ -1329,10 +1329,13 @@ CCTV-17咪咕,http://z.b.bkpcp.top/m.php?id=cctv17$订阅源
 寰宇新闻台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 
 无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+无线新闻,http://zsntlqj.xicp.net:8896/bysid/83.m3u8
 无线新闻台,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5283&tk=97475bb89d45$订阅源
 无线新闻台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 无线新闻台,https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40$订阅源
 
+凤凰中文台,http://qctv.fengshows.cn/live/0701pcc72.flv?txSecret=b0efa140daa3cfd46fb6f42adf0b82cf&txTime=6749b353
+凤凰中文台,http://dispatch.fengshows.cn:8484/live/0701pcc72.flv?txSecret=b0efa140daa3cfd46fb6f42adf0b82cf&txTime=6749b353
 凤凰中文台,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc$组播源
 凤凰中文台,http://146.56.153.245:20121/bysid/258$订阅源
 凤凰中文台,http://119.125.134.179:9901/tsfile/live/1037_1.m3u8$订阅源
@@ -1344,6 +1347,10 @@ CCTV-17咪咕,http://z.b.bkpcp.top/m.php?id=cctv17$订阅源
 凤凰中文台,http://wouu.net:9977/udp/239.93.1.9:2192$订阅源
 凤凰中文台,http://wouu.net:9977/udp/239.93.0.162:2192$订阅源
 凤凰中文台,http://8.138.7.223/tv/gdmzyd.php?id=4$订阅源
+
+凤凰资讯台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯台,http://qctv.fengshows.cn/live/0701pin72.flv?txSecret=94bbfa53b6a82f6f3269f2be415c352b&txTime=6749b318
+凤凰资讯台,http://dispatch.fengshows.cn:8484/live/0701pin72.flv?txSecret=94bbfa53b6a82f6f3269f2be415c352b&txTime=6749b318
 凤凰资讯台,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc$组播源
 凤凰资讯台,http://146.56.153.245:20121/bysid/257$订阅源
 凤凰资讯台,http://61.150.67.62:9901/tsfile/live/1013_1.m3u8$订阅源
