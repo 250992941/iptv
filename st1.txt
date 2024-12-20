@@ -3,67 +3,6 @@
 
 📡央卫频道1,#genre#
 
-CCTV1,http://dsk.cc/php/xxtv.php?id=cctv1$学习强国
-CCTV2,http://dsk.cc/php/xxtv.php?id=cctv2$学习强国
-CCTV3,http://dsk.cc/php/xxtv.php?id=cctv3$学习强国
-CCTV4,http://dsk.cc/php/xxtv.php?id=cctv4$学习强国
-CCTV5,http://dsk.cc/php/xxtv.php?id=cctv5$学习强国
-CCTV5+,http://dsk.cc/php/xxtv.php?id=cctv5p$学习强国
-CCTV6,http://dsk.cc/php/xxtv.php?id=cctv6$学习强国
-CCTV7,http://dsk.cc/php/xxtv.php?id=cctv7$学习强国
-CCTV8,http://dsk.cc/php/xxtv.php?id=cctv8$学习强国
-CCTV9,http://dsk.cc/php/xxtv.php?id=cctv9$学习强国
-CCTV10,http://dsk.cc/php/xxtv.php?id=cctv10$学习强国
-CCTV11,http://dsk.cc/php/xxtv.php?id=cctv11$学习强国
-CCTV12,http://dsk.cc/php/xxtv.php?id=cctv12$学习强国
-CCTV13,http://dsk.cc/php/xxtv.php?id=cctv13$学习强国
-CCTV14,http://dsk.cc/php/xxtv.php?id=cctv14$学习强国
-CCTV15,http://dsk.cc/php/xxtv.php?id=cctv15$学习强国
-CCTV17,http://dsk.cc/php/xxtv.php?id=cctv17$学习强国
-北京卫视,http://dsk.cc/php/xxtv.php?id=bjws$学习强国
-东方卫视,http://dsk.cc/php/xxtv.php?id=dfws$学习强国
-天津卫视,http://dsk.cc/php/xxtv.php?id=tjws$学习强国
-重庆卫视,http://dsk.cc/php/xxtv.php?id=cqws$学习强国
-黑龙江卫视,http://dsk.cc/php/xxtv.php?id=hljws$学习强国
-吉林卫视,http://dsk.cc/php/xxtv.php?id=jlws$学习强国
-延边卫视,http://dsk.cc/php/xxtv.php?id=ybws$学习强国
-辽宁卫视,http://dsk.cc/php/xxtv.php?id=lnws$学习强国
-内蒙古卫视,http://dsk.cc/php/xxtv.php?id=nmws$学习强国
-内蒙古蒙语,http://dsk.cc/php/xxtv.php?id=nmmyws$学习强国
-宁夏卫视,http://dsk.cc/php/xxtv.php?id=nxws$学习强国
-甘肃卫视,http://dsk.cc/php/xxtv.php?id=gsws$学习强国
-青海卫视,http://dsk.cc/php/xxtv.php?id=qhws$学习强国
-安多卫视,http://dsk.cc/php/xxtv.php?id=adws$学习强国
-陕西卫视,http://dsk.cc/php/xxtv.php?id=sxws$学习强国
-河北卫视,http://dsk.cc/php/xxtv.php?id=hbws$学习强国
-山西卫视,http://dsk.cc/php/xxtv.php?id=sxiws$学习强国
-山东卫视,http://dsk.cc/php/xxtv.php?id=sdws$学习强国
-安徽卫视,http://dsk.cc/php/xxtv.php?id=ahws$学习强国
-河南卫视,http://dsk.cc/php/xxtv.php?id=hnws$学习强国
-湖北卫视,http://dsk.cc/php/xxtv.php?id=hubws$学习强国
-湖南卫视,http://dsk.cc/php/xxtv.php?id=hunws$学习强国
-江西卫视,http://dsk.cc/php/xxtv.php?id=sjxws$学习强国
-江苏卫视,http://dsk.cc/php/xxtv.php?id=jsws$学习强国
-浙江卫视,http://dsk.cc/php/xxtv.php?id=zjws$学习强国
-东南卫视,http://dsk.cc/php/xxtv.php?id=dnws$学习强国
-厦门卫视,http://dsk.cc/php/xxtv.php?id=xmws$学习强国
-海峡晚上,http://dsk.cc/php/xxtv.php?id=hxws$学习强国
-广东卫视,http://dsk.cc/php/xxtv.php?id=gdws$学习强国
-深圳卫视,http://dsk.cc/php/xxtv.php?id=szws$学习强国
-大湾区卫视,http://dsk.cc/php/xxtv.php?id=dwqws$学习强国
-广西卫视,http://dsk.cc/php/xxtv.php?id=gxws$学习强国
-云南卫视,http://dsk.cc/php/xxtv.php?id=ynws$学习强国
-贵州卫视,http://dsk.cc/php/xxtv.php?id=gzws$学习强国
-四川卫视,http://dsk.cc/php/xxtv.php?id=scws$学习强国
-康巴卫视,http://dsk.cc/php/xxtv.php?id=kbws$学习强国
-新疆卫视,http://dsk.cc/php/xxtv.php?id=xjws$学习强国
-兵团卫视,http://dsk.cc/php/xxtv.php?id=btws$学习强国
-西藏卫视,http://dsk.cc/php/xxtv.php?id=xzws$学习强国
-藏语卫视,http://dsk.cc/php/xxtv.php?id=xzzyws$学习强国
-海南卫视,http://dsk.cc/php/xxtv.php?id=hinws$学习强国
-
-
-
 CCTV-1,https://tvbox.nat.netsite.cc:8043/proxy/1387573383/1387573383.m3u8
 CCTV-1,https://tvbox.nat.netsite.cc:8043/proxy/1464748337/1464748337.m3u8
 CCTV-2,https://tvbox.nat.netsite.cc:8043/proxy/1865857764/1865857764.m3u8
