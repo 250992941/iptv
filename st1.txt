@@ -1553,10 +1553,9 @@ CCTV-17咪咕,http://z.b.bkpcp.top/m.php?id=cctv17$订阅源
 无线新闻台,http://cdn.iptv8k.top/dl/jspd.php?id=2$订阅源
 
 
-
-凤凰中文台,https://tvbox.nat.netsite.cc:8043/proxy/1846789161/1846789161.m3u8
-凤凰中文台,https://tvbox.nat.netsite.cc:8043/proxy/1846789161/1846789161.m3u8
 凤凰中文台,http://dns.yiandrive.com:16813/phenix/fhzw
+凤凰中文台,https://tvbox.nat.netsite.cc:8043/proxy/1846789161/1846789161.m3u8
+凤凰中文台,https://tvbox.nat.netsite.cc:8043/proxy/1846789161/1846789161.m3u8
 凤凰中文台,http://59.127.17.227:8577/http/61.67.128.137:8078/hls/21/80/phoenixch.m3u8
 凤凰中文台,http://203.205.220.214:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
