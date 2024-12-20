@@ -17,10 +17,10 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "yuyu",
+          "name": "新视界影视",
           "type":"0",
           "pass": true,
-          "url": "http://47.99.102.252/live.txt",
+          "url": "https://pan.imotao.com/down.php/25161a3eeb321e97a4b5b33ce7c12fc6.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
