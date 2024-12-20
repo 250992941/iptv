@@ -1837,6 +1837,7 @@ GinxTV,https://litv.zapi.us.kg/?id=4gtv-4gtv053
 
 
 🎬电影频道,#genre#
+
 HBO HD,http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
 HBO 原創钜獻,http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 HBO 家庭,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
@@ -1844,9 +1845,10 @@ HBO 家庭,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18
 影迷数位电影台,http://litv.zapi.us.kg:80/?id=4gtv-4gtv011
 Thrill,https://stream1.freetv.fun/thrill-1.m3u8
 影迷数位电影台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv011
-爆谷台http://205.185.123.236:8899/1/baogutai/stream.m3u8
-星影台http://205.185.123.236:8899/1/now/stream.m3u8
-星河台http://205.185.123.236:8899/tvb/xinghe/stream.m3u8
+
+Now 爆谷,http://205.185.123.236:8899/1/baogutai/stream.m3u8
+Now 星影,http://205.185.123.236:8899/1/now/stream.m3u8
+星河台,http://205.185.123.236:8899/tvb/xinghe/stream.m3u8
 无线星河粤,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist.m3u8
 美亚电影台(TW),https://tv.doube.eu.org/tv?pid=1
 天映频道,https://tv.doube.eu.org/tv?pid=2
@@ -1867,13 +1869,6 @@ Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 影迷数位电影台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 
 
-
-
-
-
-
-
-
 Now 爆谷,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1652&tk=97475bb89d45$订阅源
 Now 星影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9051&tk=e503191f8e20$订阅源
 Now 星影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7421&tk=97475bb89d45$订阅源
@@ -1882,40 +1877,38 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
 龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 靖天电影,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+
+
 CHC动作电影,http://119.98.133.74:4022/rtp/239.69.1.242:11094$组播源
-CHC动作电影,http://113.15.185.69:8181/tsfile/live/1019_1.m3u8$订阅源
+CHC动作电影,http://119.125.134.217:9902/tsfile/live/1028_1.m3u8$订阅源
 CHC动作电影,http://219.159.194.6:8181/tsfile/live/1019_1.m3u8$订阅源
-CHC动作电影,http://113.15.186.220:8181/tsfile/live/1019_1.m3u8$订阅源
-CHC动作电影,http://222.218.158.64:8181/tsfile/live/1019_1.m3u8$订阅源
-CHC动作电影,http://219.159.194.172:8181/tsfile/live/1019_1.m3u8$订阅源
-CHC动作电影,http://113.236.31.149:9901/tsfile/live/1101_1.m3u8$订阅源
-CHC动作电影,http://219.159.194.129:8181/tsfile/live/1019_1.m3u8$订阅源
-CHC动作电影,http://113.236.28.117:9901/tsfile/live/1101_1.m3u8$订阅源
+CHC动作电影,http://113.15.184.118:8181/tsfile/live/1019_1.m3u8$订阅源
 CHC动作电影,http://123.189.39.129:9901/tsfile/live/1101_1.m3u8$订阅源
+CHC动作电影,http://222.218.158.165:8181/tsfile/live/1019_1.m3u8$订阅源
 CHC动作电影,http://124.230.56.27:55555/udp/239.76.252.243:9000$订阅源
-CHC高清电影,http://14.112.86.101:4022/rtp/239.77.0.27:5146$组播源
+CHC动作电影,http://113.236.28.117:9901/tsfile/live/1101_1.m3u8$订阅源
+CHC动作电影,http://219.159.194.129:8181/tsfile/live/1019_1.m3u8$订阅源
+CHC动作电影,http://113.236.31.149:9901/tsfile/live/1101_1.m3u8$订阅源
+CHC动作电影,http://113.15.186.220:8181/tsfile/live/1019_1.m3u8$订阅源
 CHC高清电影,http://119.98.133.74:4022/rtp/239.69.1.241:11088$组播源
-CHC高清电影,http://113.119.11.155:10000/rtp/239.77.0.27:5146$组播源
 CHC家庭影院,http://119.98.133.74:4022/rtp/239.69.1.243:11100$组播源
-CHC家庭影院,http://114.83.223.132:9999/rtp/239.45.0.40:5140$组播源
-CHC家庭影院,http://114.83.223.132:9999/rtp/239.45.1.22:5140$组播源
-CHC家庭影院,http://119.125.134.228:9902/tsfile/live/1027_1.m3u8$订阅源
 CHC家庭影院,http://119.125.134.217:9902/tsfile/live/1027_1.m3u8$订阅源
+CHC家庭影院,http://119.125.134.228:9902/tsfile/live/1027_1.m3u8$订阅源
+CHC家庭影院,http://114.105.184.92:9901/tsfile/live/1072_1.m3u8$订阅源
 CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt$订阅源
-淘电影,http://222.129.139.91:8888/rtp/239.3.1.250:8001$组播源
-淘电影,http://111.196.191.248:5555/rtp/239.3.1.250:8001$组播源
-淘电影,http://221.222.162.206:8888/udp/239.3.1.250:8001$订阅源
-淘电影,http://123.122.162.7:19999/udp/239.3.1.250:8001$订阅源
-淘电影,http://111.196.135.75:8686/udp/239.3.1.250:8001$订阅源
 淘电影,http://123.113.187.204:8000/udp/239.3.1.250:8001$订阅源
-淘电影,http://222.129.139.229:8888/udp/239.3.1.250:8001$订阅源
-淘电影,http://123.113.249.203:8888/udp/239.3.1.250:8001$订阅源
-淘电影,http://115.171.216.225:4000/udp/225.1.8.38:8002$订阅源
+淘电影,http://114.252.239.133:9876/udp/239.3.1.250:8001$订阅源
+淘电影,http://114.249.229.24:8888/udp/239.3.1.250:8001$订阅源
+淘电影,http://111.196.129.152:20000/udp/239.3.1.250:8001$订阅源
+淘电影,http://123.122.162.7:19999/udp/239.3.1.250:8001$订阅源
 淘电影,http://221.219.79.161:4000/udp/239.3.1.250:8001$订阅源
-淘电影,http://114.249.215.204:9888/udp/239.3.1.250:8001$订阅源
+淘电影,http://114.252.238.87:8000/udp/239.3.1.250:8001$订阅源
+淘电影,http://114.249.230.215:9888/udp/239.3.1.250:8001$订阅源
 淘电影,http://1.203.111.193:17777/udp/225.1.8.38:8002$订阅源
-黑莓电影,http://223.167.75.197:10030/itv/1000000004000019624.m3u8?cdn=ystenlive$订阅源
+淘电影,http://222.129.139.229:8888/udp/239.3.1.250:8001$订阅源
 黑莓电影,http://fb.chucklee.top:10026/itv/1000000004000019624.m3u8?cdn=ystenlive$订阅源
+黑莓电影,http://hb3922.vicp.io:7125/itv/1000000004000019624.m3u8?cdn=ystenlive$订阅源
+黑莓电影,http://223.167.75.197:10030/itv/1000000004000019624.m3u8?cdn=ystenlive$订阅源
 东森电影台,http://ali.hlspull.yximgs.com/live/7771ddsshabibscbmlettvmoviel00eqoklhdjhflhfsdfagksh-9999547666-8845f-52660dfb346liLecbcdncnpfhgkdfghdlivcctv9HDopdeafaiiiisgdbkasdfsbiiilllll1llllllllllllllllllilldfsldhfsfjlfjfdsklf4dlkfdfgksfhskfsfddlafakfhajdfsaad.flv$订阅源
 龙华电影,http://ali.hlspull.yximgs.com/live/7771ddsshabibscbmllonghuadyl00eqoklhdjhflhfsdfagksh-9999547666-8845f-52660dfb346liLecbcdncnpfhgkdfghdlivcctv9HDopdeafaiiiisgdbkasdfsbiiilllll1llllllllllllllllllilldfsldhfsfjlfjfdsklf4dlkfdfgksfhskfsfddlafakfhajdfsaad.flv$订阅源
 天映频道,http://205.185.123.236:8899/astro/tianying/tianying.m3u8$订阅源
@@ -1947,8 +1940,8 @@ NEWTV超级电视剧,http://[2409:8087:5e00:24::10]:6060/200000001898/4600000898
 NEWTV超级电视剧,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225716/index.m3u8
 NEWTV超级电视剧,http://[2409:8087:74d9:21::6]/270000001128/9900000022/index.m3u8
 Thrill,https://stream1.freetv.fun/thrill-1.m3u8
-数位电影,https://litv.zapi.us.kg/?id=4gtv-4gtv011
-数位电影,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv011
+影迷数位电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv011
+影迷数位电影台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv011
 AMC电影,https://litv.zapi.us.kg/?id=4gtv-4gtv017
 CAT电影,https://litv.zapi.us.kg/?id=4gtv-4gtv076
 CAT电影,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv076
@@ -1959,10 +1952,8 @@ AMC电影,http://tw.ts138.top/4g/?id=4gtv-4gtv017
 龙华电影,https://litv.zapi.us.kg/?id=litv-longturn03
 龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 龙华电影,http://211.72.65.236:8556/.m3u8
-HBO,p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd
 美亞電影,p3p://167.114.175.6:55331/62883c4f000a4ca3c722d5ec04fb74e7
 美亞電影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-美亞電影,p3p://108.181.32.169:19673/642525310003ad3cea72ca2155c734c3
 靖天电影,https://litv.zapi.us.kg/?id=4gtv-4gtv061
 靖天电影,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 靖天电影,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv061
