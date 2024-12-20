@@ -1844,6 +1844,36 @@ HBO 家庭,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18
 影迷数位电影台,http://litv.zapi.us.kg:80/?id=4gtv-4gtv011
 Thrill,https://stream1.freetv.fun/thrill-1.m3u8
 影迷数位电影台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv011
+爆谷台http://205.185.123.236:8899/1/baogutai/stream.m3u8
+星影台http://205.185.123.236:8899/1/now/stream.m3u8
+星河台http://205.185.123.236:8899/tvb/xinghe/stream.m3u8
+无线星河粤,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist.m3u8
+美亚电影台(TW),https://tv.doube.eu.org/tv?pid=1
+天映频道,https://tv.doube.eu.org/tv?pid=2
+纬来电影台,https://tv.doube.eu.org/tv?pid=3
+东森电影台,https://tv.doube.eu.org/tv?pid=4
+无线星河国,https://www.mytvsuper.xyz/tvb/xinghe/stream.m3u8
+无线星河国,http://205.185.123.236:8899/tvb/xinghe/stream.m3u8
+无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
+无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+Now 爆谷,https://www.mytvsuper.xyz/1/baogutai/stream.m3u8
+Now 爆谷,http://205.185.123.236:8899/1/baogutai/stream.m3u8
+Now 星影,https://www.mytvsuper.xyz/1/now/stream.m3u8
+Now 星影,http://205.185.123.236:8899/1/now/stream.m3u8
+美亚电影台(粤语),http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
+Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
+动作电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy
+家庭影院,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcjtyy
+影迷数位电影台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
+
+
+
+
+
+
+
+
+
 Now 爆谷,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1652&tk=97475bb89d45$订阅源
 Now 星影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9051&tk=e503191f8e20$订阅源
 Now 星影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7421&tk=97475bb89d45$订阅源
