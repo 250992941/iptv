@@ -52,10 +52,10 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "ST-tv2",
+          "name": "肥羊国内直播",
           "type":"0",
           "pass": true,
-          "url":"https://raw.gitmirror.com/250992941/tv2/refs/heads/main/merged_output.txt",
+          "url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
