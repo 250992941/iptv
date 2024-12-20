@@ -1342,6 +1342,7 @@ CGTN,http://113.111.19.5:8889/udp/239.77.1.27:5146$订阅源
 🎥新加坡频道,#genre#
 
 CNA,P2p://starvod.xyz:19806/73ad6030035c4d18ae0934becafb4580
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Channel 5,P2p://starvod.xyz:19806/1f937509e4ff40809a9e76b2ae91ebf7
 Channel 8,P2p://starvod.xyz:19806/dec9442229784496b6a3d573b1fb2a15
 Channel U,P2p://starvod.xyz:19806/930a6830a1b240bd828d4feeafb9aed5
