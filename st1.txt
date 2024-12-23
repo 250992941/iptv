@@ -1985,6 +1985,7 @@ CCTV-17咪咕,http://z.b.bkpcp.top/m.php?id=cctv17$订阅源
 无线新闻台,http://110.235.24.100:8800/play/a00d$订阅源
 无线新闻台,http://cdn.iptv8k.top/dl/jspd.php?id=2$订阅源
 
+凤凰中文台,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰中文台,https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
 凤凰中文台,http://dns.yiandrive.com:16813/phenix/fhzw
 凤凰中文台,https://tvbox.nat.netsite.cc:8043/proxy/1846789161/1846789161.m3u8
@@ -2002,14 +2003,13 @@ CCTV-17咪咕,http://z.b.bkpcp.top/m.php?id=cctv17$订阅源
 凤凰中文台,http://202.168.187.208:9089/tsfile/live/1009_1.m3u8$订阅源
 凤凰中文台,http://wouu.net:9977/udp/239.93.0.162:2192$订阅源
 凤凰中文台,http://wouu.net:9977/udp/239.93.1.9:2192$订阅源
-凤凰中文台,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰中文台,https://k44991.kylintv.tv/live/pxna_iphone.m3u8$LR•IPV4『线路41』
 凤凰中文台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8$LR•IPV4『线路45』
 凤凰中文台,http://146.56.153.245:20121/bysid/258$LR•IPV4『线路81』
 凤凰中文台,http://146.56.153.245:20121/bysid/258
 凤凰中文台,http://e1.woc.iiiya.cn:8888/rtp/239.61.2.184:9092
 
-
+凤凰资讯台,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰资讯台,https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
 凤凰资讯台,http://dns.yiandrive.com:16813/phenix/fhzx
 凤凰资讯台,http://59.127.17.227:8576/http/61.67.128.137:8078/hls/20/80/phoenixif.m3u8
@@ -2026,7 +2026,6 @@ CCTV-17咪咕,http://z.b.bkpcp.top/m.php?id=cctv17$订阅源
 凤凰资讯台,http://wouu.net:9977/udp/239.93.1.4:2191$订阅源
 凤凰资讯台,http://114.105.184.92:9901/tsfile/live/1071_1.m3u8$订阅源
 凤凰资讯台,http://114.105.184.92:9901/tsfile/live/1064_1.m3u8$订阅源
-凤凰资讯台,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰资讯台,http://e1.woc.iiiya.cn:8888/rtp/239.61.2.183:9086
 凤凰资讯台,http://146.56.153.245:20121/bysid/257$LR•IPV4『线路35』
 凤凰资讯台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8$LR•IPV4『线路89』
