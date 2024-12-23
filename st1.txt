@@ -2036,7 +2036,7 @@ CCTV-17咪咕,http://z.b.bkpcp.top/m.php?id=cctv17$订阅源
 中天新闻台,http://194.87.101.118/live.m3u8?c=7
 中天新闻台,http://cdn.iptv8k.top/dl/jspd.php?id=1$订阅源
 
-
+中视新闻台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中视新闻台,http://194.87.101.118/live.m3u8?c=6
 中视新闻台,http://ali.hlspull.yximgs.com/live/7771ddsshabibscbmlabceqoklhdjhflhfsdfagksh-9999547666-8845f-52660dfb346liLecbcdncnpfhgkdfghdlivcctv9HDopdeafaiiiisgdbkasdfsbiiilllll1llllllllllllllllllilldfsldhfsfjlfjfdsklf4dlkfdfgksfhskfsfddlafakfhajdfsaad.flv$订阅源
 中视新闻台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
@@ -2047,6 +2047,7 @@ CCTV-17咪咕,http://z.b.bkpcp.top/m.php?id=cctv17$订阅源
 民视新闻台,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8$订阅源
 民视新闻台,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8$订阅源
 
+东森新闻台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 东森新闻台,http://ali.hlspull.yximgs.com/live/7771ddsshabibscbmlyutubadsxwbbbttbteqoklhdjhflhfsdfagksh-9999547666-8845f-52660dfb346liLecbcdncnpfhgkdfghdlivcctv9HDopdeafaiiiisgdbkasdfsbiiilllll1llllllllllllllllllilldfsldhfsfjlfjfdsklf4dlkfdfgksfhskfsfddlafakfhajdfsaad.flv$订阅源
 东森新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv152
 东森新闻台,https://stream1.freetv.fun/dong-sen-xin-wen-5.ctv
@@ -2056,8 +2057,8 @@ CCTV-17咪咕,http://z.b.bkpcp.top/m.php?id=cctv17$订阅源
 东森新闻台,http://litv.zapi.us.kg/?id=4gtv-4gtv152
 东森新闻台,http://37.27.111.214:8080/live/20/hls.m3u8
 东森新闻台,http://211.72.65.236:8540/.m3u8
-东森新闻台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 
+TVBS新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVBS新闻台,http://125.227.210.55:8186/VideoInput/play.ts$订阅源
 TVBS新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
 TVBS新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
@@ -2070,19 +2071,13 @@ TVBS新闻台,http://125.227.210.55:8186/VideoInput/play.ts$LR•IPV4『线路6�
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8$订阅源
 
 CGTN,http://123.157.31.182:7912/rtp/233.50.201.126:5140$组播源
-CGTN,http://111.193.236.37:4022/rtp/239.3.1.219:4220$组播源
-CGTN,http://111.193.236.37:4022/rtp/239.3.1.218:4220$组播源
-CGTN,http://111.193.236.37:4022/rtp/239.3.1.216:4220$组播源
-CGTN,http://111.193.236.37:4022/rtp/239.3.1.215:4220$组播源
-CGTN,http://111.193.236.37:4022/rtp/239.3.1.217:4220$组播源
-CGTN,http://111.193.236.37:4022/rtp/239.3.1.220:4220$组播源
-CGTN,http://211.158.98.183:8004/udp/225.0.4.12:7980$订阅源
-CGTN,http://113.117.105.125:8800/udp/239.77.0.45:5146$订阅源
-CGTN,http://113.117.105.125:8800/udp/239.77.1.27:5146$订阅源
-CGTN,http://171.213.11.88:55555/udp/239.93.0.216:5140$订阅源
-CGTN,http://123.144.177.97:55555/udp/225.0.4.12:7980$订阅源
+CGTN,http://125.82.171.210:8888/rtp/235.254.198.127:1784$组播源
+CGTN,http://125.82.168.238:8888/rtp/235.254.198.127:1784$组播源
+CGTN,http://111.160.17.2:59901/tsfile/live/0001_19.m3u8$订阅源
 CGTN,http://113.111.19.5:8889/udp/239.77.0.45:5146$订阅源
 CGTN,http://113.111.19.5:8889/udp/239.77.1.27:5146$订阅源
+CGTN,http://223.166.234.19:7777/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+CGTN,http://211.158.98.183:8004/udp/225.0.4.12:7980$订阅源
 
 
 
