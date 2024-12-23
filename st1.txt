@@ -2700,7 +2700,7 @@ fox sports 2,https://stream1.freetv.fun/fox-sports-2-5.ctv
 
 
 
-🏛组播频道,#genre#
+// 🏛组播频道,#genre#
 
 CCTV1,P2p://starvod.xyz:19806/ac5be134279f461e95e69bbd29b57606
 CCTV2,P2p://starvod.xyz:19806/86a434fef18648adba904e5fdeb8771f
