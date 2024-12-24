@@ -85,14 +85,15 @@
       }
     },
     {
-      "key": "文采",
-      "name": "💮文采┃秒播",
+      "key": "4K影院",
+      "name": "♨️4K®在线",
       "type": 3,
-      "api": "csp_Jpys",
+      "api": "./js/lib/drpy2.min.js",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+      "ext": "./js/4kav.js"
     },
     {
       "key": "糯米",
@@ -116,12 +117,12 @@
       "key": "厂长",
       "name": "🏭厂长┃不卡",
       "type": 3,
-      "api": "csp_Czsapp",
+      "api": "csp_NewCz",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "http://www.czzyvideo.com"
+      "ext": "https://www.czzy77.com/"
     },
     {
       "key": "原创",
