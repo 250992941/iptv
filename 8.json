@@ -85,15 +85,14 @@
       }
     },
     {
-      "key": "4K影院",
-      "name": "♨️4K®在线",
+       "key": "文采",
+      "name": "💮文采┃秒播",
       "type": 3,
-      "api": "./js/lib/drpy2.min.js",
+      "api": "csp_Jpys",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-      "ext": "./js/4kav.js"
     },
     {
       "key": "糯米",
