@@ -239,14 +239,14 @@
       "ext": "https://auete.pro/"
     },
     {
-      "key": "新6V",
-      "name": "🧲新6V┃磁力",
+      "key": "4K_XYQHiker",
+      "name": "💥 4K",
       "type": 3,
-      "api": "csp_SixV",
+      "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://www.xb6v.com/"
+      "filterable": 1,
+      "ext": "./1028lib/4kav.json"
     },
     {
       "key": "短剧",
