@@ -39,6 +39,10 @@ CCTV4美洲,https://piccpndali.v.myalicdn.com/audio/cctvamerica_2.m3u8
 华语环球,https://sk.cri.cn/hyhq.m3u8
 环球资讯,https://sk.cri.cn/905.m3u8
 
+中廣流行網 I like radio,https://n03a-eu.rcs.revma.com/aw9uqyxy2tzuv?rj-ttl=5&rj-tok=AAABk398s8YAWSyQ-7IwpQVfKA
+中廣新聞網 BCC News Radio,https://n42a-eu.rcs.revma.com/78fm9wyy2tzuv?rj-ttl=5&rj-tok=AAABk3-AuHMABLufBFCkIDaQfQ
+中廣音樂網 i Radio FM96.3 ,https://n16a-eu.rcs.revma.com/ndk05tyy2tzuv?rj-ttl=5&rj-tok=AAABk397v-kArQGUypuI8N7owA
+
 肇庆高新区广播,https://lhttp-hw.qtfm.cn/live/20500213/64k.mp3
 番禺电台畅快1017,https://lhttp-hw.qtfm.cn/live/20212427/64k.mp3
 怀集音乐之声,http://lhttp.qingting.fm/live/4804/64k.mp3?n=8ce8473f0134e299fa9d
