@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "STEVEN",
-      "name": "🐼STEVEN TV",
+      "name": "📡Steven TV",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -240,7 +240,7 @@
     },
     {
       "key": "4K_XYQHiker",
-      "name": "💥 4K",
+      "name": "💥4K┃4K",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
