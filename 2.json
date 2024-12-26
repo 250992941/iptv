@@ -1,168 +1,561 @@
 {
-    "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "./jar/XYQ.jar;md5;857c3864f652a8f670797d2002aadb82",
+    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734861856358/XMKY.jar;md5;0a762b54cf53124bc90868821a884d43",
+    "logo": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/oEb9EAiMhR67DA00fZCpIXMigA8LAkAI9enDAD~tplv-dy-aweme-images-v2:3000:3000:q75.webp?biz_tag=aweme_images&from=327834062&s=PackSourceEnum_SEARCH&sc=image&se=false&x-expires=1727452800&x-signature=Q6AiH8FOO86OfzLFvuUZpJbsV4s%3D",
+    "wallpaper": "https://bing.img.run/uhd.php",
+    "sites": [
+        {
+            "key": "STEVEN",
+            "name": "🌈Steven TV┃接口来自网络，请于24小时内删除本测试内容",
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0
+        },
+        {
+            "key": "配置",
+            "name": "️⚙️网盘┃配置",
+            "type": 3,
+            "changeable": 0,
+            "searchable": 0,
+            "api": "csp_Config"
+        },
+        {
+            "key": "csp_SuBaiBai",
+            "name": "☁️白白┃1080P",
+            "type": 3,
+            "api": "csp_SuBaiBai",
+            "playerType": 2,
+            "ext": "https://subaibai.com/"
+        },
+        {
+            "key": "csp_Wogg",
+            "name": "🧸玩偶┃4K4K",
+            "type": 3,
+            "api": "csp_Wogg",
+            "changeable": 0,
+            "filterable": 1,
+            "ext": {
+                "site_urls": [
+                    "http://woggpan.333232.xyz/",
+                    "http://wogg.xxooo.cf/",
+                    "http://woggapi.888484.xyz/",
+                    "http://www.wogg.net"
+                ],
+                "threadinfo": {
+                    "chunksize": 450,
+                    "threads": 12
+                }
+            }
+        },
+        {
+            "key": "csp_Netfixtv",
+            "name": "💯至臻┃4K4K",
+            "type": 3,
+            "api": "csp_Duopan",
+            "changeable": 0,
+            "filterable": 1,
+            "ext": {
+                "site_urls": [
+                    "https://mihdr.top",
+                    "http://www.xhww.net",
+                    "http://xhww.net",
+                    "https://xiaomiai.site"
+                ],
+                "url_key": "Duopan",
+                "threadinfo": {
+                    "chunksize": 450,
+                    "threads": 12
+                }
+            }
+        },
+        {
+            "key": "小怡",
+            "name": "🔍怡搜┃4K4K",
+            "type": 3,
+            "api": "csp_XiaoYi",
+            "changeable": 0
+        },
+        {
+            "key": "csp_UC",
+            "name": "💌UCUC┃4K4K",
+            "type": 3,
+            "api": "csp_Duopan",
+            "filterable": 1,
+            "ext": {
+                "site_urls": [
+                    "http://www.mucpan.cc",
+                    "http://ucmi.fun",
+                    "http://www.ucmi.fun"
+                ],
+                "url_key": "UC",
+                "token": "",
+                "ucCookie": "",
+                "quarkCookie": "",
+                "threadinfo": {
+                    "chunksize": 450,
+                    "threads": 12
+                }
+            }
+        },
+        {
+            "key": "米搜",
+            "name": "🔍米搜┃4K4K",
+            "type": 3,
+            "api": "csp_MiSou",
+            "changeable": 0
+        },
+        {
+            "key": "88看球",
+            "name": "🏀看球┃直播",
+            "type": 3,
+            "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0,
+            "ext": "https://gitee.com/smallmi1007/mimi/raw/master/kanqiu.js"
+        },
+        {
+            "key": "csp_JPYY",
+            "name": "🚗文采┃1080P",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_Jpyy",
+            "playerType": 2,
+            "filterable": 1,
+            "ext": ""
+        },
+        {
+            "key": "csp_Xlys",
+            "name": "🍤哔嘀┃1080P",
+            "api": "csp_Xlys",
+            "type": 3,
+            "playerType": 2
+        },
+        {
+            "key": "csp_Wwys",
+            "name": "👨农民┃1080P",
+            "type": 3,
+            "playerType": 2,
+            "changeable": 0,
+            "api": "csp_Wwys",
+            "ext": "https://www.wwgz.cn/"
+        },
+        {
+            "key": "csp_XSX",
+            "name": "👀视讯┃1080P",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "api": "csp_Xsx",
+            "playerType": 2,
+            "filterable": 1,
+            "ext": ""
+        },
+        {
+            "key": "csp_Fantuan",
+            "name": "🍙饭团┃1080P",
+            "type": 3,
+            "api": "csp_Fantuan"
+        },
+        {
+            "key": "huohuo",
+            "name": "💥火火┃1080P",
+            "type": 3,
+            "changeable": 0,
+            "api": "csp_SaoHuo"
+        },
+        {
+            "key": "瓜子",
+            "name": "🍉瓜子┃1080P",
+            "type": 3,
+            "api": "csp_Gz360",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0
+        },
+        {
+            "key": "csp_MiTuApp",
+            "name": "🐰米兔┃1080P",
+            "type": 3,
+            "quickSearch": 0,
+            "api": "csp_MiTuApp",
+            "ext": "s1/kf8dfHZAgs5H4ledT0oVFC1n/KhNfQfc0onBTauGjjbKin/VdMFrfJlKKnt/ClccntSyJqzbI1hHzGUUmZg7v02l1fvcdAH0iCUzGlopNgnI3rkeQtAwS54GySfRT0IRokasLwr5Rr6pm8/lTNJXMTEkq+9mzK976Dvv80seU9riYmFeBD+EBp8RzurdP02PNc0S2aZPlMbdm5yTIQfI8QeSRJGz+0AIsFOyBoPr4LDptq0AAc37KMhnWDCXF"
+        },
+        {
+            "key": "csp_电影",
+            "name": "🎬电影┃1080P",
+            "type": 3,
+            "quickSearch": 0,
+            "api": "csp_MiTuApp",
+            "ext": "s1/kf8dfHZAgs5H4ledT0gNpK7vQhd67t79FMOlp/3hon97gPN02BO+erk3EBCNXM6SamStX8E1N/eOSW8iHnh/V/WWXQik712AKDkDyClacr4JX917KX00fvnFi+PAJCJmEjfkTIInNogcntp+7cErzTorQY87aZkXQz64jcMNBTxpU+OGhfwZ2WqemvRRoQcF3TRFQdK9yVcAPrcKlPHxNivbPun5GntvfOIbWqYyWQSzU7f8y5TSHoXNt3Ag7WpEtt5DdeFwKFlYQ/RcwUw=="
+        },
+        {
+            "key": "csp_悠悠",
+            "name": "🍔悠悠┃1080P",
+            "type": 3,
+            "quickSearch": 0,
+            "api": "csp_MiTuApp",
+            "ext": "sHR2rlsfjI4L3t4RXQMknzkBg7Vkp4iTNqyeosAJpHnw6roDAjVKHwM/MZzlXynRCKNQf+PEtIE3pKftvdy035HammwEvPJdXnu53vPsiVjInePtgdaIgmcH8QzBLPlDKW1pNMfczNnMzBOp9pYad354sdlKgFnUBsFuy5KfTh6NymaocNlwJqN85IfMUV4M"
+        },
+        {
+            "key": "csp_良人",
+            "name": "👨良人┃1080P",
+            "type": 3,
+            "quickSearch": 0,
+            "api": "csp_MiTuApp",
+            "ext": "sHR2rlsfjI4L3t4RXQMkn+pzOh0GsJJgcwHHxDs8FcBDGD81qAZtun78VAJxzshCbStdXIlQiksUvc2b5fXyuxJO9KBNp5LzL/pYLLOs1V3R3WOh90eVpJGxxXWEZtoq+F7Cq4CbQ3J1TTXahpYpeXXeevwPopQutGBNaxYkdBgBL6rCgov0BCUWOXriRXNndZJYNJohfwIzBP+iTuz6C8FWXazDuKfwSS4BfeyQuGM="
+        },
+        {
+            "key": "csp_麻花",
+            "name": "🥙麻花┃1080P",
+            "type": 3,
+            "quickSearch": 0,
+            "api": "csp_MiTuApp",
+            "ext": "sHR2rlsfjI4L3t4RXQMkn8ivSF5g8jXfhsjvizFR8ljN3AOVzpH9pr9GtPv0p/pnhxACPxmzklGulcZ5QfkGRCf6Rs7SjJmolZldAYa939+CUP8xvcjHb492E8waghkGxrtWlTiEC9t4dl/TaQf07LDUAJHsnAKfXpKlbKLXQWnAB8CtibGEXY01QAOeG3k4IaLl5w+AZDEEMHPNX5zL4bnOOk1PYBVZKZWV+DzWC9I="
+        },
+        {
+            "key": "csp_LiteApple",
+            "name": "🍎苹果┃1080P",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_LiteApple",
+            "playerType": 1,
+            "filterable": 1,
+            "ext": ""
+        },
+        {
+            "key": "csp_视觉",
+            "name": "🔭视觉┃PYTHON",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "api": "https://drive.almondcloud.cn/f/q3JKT9/shijue.py",
+            "playerType": 2,
+            "filterable": 1
+        },
+        {
+            "key": "csp_LaoBaiBook",
+            "name": "📚听书┃BOOK",
+            "type": 3,
+            "api": "csp_LaoBaiBook",
+            "playerType": 2,
+            "searchable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.333
+            }
+        },
+        {
+            "key": "csp_Bili",
+            "name": "🆎哔哩┃哔哩",
+            "type": 3,
+            "api": "csp_Bili",
+            "playerType": 2,
+            "ext": {
+                "json": "https://drive.almondcloud.cn/f/odVjUB/bili.json",
+                "cookie": ""
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.333
+            }
+        },
+        {
+            "key": "荐片",
+            "name": "🍭荐片┃磁力",
+            "api": "csp_Jianpian",
+            "type": 3,
+            "playerType": "1",
+            "ext": "http://api2.rinhome.com"
+        },
+        {
+            "key": "push_agent",
+            "name": "接口完全免费 纯互联网搜集｜请于24小时内删除本测试内容",
+            "type": 3,
+            "api": "csp_Push",
+            "playerType": "1",
+            "searchable": 0
+        }
+    ],
+    "parses": [
+        {
+            "name": "Json聚合",
+            "type": 3,
+            "url": "Demo"
+        },
+        {
+            "name": "Web聚合",
+            "type": 3,
+            "url": "Web"
+        },
+        {
+            "name": "解析1",
+            "type": 1,
+            "url": "https://www.mpanso.com/muou/qilin.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },
+        {
+            "name": "反弹",
+            "type": 1,
+            "url": "http://110.40.85.39:81/jxxx/api.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "User-Agent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.94 Safari/537.36"
+                }
+            }
+        },
+        {
+            "name": "1080解析",
+            "type": 1,
+            "url": "https://zy.qiaoji8.com/gouzi.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        }
+    ],
     "lives": [
         {
-          "name": "上海",
-          "type":"0",
-          "pass": true,
-          "url": "https://gyssi.link/live/%E4%B8%8A%E6%B5%B7.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "北京",
-          "type":"0",
-          "pass": true,
-          "url":"https://gyssi.link/live/%E5%8C%97%E4%BA%AC.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "四川",
-          "type":"0",
-          "pass": true,
-          "url": "https://gyssi.link/live/%E5%9B%9B%E5%B7%9D.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "天津",
-          "type":"0",
-          "pass": true,
-          "url": "https://gyssi.link/live/%E5%A4%A9%E6%B4%A5.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "安徽",
-          "type":"0",
-          "pass": true,
-          "url":"https://gyssi.link/live/%E5%AE%89%E5%BE%BD.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "山东",
-          "type":"0",
-          "pass": true,
-          "url":"https://gyssi.link/live/%E5%B1%B1%E4%B8%9C.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "山西",
-          "type":"0",
-          "pass": true,
-          "url":"https://gyssi.link/live/%E5%B1%B1%E8%A5%BF.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "广东1",
-          "type":"0",
-          "pass": true,
-          "url":"https://gyssi.link/live/%E5%B9%BF%E4%B8%9C1.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "广东2",
-          "type":"0",
-          "pass": true,
-          "url":"https://gyssi.link/live/%E5%B9%BF%E4%B8%9C2.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "广东3",
-          "type":"0",
-          "pass": true,
-          "url":"https://gyssi.link/live/%E5%B9%BF%E4%B8%9C3.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "广西",
-          "type":"0",
-          "pass": true,
-          "url":"https://gyssi.link/live/%E5%B9%BF%E8%A5%BF%E5%A3%AE%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8C%BA.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "江苏",
-          "type":"0",
-          "pass": true,
-          "url":"https://gyssi.link/live/%E6%B1%9F%E8%8B%8F.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "江西",
-          "type":"0",
-          "pass": true,
-          "url":"https://gyssi.link/live/%E6%B1%9F%E8%A5%BF.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "河北",
-          "type":"0",
-          "pass": true,
-          "url":"https://gyssi.link/live/%E6%B2%B3%E5%8C%97.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "河南",
-          "type":"0",
-          "pass": true,
-          "url":"https://gyssi.link/live/%E6%B2%B3%E5%8D%97.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "浙江",
-          "type":"0",
-          "pass": true,
-          "url":"https://gyssi.link/live/%E6%B5%99%E6%B1%9F.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "湖北",
-          "type":"0",
-          "pass": true,
-          "url":"https://gyssi.link/live/%E6%B9%96%E5%8C%97.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "湖南1",
-          "type":"0",
-          "pass": true,
-          "url":"https://gyssi.link/live/%E6%B9%96%E5%8D%971.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "湖南2",
-          "type":"0",
-          "pass": true,
-          "url":"https://gyssi.link/live/%E6%B9%96%E5%8D%972.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-       },{
-          "name": "福建",
-          "type":"0",
-          "pass": true,
-          "url":"https://gyssi.link/live/%E7%A6%8F%E5%BB%BA.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-       },{
-          "name": "辽宁",
-          "type":"0",
-          "pass": true,
-          "url": "https://gyssi.link/live/%E8%BE%BD%E5%AE%81.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "重庆",
-          "type":"0",
-          "pass": true,
-          "url":"https://gyssi.link/live/%E9%87%8D%E5%BA%86.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "陕西",
-          "type":"0",
-          "pass": true,
-          "url":"https://gyssi.link/live/%E9%99%95%E8%A5%BF.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
+            "name": "Alice TV",
+            "type": 0,
+            "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/st1.txt",
+            "playerType": 1,
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+        },
+        {
+            "name": "4GTV",
+            "type": 0,
+            "url": "https://tvv.wqwqwq.sbs/iptv.m3u",
+            "playerType": 1,
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+        },
+        {
+            "name": "MDXGH",
+            "type": 0,
+            "url": "http://uk.frp.one:29999/new/mdzb.txt",
+            "playerType": 1,
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+        },
+        {
+            "name": "平台直播",
+            "type": 0,
+            "url": "https://tv.iill.top/m3u/Live",
+            "ua": "okhttp/3.15",
+            "playerType": 2
+        }
+    ],
+    "rules": [
+        {
+            "name": "♻️量非",
+            "hosts": [
+                "lz",
+                "vip.lz",
+                "v.cdnlz",
+                "hd.lz",
+                "ffzy",
+                "vip.ffzy",
+                "hd.ffzy"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.600000,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "♻️索尼",
+            "hosts": [
+                "suonizy",
+                "qrssv.com"
+            ],
+            "regex": [
+                "15.1666",
+                "15.2666"
+            ]
+        },
+        {
+            "name": "♻️乐视",
+            "hosts": [
+                "leshiyun"
+            ],
+            "regex": [
+                "15.92"
+            ]
+        },
+        {
+            "name": "♻️优质",
+            "hosts": [
+                "yzzy",
+                "playback"
+            ],
+            "regex": [
+                "16.63",
+                "18.66",
+                "17.66",
+                "19.13"
+            ]
+        },
+        {
+            "name": "♻️快看",
+            "hosts": [
+                "kuaikan",
+                "vip.kuaikan"
+            ],
+            "regex": [
+                "15.32",
+                "15.231",
+                "18.066"
+            ]
+        },
+        {
+            "name": "♻️360",
+            "hosts": [
+                "lyhuicheng"
+            ],
+            "regex": [
+                "#EXTINF.*?\\s+.*?hrz8QcR9.*?\\.ts\\s+",
+                "#EXT-X-KEY:METHOD=NONE[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "♻️开源棋牌",
+            "hosts": [
+                "askzycdn",
+                "jkunbf",
+                "bfikuncdn",
+                "bfaskcdn"
+            ],
+            "regex": [
+                "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-KEY:METHOD=AES-128,URI=\"[^\"]+\"\\r*\\n*#EXTINF:3.333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "♻️暴风",
+            "hosts": [
+                "bfengbf.com",
+                "bfzy",
+                "c1"
+            ],
+            "regex": [
+                "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+",
+                "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "♻️农民",
+            "hosts": [
+                "toutiaovod.com"
+            ],
+            "regex": [
+                "video/tos/cn"
+            ]
+        },
+        {
+            "name": "♻️火山",
+            "hosts": [
+                "huoshan.com"
+            ],
+            "regex": [
+                "item_id="
+            ]
+        },
+        {
+            "name": "♻️抖音",
+            "hosts": [
+                "douyin.com"
+            ],
+            "regex": [
+                "is_play_url="
+            ]
+        },
+        {
+            "name": "♻️磁力",
+            "hosts": [
+                "magnet"
+            ],
+            "regex": [
+                "最 新",
+                "直 播",
+                "更 新"
+            ]
+        },
+        {
+            "name": "♻️饭团点击",
+            "hosts": [
+                "fantuan"
+            ],
+            "script": [
+                "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();"
+            ]
         }
     ]
 }
