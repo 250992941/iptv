@@ -653,9 +653,9 @@
       "playerType": 1
     },
     {
-      "name": "YIFA",
+      "name": "Radio",
       "type": 0,
-      "url": "http://8.138.7.223/live.txt",
+      "url": "https://gitee.com/steven250992941/iptv/raw/main/radio.txt",
       "playerType": 1
     }
   ]
