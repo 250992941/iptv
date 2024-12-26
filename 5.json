@@ -34,7 +34,7 @@
           "name": "Radio",
           "type":"0",
           "pass": true,
-          "url":"https://raw.gitmirror.com/250992941/iptv/refs/heads/main/radio.txt",
+          "url":"https://gitee.com/steven250992941/iptv/raw/main/radio.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
