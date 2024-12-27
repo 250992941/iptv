@@ -392,9 +392,9 @@
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
-            "name": "4GTV",
+            "name": "st-iptv",
             "type": 0,
-            "url": "https://tvv.wqwqwq.sbs/iptv.m3u",
+            "url": "https://raw.gitmirror.com/250992941/TV/refs/heads/master/output/result.txt",
             "playerType": 1,
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
