@@ -1157,18 +1157,13 @@ TVB无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 凤凰资讯,https://stream1.freetv.fun/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
 
 
-中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0165&tk=7877e7cc41c7
 
 
 东森新闻,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
 东森新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4377&tk=7877e7cc41c7
 东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-6.ctv
-东森新闻HD,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 
-
-TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-TVBS新闻,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 TVBS新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9058&tk=7877e7cc41c7
 
 
