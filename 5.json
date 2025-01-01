@@ -41,7 +41,7 @@
           "name": "ST备份",
           "type":"0",
           "pass": true,
-          "url":"https://raw.githubusercontent.com/250992941/iptv/refs/heads/main/st1.txt",
+          "url":"https://gitea.moe/STLHF/1/raw/branch/main/st1.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
