@@ -394,7 +394,7 @@
         {
             "name": "Alice TV 备份",
             "type": 0,
-            "url": "https://raw.githubusercontent.com/250992941/iptv/refs/heads/main/st1.txt",
+            "url": "https://gitea.moe/STLHF/1/raw/branch/main/st1.txt",
             "playerType": 1,
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
