@@ -392,9 +392,9 @@
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
-            "name": "st-iptv",
+            "name": "Alice TV 备份",
             "type": 0,
-            "url": "https://raw.gitmirror.com/250992941/TV/refs/heads/master/output/result.txt",
+            "url": "https://raw.githubusercontent.com/250992941/iptv/refs/heads/main/st1.txt",
             "playerType": 1,
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
