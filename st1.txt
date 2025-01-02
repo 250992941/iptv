@@ -1122,7 +1122,6 @@ TVB无线新闻,https://live.hkdvb.com/hls/live/83.m3u8?token=275839252942857$�
 东森新闻,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8$订阅源-1920x1080
 东森新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4377&tk=7877e7cc41c7$订阅源-1280x720
 东森新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5269&tk=97475bb89d45$订阅源-1280x720
-东森新闻,http://220.249.51.134:10006/东森新闻-盗源者死全家/易發TV/hls.m3u8$订阅源
 
 
 TVBS新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9058&tk=7877e7cc41c7$订阅源-1280x720
