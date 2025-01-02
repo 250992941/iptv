@@ -885,12 +885,8 @@ CCTV-17咪咕,http://z.b.bkpcp.top/m.php?id=cctv17$订阅源
 ☘️央视新影,#genre#
 
 //测速源
-重温经典,http://111.160.17.2:59901/tsfile/live/0001_20.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-重温经典,http://111.160.17.2:59901/tsfile/live/0001_20.m3u8$订阅源
-重温经典,http://36.108.172.237:10005/stream/channelid/1658622386$订阅源
-重温经典,http://36.108.172.237:10005/stream/channelid/1658622386?ticket=cee7f3f6fd238a746e4e7a2b018ee411947ffe3d&profile=pass$订阅源
-重温经典,http://111.160.17.2:59901/tsfile/live/0001_20.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-重温经典,http://111.160.17.2:59901/tsfile/live/0001_20.m3u8$订阅源
+重温经典,http://111.160.17.2:59901/tsfile/live/0001_20.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
+重温经典,http://111.160.17.2:59901/tsfile/live/0001_20.m3u8$订阅源-1920x1080
 重温经典,http://36.108.172.237:10005/stream/channelid/1658622386$订阅源
 重温经典,http://36.108.172.237:10005/stream/channelid/1658622386?ticket=cee7f3f6fd238a746e4e7a2b018ee411947ffe3d&profile=pass$订阅源
 
@@ -1120,7 +1116,7 @@ TVB无线新闻,https://live.hkdvb.com/hls/live/83.m3u8?token=275839252942857$�
 中天新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6963&tk=e503191f8e20$订阅源-1280x720
 中天新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0165&tk=7877e7cc41c7$订阅源-1280x720
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8$订阅源
-中视新闻,http://ku9.fr.to/smt.php?id=zhongshinews_twn$订阅源-1280x720
+
 
 
 东森新闻,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8$订阅源-1920x1080
@@ -2498,14 +2494,7 @@ Ymg未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?$订
 中天综合台,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca$订阅源-1280x720
 中天综合台,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e$订阅源-1280x720
 中旺电视,http://38.64.72.148:80/hls/modn/list/4010/playlist.m3u8$订阅源-1920x1080
-重温经典,http://111.160.17.2:59901/tsfile/live/0001_20.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
-重温经典,http://111.160.17.2:59901/tsfile/live/0001_20.m3u8$订阅源-1920x1080
-重温经典,http://36.108.172.237:10005/stream/channelid/1658622386$订阅源
-重温经典,http://36.108.172.237:10005/stream/channelid/1658622386?ticket=cee7f3f6fd238a746e4e7a2b018ee411947ffe3d&profile=pass$订阅源
-重温经典频道,http://111.160.17.2:59901/tsfile/live/0001_20.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
-重温经典频道,http://111.160.17.2:59901/tsfile/live/0001_20.m3u8$订阅源-1920x1080
-重温经典频道,http://36.108.172.237:10005/stream/channelid/1658622386$订阅源
-重温经典频道,http://36.108.172.237:10005/stream/channelid/1658622386?ticket=cee7f3f6fd238a746e4e7a2b018ee411947ffe3d&profile=pass
+
 
 
 
