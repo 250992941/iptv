@@ -611,9 +611,9 @@
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
      {
-      "name": "TV2",
+      "name": "Alice TV2",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/250992941/tv2/refs/heads/main/merged_output.txt",
+      "url": "https://gitea.moe/STLHF/iptv/raw/branch/main/st1.txt",
       "playerType": 1
     },
      {
