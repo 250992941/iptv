@@ -1040,7 +1040,7 @@ TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 寰宇新闻,http://ku9.fr.to/smt.php?id=huanyuxinwen_twn$订阅源-1280x720
 寰宇新闻,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8$订阅源
 
-
+TVB无线新闻,http://zsntlqj.xicp.net:8896/bysid/83.m3u8$ziji
 TVB无线新闻,http://cdn.iptv8k.top/dl/jspd.php?id=2$订阅源-1920x1080
 TVB无线新闻,https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
 TVB无线新闻,http://cdn8.jdshipin.com:8880/smt.php?id=inews_twn$订阅源
@@ -1059,6 +1059,8 @@ TVB无线新闻,http://r.jdshipin.com/CkuBd$订阅源
 凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?$订阅源
 凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8$订阅源
 
+
+凤凰资讯,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx$ziji
 凤凰资讯,http://113.64.145.93:8081/hls/36/index.m3u8
 凤凰资讯,http://223.105.252.59/PLTV/3/224/3221228524/index.m3u8$订阅源-3840x2160
 凤凰资讯,http://61.150.67.62:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
@@ -1071,16 +1073,19 @@ TVB无线新闻,http://r.jdshipin.com/CkuBd$订阅源
 凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8$订阅源
 凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?$订阅源
 
+中天新闻,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv009$ziji
 中天新闻,http://cdn.iptv8k.top/dl/jspd.php?id=1$订阅源-1920x1080
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8$订阅源
 中天新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0148&tk=97475bb89d45$订阅源-1280x720
 中天新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6963&tk=e503191f8e20$订阅源-1280x720
 中天新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0165&tk=7877e7cc41c7$订阅源-1280x720
 
+东森新闻,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv152$ziji
 东森新闻,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8$订阅源-1920x1080
 东森新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4377&tk=7877e7cc41c7$订阅源-1280x720
 东森新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5269&tk=97475bb89d45$订阅源-1280x720
 
+TVBS新闻,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv072$ziji
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8$订阅源-1280x720
 TVBS新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9058&tk=7877e7cc41c7$订阅源-1280x720
 TVBS新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6978&tk=7d4ad8f156e3$订阅源-1280x720
@@ -1393,10 +1398,104 @@ Z频道,P2p://starvod.xyz:19806/d4c9297b510841e5be2e06f1037d8912
 🎥港澳台3,#genre#
 
 //广电广东
-翡翠台,http://202.168.187.208:9089/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-明珠台,http://202.168.187.208:9089/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+TVB翡翠台,http://202.168.187.208:9089/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+TVB明珠台,http://202.168.187.208:9089/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 星空卫视,http://202.168.187.208:9089/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://202.168.187.208:9089/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+
+//zijihuizhong
+
+TVB明珠台,http://zsntlqj.xicp.net:8896/bysid/2.m3u8
+TVB Plus,http://zsntlqj.xicp.net:8896/bysid/82.m3u8
+TVB无线新闻,http://zsntlqj.xicp.net:8896/bysid/83.m3u8
+凤凰香港,http://zsntlqj.xicp.net:8896/bysid/85.m3u8
+凤凰资讯,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx
+
+民视台湾台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv001
+民视,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv002
+民视第一台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv003
+FTV综艺,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv004
+猪亮哥歌厅秀,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv006
+中天新闻,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv009
+非凡新闻,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv010
+FMG电影台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv011
+CNEX,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv013
+时尚运动,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv014
+韩国娱乐台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv016
+amc电影台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv017
+Da Vinci,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv018
+八大精彩,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv034
+故乡好滋味,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv039
+中视,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv040
+华视,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv041
+公视戏剧,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv042
+客家戏剧,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv043
+靖天卡通,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv044
+靖洋戏剧,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv045
+靖天综合,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv046
+靖天日本,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv047
+非凡商业,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv048
+采昌台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv049
+Unknown_51,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv051
+华视新闻,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv052
+Unknown_53,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv053
+靖天欢乐,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv054
+靖天映画,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv055
+台视财经,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv056
+靖洋卡通,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv057
+靖天戏剧,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv058
+古典音乐台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv059
+靖天电影,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv061
+靖天育乐,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv062
+靖天国际,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv063
+中视菁采,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv064
+靖天卡通资讯,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv065
+Unknown_66,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv066
+TVBS精采,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv067
+TVBS欢乐,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv068
+ELTA娱乐,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv070
+TVBS新闻,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv072
+TVBS HD,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv073
+中视新闻,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv074
+镜新闻,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv075
+亚洲旅游台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv076
+Trace sport,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv077
+韩国台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv079
+中视经典,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv080
+Trace URBAN,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv082
+MEZZO LIVE,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv083
+国会频道1,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv084
+国会频道2,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv085
+智林体育,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv101
+Unknown_104,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv104
+中天亚洲台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv109
+东森新闻,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv152
+东森财经,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv153
+民视,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv155
+
+国家地理,http://61.221.215.25:8800/hls/1/index.m3u8
+TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
+Unknown_a36,http://61.221.215.25:8800/hls/36/index.m3u8
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+动画,http://61.221.215.25:8800/hls/40/index.m3u8
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+Unknown_a42,http://61.221.215.25:8800/hls/42/index.m3u8
+amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
+Unknown_a44,http://61.221.215.25:8800/hls/44/index.m3u8
+Unknown_a45,http://61.221.215.25:8800/hls/45/index.m3u8
+Unknown_a46,http://61.221.215.25:8800/hls/46/index.m3u8
+中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
+纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
+钢琴曲,http://61.221.215.25:8800/hls/49/index.m3u8
+发现频道亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
+NHK World,http://61.221.215.25:8800/hls/51/index.m3u8
+no,http://61.221.215.25:8800/hls/54/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+音乐,http://61.221.215.25:8800/hls/58/index.m3u8
+
+
 
 //sleep cat
 翡翠台,http://119.125.134.176:9901/tsfile/live/1035_1.m3u8
@@ -1406,7 +1505,7 @@ Z频道,P2p://starvod.xyz:19806/d4c9297b510841e5be2e06f1037d8912
 星河台,http://222.218.158.25:8181/tsfile/live/1041_1.m3u8
 
 
-//汇总测试
+//IPTV汇总测试
 18台,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cea1cmjc77u6oags3i6g&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname$订阅源
 49号,http://61.221.215.25:8800/hls/49/index.m3u8$订阅源-1280x720
 amc电影(中字),http://61.221.215.25:8800/hls/43/index.m3u8$订阅源-1280x720
@@ -2102,6 +2201,21 @@ Ymg未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?$订
 
 
 🎬电影频道,#genre#
+
+//ZIJIHUIZHONG
+
+amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
+FMG电影台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv011
+amc电影台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv017
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+公视戏剧,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv042
+客家戏剧,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv043
+靖洋戏剧,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv045
+靖天映画,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv055
+靖天戏剧,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv058
+靖天电影,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv061
+
 
 //测速源
 amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8$订阅源-1280x720
@@ -3406,89 +3520,4 @@ HBO HD SIN USA,p3p://108.181.32.169:21311/645faf4700077bb5cf1cd83772282520
 HBO_West USA,p3p://108.181.32.169:21311/645faf5300023119cf1d05bc76d93f08
 Lifetime USA,p3p://108.181.32.169:21311/6462704200005b24d9de70b7255a7658
 LIFETIME MOVIES USA,p3p://108.181.32.169:21311/6463a5a5000a7afede96fe1018a905c5
-
-🔁new测试,#genre#
-国家地理,http://61.221.215.25:8800/hls/1/index.m3u8
-TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
-Unknown_a36,http://61.221.215.25:8800/hls/36/index.m3u8
-八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
-动画,http://61.221.215.25:8800/hls/40/index.m3u8
-三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-Unknown_a42,http://61.221.215.25:8800/hls/42/index.m3u8
-amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
-Unknown_a44,http://61.221.215.25:8800/hls/44/index.m3u8
-Unknown_a45,http://61.221.215.25:8800/hls/45/index.m3u8
-Unknown_a46,http://61.221.215.25:8800/hls/46/index.m3u8
-中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
-纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
-钢琴曲,http://61.221.215.25:8800/hls/49/index.m3u8
-发现频道亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
-NHK World,http://61.221.215.25:8800/hls/51/index.m3u8
-no,http://61.221.215.25:8800/hls/54/index.m3u8
-八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
-八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
-动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-音乐,http://61.221.215.25:8800/hls/58/index.m3u8
-
-民视台湾台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv001
-民视,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv002
-民视第一台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv003
-FTV综艺,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv004
-猪亮哥歌厅秀,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv006
-中天新闻,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv009
-非凡新闻,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv010
-FMG电影台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv011
-CNEX,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv013
-时尚运动,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv014
-韩国娱乐台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv016
-amc电影台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv017
-Da Vinci,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv018
-八大精彩,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv034
-故乡好滋味,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv039
-中视,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv040
-华视,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv041
-公视戏剧,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv042
-客家戏剧,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv043
-靖天卡通,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv044
-靖洋戏剧,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv045
-靖天综合,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv046
-靖天日本,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv047
-非凡商业,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv048
-采昌台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv049
-Unknown_51,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv051
-华视新闻,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv052
-Unknown_53,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv053
-靖天欢乐,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv054
-靖天映画,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv055
-台视财经,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv056
-靖洋卡通,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv057
-靖天戏剧,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv058
-古典音乐台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv059
-靖天电影,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv061
-靖天育乐,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv062
-靖天国际,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv063
-中视菁采,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv064
-靖天卡通资讯,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv065
-Unknown_66,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv066
-TVBS精采,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv067
-TVBS欢乐,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv068
-ELTA娱乐,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv070
-TVBS新闻,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv072
-TVBS HD,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv073
-中视新闻,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv074
-镜新闻,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv075
-亚洲旅游台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv076
-Trace sport,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv077
-韩国台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv079
-中视经典,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv080
-Trace URBAN,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv082
-MEZZO LIVE,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv083
-国会频道1,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv084
-国会频道2,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv085
-智林体育,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv101
-Unknown_104,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv104
-中天亚洲台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv109
-东森新闻,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv152
-东森财经,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv153
-民视,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv155
 
