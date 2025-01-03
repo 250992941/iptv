@@ -2,6 +2,59 @@
 📹️ 2025-01-02 11:51:03,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 
 📡央卫频道,#genre#
+//移动源YGD
+CCTV1 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$移动IPV4
+CCTV2 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8$移动IPV4
+CCTV3 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$移动IPV4
+CCTV4 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$移动IPV4
+CCTV5 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$移动IPV4
+CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$移动IPV4
+CCTV6 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8$移动IPV4
+CCTV7 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8$移动IPV4
+CCTV8 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8$移动IPV4
+CCTV9 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8$移动IPV4
+CCTV10 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8$移动IPV4
+CCTV11 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8$移动IPV4
+CCTV12 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8$移动IPV4
+CCTV13 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8$移动IPV4
+CCTV14 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8$移动IPV4
+CCTV15 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8$移动IPV4
+CCTV16 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$移动IPV4
+CCTV17 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$移动IPV4
+湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8$移动IPV4
+北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8$移动IPV4
+东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8$移动IPV4
+江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8$移动IPV4
+浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8$移动IPV4
+深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8$移动IPV4
+山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8$移动IPV4
+山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8$移动IPV4
+河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8$移动IPV4
+河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8$移动IPV4
+天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8$移动IPV4
+东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8$移动IPV4
+安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8$移动IPV4
+广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8$移动IPV4
+广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8$移动IPV4
+湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8$移动IPV4
+四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8$移动IPV4
+重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8$移动IPV4
+贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8$移动IPV4
+云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8$移动IPV4
+江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8$移动IPV4
+海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8$移动IPV4
+吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8$移动IPV4
+辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8$移动IPV4
+陕西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8$移动IPV4
+青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8$移动IPV4
+宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8$移动IPV4
+甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8$移动IPV4
+新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8$移动IPV4
+西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8$移动IPV4
+内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8$移动IPV4
+黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8$移动IPV4
+
+
 
 //山东青岛移动酒店源
 CCTV1,http://112.6.197.24:9921/hls/1/index.m3u8
