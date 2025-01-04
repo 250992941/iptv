@@ -882,6 +882,8 @@ CCTV-17咪咕,http://z.b.bkpcp.top/m.php?id=cctv17$订阅源
 ☘️央视新影,#genre#
 
 //测速源
+重温经典,http://60.255.240.247:8090/live/CWJD_4000.m3u8$QYTV
+
 重温经典,http://111.160.17.2:59901/tsfile/live/0001_20.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
 重温经典,http://111.160.17.2:59901/tsfile/live/0001_20.m3u8$订阅源-1920x1080
 重温经典,http://36.108.172.237:10005/stream/channelid/1658622386$订阅源
@@ -2912,25 +2914,22 @@ FGM Gold电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv011
 
 
 
-//测速源
-ELEVEN体育1,http://50.7.234.10:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120$订阅源-1280x720
-NowSports 英超1,https://live.hkdvb.com/hls/live/621.m3u8?token=275839252942857$订阅源
-爱尔达体育,http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745$订阅源-1280x720
-爱尔达体育2,http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b$订阅源-1280x720
-博斯高球,https://yeslivetv.com/twiptv/litv-longturn05/index.m3u8$订阅源
-博斯魅力,http://50.7.234.10:8278/bosisport1_twn/playlist.m3u8?tid=MCEC3596356835963568&ct=19234&tsum=b4f0f6248548de66e4ff5d230c130d1a$订阅源-1280x720
-博斯魅力台,http://50.7.234.10:8278/bosisport1_twn/playlist.m3u8?tid=MCEC3596356835963568&ct=19234&tsum=b4f0f6248548de66e4ff5d230c130d1a$订阅源-1280x720
-博斯网球,http://50.7.234.10:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77$订阅源-1280x720
-博斯网球台,http://50.7.234.10:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77$订阅源-1280x720
-博斯網球,http://50.7.234.10:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77$订阅源-1280x720
-博斯运动1,http://50.7.234.10:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421$订阅源-1280x720
-博斯運動1,http://50.7.234.10:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421$订阅源-1280x720
-红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8$订阅源-640x360
-纬来体育,http://ku9.fr.to/smt.php?id=videolandsport$订阅源-1280x720
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
-纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8$订阅源
-纬来体育,https://cloud.yumixiu768.com:443/tmp/123.m3u8$订阅源
+//QYTV
+
+纬来篮球,https://cloud.yumixiu768.com/tmp/123.m3u8
+纬来篮球,https://cloud.yumixiu768.com/tmp/123.m3u8
+纬来篮球,rtmp://f13h.mine.nu/sat/tv721
+纬来篮球,https://cloud.yumixiu768.com/tmp/123.m3u8
+纬来篮球,rtmp://f13h.mine.nu/sat/tv721
+ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
+RedBullTV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+纬来篮球,https://cloud.yumixiu768.com/tmp/123.m3u8
+纬来篮球,rtmp://f13h.mine.nu/sat/tv721
+ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
+RedBullTV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
 
 
 
