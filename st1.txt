@@ -1023,6 +1023,10 @@ TVB无线新闻,http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
 东森新闻,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 
+//移动源
+凤凰资讯,http://223.105.252.59/PLTV/3/224/3221228524/index.m3u8
+凤凰中文,http://223.105.252.59/PLTV/3/224/3221228527/index.m3u8
+
 //iptv搜索测速
 寰宇新闻,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn14$订阅源
 寰宇新闻,http://ku9.fr.to/smt.php?id=huanyuxinwen_twn$订阅源-1280x720
@@ -1405,6 +1409,12 @@ Z频道,P2p://starvod.xyz:19806/d4c9297b510841e5be2e06f1037d8912
 
 🎥港澳台3,#genre#
 
+//移动源
+凤凰资讯,http://223.105.252.59/PLTV/3/224/3221228524/index.m3u8
+凤凰中文,http://223.105.252.59/PLTV/3/224/3221228527/index.m3u8
+凤凰香港,http://223.105.252.59/PLTV/3/224/3221228530/index.m3u8
+
+//zijihuizong
 18台,http://zb.xmzb.xyz/123.php?id=OOO十八台
 18台,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cea1cmjc77u6oags3i6g&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname$订阅源
 49号,http://61.221.215.25:8800/hls/49/index.m3u8$订阅源-1280x720
