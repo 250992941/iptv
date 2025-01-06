@@ -1027,7 +1027,7 @@ TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 寰宇新闻,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn14$订阅源
 寰宇新闻,http://ku9.fr.to/smt.php?id=huanyuxinwen_twn$订阅源-1280x720
 寰宇新闻,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8$订阅源
-寰宇新聞,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3637&tk=7877e7cc41c7
+寰宇新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3637&tk=7877e7cc41c7
 
 
 TVB无线新闻,http://cdn.iptv8k.top/dl/jspd.php?id=2$订阅源-1920x1080
@@ -1089,7 +1089,7 @@ TVB无线新闻,https://live.hkdvb.com/hls/live/83.m3u8?token=275839252942857$�
 中天新闻,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv009
 中天新闻,http://cdn.iptv8k.top/dl/jspd.php?id=1$订阅源-1920x1080
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8$订阅源
-中天新聞,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0165&tk=7877e7cc41c7
+中天新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0165&tk=7877e7cc41c7
 
 
 东森新闻,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv152$订阅源
@@ -1098,7 +1098,7 @@ TVB无线新闻,https://live.hkdvb.com/hls/live/83.m3u8?token=275839252942857$�
 
 TVBS新闻,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv072
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
-TVBS新聞,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9058&tk=7877e7cc41c7
+TVBS新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9058&tk=7877e7cc41c7
 
 
 
