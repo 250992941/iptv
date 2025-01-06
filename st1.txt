@@ -1,5 +1,5 @@
 🔥更新时间,#genre#
-📹️ 2025-01-04,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+📹️ 2025-01-06,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 
 📡央卫频道,#genre#
 
@@ -2179,72 +2179,147 @@ amc电影台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050
 
 
 //测速源
-amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8$订阅源-1280x720
-CAT电影台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv076$订阅源
-NOW 爆谷台,https://live.hkdvb.com/hls/live/133.m3u8?token=275839252942857$订阅源
-Popc,https://live.hkdvb.com/hls/live/206.m3u8?token=275839252942857$订阅源
-影迷数位电影台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv011$订阅源
-TVB千禧经典,http://cdn.iptv8k.top/dl/jspd.php?id=5$订阅源-1920x1080
-TVB无线功夫,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist.m3u8$订阅源-1280x720
-TVB无线功夫,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8$订阅源-1280x720
-TVB无线功夫,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8$订阅源-1280x720
-TVB无线华丽,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8$订阅源-1280x720
-TVB星河 粤语,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist.m3u8$订阅源-1280x720
-TVB星河 粤语,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8$订阅源-1280x720
-TVB星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8$订阅源-1280x720
-TVB亚洲武侠,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8$订阅源-1280x720
+amc电影(中字),http://61.221.215.25:8800/hls/43/index.m3u8$订阅源-1280x720
+amc电影台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv017
+AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
+Astro iQIYI,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2990&tk=7877e7cc41c7
+Astro QJ,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3554&tk=7877e7cc41c7
+Astro Xing He,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0849&tk=7877e7cc41c7
+Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
+CAT电影,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv076$订阅源
+CINEMA WORLD,http://37.27.111.214:8080/live/30/hls.m3u8
+FMG电影台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv011
+HBO HD,http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2$订阅源-1280x720
+HBO,http://quan2018.mycloudnas.com:51888/play/a00r/index.m3u8
+HBO原创巨献,http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb$订阅源-1280x720
+Now 爆谷,https://www.mytvsuper.xyz/1/baogutai/stream.m3u8$订阅源
+Now 星影,https://www.mytvsuper.xyz/1/now/stream.m3u8$订阅源
+Now 爆谷,http://205.185.123.236:8899/1/baogutai/baogu.m3u8
+Now 爆谷,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0859&tk=7877e7cc41c7
+Now 星影,http://freetv.gdata.fun/lyyzb/tliptv.php?type=fs&id=43
+Now 星影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5148&tk=7877e7cc41c7
+PopC,https://live.hkdvb.com/hls/live/206.m3u8?token=275839252942857$订阅源
+PopC,http://freetv.gdata.fun/lyyzb/tliptv.php?type=fs&id=1210
+Thrill,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1834&tk=7877e7cc41c7
+TVB 无线功夫,https://vd3.bdstatic.com/mda-mjn3rmcivntas8ez/hd/cae_h264_nowatermark/1635016788091110865/mda-mjn3rmcivntas8ez.mp4?pd=19&vt=1$订阅源-854x480
+TVB 无线功夫,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist.m3u8$订阅源-1280x720
+TVB 无线功夫,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
+TVB 无线功夫,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8$订阅源-1280x720
+TVB 无线功夫频国,https://ali.hlspull.yximgs.com/live/tvb-nu1l-gt.flv
+TVB 星河,http://222.218.158.25:8181/tsfile/live/1041_1.m3u8
+TVB 星河,http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
+TVB 星河,http://php.jdshipin.com/smt.php?id=Xinhe
+TVB 星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
+TVB 星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+TVB 星河,http://quan2018.mycloudnas.com:51888/play/a00k/index.m3u8
+TVB 星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
+TVB 星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8$订阅源-1280x720
+TVB 星河,http://zb.xmzb.xyz/123.php?id=OOO星河
+TVB 星河国,https://www.mytvsuper.xyz/tvb/xinghe/stream.m3u8$订阅源
+TVB 星河粤,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist.m3u8$订阅源-1280x720
+TVB 亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+八大戏剧,http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5$订阅源-1280x720
+八大戏剧,http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=MBCB2433143824331438&ct=19254&tsum=51660c351b3991d81434e43bd1ab720e$订阅源-1280x720
+八大戏剧,http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=ME3E7432781774327817&ct=19193&tsum=504532547ffc646858157dd724bca18d$订阅源-1280x720
+八大戏剧,http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d$订阅源-1280x720
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8$订阅源-1280x720
 八大戏剧,http://61.221.215.25:8800/hls/41/index.m3u8$订阅源-1280x720
-电影频道,http://219.159.194.18:8181/tsfile/live/1020_1.m3u8$订阅源-1920x1080
-電影,http://219.159.194.18:8181/tsfile/live/1020_1.m3u8$订阅源-1920x1080
-动作电影,http://219.159.194.252:8181/tsfile/live/1019_1.m3u8$订阅源-1920x1080
-高清电影频道,http://219.159.194.18:8181/tsfile/live/1020_1.m3u8$订阅源-1920x1080
+爆谷台,https://live.hkdvb.com/hls/live/133.m3u8?token=275839252942857$订阅源
+电影频道,http://219.159.194.241:8181/tsfile/live/1020_1.m3u8$订阅源-1920x1080
+东森电影,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996$订阅源-1280x720
+东森电影,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859$订阅源-1280x720
+动作电影,http://025365.xyz:18098/itv/1000000004000018653.m3u8?cdn=ystenlive$订阅源-1920x1080
+动作电影,http://fb.chucklee.top:10026/itv/1000000004000018653.m3u8?cdn=ystenlive$订阅源-1920x1080
+凤凰电影,http://home.js001.com:7777/stream/channelid/884059847?profile=pass
+凤凰电影,http://quan2018.mycloudnas.com:51888/play/a017/index.m3u8
+凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=0&authid=0
+公视戏剧,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv042$订阅源
+公视戏剧,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv042
+好莱坞电影,http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859$订阅源-1280x720
+好莱坞电影,http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e$订阅源-1280x720
 華視戲劇,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8$订阅源
 華語劇台,https://live.hkdvb.com/hls/live/89.m3u8?token=275839252942857$订阅源
-黄金华剧台,https://live.hkdvb.com/hls/live/90.m3u8?token=275839252942857$订阅源
-家庭影院,http://113.15.184.196:8181/tsfile/live/1018_1.m3u8$订阅源-1920x1080
-家庭影院,http://219.159.194.18:8181/tsfile/live/1018_1.m3u8$订阅源-1920x1080
-家庭影院,http://219.159.194.252:8181/tsfile/live/1018_1.m3u8$订阅源-1920x1080
-家庭影院,http://222.218.158.25:8181/tsfile/live/1018_1.m3u8$订阅源
 家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy$订阅源-1920x1080
-家庭影院频道,http://z.b.bkpcp.top/m.php?id=jtyy$订阅源-1920x1080
+靖天电影,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv061$订阅源
+靖天电影,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv061
+靖天電影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5881&tk=7877e7cc41c7
+靖天戏剧,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv058
+靖天映画,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv055
+靖洋戏剧,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv045
+客家戏剧,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv043
+龙华电影,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn03$订阅源
+龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
+龙华电影,http://cdn5.163189.xyz/litv.php?id=litv-longturn03
+龙华经典,http://cdn5.163189.xyz/litv.php?id=litv-longturn21
+龙华戏剧,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn18$订阅源
+龙华戏剧,http://cdn5.163189.xyz/litv.php?id=litv-longturn18
 龙华戏剧,http://ku9.fr.to/smt.php?id=lunghuaxiju_twn$订阅源-1280x720
+龙华洋片,http://50.7.234.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=MC2C7597780175977801&ct=19249&tsum=b7602981567d8f0171e8de29154f5014$订阅源-1280x720
+龙华洋片,http://50.7.234.10:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82$订阅源-1280x720
+龍華電影台,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7879&tk=7877e7cc41c7
+美亚电影(国),http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b$订阅源-1280x720
 美亚电影(国),http://ku9.fr.to/smt.php?id=meiyamovie_twn$订阅源-1280x720
+美亚电影(国),https://iptv.vip-tptv.xyz/tv.php?id=1$订阅源-1280x720
 美亚电影(国),https://live.hkdvb.com/hls/live/201.m3u8?token=275839252942857$订阅源
-美亚电影(粤),http://ku9.fr.to/smt.php?id=meiyamovie_twn$订阅源-1280x720
-美亚电影(粤),https://live.hkdvb.com/hls/live/201.m3u8?token=275839252942857$订阅源
-美亚电影,http://ku9.fr.to/smt.php?id=meiyamovie_twn$订阅源-1280x720
-美亚电影,https://live.hkdvb.com/hls/live/201.m3u8?token=275839252942857$订阅源
-美亚电影台(TW),http://ku9.fr.to/smt.php?id=meiyamovie_twn$订阅源-1280x720
-美亚电影台(TW),https://live.hkdvb.com/hls/live/201.m3u8?token=275839252942857$订阅源
-三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8$订阅源-1280x720
-三立戏剧台,http://ku9.fr.to/smt.php?id=sanlixiju_twn$订阅源-1280x720
+美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+美亚电影HK,http://freetv.gdata.fun/lyyzb/tliptv.php?type=fs&id=31
+美亚电影国,http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?
+美亚电影频粤,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
+美亚电影台,https://iptv.vip-tptv.xyz/tv.php?id=1
+美亞電影台(HK),http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8745&tk=7877e7cc41c7
+千禧经典,http://cdn.iptv8k.top/dl/jspd.php?id=5$订阅源-1920x1080
+千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+千禧经典,https://www.mytvsuper.xyz/astro/qianxi/stream.m3u8$订阅源
+千禧經典台(HK),http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2819&tk=7877e7cc41c7
+千禧經典台,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+数位电影,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv011$订阅源
+天映經典,http://freetv.gdata.fun/lyyzb/tliptv.php?type=fs&id=1182
+天映频道马国,http://205.185.123.236:8899/astro/tianying/tianying.m3u8
+星光影迷,https://ali.hlspull.yximgs.com/live/11077536.flv
+星影台,https://live.hkdvb.com/hls/live/138.m3u8?token=275839252942857$订阅源
 粤语版电影1,http://epg.112114.xyz/douyu/6566671$订阅源-1920x1080
 粤语版电影2,http://epg.112114.xyz/douyu/1226741$订阅源-1920x1080
 粤语片台,https://live.hkdvb.com/hls/live/200.m3u8?token=275839252942857$订阅源
 
 
+
 //iptv搜索
 CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d18419793654f347e8ca29e0028ce9f3eaaa7a108b006304178b8f790f34908f8a09bbb8f4b8b8abcf36e2341f1043dde8719cf4927fcd0dcde4667f8b91e68e820314791d9b70452862c9$订阅源-1920x1080
-CHC动作电影,http://113.15.184.196:8181/tsfile/live/1019_1.m3u8$订阅源-1920x1080
-CHC动作电影,http://219.159.194.252:8181/tsfile/live/1019_1.m3u8$订阅源-1920x1080
-CHC动作电影,http://219.159.194.18:8181/tsfile/live/1019_1.m3u8$订阅源-1920x1080
+CHC动作电影,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=chcdzdy$订阅源-1280x720
 CHC动作电影,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=chcdzdy$订阅源-1280x720
-CHC动作电影,http://222.218.158.25:8181/tsfile/live/1019_1.m3u8$订阅源
+CHC动作电影,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源-720x576
 CHC动作电影,http://59.173.243.210:9901/tsfile/live/1012_1.m3u8$订阅源
+CHC高清电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源-720x576
 CHC高清电影,http://220.249.114.102:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8$订阅源-1920x1080
-CHC家庭影院,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1587902162_1768667353/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265667645&timezone=UTC&mtv_session=1e2626f9fa52e9ed0b3e629dab7d7ad3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=950d3a482d21f43d77d58540bfd2cbad$订阅源-1920x1080
-CHC家庭影院,http://219.159.194.18:8181/tsfile/live/1018_1.m3u8$订阅源-1920x1080
 CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8$订阅源-1920x1080
-CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8$订阅源-1920x1080
+CHC家庭影院,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=chcjtdy$订阅源-1280x720
+CHC家庭影院,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1587902162_1768667353/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265667645&timezone=UTC&mtv_session=1e2626f9fa52e9ed0b3e629dab7d7ad3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=950d3a482d21f43d77d58540bfd2cbad$订阅源-1280x720
+CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源-720x576
+CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1031_1.m3u8$订阅源-720x576
+CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8$订阅源
 CHC家庭影院,http://59.173.243.210:9901/tsfile/live/1031_1.m3u8$订阅源
+黑莓电影,http://025365.xyz:18098/itv/1000000004000019624.m3u8?cdn=ystenlive$订阅源-1920x1080
+黑莓电影,http://fb.chucklee.top:10026/itv/1000000004000019624.m3u8?cdn=ystenlive$订阅源-1920x1080
 amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8$订阅源-1280x720
+HBO,http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2$订阅源-1280x720
+HBO原创巨献,http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb$订阅源-1280x720
+东森电影台,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996$订阅源-1280x720
+东森电影台,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859$订阅源-1280x720
+东森洋片台,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f$订阅源-1280x720
+好莱坞电影台,http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859$订阅源-1280x720
+好莱坞电影台,http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e$订阅源-1280x720
+靖天电影台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv061$订阅源
+龙华电影,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn03$订阅源
+美亚电影台(粤语),https://iptv.vip-tptv.xyz/tv.php?id=1$订阅源-1280x720
 美亚电影台(粤语),http://ku9.fr.to/smt.php?id=meiyamovie_twn$订阅源-1280x720
+美亚电影台(粤语),http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b$订阅源-1280x720
 美亚电影台(粤语),https://live.hkdvb.com/hls/live/201.m3u8?token=275839252942857$订阅源
+美亚电影台HD,https://iptv.vip-tptv.xyz/tv.php?id=1$订阅源-1280x720
 美亚电影台HD,http://ku9.fr.to/smt.php?id=meiyamovie_twn$订阅源-1280x720
+美亚电影台HD,http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b$订阅源-1280x720
 美亚电影台HD,https://live.hkdvb.com/hls/live/201.m3u8?token=275839252942857$订阅源
-
 //TS-guding
 HBO HD,http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
 HBO 原創钜獻,http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
