@@ -1,5 +1,5 @@
 🔥更新时间,#genre#
-📹️ 2025-01-06,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+📹️ 2025-01-09,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 
 📡央卫频道,#genre#
 
@@ -1014,7 +1014,7 @@ CCTV-17咪咕,http://z.b.bkpcp.top/m.php?id=cctv17$订阅源
 
 //AK源
 寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-TVB无线新闻,http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+TVB无线新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
