@@ -605,15 +605,15 @@
     {
       "name": "Alice TV",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/250992941/iptv/refs/heads/main/st1.txt",
+      "url": "https://gitea.moe/STLHF/iptv/raw/branch/main/st1.txt",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
      {
-      "name": "Alice TV2",
+      "name": "AKTV",
       "type": 0,
-      "url": "https://gitea.moe/STLHF/iptv/raw/branch/main/st1.txt",
+      "url": "http://aktv.top/live.txt",
       "playerType": 1
     },
      {
@@ -637,7 +637,7 @@
      {
       "name": "YIFA-v12",
       "type": 0,
-      "url": "http://8.138.7.223/v12.txt  ",
+      "url": "http://106.53.99.30/vip.txt",
       "playerType": 1
     },
      {
