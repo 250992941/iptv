@@ -1,7 +1,112 @@
 🔥更新时间,#genre#
-📹️ 2025-01-09,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+📹️ 2025-01-10更新,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 
 📡央卫频道,#genre#
+
+//广东有线
+CCTV1,http://qjrhc.jydjd.top:2911/udp/224.1.100.89:11111
+CCTV1,http://qjrhc.jydjd.top:2911/udp/224.1.100.90:11111
+CCTV2,http://qjrhc.jydjd.top:2911/udp/224.1.100.192:11111
+CCTV2,http://qjrhc.jydjd.top:2911/udp/224.1.100.93:11111
+CCTV2,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
+CCTV3,http://qjrhc.jydjd.top:2911/udp/224.1.100.63:11111
+CCTV3,http://qjrhc.jydjd.top:2911/udp/224.1.100.64:11111
+CCTV4,http://qjrhc.jydjd.top:2911/udp/224.1.100.103:11111
+CCTV4,http://qjrhc.jydjd.top:2911/udp/224.1.100.104:11111
+CCTV5,http://qjrhc.jydjd.top:2911/udp/224.1.100.193:11111
+CCTV5,http://qjrhc.jydjd.top:2911/udp/224.1.100.81:11111
+CCTV5,http://qjrhc.jydjd.top:2911/udp/224.1.100.82:11111
+CCTV5+,http://qjrhc.jydjd.top:2911/udp/224.1.100.25:11111
+CCTV5+,http://qjrhc.jydjd.top:2911/udp/224.1.100.26:11111
+CCTV6,http://qjrhc.jydjd.top:2911/udp/224.1.100.194:11111
+CCTV6,http://qjrhc.jydjd.top:2911/udp/224.1.100.83:11111
+CCTV6,http://qjrhc.jydjd.top:2911/udp/224.1.100.84:11111
+CCTV7,http://qjrhc.jydjd.top:2911/udp/224.1.100.27:11111
+CCTV7,http://qjrhc.jydjd.top:2911/udp/224.1.100.28:11111
+CCTV8,http://qjrhc.jydjd.top:2911/udp/224.1.100.85:11111
+CCTV8,http://qjrhc.jydjd.top:2911/udp/224.1.100.86:11111
+CCTV9,http://qjrhc.jydjd.top:2911/udp/224.1.100.29:11111
+CCTV9,http://qjrhc.jydjd.top:2911/udp/224.1.100.30:11111
+CCTV10,http://qjrhc.jydjd.top:2911/udp/224.1.100.75:11111
+CCTV10,http://qjrhc.jydjd.top:2911/udp/224.1.100.76:11111
+CCTV11,http://qjrhc.jydjd.top:2911/udp/224.1.100.43:11111
+CCTV11,http://qjrhc.jydjd.top:2911/udp/224.1.100.44:11111
+CCTV12,http://qjrhc.jydjd.top:2911/udp/224.1.100.77:11111
+CCTV12,http://qjrhc.jydjd.top:2911/udp/224.1.100.78:11111
+CCTV13,http://qjrhc.jydjd.top:2911/udp/224.1.100.69:11111
+CCTV13,http://qjrhc.jydjd.top:2911/udp/224.1.100.70:11111
+CCTV14,http://qjrhc.jydjd.top:2911/udp/224.1.100.79:11111
+CCTV14,http://qjrhc.jydjd.top:2911/udp/224.1.100.80:11111
+CCTV15,http://qjrhc.jydjd.top:2911/udp/224.1.100.41:11111
+CCTV15,http://qjrhc.jydjd.top:2911/udp/224.1.100.42:11111
+CCTV17,http://qjrhc.jydjd.top:2911/udp/224.1.100.135:11111
+CETV1,http://qjrhc.jydjd.top:2911/udp/224.1.100.107:11111
+CETV1,http://qjrhc.jydjd.top:2911/udp/224.1.100.108:11111
+CETV4,http://qjrhc.jydjd.top:2911/udp/224.1.100.109:11111
+CGTN,http://qjrhc.jydjd.top:2911/udp/224.1.100.137:11111
+CGTN阿语,http://qjrhc.jydjd.top:2911/udp/224.1.100.145:11111
+CGTN俄语,http://qjrhc.jydjd.top:2911/udp/224.1.100.140:11111
+CGTN法语,http://qjrhc.jydjd.top:2911/udp/224.1.100.147:11111
+CGTN西语,http://qjrhc.jydjd.top:2911/udp/224.1.100.142:11111
+湖南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.97:11111
+湖南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.98:11111
+安徽卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.65:11111
+安徽卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.66:11111
+北京卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.100:11111
+北京卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.99:11111
+兵团卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.128:11111
+大湾区卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.153:11111
+大湾区卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.7:11111
+东方财经,http://qjrhc.jydjd.top:2911/udp/224.1.100.141:11111
+东方卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.47:11111
+东方卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.48:11111
+东南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.55:11111
+东南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.56:11111
+佛山公共,http://qjrhc.jydjd.top:2911/udp/224.1.100.134:11111
+甘肃卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.10:11111
+广东卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.95:11111
+广东卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.96:11111
+广西卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.110:11111
+广西卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.111:11111
+贵州卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.57:11111
+贵州卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.58:11111
+海南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.15:11111
+海南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.16:11111
+河北卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.19:11111
+河北卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.20:11111
+河南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.73:11111
+河南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.74:11111
+黑龙江卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.139:11111
+湖北卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.67:11111
+湖北卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.68:11111
+吉林卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.59:11111
+吉林卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.60:11111
+江苏卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.45:11111
+江苏卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.46:11111
+江西卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.53:11111
+江西卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.54:11111
+辽宁卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.91:11111
+辽宁卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.92:11111
+宁夏卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.8:11111
+青海卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.127:11111
+三沙卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.148:11111
+山东卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.49:11111
+山东卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.50:11111
+山西卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.150:11111
+深圳卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.39:11111
+深圳卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.40:11111
+四川卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.71:11111
+四川卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.72:11111
+天津卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.61:11111
+天津卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.62:11111
+西藏卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.125:11111
+新疆卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.14:11111
+云南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.21:11111
+云南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.22:11111
+浙江卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.51:11111
+浙江卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.52:11111
+重庆卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.101:11111
+重庆卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.102:11111
 
 //山东青岛移动酒店源
 CCTV1,http://112.6.197.24:9921/hls/1/index.m3u8
@@ -839,6 +944,16 @@ CCTV-17咪咕,http://z.b.bkpcp.top/m.php?id=cctv17$订阅源
 
 ☘️央视新影,#genre#
 
+//广东有线
+重温经典,http://qjrhc.jydjd.top:2911/udp/224.1.100.126:11111
+纪实科教,http://qjrhc.jydjd.top:2911/udp/224.1.100.115:11111
+纪实科教,http://qjrhc.jydjd.top:2911/udp/224.1.100.116:11111
+纪实科教,http://qjrhc.jydjd.top:2911/udp/224.1.100.31:11111
+纪实科教,http://qjrhc.jydjd.top:2911/udp/224.1.100.32:11111
+新视觉,http://qjrhc.jydjd.top:2911/udp/224.1.100.136:11111
+中华美食,http://qjrhc.jydjd.top:2911/udp/224.1.100.138:11111
+
+
 //liuman tv北方广电
 重温经典,http://106.53.99.30/公众号【榴芒电视】/proxy/bfgd.php?id=635
 重温经典,http://106.53.99.30/公众号【榴芒电视】/proxy/bfgd.php?id=636
@@ -848,8 +963,6 @@ CCTV-17咪咕,http://z.b.bkpcp.top/m.php?id=cctv17$订阅源
 女性时尚,http://106.53.99.30/公众号【榴芒电视】/proxy/bfgd.php?id=176
 世界地理,http://106.53.99.30/公众号【榴芒电视】/proxy/bfgd.php?id=177
 发现之旅,http://106.53.99.30/公众号【榴芒电视】/proxy/bfgd.php?id=151
-
-
 
 //测速源
 重温经典,http://111.160.17.2:59901/tsfile/live/0001_20.m3u8$订阅源
@@ -1358,6 +1471,18 @@ Z频道,P2p://starvod.xyz:19806/d4c9297b510841e5be2e06f1037d8912
 凤凰中文,http://223.105.252.59/PLTV/3/224/3221228527/index.m3u8
 凤凰香港,http://223.105.252.59/PLTV/3/224/3221228530/index.m3u8
 
+//广东有线
+凤凰中文,http://qjrhc.jydjd.top:2911/udp/224.1.100.3:11111
+翡翠台,http://qjrhc.jydjd.top:2911/udp/224.1.100.1:11111
+翡翠台,http://qjrhc.jydjd.top:2911/udp/224.1.100.121:11111
+翡翠台,http://qjrhc.jydjd.top:2911/udp/224.1.100.122:11111
+明珠台,http://qjrhc.jydjd.top:2911/udp/224.1.100.123:11111
+明珠台,http://qjrhc.jydjd.top:2911/udp/224.1.100.124:11111
+明珠台,http://qjrhc.jydjd.top:2911/udp/224.1.100.2:11111
+星空卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.13:11111
+澳亚卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.12:11111
+
+
 //sleep cat
 翡翠台,http://mzitv.cn:32/tsfile/live/1016_1.m3u8
 明珠台,http://mzitv.cn:32/tsfile/live/1017_1.m3u8
@@ -1529,6 +1654,12 @@ Ymg未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8$订�
 
 🎬电影频道,#genre#
 
+//广东有线
+CHC动作电影,http://qjrhc.jydjd.top:2911/udp/224.1.100.131:11111
+CHC动作电影,http://qjrhc.jydjd.top:2911/udp/224.1.100.132:11111
+CHC家庭影院,http://qjrhc.jydjd.top:2911/udp/224.1.100.149:11111
+
+
 //广东丨客户丨点播-小龙
 凤凰电影,http://quan2018.mycloudnas.com:51888/play/a017/index.m3u8
 粤语电影2,http://120.77.28.4:8648/douyu.php?id=6566671
@@ -1697,6 +1828,13 @@ FGM Gold电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv011
 
 
 🏀体育频道,#genre#
+//广东有线
+广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.33:11111
+广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.34:11111
+劲爆体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.129:11111
+劲爆体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.130:11111
+魅力足球,http://qjrhc.jydjd.top:2911/udp/224.1.100.133:11111
+
 
 //iptv搜索
 广东体育,http://121.33.239.242:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
@@ -1760,6 +1898,11 @@ RedBullTV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u
 长沙政法,http://tvbox6.icu/tv/mgtv.php?id=254$「芒果TV」
 长沙女性,http://tvbox6.icu/tv/mgtv.php?id=230$「芒果TV」
 
+//广东有线
+茶频道,http://qjrhc.jydjd.top:2911/udp/224.1.100.117:11111
+茶频道,http://qjrhc.jydjd.top:2911/udp/224.1.100.118:11111
+
+
 //iptv搜索
 湖南电视剧,http://116.128.242.83:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
 湖南电视剧,http://116.128.242.83:9901/tsfile/live/0120_1.m3u8$订阅源-1920x1080
@@ -1820,6 +1963,26 @@ RedBullTV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u
 
 
 🏛广东频道,#genre#
+
+//广东有线
+广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.33:11111
+广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.34:11111
+广东珠江,http://qjrhc.jydjd.top:2911/udp/224.1.100.191:11111
+广东珠江,http://qjrhc.jydjd.top:2911/udp/224.1.100.23:11111
+广东珠江,http://qjrhc.jydjd.top:2911/udp/224.1.100.24:11111
+广东影视,http://qjrhc.jydjd.top:2911/udp/224.1.100.11:11111
+广东影视,http://qjrhc.jydjd.top:2911/udp/224.1.100.154:11111
+广东新闻,http://qjrhc.jydjd.top:2911/udp/224.1.100.155:11111
+广东新闻,http://qjrhc.jydjd.top:2911/udp/224.1.100.5:11111
+广东民生,http://qjrhc.jydjd.top:2911/udp/224.1.100.152:11111
+广东民生,http://qjrhc.jydjd.top:2911/udp/224.1.100.4:11111
+广东经济科教,http://qjrhc.jydjd.top:2911/udp/224.1.100.158:11111
+广东经济科教,http://qjrhc.jydjd.top:2911/udp/224.1.100.6:11111
+广东岭南戏曲,http://qjrhc.jydjd.top:2911/udp/224.1.100.120:11111
+广东岭南戏曲,http://qjrhc.jydjd.top:2911/udp/224.1.100.157:11111
+广东少儿,http://qjrhc.jydjd.top:2911/udp/224.1.100.156:11111
+广东少儿,http://qjrhc.jydjd.top:2911/udp/224.1.100.9:11111
+
 
 //sleep cat
 广东珠江,http://mzitv.cn:32/tsfile/live/1006_1.m3u8
