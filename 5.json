@@ -3,7 +3,7 @@
     "spider": "./jar/XYQ.jar;md5;857c3864f652a8f670797d2002aadb82",
     "lives": [
         {
-          "name": "st",
+          "name": "Alice TV",
           "type":"0",
           "pass": true,
           "url": "https://raw.githubusercontent.com/250992941/iptv/refs/heads/main/st1.txt",
