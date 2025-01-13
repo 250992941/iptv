@@ -1504,12 +1504,9 @@ Z频道,P2p://starvod.xyz:19806/d4c9297b510841e5be2e06f1037d8912
 
 //zijihuizong
 18台,http://156.238.253.62:5555/tvbox/公众号好享生活小助手/央卫酒店源扫描3/央卫酒店源扫描3.php?ID=live/0111_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1428x480
-18台,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一十八台$订阅源-1280x582
-18台,http://zb.xmzb.xyz/123.php?id=OOO十八台
 49号,http://61.221.215.25:8800/hls/49/index.m3u8
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 amc电影台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv017
-amc电影台,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一AMC电影$订阅源-1280x582
 ASC搜索频英,http://61.221.215.25:8800/hls/50/index.m3u8
 AXN,http://quan2018.mycloudnas.com:51888/play/a00x/index.m3u8
 BLOOM,http://quan2018.mycloudnas.com:51888/play/a018/index.m3u8
