@@ -1172,27 +1172,27 @@ TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 
 //iptv搜索测速
 寰宇新闻,http://ku9.fr.to/smt.php?id=huanyuxinwen_twn$订阅源-1280x720
-寰宇新闻,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一寰宇新闻$订阅源-1280x582
+
 
 TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 TVB无线新闻,http://zb.xmzb.xyz/123.php?id=OOO无线新闻
 TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 TVB无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
 
-凤凰中文,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一1$订阅源-1280x582
+
 
 凤凰资讯,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一凤凰资讯$订阅源-1280x582
 
 中天新闻,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv009
-中天新闻,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一中天新闻$订阅源-1280x582
+
 
 东森新闻,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv152
 东森新闻,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-东森新闻,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一东森新闻$订阅源-1280x582
+
 
 TVBS新闻,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv072
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
-TVBS新闻,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一TVBS新闻$订阅源-1280x582
+
 
 
 
@@ -1534,7 +1534,6 @@ FTV综艺,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/li
 GOODTV好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 H,http://37.27.111.214:8080/live/27/hls.m3u8
 HBO,http://quan2018.mycloudnas.com:51888/play/a00r/index.m3u8
-HBO,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一HBO$订阅源-1280x582
 HITS,http://37.27.111.214:8080/live/28/hls.m3u8
 KBS,http://quan2018.mycloudnas.com:51888/play/a00m/index.m3u8
 KTS,http://quan2018.mycloudnas.com:51888/play/a00o/index.m3u8
@@ -1561,12 +1560,10 @@ TV5,http://quan2018.mycloudnas.com:51888/play/a014/index.m3u8
 TVB Plus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
 TVBJ1,http://cdn3.132.us.kg/live/j1/stream.m3u8
 TVBS,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv073
-TVBS,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一TVBS$订阅源-1280x582
 TVBS欢乐,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv068
 TVBS精采,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv067
 TVBS新闻,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv072
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
-TVBS新闻台,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一TVBS新闻$订阅源-1280x582
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$LR•IPV4『线路9』
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$订阅源-1920x1080
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
@@ -1589,40 +1586,30 @@ Unknown_a45,http://61.221.215.25:8800/hls/45/index.m3u8
 Unknown_a46,http://61.221.215.25:8800/hls/46/index.m3u8
 Ymg未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8$订阅源-1920x1080
 Ymg未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?$订阅源-1920x1080
-爱尔达娱乐,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一爱尔达娱乐$订阅源-1280x582
 澳门莲花,http://php.jdshipin.com/amlh.php
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 八大精彩,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv034
-八大精彩,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一八大精彩$订阅源-1280x582
 八大戏剧,http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
 八大综合,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv039
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-半岛新闻,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一半岛新闻$订阅源-1280x582
 大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱1,https://pulltv2.wanfudaluye.com/live/tv1.m3u8
 大爱2,http://pulltv1.wanfudaluye.com/live/tv2.m3u8
 大爱2,http://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大爱2,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-东森财经,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一东森财经$订阅源-1280x582
 东森新闻,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv152
 东森新闻HD,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-东森新闻台,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一东森新闻$订阅源-1280x582
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 非凡新闻,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv010
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 非凡新闻台,http://ku9.fr.to/smt.php?id=feifannews_twn$订阅源-1280x720
-非凡新闻台,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一非凡新闻$订阅源-1280x582
 翡翠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=53$LR•IPV4『线路19』
-翡翠台,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一翡翠$订阅源-1280x582
 翡翠台4K,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
-凤凰香港,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一凤凰香港$订阅源-1280x582
-凤凰中文台,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一1$订阅源-1280x582
-凤凰资讯台,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一凤凰资讯$订阅源-1280x582
 公视戏剧,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv042
 公視,http://50.7.234.10:8278/ctv_taiwan/playlist.m3u8?tid=MCCC8750228587502285&ct=19225&tsum=aca6268c0dd9f618ed5e944942132557
 公視,http://50.7.234.10:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4
@@ -1635,15 +1622,11 @@ Ymg未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?$订
 华丽翡翠台.备用,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 华视,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv041
 华视新闻,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv052
-华视新闻,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一华视新闻$订阅源-1280x582
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 寰宇新闻台,http://ku9.fr.to/smt.php?id=huanyuxinwen_twn$订阅源-1280x720
-寰宇新闻台,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一寰宇新闻$订阅源-1280x582
 黄金翡翠,http://zb.xmzb.xyz/123.php?id=OOO黄金翡翠
-黄金翡翠台,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一黄金翡翠$订阅源-1280x582
 家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy$订阅源-1920x1080
 靖天电影,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv061
-靖天电影台,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一靖天电影$订阅源-1280x582
 靖天国际,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv063
 靖天欢乐,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv054
 靖天卡通,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv044
@@ -1659,11 +1642,8 @@ Ymg未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?$订
 靖洋戏剧,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv045
 靖宇综合,http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild$订阅源-720x576
 镜新闻,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv075
-镜新闻,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一镜新闻$订阅源-1280x582
 客家戏剧,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv043
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
-龙华电影,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一龙华电影$订阅源-1280x582
-龙华经典,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一龙华经典$订阅源-1280x582
 龙华戏剧,http://ku9.fr.to/smt.php?id=lunghuaxiju_twn$订阅源-1280x720
 马亚AODAKtv,http://aktv.top/AKTV/live/aktv3/astroaod/AKTV.m3u8
 马亚iQlyIAKtv,http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
@@ -1674,39 +1654,30 @@ Ymg未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?$订
 民视,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv002
 民视,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv155
 民视,http://37.27.111.214:8080/live/6/hls.m3u8
-民视,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一民视$订阅源-1280x582
 民视第一台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv003
 民视台湾,http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
 民视台湾,http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
 民视台湾台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv001
 民视台湾台,http://ku9.fr.to/smt.php?id=ftvtaiwan_twn$订阅源-1280x720
-民视台湾台,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一民视台湾$订阅源-1280x582
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8?blog.ntnas.top$订阅源-1920x1080
-民视新闻台,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一民视新闻$订阅源-1280x582
 明珠,http://zb.xmzb.xyz/123.php?id=OOO明珠
-明珠台,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一明珠$订阅源-1280x582
 三立都会台,http://ku9.fr.to/smt.php?id=sanlidouhui$订阅源-1280x720
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 三立戏剧台,http://ku9.fr.to/smt.php?id=sanlixiju_twn$订阅源-1280x720
-三立新闻台,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一三立新闻$订阅源-1280x582
 时尚运动,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv014
 時尚FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 台视财经,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv056
-台视财经台,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一台视财经$订阅源-1280x582
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top$订阅源-1920x1080
 台视新闻台,http://ku9.fr.to/smt.php?id=ttvnews_twn$订阅源-1280x720
-台视新闻台,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一台视新闻$订阅源-1280x582
 台视新闻台,https://live.wcetv.com/hls/master-ttvnews.m3u8
-台湾戏剧台,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一台湾戏剧$订阅源-1280x582
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育台,http://ku9.fr.to/smt.php?id=videolandsport$订阅源-1280x720
-纬来体育台,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一纬来体育$订阅源-1280x582
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 无线翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 无线华丽,http://php.jdshipin.com/smt.php?id=Tvbjade
@@ -1715,13 +1686,11 @@ Ymg未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?$订
 无线新闻,http://zb.xmzb.xyz/123.php?id=OOO无线新闻
 无线新闻.备用,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 无线新闻频道,http://php.jdshipin.com/smt.php?id=inews_twn
-无线新闻台,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一无线新闻$订阅源-1280x582
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 无线直播频道,http://v2h.jdshipin.com/liveshow/liveshow.stream/chunklist_w10.m3u8
 香港_C+_,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
 新视觉HD,http://120.76.248.139/live/bfgd/4200000249.m3u8
-星河,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一星河$订阅源-1280x582
 星河,http://zb.xmzb.xyz/123.php?id=OOO星河
 星空,http://quan2018.mycloudnas.com:51888/play/a016/index.m3u8
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
@@ -1734,7 +1703,6 @@ Ymg未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?$订
 中视新闻台,http://ku9.fr.to/smt.php?id=zhongshinews_twn$订阅源-1280x720
 中视新闻台,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一中视新闻$订阅源-1280x582
 中天新闻,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv009
-中天新闻台,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一中天新闻$订阅源-1280x582
 中天亚洲台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv109
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 猪亮哥歌厅秀,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv006
@@ -1745,11 +1713,9 @@ Ymg未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?$订
 //ZIJIHUIZHONG
 amc电影台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv017
 amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
-amc电影台,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一AMC电影$订阅源-1280x582
 AXN,http://quan2018.mycloudnas.com:51888/play/a00x/index.m3u8
 BLOOM,http://quan2018.mycloudnas.com:51888/play/a018/index.m3u8
 HBO,http://quan2018.mycloudnas.com:51888/play/a00r/index.m3u8
-HBO,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一HBO$订阅源-1280x582
 HITS,http://37.27.111.214:8080/live/28/hls.m3u8
 TVB功夫台,https://vd3.bdstatic.com/mda-mjn3rmcivntas8ez/hd/cae_h264_nowatermark/1635016788091110865/mda-mjn3rmcivntas8ez.mp4?pd=19&vt=1$订阅源-854x480
 TVB千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
@@ -1760,19 +1726,14 @@ TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 TVB星河,http://quan2018.mycloudnas.com:51888/play/a00k/index.m3u8
 TVB星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
-TVB星河,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一星河$订阅源-1280x582
 TVB星河,http://zb.xmzb.xyz/123.php?id=OOO星河
 TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy$订阅源-1920x1080
 靖天电影,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv061
-靖天电影,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一靖天电影$订阅源-1280x582
 客家戏剧,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv043
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
-龙华电影,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一龙华电影$订阅源-1280x582
-龙华经典,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一龙华经典$订阅源-1280x582
 美亚电影台(粤语),http://ku9.fr.to/smt.php?id=meiyamovie_twn$订阅源-1280x720
 中视经典,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv080
-中视经典,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一中视经典$订阅源-1280x582
 
 
 
