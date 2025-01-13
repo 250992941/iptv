@@ -1179,8 +1179,9 @@ TVB无线新闻,http://zb.xmzb.xyz/123.php?id=OOO无线新闻
 TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 TVB无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
 
+凤凰中文,http://122.224.232.226:8888/udp/233.50.200.191:5140
 
-
+凤凰资讯,http://122.224.232.226:8888/udp/233.50.200.192:5140
 凤凰资讯,http://zb.xmzb.xyz/123.php?id=ॱIଳॱॱଳॱ一凤凰资讯$订阅源-1280x582
 
 中天新闻,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv009
