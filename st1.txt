@@ -985,15 +985,6 @@ CCTV-17咪咕,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id
 
 ☘️央视新影,#genre#
 
-
-//liuman tv北方广电
-发现之旅,http://153.99.64.96/gdctcc-livod.ks-cdn.gitv.tv/gitv_live/G_FAXIANZL/G_FAXIANZL.m3u8
-老故事,http://153.99.64.96/gdctcc-livod.ks-cdn.gitv.tv/gitv_live/G_LAOGUSHI/G_LAOGUSHI.m3u8
-女性时尚,http://153.99.64.96/gdctcc-livod.ks-cdn.gitv.tv/gitv_live/G_NVXINGSS/G_NVXINGSS.m3u8
-发现之旅,http://153.99.64.96/gdctcc-livod.ks-cdn.gitv.tv/gitv_live/G_FAXIANZL/G_FAXIANZL.m3u8
-老故事,http://153.99.64.96/gdctcc-livod.ks-cdn.gitv.tv/gitv_live/G_LAOGUSHI/G_LAOGUSHI.m3u8
-女性时尚,http://153.99.64.96/gdctcc-livod.ks-cdn.gitv.tv/gitv_live/G_NVXINGSS/G_NVXINGSS.m3u8
-
 //VIP
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
@@ -1867,60 +1858,6 @@ JSPORTS2,https://stream1.freetv.fun/jsports-2-2.m3u8
 
 🏛广东频道,#genre#
 
-//IPTV搜索
-广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
-广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
-
-广东珠江,http://120.238.94.10:9901/tsfile/live/1009_1.m3u8$订阅源-1920x1080
-广东珠江,http://121.33.239.242:9901/tsfile/live/1007_1.m3u8$订阅源
-广东珠江,http://121.33.239.242:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-广东珠江,http://mzitv.cn:32/tsfile/live/1006_1.m3u8$订阅源
-广东珠江,http://183.11.239.36:808/hls/83/index.m3u8$订阅源
-广东珠江,http://120.77.205.62:8087/rtp/239.77.0.1:5146$组播源
-广东珠江,http://r.jdshipin.com/sE5vO$订阅源
-广东体育,http://120.238.94.10:9901/tsfile/live/1012_1.m3u8$订阅源-1920x1080
-广东体育,http://121.33.239.242:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-广东体育,http://mzitv.cn:32/tsfile/live/1008_1.m3u8$订阅源
-广东体育,http://183.11.239.36:808/hls/2/index.m3u8$订阅源
-广东体育,http://120.77.205.62:8087/rtp/239.77.1.97:5146$组播源
-广东体育,http://120.77.205.62:8087/rtp/239.77.0.112:5146$组播源
-广东体育,http://120.77.205.62:8087/rtp/239.77.0.168:5146$组播源
-广东体育,http://r.jdshipin.com/LiYdg$订阅源
-广东新闻,http://120.238.94.10:9901/tsfile/live/1010_1.m3u8$订阅源-1920x1080
-广东新闻,http://mom.coms.hk:9901/tsfile/live/1008_1.m3u8$订阅源-720x576
-广东新闻,http://121.33.239.242:9901/tsfile/live/1008_1.m3u8$订阅源
-广东新闻,http://mzitv.cn:32/tsfile/live/1007_1.m3u8$订阅源
-广东新闻,http://183.11.239.36:808/hls/5/index.m3u8$订阅源
-广东民生,http://121.33.239.242:9901/tsfile/live/1003_1.m3u8$订阅源
-广东民生,http://121.33.239.242:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-广东民生,http://mzitv.cn:32/tsfile/live/1009_1.m3u8$订阅源
-广东民生,http://183.11.239.36:808/hls/18/index.m3u8$订阅源
-广东民生,http://120.77.205.62:8087/rtp/239.77.0.5:5146$组播源
-广东民生,http://120.77.205.62:8087/rtp/239.77.0.225:5146$组播源
-广东综艺,http://183.11.239.36:808/hls/9/index.m3u8$订阅源
-大湾区卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=dwqws$订阅源-1280x720
-大湾区卫视,http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB%E3%80%91/migu.php?id=dwqws$订阅源-1280x720
-大湾区卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=dwqws$订阅源-1280x720
-大湾区卫视,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=dwqws$订阅源-1280x720
-大湾区卫视,http://nn.7x9d.cn/组播/咪咕视频.php?id=dwqws$订阅源-1280x720
-大湾区卫视,http://cizrh9mlyw.sunyajie.cn:10443$订阅源
-大湾区卫视,http://cizrh9mlyw.sunyajie.cn:10443/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-大湾区卫视,http://b.sunyajie.cn:10443/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-大湾区卫视,http://b.sunyajie.cn:10443$订阅源
-大湾区卫视,http://gftzsj7d4i.sunyajie.cn:10443/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-广州综合,http://120.77.205.62:8087/rtp/239.253.43.66:5146$组播源
-广州综合,http://120.77.205.62:8087/rtp/239.253.43.71:5146$组播源
-广州综合,http://r.jdshipin.com/iR6Gq$订阅源
-广州综合,http://r.jdshipin.com/snhya$订阅源
-广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8$订阅源
-广州影视,http://120.77.205.62:8087/rtp/239.253.43.73:5146$组播源
-广州影视,http://120.77.205.62:8087/rtp/239.253.43.68:5146$组播源
-广州影视,http://r.jdshipin.com/TcKr2$订阅源
-广州影视,http://r.jdshipin.com/sFw4S$订阅源
-广州影视,http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8$订阅源
-广州竞赛,http://tencentplaygzrb01.gztv.com/live/jingsai.m3u8$订阅源
-番禺电视台,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv$订阅源-1920x1080
-番禺新闻,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv$订阅源-1920x1080
 
 //sleep cat
 广东珠江,http://mzitv.cn:32/tsfile/live/1006_1.m3u8
@@ -2036,6 +1973,62 @@ JSPORTS2,https://stream1.freetv.fun/jsports-2-2.m3u8
 广东卫视,http://183.11.239.36:808/hls/80/index.m3u8
 广东卫视,http://61.141.202.118:9901/tsfile/live/0125_2.m3u8
 广东珠江,http://61.141.202.118:9901/tsfile/live/0125_3.m3u8
+
+//IPTV搜索
+广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
+广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
+
+广东珠江,http://120.238.94.10:9901/tsfile/live/1009_1.m3u8$订阅源-1920x1080
+广东珠江,http://121.33.239.242:9901/tsfile/live/1007_1.m3u8$订阅源
+广东珠江,http://121.33.239.242:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+广东珠江,http://mzitv.cn:32/tsfile/live/1006_1.m3u8$订阅源
+广东珠江,http://183.11.239.36:808/hls/83/index.m3u8$订阅源
+广东珠江,http://120.77.205.62:8087/rtp/239.77.0.1:5146$组播源
+广东珠江,http://r.jdshipin.com/sE5vO$订阅源
+广东体育,http://120.238.94.10:9901/tsfile/live/1012_1.m3u8$订阅源-1920x1080
+广东体育,http://121.33.239.242:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+广东体育,http://mzitv.cn:32/tsfile/live/1008_1.m3u8$订阅源
+广东体育,http://183.11.239.36:808/hls/2/index.m3u8$订阅源
+广东体育,http://120.77.205.62:8087/rtp/239.77.1.97:5146$组播源
+广东体育,http://120.77.205.62:8087/rtp/239.77.0.112:5146$组播源
+广东体育,http://120.77.205.62:8087/rtp/239.77.0.168:5146$组播源
+广东体育,http://r.jdshipin.com/LiYdg$订阅源
+广东新闻,http://120.238.94.10:9901/tsfile/live/1010_1.m3u8$订阅源-1920x1080
+广东新闻,http://mom.coms.hk:9901/tsfile/live/1008_1.m3u8$订阅源-720x576
+广东新闻,http://121.33.239.242:9901/tsfile/live/1008_1.m3u8$订阅源
+广东新闻,http://mzitv.cn:32/tsfile/live/1007_1.m3u8$订阅源
+广东新闻,http://183.11.239.36:808/hls/5/index.m3u8$订阅源
+广东民生,http://121.33.239.242:9901/tsfile/live/1003_1.m3u8$订阅源
+广东民生,http://121.33.239.242:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+广东民生,http://mzitv.cn:32/tsfile/live/1009_1.m3u8$订阅源
+广东民生,http://183.11.239.36:808/hls/18/index.m3u8$订阅源
+广东民生,http://120.77.205.62:8087/rtp/239.77.0.5:5146$组播源
+广东民生,http://120.77.205.62:8087/rtp/239.77.0.225:5146$组播源
+广东综艺,http://183.11.239.36:808/hls/9/index.m3u8$订阅源
+大湾区卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=dwqws$订阅源-1280x720
+大湾区卫视,http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB%E3%80%91/migu.php?id=dwqws$订阅源-1280x720
+大湾区卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=dwqws$订阅源-1280x720
+大湾区卫视,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=dwqws$订阅源-1280x720
+大湾区卫视,http://nn.7x9d.cn/组播/咪咕视频.php?id=dwqws$订阅源-1280x720
+大湾区卫视,http://cizrh9mlyw.sunyajie.cn:10443$订阅源
+大湾区卫视,http://cizrh9mlyw.sunyajie.cn:10443/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+大湾区卫视,http://b.sunyajie.cn:10443/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+大湾区卫视,http://b.sunyajie.cn:10443$订阅源
+大湾区卫视,http://gftzsj7d4i.sunyajie.cn:10443/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+广州综合,http://120.77.205.62:8087/rtp/239.253.43.66:5146$组播源
+广州综合,http://120.77.205.62:8087/rtp/239.253.43.71:5146$组播源
+广州综合,http://r.jdshipin.com/iR6Gq$订阅源
+广州综合,http://r.jdshipin.com/snhya$订阅源
+广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8$订阅源
+广州影视,http://120.77.205.62:8087/rtp/239.253.43.73:5146$组播源
+广州影视,http://120.77.205.62:8087/rtp/239.253.43.68:5146$组播源
+广州影视,http://r.jdshipin.com/TcKr2$订阅源
+广州影视,http://r.jdshipin.com/sFw4S$订阅源
+广州影视,http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8$订阅源
+广州竞赛,http://tencentplaygzrb01.gztv.com/live/jingsai.m3u8$订阅源
+番禺电视台,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv$订阅源-1920x1080
+番禺新闻,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv$订阅源-1920x1080
+
 
 💫网络电影,#genre#
 
@@ -2389,33 +2382,6 @@ HK港鬼片(VPN),http://epg.112114.eu.org/douyu/8009547
 埋堆堆24,http://189.1.239.118:35455/huya/23865171
 埋堆堆25,http://189.1.239.118:35455/huya/23734256
 埋堆堆26,http://189.1.239.118:35455/huya/23749083
-
-💫芒果TV轮播,#genre#
-芒果TV轮播1,http://zby.xjqxz.top/dsdsj1/live.m3u8
-芒果TV轮播1,http://zby.xjqxz.top/gzgdj/live.m3u8
-芒果TV轮播2,http://zby.xjqxz.top/dsdsj2/live.m3u8
-芒果TV轮播2,http://zby.xjqxz.top/zh02/live.m3u8
-芒果TV轮播3,http://zby.xjqxz.top/gzdsj2/live.m3u8
-芒果TV轮播3,http://zby.xjqxz.top/zh03/live.m3u8
-芒果TV轮播4,http://zby.xjqxz.top/dsdsj3/live.m3u8
-芒果TV轮播4,http://zby.xjqxz.top/zh04/live.m3u8
-芒果TV轮播5,http://zby.xjqxz.top/zh05/live.m3u8
-芒果TV轮播5,http://zby.xjqxz.top/gzwxj/live.m3u8
-芒果TV轮播6,http://zby.xjqxz.top/gzdsj1/live.m3u8
-芒果TV轮播6,http://zby.xjqxz.top/zh06/live.m3u8
-芒果TV轮播7,http://zby.xjqxz.top/gzdsj3/live.m3u8
-芒果TV轮播7,http://zby.xjqxz.top/zh07/live.m3u8
-芒果TV轮播8,http://zby.xjqxz.top/zh08/live.m3u8
-芒果TV轮播8,http://zby.xjqxz.top/gzdsj4/live.m3u8
-芒果TV轮播9,http://zby.xjqxz.top/gzdsj5/live.m3u8
-芒果TV轮播9,http://zby.xjqxz.top/zh09/live.m3u8
-芒果TV轮播10,http://zby.xjqxz.top/kzzypd/live.m3u8
-芒果TV轮播10,http://zby.xjqxz.top/zh10/live.m3u8
-芒果TV轮播11,http://zby.xjqxz.top/dzzypd2/live.m3u8
-芒果TV轮播11,http://zby.xjqxz.top/live13/live.m3u8
-芒果TV轮播12,http://zby.xjqxz.top/dzzypd3/live.m3u8
-芒果TV轮播12,http://zby.xjqxz.top/hkdy1/live.m3u8
-
 
 🔁P3P测试,#genre#
 凤凰中文,p3p://108.181.32.169:52167/6410229e000655dd98612e41401e3e7d
