@@ -20,7 +20,7 @@
           "name": "新视界影视",
           "type":"0",
           "pass": true,
-          "url": "https://pan.imotao.com/down.php/25161a3eeb321e97a4b5b33ce7c12fc6.txt",
+          "url": "https://pan.imotao.com/down.php/de747663cce00792fe95a86cdf9af96c.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
@@ -52,10 +52,10 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "肥羊国内直播",
+          "name": "ST iptv",
           "type":"0",
           "pass": true,
-          "url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u",
+          "url":"https://raw.githubusercontent.com/250992941/TV/refs/heads/master/output/result.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
@@ -139,7 +139,7 @@
           "name": "看电视",
           "type":"0",
           "pass": true,
-          "url":"http://8.138.7.223/v12.txt",
+          "url":"http://106.53.99.30/vip.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
        },{
