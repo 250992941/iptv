@@ -55,7 +55,7 @@
           "name": "ST iptv",
           "type":"0",
           "pass": true,
-          "url":"https://raw.githubusercontent.com/250992941/TV/refs/heads/master/output/result.txt",
+          "url":"https://raw.gitmirror.com/250992941/TV/refs/heads/master/output/result.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
