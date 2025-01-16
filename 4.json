@@ -80,10 +80,10 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "G027",
+          "name": "榴芒TV",
           "type":"0",
           "pass": true,
-          "url":"https://gitee.com/g027/tv0816/raw/master/hubeiliantong.txt",
+          "url":"https://8.138.7.223/live.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
