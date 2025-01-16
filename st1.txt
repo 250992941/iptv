@@ -1117,7 +1117,7 @@ CCTV-17咪咕,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id
 
 //AK源
 凤凰中文台,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-凤凰资讯,台http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰资讯台,台http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 TVB无线新闻台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 寰宇新闻台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 中天新闻台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
