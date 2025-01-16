@@ -13,7 +13,7 @@
           "name": "MDXGH",
           "type":"0",
           "pass": true,
-          "url":"http://ld.frp.one:49999/new/mdzb.txt",
+          "url":"http://mdxgh.tpddns.cn:9999/new/mdzb.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
