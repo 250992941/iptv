@@ -1,19 +1,168 @@
 {
-"spider":"./jar/fan.txt;md5;4d0c466a2f079b0b55c138d738076244",
-"lives":[{"name":"ST","type":0,"url":"https://raw.gitmirror.com/250992941/iptv/refs/heads/main/st1.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"MDXGH","type":0,"url":"http://120.79.4.185/new/mdlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name":"沐辰","type":0,"url":"https://json.doube.eu.org/live/migu/Sub.php","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"AKTV","type":0,"url":"http://aktv.top/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"HS","type":0,"url":"https://raw.gitmirror.com/mlzlzj/hs/refs/heads/main/iptv_list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"Kimwang","type":0,"url":"https://raw.gitmirror.com/kimwang1978/collect-tv-txt/refs/heads/main/merged_output.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"VBSKYN","type":0,"url":"https://raw.gitmirror.com/vbskycn/iptv/refs/heads/master/tv/hd.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"MUT","type":0,"url":"https://raw.gitmirror.com/govnn/govnn.github.io/refs/heads/main/a/mut","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"MercuryZz","type":0,"url":"https://raw.gitmirror.com/MercuryZz/IPTVN/refs/heads/Files/IPTV.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"YueChan","type":0,"url":"https://raw.gitmirror.com/YueChan/Live/refs/heads/main/IPTV.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"家的味道","type":0,"url":"https://raw.gitmirror.com/huangxinyueus/zby/refs/heads/main/%E5%AE%B6%E7%9A%84%E5%91%B3%E9%81%93/%E5%AE%B6%E7%9A%84%E5%91%B3%E9%81%93.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"I529987","type":0,"url":"https://github.com/l529987/av/blob/main/lived.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"zzmaze","type":0,"url":"https://raw.gitmirror.com/zzmaze/iptv/refs/heads/main/itvlist.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"jilive","type":0,"url":"https://notabug.org/jick/ji/raw/master/jilive","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"YuYu","type":0,"url":"https://fmbox.cc","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-]
+    "wallpaper": "https://picsum.photos/1280/720/?blur=2",
+    "spider": "./jar/XYQ.jar;md5;857c3864f652a8f670797d2002aadb82",
+    "lives": [
+        {
+          "name": "Alice TV",
+          "type":"0",
+          "pass": true,
+          "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/st1.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "MDXGH",
+          "type":"0",
+          "pass": true,
+          "url":"http://uk.frp.one:29999/new/mdzb.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "新视界影视",
+          "type":"0",
+          "pass": true,
+          "url": "https://pan.imotao.com/down.php/de747663cce00792fe95a86cdf9af96c.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "MmUuYUu",
+          "type":"0",
+          "pass": true,
+          "url": "https://4key.cn/FP",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "Radio",
+          "type":"0",
+          "pass": true,
+          "url":"https://gitee.com/steven250992941/iptv/raw/main/radio.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "ST备份",
+          "type":"0",
+          "pass": true,
+          "url":"https://gitea.moe/STLHF/iptv/raw/branch/main/st1.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "AKTV",
+          "type":"0",
+          "pass": true,
+          "url":"http://aktv.top/live.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "ST iptv",
+          "type":"0",
+          "pass": true,
+          "url":"https://raw.githubusercontent.com/250992941/TV/refs/heads/master/output/result.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "Kimwang",
+          "type":"0",
+          "pass": true,
+          "url":"https://raw.gitmirror.com/kimwang1978/collect-tv-txt/refs/heads/main/merged_output.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "VBSKYN",
+          "type":"0",
+          "pass": true,
+          "url":"https://raw.gitmirror.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "MUT",
+          "type":"0",
+          "pass": true,
+          "url":"https://raw.gitmirror.com/govnn/govnn.github.io/refs/heads/main/a/mut",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "G027",
+          "type":"0",
+          "pass": true,
+          "url":"https://gitee.com/g027/tv0816/raw/master/hubeiliantong.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "Film-Television",
+          "type":"0",
+          "pass": true,
+          "url":"https://raw.gitmirror.com/qinvision/Film-Television/refs/heads/main/dujuejiami.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "家的味道",
+          "type":"0",
+          "pass": true,
+          "url":"https://raw.gitmirror.com/huangxinyueus/zby/refs/heads/main/%E5%AE%B6%E7%9A%84%E5%91%B3%E9%81%93/%E5%AE%B6%E7%9A%84%E5%91%B3%E9%81%93.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "YFDD",
+          "type":"0",
+          "pass": true,
+          "url":"https://gitea.moe/xiangjiao-ge/yifa169/raw/branch/main/yiyifafa.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "zzmaze",
+          "type":"0",
+          "pass": true,
+          "url":"https://raw.gitmirror.com/zzmaze/iptv/refs/heads/main/itvlist.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "jilive",
+          "type":"0",
+          "pass": true,
+          "url":"https://notabug.org/jick/ji/raw/master/jilive",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "P3p",
+          "type":"0",
+          "pass": true,
+          "url":"https://raw.gitmirror.com/250992941/iptv/refs/heads/main/p3.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "HN",
+          "type":"0",
+          "pass": true,
+          "url":"https://gyssi.link/live/%E6%B9%96%E5%8D%971.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+       },{
+          "name": "看电视",
+          "type":"0",
+          "pass": true,
+          "url":"http://106.53.99.30/vip.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+       },{
+          "name": "广东TV",
+          "type":"0",
+          "pass": true,
+          "url": "https://gyssi.link/live/%E5%B9%BF%E4%B8%9C1.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "湖南TV",
+          "type":"0",
+          "pass": true,
+          "url":"https://gyssi.link/live/%E6%B9%96%E5%8D%971.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "广东TV-2",
+          "type":"0",
+          "pass": true,
+          "url":"https://gyssi.link/live/%E5%B9%BF%E4%B8%9C2.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
+    ]
 }
