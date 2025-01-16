@@ -1116,23 +1116,23 @@ CCTV-17咪咕,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id
 💓港台新闻,#genre#
 
 //AK源
-凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-TVB无线新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-东森新闻,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+凤凰中文台,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+凤凰资讯,台http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+TVB无线新闻台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+寰宇新闻台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+中天新闻台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+东森新闻台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+TVBS新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 
 //liuman tv
-凤凰中文,http://106.53.99.30/公众号【榴芒电视】/proxy/gotv.php?id=1
-凤凰资讯,http://106.53.99.30/公众号【榴芒电视】/proxy/gotv.php?id=2
-TVB无线新闻,http://106.53.99.30/公众号【榴芒电视】/proxy/gotv.php?id=19
-TVB无线新闻,http://106.53.99.30/公众号【榴芒电视】/proxy/gotv.php?id=5
+凤凰中文台,http://106.53.99.30/公众号【榴芒电视】/proxy/gotv.php?id=1
+凤凰资讯,台http://106.53.99.30/公众号【榴芒电视】/proxy/gotv.php?id=2
+TVB无线新闻台,http://106.53.99.30/公众号【榴芒电视】/proxy/gotv.php?id=19
+TVB无线新闻台,http://106.53.99.30/公众号【榴芒电视】/proxy/gotv.php?id=5
 
 //移动源
-凤凰资讯,http://223.105.252.59/PLTV/3/224/3221228524/index.m3u8
-凤凰中文,http://223.105.252.59/PLTV/3/224/3221228527/index.m3u8
+凤凰资讯台,http://223.105.252.59/PLTV/3/224/3221228524/index.m3u8
+凤凰中文台,http://223.105.252.59/PLTV/3/224/3221228527/index.m3u8
 
 //iptv搜索测速
 凤凰中文台,http://202.168.187.208:9089/tsfile/live/1009_1.m3u8$订阅源-1920x1080
