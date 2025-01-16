@@ -83,7 +83,7 @@
           "name": "榴芒TV",
           "type":"0",
           "pass": true,
-          "url":"https://8.138.7.223/live.txt",
+          "url":"http://8.138.7.223/live.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
