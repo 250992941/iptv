@@ -163,6 +163,13 @@
           "url":"https://gyssi.link/live/%E5%B9%BF%E4%B8%9C2.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "湖南TV-2",
+          "type":"0",
+          "pass": true,
+          "url":"https://gyssi.link/live/%E6%B9%96%E5%8D%972.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
     ]
 }
