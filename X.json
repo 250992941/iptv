@@ -17,17 +17,24 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "na",
+          "name": "CR Warehouse",
           "type":"0",
           "pass": true,
-          "url": "./list.txt",
+          "url": "https://cyuan.netlify.app/tvbox/lives/18+/18%F0%9F%88%B2%EF%B8%8F.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "na",
+          "name": "SM YY",
           "type":"0",
           "pass": true,
-          "url":"./list.txt",
+          "url":"https://git.acwing.com/Mix2025/0/-/raw/0/Mix1.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "CR",
+          "type":"0",
+          "pass": true,
+          "url":"https://tv.iill.top//m3u/Adult",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
