@@ -55,7 +55,7 @@
           "name": "ST iptv",
           "type":"0",
           "pass": true,
-          "url":"https://raw.githubusercontent.com/250992941/TV/refs/heads/master/output/result.txt",
+          "url":"https://raw.gitmirror.com/250992941/TV/refs/heads/master/output/result.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
@@ -143,24 +143,24 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
        },{
-          "name": "tv543",
+          "name": "传说引导",
           "type":"0",
           "pass": true,
-          "url": "https://tv543.cc/173.txt",
+          "url": "http://tot.totalh.net/tttt.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "CR",
+          "name": "joevess",
           "type":"0",
           "pass": true,
-          "url":"https://tv.iill.top//m3u/Adult",
+          "url":"https://raw.gitmirror.com/joevess/IPTV/main/m3u/iptv.m3u",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "SMYUYU",
+          "name": "VBSKYCN-2",
           "type":"0",
           "pass": true,
-          "url":"https://git.acwing.com/Mix2025/0/-/raw/0/Mix1.txt",
+          "url":"https://live.zhoujie218.top/tv/iptv4.m3u",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
