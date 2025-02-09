@@ -94,10 +94,10 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "家的味道",
+          "name": "Alice TV-STJX",
           "type":"0",
           "pass": true,
-          "url":"https://raw.gitmirror.com/huangxinyueus/zby/refs/heads/main/%E5%AE%B6%E7%9A%84%E5%91%B3%E9%81%93/%E5%AE%B6%E7%9A%84%E5%91%B3%E9%81%93.txt",
+          "url":"https://raw.githubusercontent.com/250992941/iptv/refs/heads/main/stjx.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
