@@ -651,13 +651,14 @@
       "type": 0,
       "url": "https://raw.githubusercontent.com/250992941/TV/refs/heads/master/output/s1.txt",
       "playerType": 1
-    },{
+    },
+     {
       "name": "Alice TV-STJX",
       "type": 0,
       "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/stjx.txt",
       "playerType": 1
     },
-    {
+     {
       "name": "Radio",
       "type": 0,
       "url": "https://gitee.com/steven250992941/iptv/raw/main/radio.txt",
