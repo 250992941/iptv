@@ -649,7 +649,7 @@
     {
       "name": "ST iptv",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/250992941/TV/refs/heads/master/output/s1.txt",
+      "url": "https://raw.gitmirror.com/250992941/TV/refs/heads/master/output/s1.txt",
       "playerType": 1
     },
      {
