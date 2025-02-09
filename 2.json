@@ -385,9 +385,9 @@
     ],
     "lives": [
         {
-            "name": "Alice TV",
+            "name": "Alice TV-fork",
             "type": 0,
-            "url": "https://raw.gitmirror.com/250992941/TV/refs/heads/master/output/st1.txt",
+            "url": "https://raw.gitmirror.com/250992941/TV/refs/heads/master/output/s1.txt",
             "playerType": 1,
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
