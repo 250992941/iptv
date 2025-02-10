@@ -14,7 +14,7 @@
         {
             "key": "https://github.com/fish2018/PG",
             "name": "202502091436",
-            "zip": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250209-1436.zip",
+            "zip": "https://raw.gitmirror.com/fish2018/PG/main/pg.20250209-1436.zip",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
