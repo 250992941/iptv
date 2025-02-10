@@ -38,10 +38,10 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "ST备份",
+          "name": "DIYP TV",
           "type":"0",
           "pass": true,
-          "url":"https://gitea.moe/STLHF/iptv/raw/branch/main/st1.txt",
+          "url":"http://iptv.diyp.site/diyp.php",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
