@@ -406,6 +406,13 @@
            "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
+           "name": "DIYP TV",
+           "type": 0,
+           "url": "http://iptv.diyp.site/diyp.php",
+           "playerType": 1,
+           "logo": "https://live.fanmingming.com/tv/{name}.png"
+        },
+        {
             "name": "AKTV",
             "type": 0,
             "url": "http://aktv.top/live.txt",
