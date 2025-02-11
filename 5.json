@@ -97,7 +97,7 @@
           "name": "Alice TV-STJX",
           "type":"0",
           "pass": true,
-          "url":"https://raw.gitmirror.com/250992941/iptv/refs/heads/main/stjx.txt",
+          "url":"https://raw.gitmirror.com/lhf0554/jx/refs/heads/master/output/result.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
