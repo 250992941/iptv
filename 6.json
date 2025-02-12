@@ -695,6 +695,17 @@
       "type": 0,
       "url": "https://gitee.com/steven250992941/iptv/raw/main/radio.txt",
       "playerType": 1
-    }
+    },
+     {
+				"group":"redirect",
+				"channels":[
+					{
+						"name":"redirect",
+						"urls":[
+							"proxy://do=live&type=live&proxy=&url="
+						]
+					}
+				]
+			}
   ]
 }
