@@ -1,0 +1,168 @@
+{
+    "wallpaper": "https://picsum.photos/1280/720/?blur=2",
+    "spider": "./jar/XYQ.jar;md5;857c3864f652a8f670797d2002aadb82",
+    "lives": [
+        {
+          "name": "Alice TV",
+          "type":"0",
+          "pass": true,
+          "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/st1.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "MDXGH",
+          "type":"0",
+          "pass": true,
+          "url":"http://mdxgh.tpddns.cn:9999/new/mdzb.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "国内直播1",
+          "type":"0",
+          "pass": true,
+          "url": "http://iptv.hothua.cn:35455/tv.m3u",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "国内直播2",
+          "type":"0",
+          "pass": true,
+          "url": "http://hangfun.top:35455/tv.m3u",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "国内直播3",
+          "type":"0",
+          "pass": true,
+          "url":"http://998969.xyz:35455/tv.m3u",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "国内直播4",
+          "type":"0",
+          "pass": true,
+          "url":"http://1.itv.nctv.top:35455/tv.m3u",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "国内直播5",
+          "type":"0",
+          "pass": true,
+          "url":"http://liqunhui.cn:35455/tv.m3u",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "ST iptv",
+          "type":"0",
+          "pass": true,
+          "url":"https://raw.gitmirror.com/250992941/TV/refs/heads/master/output/s1.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "国内直播6",
+          "type":"0",
+          "pass": true,
+          "url":"http://clip.hothua.cn:35455/tv.m3u",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "国内直播7",
+          "type":"0",
+          "pass": true,
+          "url":"http://yc.myds.me:35455/tv.m3u",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "国内直播8",
+          "type":"0",
+          "pass": true,
+          "url":"http://www.szd5.com:35455/tv.m3u",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "国内直播9",
+          "type":"0",
+          "pass": true,
+          "url":"http://mvfn.zhch1968.com:35455/tv.m3u",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "国内直播10",
+          "type":"0",
+          "pass": true,
+          "url":"http://ddns.9ump.com:35455/tv.m3u",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "Alice TV-STJX",
+          "type":"0",
+          "pass": true,
+          "url":"https://raw.gitmirror.com/lhf0554/jx/refs/heads/master/output/result.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "国内直播11",
+          "type":"0",
+          "pass": true,
+          "url":"http://2000.run:35455/tv.m3u",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "国内直播12",
+          "type":"0",
+          "pass": true,
+          "url":"http://hulun.top:35455/tv.m3u",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "国内直播13",
+          "type":"0",
+          "pass": true,
+          "url":"http://feiyang.ak47s.top:35455/tv.m3u",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "国内直播14",
+          "type":"0",
+          "pass": true,
+          "url":"http://www.xzbn.site:35455/tv.m3u",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "国内直播15",
+          "type":"0",
+          "pass": true,
+          "url":"http://dsm.huarunguoji.top:35455/tv.m3u",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+       },{
+          "name": "国内直播16",
+          "type":"0",
+          "pass": true,
+          "url":"http://home.wwang.pw:35455/tv.m3u",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+       },{
+          "name": "国内直播17",
+          "type":"0",
+          "pass": true,
+          "url": "http://www.zhch682022.cn:35455/tv.m3u",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "国内直播18",
+          "type":"0",
+          "pass": true,
+          "url":"http://gf.you123.fun:35455/tv.m3u",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "国内直播19",
+          "type":"0",
+          "pass": true,
+          "url":"http://3501776.xyz:35455/tv.m3u",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
+    ]
+}
