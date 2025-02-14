@@ -422,14 +422,14 @@
         {
             "name": "V12",
             "type": 0,
-            "url": "http://106.53.99.30/vip.txt",
+            "url": "http://8.138.7.233/tv.txt",
             "playerType": 1,
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
-            "name": "新视界",
+            "name": "肥羊直播国内",
             "type": 0,
-            "url": "https://pan.imotao.com/down.php/de747663cce00792fe95a86cdf9af96c.txt",
+            "url": "http://yc.myds.me:35455/tv.m3u",
             "playerType": 1,
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         }
