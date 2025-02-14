@@ -623,15 +623,15 @@
       "playerType": 1
     },
      {
-      "name": "Film-Television",
+      "name": "肥羊国内直播-1",
       "type": 0,
-      "url": "https://raw.gitmirror.com/qinvision/Film-Television/refs/heads/main/dujuejiami.txt",
+      "url": "http://yc.myds.me:35455/tv.m3u",
       "playerType": 1
     },
      {
-      "name": "新视界影视",
+      "name": "肥羊国内直播-2",
       "type": 0,
-      "url": "https://pan.imotao.com/down.php/de747663cce00792fe95a86cdf9af96c.txt",
+      "url": "http://www.szd5.com:35455/tv.m3u",
       "playerType": 1
     },
      {
