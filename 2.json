@@ -413,9 +413,9 @@
            "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
-            "name": "AKTV",
+            "name": "港澳台频道",
             "type": 0,
-            "url": "http://aktv.top/live.txt",
+            "url": "https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt",
             "playerType": 1,
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
