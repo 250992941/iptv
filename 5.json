@@ -59,7 +59,7 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "Kimwang",
+          "name": "KWCOPY",
           "type":"0",
           "pass": true,
           "url":"https://raw.gitmirror.com/kimwang1978/collect-tv-txt/refs/heads/main/merged_output.txt",
