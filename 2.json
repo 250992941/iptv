@@ -427,6 +427,13 @@
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
+            "name": "kimwang1978",
+            "type": 0,
+            "url": "https://raw.gitmirror.com/kimwang1978/collect-tv-txt/refs/heads/main/merged_output.txt",
+            "playerType": 1,
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+        },
+        {
             "name": "肥羊直播国内",
             "type": 0,
             "url": "http://yc.myds.me:35455/tv.m3u",
