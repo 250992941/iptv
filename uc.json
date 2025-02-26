@@ -3,7 +3,7 @@
         {
             "name": "豆瓣推荐 影视推荐",
             "codeID": "N7WRmLmOdB8FSh4M",
-            "url": "https://gitee.com/woleigedouer/uzVideo-extensions/raw/main/recommend/js/douban.txt",
+            "url": "https://raw.gitmirror.com/YYDS678/uzVideo-extensions/refs/heads/main/recommend/js/douban.txt",
             "version": "3",
             "type": 200
         }
@@ -11,7 +11,7 @@
     "panTools": [
         {
             "name": "UC|夸克|阿里 网盘解析工具",
-            "url": "https://gitee.com/woleigedouer/uzVideo-extensions/raw/main/panTools/js/panTools.js",
+            "url": "https://raw.gitmirror.com/YYDS678/uzVideo-extensions/refs/heads/main/recommend/js/panTools.js",
             "env": "UCCookie##用于播放UC网盘视频&&夸克Cookie##用于播放Quark网盘视频&&阿里Token##用于播放阿里网盘视频&&转存文件夹名称##在各网盘转存文件时使用的文件夹名称",
             "version": "12",
             "type": 300
@@ -20,7 +20,7 @@
     "danMu": [
         {
             "name": "综合弹幕",
-            "url": "https://gitee.com/woleigedouer/uzVideo-extensions/raw/main/danMu/js/danMu2.txt",
+            "url": "https://raw.gitmirror.com/YYDS678/uzVideo-extensions/refs/heads/main/recommend/js/danMu2.txt",
             "codeID": "uLw1JV3TG3FcJbLXOymm6Xp8d4JC3NjR",
             "remark": "别那么执着，搜不到就算了",
             "type": 400,
@@ -29,7 +29,7 @@
         {
             "name": "dandanPlay 弹幕",
             "remark": "数据来自 弹弹Play",
-            "url": "https://gitee.com/woleigedouer/uzVideo-extensions/raw/main/danMu/js/danMu.js",
+            "url": "https://raw.gitmirror.com/YYDS678/uzVideo-extensions/refs/heads/main/recommend/js/danMu.js",
             "type": 400,
             "version": 1
         }
@@ -75,7 +75,7 @@
     "vod": [
         {
             "name": "🧸玩偶哥哥",
-            "api": "https://gitee.com/woleigedouer/uzVideo-extensions/raw/main/vod/js/wogg.js",
+            "api": "https://raw.gitmirror.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/wogg.js",
             "webSite": "https://www.wogg.lol",
             "remark": "网盘 1.6.41 及以上版本可用",
             "version": "3",
@@ -83,7 +83,7 @@
         },
         {
             "name": "🐱玩偶备用",
-            "api": "https://gitee.com/woleigedouer/uzVideo-extensions/raw/main/vod/js/wobg.js",
+            "api": "https://raw.gitmirror.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/wobg.js",
             "webSite": "http://wogg.xxooo.cf",
             "remark": "网盘 1.6.41 及以上版本可用",
             "version": "3",
@@ -91,7 +91,7 @@
         },
         {
             "name": "🪵木偶哥哥",
-            "api": "https://gitee.com/woleigedouer/uzVideo-extensions/raw/main/vod/js/mogg.js",
+            "api": "https://raw.gitmirror.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/mogg.js",
             "webSite": "http://www.mogg.top",
             "remark": "网盘 1.6.41 及以上版本可用",
             "version": "2",
@@ -99,7 +99,7 @@
         },
         {
             "name": "🌾小米网盘",
-            "api": "https://gitee.com/woleigedouer/uzVideo-extensions/raw/main/vod/js/xiaomi.js",
+            "api": "https://raw.gitmirror.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/xiaomi.js",
             "webSite": "http://milvdou.fun/",
             "remark": "网盘 1.6.41 及以上版本可用",
             "version": "3",
@@ -107,7 +107,7 @@
         },
         {
             "name": "⚡️至臻网盘",
-            "api": "https://gitee.com/woleigedouer/uzVideo-extensions/raw/main/vod/js/zhizhen.js",
+            "api": "https://raw.gitmirror.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/zhizhen.js",
             "webSite": "https://mihdr.top",
             "remark": "网盘 1.6.41 及以上版本可用",
             "version": "3",
@@ -115,7 +115,7 @@
         },
         {
             "name": "🖍蜡笔小新",
-            "api": "https://gitee.com/woleigedouer/uzVideo-extensions/raw/main/vod/js/labipan.js",
+            "api": "https://raw.gitmirror.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/labipan.js",
             "webSite": "https://duopan.fun",
             "remark": "网盘 1.6.41 及以上版本可用",
             "version": "3",
@@ -123,7 +123,7 @@
         },
         {
             "name": "🤠多多影音",
-            "api": "https://gitee.com/woleigedouer/uzVideo-extensions/raw/main/vod/js/duoduo.js",
+            "api": "https://raw.gitmirror.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/duoduo.js",
             "webSite": "https://tv.yydsys.top",
             "remark": "网盘 1.6.41 及以上版本可用",
             "version": "3",
@@ -131,7 +131,7 @@
         },
         {
             "name": "🐲欧歌资源",
-            "api": "https://gitee.com/woleigedouer/uzVideo-extensions/raw/main/vod/js/ouge.js",
+            "api": "https://raw.gitmirror.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/ouge.js",
             "webSite": "https://woog.nxog.eu.org",
             "remark": "网盘 1.6.41 及以上版本可用",
             "version": "3",
@@ -139,7 +139,7 @@
         },
         {
             "name": "⚡闪电优汐",
-            "api": "https://gitee.com/woleigedouer/uzVideo-extensions/raw/main/vod/js/shandian.js",
+            "api": "https://raw.gitmirror.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/shandian.js",
             "webSite": "http://1.95.79.193/",
             "remark": "网盘 1.6.41 及以上版本可用",
             "version": "1",
@@ -147,7 +147,7 @@
         },
         {
             "name": "🐯小小虎斑",
-            "api": "https://gitee.com/woleigedouer/uzVideo-extensions/raw/main/vod/js/huban.js",
+            "api": "https://raw.gitmirror.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/huban.js",
             "webSite": "http://103.45.162.207:20720",
             "remark": "网盘 1.6.41 及以上版本可用",
             "version": "1",
@@ -155,7 +155,7 @@
         },
         {
             "name": "🍚特下饭盘",
-            "api": "https://gitee.com/woleigedouer/uzVideo-extensions/raw/main/vod/js/xiafan.js",
+            "api": "https://raw.gitmirror.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/xiafan.js",
             "webSite": "http://www.xn--ghqy10g1w0a.xyz/",
             "remark": "网盘 1.6.41 及以上版本可用",
             "version": "1",
@@ -164,7 +164,7 @@
         {
             "name": "☁️云盘资源",
             "codeID": "",
-            "api": "https://gitee.com/woleigedouer/uzVideo-extensions/raw/main/vod/js/resyunpan.js",
+            "api": "https://raw.gitmirror.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/resyunpan.js",
             "instance": "resYunPan20241120",
             "webSite": "https://res.yunpan.win",
             "remark": "",
@@ -173,7 +173,7 @@
         },
         {
             "name": "歐樂",
-            "api": "https://gitee.com/woleigedouer/uzVideo-extensions/raw/main/vod/js/olevod.js",
+            "api": "https://raw.gitmirror.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/olevod.js",
             "instance": "olevod20240620",
             "webSite": "https://www.olevod.tv",
             "remark": "需海外IP",
@@ -182,7 +182,7 @@
         },
         {
             "name": "素白白",
-            "api": "https://gitee.com/woleigedouer/uzVideo-extensions/raw/main/vod/js/subaibai.js",
+            "api": "https://raw.gitmirror.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/subaibai.js",
             "instance": "sbb20240624",
             "webSite": "https://www.subaibaiys.com",
             "remark": "",
@@ -191,7 +191,7 @@
         },
         {
             "name": "瓜子web",
-            "api": "https://gitee.com/woleigedouer/uzVideo-extensions/raw/main/vod/js/gzys.js",
+            "api": "https://raw.gitmirror.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/gzys.js",
             "instance": "gzys20240822",
             "webSite": "https://api.zaqohu.com",
             "remark": "不支持搜索",
@@ -200,7 +200,7 @@
         },
         {
             "name": "瓜子app",
-            "api": "https://gitee.com/woleigedouer/uzVideo-extensions/raw/main/vod/js/gzapp.js",
+            "api": "https://raw.gitmirror.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/gzapp.js",
             "codeID": "ra5Z3wtXKshzSMK2",
             "instance": "gzapp20241001",
             "webSite": "https://api.9cec79d.com",
@@ -210,7 +210,7 @@
         },
         {
             "name": "韓劇看看",
-            "api": "https://gitee.com/woleigedouer/uzVideo-extensions/raw/main/vod/js/hjkk.js",
+            "api": "https://raw.gitmirror.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/hjkk.js",
             "instance": "hjkk20240624",
             "webSite": "https://www.hanjukankan.com",
             "remark": "",
@@ -219,7 +219,7 @@
         },
         {
             "name": "天天影視",
-            "api": "https://gitee.com/woleigedouer/uzVideo-extensions/raw/main/vod/js/tiantian.js",
+            "api": "https://raw.gitmirror.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/tiantian.js",
             "instance": "tiantian20240629",
             "webSite": "http://op.ysdqjs.cn",
             "remark": "",
@@ -228,7 +228,7 @@
         },
         {
             "name": "奇優影院",
-            "api": "https://gitee.com/woleigedouer/uzVideo-extensions/raw/main/vod/js/qiyou.js",
+            "api": "https://raw.gitmirror.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/qiyou.js",
             "instance": "qiyou20240904",
             "webSite": "http://www.qiyoudy4.com",
             "remark": "",
@@ -237,7 +237,7 @@
         },
         {
             "name": "老白聽書",
-            "api": "https://gitee.com/woleigedouer/uzVideo-extensions/raw/main/vod/js/laobai.js",
+            "api": "https://raw.gitmirror.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/laobai.js",
             "instance": "laobai20240831",
             "webSite": "https://apk-lb-json.fodexin.com",
             "remark": "",
@@ -246,7 +246,7 @@
         },
         {
             "name": "哔嘀影视",
-            "api": "https://gitee.com/woleigedouer/uzVideo-extensions/raw/main/vod/js/biliys.js",
+            "api": "https://raw.gitmirror.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/biliys.js",
             "webSite": "https://www.xlys01.com",
             "remark": "1.6.41 及以上版本可用",
             "version": "1",
@@ -254,7 +254,7 @@
         },
         {
             "name": "南风短剧",
-            "api": "https://gitee.com/woleigedouer/uzVideo-extensions/raw/main/vod/js/nanfdj.js",
+            "api": "https://raw.gitmirror.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/nanfdj.js",
             "webSite": "https://www.nanf.cc",
             "remark": "网盘 | 1.6.41 及以上版本可用",
             "version": "1",
