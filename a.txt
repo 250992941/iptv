@@ -1,5 +1,7 @@
 🕘️更新时间,#genre#
 2025-01-14 12:18:33,http://119.123.77.41:9600/hls/1/index.m3u8$订阅源
+UC有代理 https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/uzAio.json
+UC  https://gitee.com/steven250992941/iptv/raw/main/uc.json
 
 央视频道,#genre#
 CCTV1,http://119.123.77.41:9600/hls/1/index.m3u8$订阅源
