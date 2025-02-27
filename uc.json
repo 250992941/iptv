@@ -390,14 +390,7 @@
             "version": "1",
             "type": 101
         },
-        {
-            "name": "🏀88看球",
-            "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
-            "webSite": "",
-            "remark": "网盘 | 1.6.41 及以上版本可用",
-            "version": "1",
-            "type": 0
-        },
+       
         {
             "api": "https://cj.rycjapi.com/api.php/provide/vod",
             "name": "🐝如意",
