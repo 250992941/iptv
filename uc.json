@@ -409,12 +409,9 @@
             "type": 0
         },
         {
-            "name": "🏀88看球",
-            "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
-            "webSite": "",
-            "remark": "网盘 | 1.6.41 及以上版本可用",
-            "version": "1",
-            "type": 101
+            "api": "https://api.1080zyku.com/inc/apijson.php",
+            "name": "🔵1080源"
+            "type": 0
         },
         {
             "name": "麻豆社",
