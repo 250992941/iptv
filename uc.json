@@ -396,7 +396,7 @@
             "webSite": "",
             "remark": "网盘 | 1.6.41 及以上版本可用",
             "version": "1",
-            "type": 100
+            "type": 0
         },
         {
             "api": "https://cj.rycjapi.com/api.php/provide/vod",
