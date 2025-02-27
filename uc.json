@@ -1,4 +1,4 @@
-
+{
     "recommend": [
         {
             "name": "豆瓣推荐 影视推荐",
@@ -36,52 +36,22 @@
     ],
     "live": [
         {
-            "name": "📺Alice TV-STJX",
-            "url": "https://raw.gitmirror.com/lhf0554/jx/refs/heads/master/output/result.txt",
+            "name": "📺电视直播",
+            "url": "https://tv.iill.top/m3u/Gather",
             "type": 10,
-            "remark": "来自 "
+            "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
         },
         {
-            "name": "🎥Alice ST1",
-            "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/st1.txt",
+            "name": "🎥网络直播",
+            "url": "https://tv.iill.top/m3u/Live",
             "type": 10,
-            "remark": "来自"
+            "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
         },
         {
-            "name": "🎥Alice TV-FORK",
-            "url": "https://raw.gitmirror.com/250992941/TV/refs/heads/master/output/s1.txt",
+            "name": "🚴‍♂️体育直播",
+            "url": "https://tv.iill.top/m3u/Sport",
             "type": 10,
-            "remark": "来自"
-        },
-        {
-            "name": "🎥KWCOPY",
-            "url": "https://raw.gitmirror.com/kimwang1978/collect-tv-txt/refs/heads/main/merged_output.txt",
-            "type": 10,
-            "remark": "来自"
-        },
-        {
-            "name": "🚴‍♂️DIYP TV",
-            "url": "http://iptv.diyp.site/diyp.php",
-            "type": 10,
-            "remark": "来自"
-        },
-        {
-            "name": "🐏肥羊咪咕",
-            "url": "http://yc.myds.me:35455/tv.m3u",
-            "type": 10,
-            "remark": "来自"
-        },
-        {
-            "name": "📡港澳台频道",
-            "url": "https://raw.gitmirror.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt",
-            "type": 10,
-            "remark": "来自"
-        },
-        {
-            "name": "🌐VIP-V12",
-            "url": "http://8.138.7.233/v12.txt",
-            "type": 10,
-            "remark": "来自 Guovin 大佬 https://github.com/Guovin"
+            "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
         }
     ],
     "vod": [
@@ -409,8 +379,8 @@
             "type": 0
         },
         {
-           "api": "https://api.1080zyku.com/inc/apijson.php",
-            "name": "🔵1080源"
+            "api": "https://cjhwba.com/api.php/provide/vod/",
+            "name": "🐝华为吧",
             "type": 0
         },
         {
@@ -465,96 +435,6 @@
             "remark": "",
             "version": "3",
             "type": 101
-        }    
-{
-    "api": "https://api.apilyzy.com/api.php/provide/vod/",
-    "name": "🔞老鸭资源",
-    "noHistory": true,
-    "isLock": true
-  },
-  {
-    "api": "https://www.xrbsp.com/api/json.php",
-    "name": "🔞淫水机资源",
-    "noHistory": true,
-    "isLock": true
-  },
-  {
-    "api": "http://fhapi9.com/api.php/provide/vod/",
-    "name": "🔞番号资源",
-    "noHistory": true,
-    "isLock": true
-  },
-  {
-    "api": "https://155api.com/api.php/provide/vod/",
-    "name": "🔞155资源",
-    "noHistory": true,
-    "isLock": true
-  },
-  {
-    "api": "https://155api.com/api.php/provide/vod/at/json",
-    "name": "🔞155资源",
-    "noHistory": true,
-    "isLock": true
-  },
-  {
-    "api": "https://jkunzyapi.com/api.php/provide/vod/",
-    "name": "🔞鸡坤资源",
-    "noHistory": true,
-    "isLock": true
-  },
-  {
-    "api": "https://www.pgxdy.com/api/json.php",
-    "name": "🔞黄AV资源",
-    "noHistory": true,
-    "isLock": true
-  },
-  {
-    "api": "https://www.gdlsp.com/api/json.php",
-    "name": "🔞香奶儿资源",
-    "noHistory": true,
-    "isLock": true
-  },
-  {
-    "api": "https://www.msnii.com/api/json.php",
-    "name": "🔞美少女资源",
-    "noHistory": true,
-    "isLock": true
-  },
-  {
-    "api": "https://www.kxgav.com/api/json.php",
-    "name": "🔞白嫖资源",
-    "noHistory": true,
-    "isLock": true
-  },
-  {
-    "api": "https://lbapi9.com/api.php/provide/vod/",
-    "name": "🔞乐播资源",
-    "noHistory": true,
-    "isLock": true
-  },
-  {
-    "api": "https://lbapi9.com/api.php/provide/vod/at/json",
-    "name": "🔞乐播资源",
-    "noHistory": true,
-    "isLock": true
-  },
-  {
-    "api": "https://api.ddapi.cc/api.php/provide/vod/",
-    "name": "🔞滴滴资源",
-    "noHistory": true,
-    "isLock": true
-  },
-  {
-    "api": "https://api.ddapi.cc/api.php/provide/vod/at/json",
-    "name": "🔞滴滴资源",
-    "noHistory": true,
-    "isLock": true
-  },
-  {
-    "api": "https://www.jingpinx.com/api.php/provide/vod/",
-    "name": "🔞精品资源",
-    "noHistory": true,
-    "isLock": true
-  }
+        }
     ]
 }
