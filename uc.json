@@ -48,6 +48,18 @@
             "remark": "来自"
         },
         {
+            "name": "🎥Alice TV-FORK",
+            "url": "https://raw.gitmirror.com/250992941/TV/refs/heads/master/output/s1.txt",
+            "type": 10,
+            "remark": "来自"
+        },
+        {
+            "name": "🎥KWCOPY",
+            "url": "https://raw.gitmirror.com/kimwang1978/collect-tv-txt/refs/heads/main/merged_output.txt",
+            "type": 10,
+            "remark": "来自"
+        },
+        {
             "name": "🚴‍♂️DIYP TV",
             "url": "http://iptv.diyp.site/diyp.php",
             "type": 10,
@@ -66,8 +78,8 @@
             "remark": "来自"
         },
         {
-            "name": "🌐Govin-iptv",
-            "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+            "name": "🌐VIP-V12",
+            "url": "http://8.138.7.233/v12.txt",
             "type": 10,
             "remark": "来自 Guovin 大佬 https://github.com/Guovin"
         }
@@ -397,9 +409,9 @@
             "type": 0
         },
         {
-            "api": "https://cjhwba.com/api.php/provide/vod/",
-            "name": "🐝华为吧",
-            "type": 0
+            "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
+            "name": "🏀88看球",
+            "type": 3
         },
         {
             "name": "麻豆社",
