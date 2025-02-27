@@ -409,9 +409,16 @@
             "type": 0
         },
         {
+            "key": "88看球",
+            "name": "🏀看球┃直播",
+            "type": 3,
             "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
-            "name": "🏀88看球",
-            "type": 3
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0,
+            "ext": "https://gitee.com/smallmi1007/mimi/raw/master/kanqiu.js"
         },
         {
             "name": "麻豆社",
