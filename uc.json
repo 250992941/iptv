@@ -409,8 +409,8 @@
             "type": 0
         },
         {
-            "api": "https://cjhwba.com/api.php/provide/vod/",
-            "name": "🐝华为吧",
+           "api": "https://api.1080zyku.com/inc/apijson.php",
+            "name": "🔵1080源"
             "type": 0
         },
         {
