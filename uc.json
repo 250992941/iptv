@@ -35,23 +35,53 @@
         }
     ],
     "live": [
-        {
-            "name": "📺电视直播",
-            "url": "https://tv.iill.top/m3u/Gather",
+             {
+            "name": "📺Alice TV-STJX",
+            "url": "https://raw.gitmirror.com/lhf0554/jx/refs/heads/master/output/result.txt",
             "type": 10,
-            "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
+            "remark": "来自 "
         },
         {
-            "name": "🎥网络直播",
-            "url": "https://tv.iill.top/m3u/Live",
+            "name": "🎥Alice ST1",
+            "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/st1.txt",
             "type": 10,
-            "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
+            "remark": "来自"
         },
         {
-            "name": "🚴‍♂️体育直播",
-            "url": "https://tv.iill.top/m3u/Sport",
+            "name": "🎥Alice TV-FORK",
+            "url": "https://raw.gitmirror.com/250992941/TV/refs/heads/master/output/s1.txt",
             "type": 10,
-            "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
+            "remark": "来自"
+        },
+        {
+            "name": "🎥KWCOPY",
+            "url": "https://raw.gitmirror.com/kimwang1978/collect-tv-txt/refs/heads/main/merged_output.txt",
+            "type": 10,
+            "remark": "来自"
+        },
+        {
+            "name": "🚴‍♂️DIYP TV",
+            "url": "http://iptv.diyp.site/diyp.php",
+            "type": 10,
+            "remark": "来自"
+        },
+        {
+            "name": "🐏肥羊咪咕",
+            "url": "http://yc.myds.me:35455/tv.m3u",
+            "type": 10,
+            "remark": "来自"
+        },
+        {
+            "name": "📡港澳台频道",
+            "url": "https://raw.gitmirror.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt",
+            "type": 10,
+            "remark": "来自"
+        },
+        {
+            "name": "🌐VIPV12",
+            "url": "http://8.138.7.233/v12.txt",
+            "type": 10,
+            "remark": "来自 Guovin 大佬 https://github.com/Guovin"
         }
     ],
     "vod": [
@@ -379,8 +409,8 @@
             "type": 0
         },
         {
-            "api": "https://cjhwba.com/api.php/provide/vod/",
-            "name": "🐝华为吧",
+            "api": "https://cj.ffzyapi.com/api.php/provide/vod/",
+            "name": "🐝非凡源",
             "type": 0
         },
         {
