@@ -10,6 +10,7 @@ CCTV10,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=7
 CCTV11,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=8
 CCTV12,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=9
 CCTV13,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
+湖南卫视,video://https://www.yangshipin.cn/tv/home?pid=600002475
 北京卫视,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=11
 浙江卫视,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=12
 河南卫视,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=14
