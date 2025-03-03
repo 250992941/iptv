@@ -1,4 +1,4 @@
-凤凰资讯,video://https://fan.887912.xyz/aaabbbccc/https/www.youtube.com/watch?v=HFib76ySpbU
+凤凰资讯,video://https://fan.887912.xyz/aaabbbccc/https/www.youtube.com/embed/HFib76ySpbU
 CCTV1,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
 CCTV3,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
 CCTV5,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=3
