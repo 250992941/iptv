@@ -1,5 +1,5 @@
-凤凰资讯,video://https://www.123iptv.tv/cn/tv/fenghuangweishizixuntai.html
-三立新闻,video://https://fan.887912.xyz/aaabbbccc/https/youtu.be/pF507BLtbqU
+凤凰资讯,video://https://tv.bfsu.edu.cn/bfsu/play/fhzx
+凤凰中文,video://https://tv.bfsu.edu.cn/bfsu/play/fhzw
 CCTV1,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
 CCTV3,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
 CCTV5,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=3
