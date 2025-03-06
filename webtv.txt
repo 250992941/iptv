@@ -1,5 +1,8 @@
 凤凰资讯,video://https://tv.bfsu.edu.cn/bfsu/play/fhzx
 凤凰中文,video://https://tv.bfsu.edu.cn/bfsu/play/fhzw
+凤凰电影,video://https://tv.bfsu.edu.cn/bfsu/play/fhdy
+星空卫视,video://https://tv.bfsu.edu.cn/bfsu/play/startv
+国家地理,video://https://tv.bfsu.edu.cn/bfsu/play/natlgeo
 CCTV1,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
 CCTV3,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
 CCTV5,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=3
