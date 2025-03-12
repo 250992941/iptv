@@ -601,7 +601,12 @@ CCTV-17咪咕,http://z.b.bkpcp.top/m.php?id=cctv17
 广东卫视咪咕,http://z.b.bkpcp.top/m.php?id=gdws
 
 新闻频道JW,#genre#
-
+凤凰中文台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
+凤凰资讯台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
+TVB无线新闻台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
+中天新闻台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+寰宇新闻台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
+TVBS新闻台,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbs-1/AKTV.m3u8
 
 凤凰中文台,http://202.168.187.208:9089/tsfile/live/1009_1.m3u8
 凤凰中文台,http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv
