@@ -20,7 +20,7 @@
           "name": "港澳台频道",
           "type":"0",
           "pass": true,
-          "url": "https://raw.githubusercontent.com/lhf0554/A/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt",
+          "url": "https://raw.gitmirror.com/lhf0554/A/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
@@ -34,7 +34,7 @@
           "name": "Radio",
           "type":"0",
           "pass": true,
-          "url":"https://gitee.com/steven250992941/iptv/raw/main/radio.txt",
+          "url":"https://raw.gitmirror.com/250992941/iptv/refs/heads/main/radio.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
