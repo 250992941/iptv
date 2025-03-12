@@ -136,10 +136,10 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
        },{
-          "name": "看电视",
+          "name": "看电视VIP",
           "type":"0",
           "pass": true,
-          "url":"http://106.53.99.30/vip.txt",
+          "url":"http://8.138.7.223/2025.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
        },{
