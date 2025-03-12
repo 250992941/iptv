@@ -605,7 +605,7 @@
     {
       "name": "Alice TV",
       "type": 0,
-      "url": "https://gitea.moe/STLHF/iptv/raw/branch/main/st1.txt",
+      "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/st1.txt",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -637,7 +637,7 @@
      {
       "name": "YIFA-v12",
       "type": 0,
-      "url": "http://8.138.7.233/v12.txt",
+      "url": "http://8.138.7.233/2025.txt",
       "playerType": 1
     },
      {
@@ -669,7 +669,7 @@
      {
       "name": "Radio",
       "type": 0,
-      "url": "https://gitee.com/steven250992941/iptv/raw/main/radio.txt",
+      "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/radio.txt",
       "playerType": 1
     }
   ]
