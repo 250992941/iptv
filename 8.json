@@ -653,8 +653,7 @@
       "type": 0,
       "url": "http://iptv.diyp.site/diyp.php",
       "playerType": 1
-      "epg": "",
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    
     },
     {
       "name": "ST iptv",
