@@ -605,7 +605,7 @@
     {
       "name": "Alice TV",
       "type": 0,
-      "url": "https://gitea.moe/STLHF/iptv/raw/branch/main/st1.txt",
+      "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/st1.txt",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -613,13 +613,13 @@
      {
       "name": "AKTV",
       "type": 0,
-      "url": "http://aktv.top/live.txt",
+      "url": "http://aktv.space/live.m3u",
       "playerType": 1
     },
      {
-      "name": "MDXGH",
+      "name": "MY602",
       "type": 0,
-      "url": "http://mdxgh.tpddns.cn:9999/new/mdzb.txt",
+      "url": "https://4key.cn/FP",
       "playerType": 1
     },
      {
@@ -631,13 +631,13 @@
      {
       "name": "新视界影视",
       "type": 0,
-      "url": "https://pan.imotao.com/down.php/de747663cce00792fe95a86cdf9af96c.txt",
+      "url": "https://cccimg.com/down.php/4deb6aff9477cc57f91cee16522a32ca.txt&xsjcm",
       "playerType": 1
     },
      {
       "name": "YIFA-v12",
       "type": 0,
-      "url": "http://106.53.99.30/vip.txt",
+      "url": "http://8.138.7.223/2025.txt",
       "playerType": 1
     },
      {
@@ -659,9 +659,9 @@
       "playerType": 1
     },
      {
-      "name": "JSM国内直播",
+      "name": "肥羊国内直播",
       "type": 0,
-      "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u",
+      "url": "http://www.xzbn.site:35455/tv.m3u",
       "ua": "okhttp/3.15",
       "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
