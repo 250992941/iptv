@@ -14,16 +14,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
-        },{
-      "key": "926看球",
-      "name": "⚽926┃看球",
-      "type": 3,
-      "api": "csp_kanqiu926",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      },
       }
            ],
        "lives": [
