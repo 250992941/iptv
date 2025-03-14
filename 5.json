@@ -1,4 +1,16 @@
 {
+    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734861856358/XMKY.jar;md5;0a762b54cf53124bc90868821a884d43",
+    "logo": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/oEb9EAiMhR67DA00fZCpIXMigA8LAkAI9enDAD~tplv-dy-aweme-images-v2:3000:3000:q75.webp?biz_tag=aweme_images&from=327834062&s=PackSourceEnum_SEARCH&sc=image&se=false&x-expires=1727452800&x-signature=Q6AiH8FOO86OfzLFvuUZpJbsV4s%3D",
+    "wallpaper": "https://bing.img.run/uhd.php",
+    "sites": [
+        {
+            "key": "STEVEN",
+            "name": "🌈Steven TV┃接口来自网络，请于24小时内删除本测试内容",
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0
+        }
+           ],
        "lives": [
         {
           "name": "Alice TV",
