@@ -421,6 +421,21 @@
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
+          "name": "新世界 电视家高级",
+          "type": 0,
+          "url": "https://cccimg.com/down.php/4deb6aff9477cc57f91cee16522a32ca.txt&xsjcm",
+          "playerType": 1
+          "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+		  "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"  
+          },
+        {
+			"name": "新世界 电视家高级",
+			"type": 0,
+			"url": "https://cccimg.com/down.php/4deb6aff9477cc57f91cee16522a32ca.txt&xsjcm",
+			"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+			},
+        {
            "name": "DIYP TV",
            "type": 0,
            "url": "http://iptv.diyp.site/diyp.php",
@@ -468,6 +483,18 @@
             "url": "http://www.xzbn.site:35455/tv.m3u",
             "playerType": 1,
             "logo": "https://live.fanmingming.com/tv/{name}.png"
+         },
+        {
+            "name": "肥羊国内直播-14",
+            "type": 0,
+            "url": "http://www.xzbn.site:35455/tv.m3u",
+            "playerType": 1
+         },
+       {
+            "name": "肥羊国内直播-17",
+            "type": 0,
+            "url": "http://www.zhch682022.cn:35455/tv.m3u",
+           "playerType": 1
          },
         {
           "name": "Film-Television",
