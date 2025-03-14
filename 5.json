@@ -4,28 +4,13 @@
   "sites": [
     {
       "key": "STEVEN",
-      "name": "🎥Steven TV",
+      "name": "🎥Steven 电视直播仓",
       "type": 3,
-      "api": "csp_DouDou",
+      "api": "",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
-    },
-    {
-      "key": "玩偶",
-      "name": "👽玩偶哥哥┃4K弹幕",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto",
-        "siteUrl": "https://www.wogg.net/",
-        "danMu": "弹"
-      }
-       }
+    }
            ],
        "lives": [
         {
