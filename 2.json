@@ -477,6 +477,13 @@
             "logo": "https://live.fanmingming.com/tv/{name}.png"
          },
         {
+            "name": "肥羊直播国内-17",
+            "type": 0,
+            "url": "http://www.zhch682022.cn:35455/tv.m3u",
+            "playerType": 1,
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+         },
+        {
           "name": "Film-Television",
           "type":"0",
           "url":"https://raw.gitmirror.com/qinvision/Film-Television/refs/heads/main/dujuejiami.txt",
