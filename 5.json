@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "STEVEN",
-      "name": "🎥Steven 电视直播仓+看⚽（此链接仅提供电视直播，其点直播按钮）",
+      "name": "🎥Steven 电视直播仓&看⚽（此链接仅提供电视直播，其点直播按钮）",
       "type": 3,
       "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
       "ext": "https://gitee.com/smallmi1007/mimi/raw/master/kanqiu.js",
