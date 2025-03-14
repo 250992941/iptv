@@ -25,6 +25,9 @@
       "style": {
         "type": "list"
       }
+	"searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0    
     },
     {
       "key": "926看球",
@@ -35,9 +38,12 @@
       "changeable": 0,
       "style": {
         "type": "list"
-      }
+     } 
+	"searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0       
     },
-	    {
+	{
       "key": "1直播",
       "name": "🌐一直┃体育🌐",
       "type": 3,
@@ -47,6 +53,9 @@
       "style": {
         "type": "list"
       }
+	"searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0   	
     }
            ],
        "lives": [
