@@ -406,6 +406,21 @@
            "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
+          "name": "AKTV",
+          "type": 0,
+          "url": "http://aktv.space/live.m3u",
+          "playerType": 1,
+          "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+          "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+        {
+          "name": "MDXGH",
+          "type":"0",
+          "url":"http://mdxgh.tpddns.cn:9999/new/mdzb.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
            "name": "DIYP TV",
            "type": 0,
            "url": "http://iptv.diyp.site/diyp.php",
@@ -427,6 +442,20 @@
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
+          "name": "MmUuYUu",
+          "type":"0",
+          "url": "https://4key.cn/FP",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+          "name": "VBSKYN",
+          "type":"0",
+          "url":"https://raw.gitmirror.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
             "name": "KWCOPY",
             "type": 0,
             "url": "https://raw.gitmirror.com/kimwang1978/collect-tv-txt/refs/heads/main/merged_output.txt",
@@ -439,6 +468,13 @@
             "url": "http://www.xzbn.site:35455/tv.m3u",
             "playerType": 1,
             "logo": "https://live.fanmingming.com/tv/{name}.png"
+         },
+        {
+          "name": "Film-Television",
+          "type":"0",
+          "url":"https://raw.gitmirror.com/qinvision/Film-Television/refs/heads/main/dujuejiami.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
     ],
     "rules": [
