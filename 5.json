@@ -90,18 +90,6 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "MUT",
-          "type":"0",
-          "url":"https://raw.gitmirror.com/govnn/govnn.github.io/refs/heads/main/a/mut",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "G027",
-          "type":"0",
-          "url":"https://gitee.com/g027/tv0816/raw/master/hubeiliantong.txt",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
           "name": "Film-Television",
           "type":"0",
           "url":"https://raw.gitmirror.com/qinvision/Film-Television/refs/heads/main/dujuejiami.txt",
@@ -114,21 +102,9 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "YFDD",
-          "type":"0",
-          "url":"https://gitea.moe/xiangjiao-ge/yifa169/raw/branch/main/yiyifafa.txt",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
           "name": "zzmaze",
           "type":"0",
           "url":"https://raw.gitmirror.com/zzmaze/iptv/refs/heads/main/itvlist.txt",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "jilive",
-          "type":"0",
-          "url":"https://notabug.org/jick/ji/raw/master/jilive",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
@@ -150,21 +126,15 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
        },{
-          "name": "传说引导",
-          "type":"0",
-          "url": "http://tot.totalh.net/tttt.txt",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
           "name": "joevess",
           "type":"0",
           "url":"https://raw.gitmirror.com/joevess/IPTV/main/m3u/iptv.m3u",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "VBSKYCN-2",
+          "name": "新世界 电视家高级",
           "type":"0",
-          "url":"https://live.zhoujie218.top/tv/iptv4.m3u",
+          "url":"https://cccimg.com/down.php/4deb6aff9477cc57f91cee16522a32ca.txt&xsjcm",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
