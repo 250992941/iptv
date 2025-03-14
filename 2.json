@@ -479,23 +479,11 @@
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
-            "name": "肥羊直播国内",
+            "name": "肥羊直播国内-14",
             "type": 0,
             "url": "http://www.xzbn.site:35455/tv.m3u",
             "playerType": 1,
             "logo": "https://live.fanmingming.com/tv/{name}.png"
-         },
-        {
-            "name": "肥羊国内直播-14",
-            "type": 0,
-            "url": "http://www.xzbn.site:35455/tv.m3u",
-            "playerType": 1
-         },
-       {
-            "name": "肥羊国内直播-17",
-            "type": 0,
-            "url": "http://www.zhch682022.cn:35455/tv.m3u",
-           "playerType": 1
          },
         {
           "name": "Film-Television",
