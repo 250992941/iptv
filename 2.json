@@ -449,9 +449,9 @@
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
-          "name": "MmUuYUu",
+          "name": "freetv",
           "type":"0",
-          "url": "https://4key.cn/FP",
+          "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/freetv.m3u8",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
