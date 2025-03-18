@@ -451,7 +451,7 @@
         {
           "name": "freetv",
           "type":"0",
-          "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/freetv.txt",
+          "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/freetv.m3u",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
