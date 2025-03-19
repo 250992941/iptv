@@ -19,23 +19,27 @@
       "key": "看球",
       "name": "🌐88┃体育🌐",
       "type": 3,
-      "api": "csp_KanqiuGuard",
-      "searchable": 1,
-      "changeable": 0,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/88看球.js",
       "style": {
         "type": "list"
-      }  
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
     },
     {
-      "key": "926看球",
-      "name": "🌐926┃体育🌐",
+      "key": "310看球",
+      "name": "🌐310┃体育🌐",
       "type": 3,
-      "api": "csp_Wex926kanqiuGuard",
-      "searchable": 1,
-      "changeable": 0,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/310直播.js",
       "style": {
         "type": "list"
-     }     
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
     },
 	{
       "key": "1直播",
