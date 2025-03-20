@@ -97,9 +97,9 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "P3p",
+          "name": "猫TV",
           "type":"0",
-          "url":"https://raw.gitmirror.com/250992941/iptv/refs/heads/main/p3.txt",
+          "url":"assets://libp2p.so",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
