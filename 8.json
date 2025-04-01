@@ -605,7 +605,7 @@
     {
       "name": "Alice TV",
       "type": 0,
-      "url": "https://raw.githubusercontentS.com/250992941/iptv/refs/heads/main/st1.txt",
+      "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/st1.txt",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -621,7 +621,7 @@
      {
       "name": "港澳台频道",
       "type": 0,
-      "url": "https://raw.githubusercontentS.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt",
+      "url": "https://raw.gitmirror.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt",
       "playerType": 1
     },
      {
@@ -658,19 +658,19 @@
     {
       "name": "ST iptv",
       "type": 0,
-      "url": "https://raw.githubusercontentS.com/250992941/TV/refs/heads/master/output/s1.txt",
+      "url": "https://raw.gitmirror.com/250992941/TV/refs/heads/master/output/s1.txt",
       "playerType": 1
     },
      {
       "name": "Alice TV-STJX",
       "type": 0,
-      "url": "https://raw.githubusercontentS.com/lhf0554/jx/refs/heads/master/output/result.txt",
+      "url": "https://raw.gitmirror.com/lhf0554/jx/refs/heads/master/output/result.txt",
       "playerType": 1
     }, 
     {
       "name": "KWCOPY",
       "type": 0,
-      "url": "https://raw.githubusercontentS.com/kimwang1978/collect-tv-txt/refs/heads/main/merged_output.txt",
+      "url": "https://raw.gitmirror.com/kimwang1978/collect-tv-txt/refs/heads/main/merged_output.txt",
       "playerType": 1
     },
     {
@@ -682,7 +682,7 @@
      {
       "name": "Radio",
       "type": 0,
-      "url": "https://raw.githubusercontentS.com/250992941/iptv/refs/heads/main/radio.txt",
+      "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/radio.txt",
       "playerType": 1
     }
   ]
