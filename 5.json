@@ -97,9 +97,9 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "猫TV",
+          "name": "猫TV线路",
           "type":"0",
-          "url":"assets://libp2p.so",
+          "url":"http://rihou.cc:555/gggg.nzk",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
