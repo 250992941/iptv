@@ -42,9 +42,9 @@
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
   {
-  "name":"⑤新世界线路",
+  "name":"⑤New新世界线路",
   "type":0,
-  "url":"https://cccimg.com/down.php/4deb6aff9477cc57f91cee16522a32ca.txt&xsjcm",
+  "url":"https://cccimg.com/down.php/c53d0978167a27d7b3db66e28fe4c3fe.txt",
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
