@@ -42,9 +42,9 @@
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
   {
-  "name":"⑤天微线路",
+  "name":"⑤新世界",
   "type":0,
-  "url":"http://tvkj.top/tvlive.txt",
+  "url":"https://cccimg.com/down.php/4deb6aff9477cc57f91cee16522a32ca.txt&xsjcm",
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -245,18 +245,18 @@
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
   {
-  "name":"②⑧饭太线路",
+  "name":"②⑧MUYU线路",
   "type":0,
-  "url":"https://www.huichunniao.cn/xh/lib/live.txt",
+  "url":"https://4key.cn/FP",
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
   {
-  "name":"②⑨肥猫线路",
+  "name":"②⑨DIPY",
   "type":0,
-  "url":"http://我不是.肥猫.live/TV/tvzb.txt",
+  "url":"http://iptv.diyp.site/diyp.php",
   "playerType":2,"ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
