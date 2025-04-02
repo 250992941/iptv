@@ -42,7 +42,7 @@
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
   {
-  "name":"⑤新世界",
+  "name":"⑤新世界线路",
   "type":0,
   "url":"https://cccimg.com/down.php/4deb6aff9477cc57f91cee16522a32ca.txt&xsjcm",
   "playerType":2,
@@ -77,18 +77,18 @@
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
   {
-  "name":"⑨野火线路",
+  "name":"⑨小龙电视线路",
   "type":0,
-  "url":"https://chuxinya.top/f/v1BuA/%E9%87%8E%E7%81%AB.m3u",
+  "url":"https://git.acwing.com/xlysyyds/dxl900109/-/raw/c254a4a701861c023e9674d74ab5fb15e88066c8/%E5%B0%8F%E9%BE%99%E7%94%B5%E8%A7%86%E9%85%B79.txt",
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
   {
-  "name":"⑩IPTV线路",
+  "name":"⑩看电视VIP线路",
   "type":0,
-  "url":"http://mywlkj.ddns.net:5212/f/pW3sk/iptv.txt",
+  "url":"http://8.138.7.223/2025.txt",
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -97,7 +97,7 @@
   {
   "name":"⑪Alice ST1线路",
   "type":0,
-  "url":"https://raw.gitmirror.com/250992941/iptv/refs/heads/main/st1.txt",
+  "url":"https://gh-proxy.com/https://raw.githubusercontent.com/250992941/iptv/refs/heads/main/st1.txt",
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -106,7 +106,7 @@
   {
   "name":"⑫Alice TV-STJX线路",
   "type":0,
-  "url":"https://raw.gitmirror.com/lhf0554/jx/refs/heads/master/output/result.txt",
+  "url":"https://gh-proxy.com/https://raw.githubusercontent.com/lhf0554/jx/refs/heads/master/output/result.txt",
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -115,25 +115,25 @@
   {
   "name":"⑬Alice TV-fork线路",
   "type":0,
-  "url":"https://raw.gitmirror.com/250992941/TV/refs/heads/master/output/s1.txt",
+  "url":"https://gh-proxy.com/https://raw.githubusercontent.com/250992941/TV/refs/heads/master/output/s1.txt",
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
   {
-  "name":"⑭开心线路",
+  "name":"⑭KWCOPY线路",
   "type":0,
-  "url":"http://ttkx.live:55/lib/kx2024.txt",
+  "url":"https://gh-proxy.com/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/merged_output.txt",
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
   {
-  "name":"⑮网盘线路",
+  "name":"⑮Film-Television线路",
   "type":0,
-  "url":"http://52pan.top:81/api/v3/file/get/174969/live.txt?sign=thai3ky1iYk1Y6Qbt9W6XOTSkCAqZF0bbdB9emM1rkY%3D%3A0",
+  "url":"https://gh-proxy.com/https://raw.githubusercontent.com/qinvision/Film-Television/refs/heads/main/dujuejiami.txt",
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -149,9 +149,9 @@
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
   {
-  "name":"⑰飞龙线路",
+  "name":"⑰MDXGH线路",
   "type":0,
-  "url":"https://gitlab.com/tvtg/vip/-/raw/main/log.txt",
+  "url":"http://mdxgh.tpddns.cn:9999/new/mdzb.txt",
   "playerType":2,"ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
