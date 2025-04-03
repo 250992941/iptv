@@ -38,8 +38,8 @@
         },{
           "name": "MmUuYUu",
           "type":"0",
-          "url": "https://4key.cn/FP",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "url": "https://4key.cn/yVh",
+          "epg": "http://www.jxiptv.cn:5678/epg",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
           "name": "Radio",
