@@ -245,7 +245,7 @@
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
   {
-  "name":"②⑧MUYU线路",
+  "name":"②⑧MUYU604线路",
   "type":0,
   "url":"https://4key.cn/WeR",
   "playerType":2,
@@ -254,7 +254,7 @@
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
   {
-  "name":"②⑨DIPY",
+  "name":"②⑨DIPY线路",
   "type":0,
   "url":"http://iptv.diyp.site/diyp.php",
   "playerType":2,"ua":"okhttp/3.15",
