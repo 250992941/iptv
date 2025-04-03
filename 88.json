@@ -313,8 +313,8 @@
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
-  }
-  ],
+ },，
+  
   "sites":[
   {
   "key":"①",
@@ -1154,5 +1154,6 @@
     "qiu.xixiqiu.com",
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
+  ]
   ]
 }
