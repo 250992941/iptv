@@ -38,7 +38,7 @@
         },{
           "name": "my604",
           "type":"0",
-          "url": "https://4key.cn/iTE",
+          "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/MY604.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
