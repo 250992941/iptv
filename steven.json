@@ -26,7 +26,15 @@
     }, 
     {
       "url": "https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json",
-      "name": "🌈Steven丨PG肥羊cnb线路"
+      "name": "🌈Steven丨PG肥羊-fish2018本地线路"
+    },  
+    {
+      "url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json",
+      "name": "🌈Steven丨FongMi-fish2018本地线路"
+    }, 
+     {
+      "url": "https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json",
+      "name": "🌈Steven丨TVBOX-fish2018本地线路"
     }, 
     {
       "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/51.json",
