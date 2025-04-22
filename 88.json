@@ -115,7 +115,7 @@
   {
   "name":"⑬Alice TV-fork线路",
   "type":0,
-  "url":"https://gh-proxy.com/https://raw.githubusercontent.com/250992941/TV/refs/heads/master/output/s1.txt",
+  "url":"https://raw.gitmirror.com/250992941/tv2/refs/heads/main/merged_output.txt",
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
