@@ -138,6 +138,15 @@
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
+  }, 
+  {
+  "name":"⑯美家直播",
+  "type":0,
+  "url":"https://cloud.7so.top/f/1Q1cq/mjyy.txt",
+  "playerType":2,
+  "ua":"okhttp/3.15",
+  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
+  "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
   {
   "name":"⑯梅州线路",
