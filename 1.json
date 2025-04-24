@@ -1,5 +1,5 @@
-
-  "spider": "https://12260.kstore.space/tvbox/jar/spider.jar",
+{
+"spider": "https://12260.kstore.space/tvbox/jar/spider.jar",
   "logo": "https://12260.kstore.space/tvbox/logo/lt.jpg",
   "sites": [
     {
