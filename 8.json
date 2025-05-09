@@ -642,6 +642,12 @@
       "url": "http://zhibo.feylen.top/fltv/users/user_channel.txt",
       "playerType": 1
     },
+    {
+      "name": "花样直播",
+      "type": 0,
+      "url": "https://11344.kstore.space/hynh.txt",
+      "playerType": 1
+    },
      {
       "name": "YIFA-v12",
       "type": 0,
