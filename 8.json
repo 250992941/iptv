@@ -613,7 +613,7 @@
     {
       "name": "AKTV",
       "type": 0,
-      "url": "http://aktv.space/live.m3u",
+      "url": "https://aktv.space/live.m3u",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -645,7 +645,7 @@
      {
       "name": "YIFA-v12",
       "type": 0,
-      "url": "http://8.138.7.233/V12.txt",
+      "url": "http://8.138.7.233/51.txt",
       "playerType": 1
     },
      {
