@@ -12,15 +12,6 @@
       "filterable": 0
     },
     {
-      "key": "V12",
-      "name": "🎥V12 TV",
-      "type": 3,
-      "api": "http://8.138.7.233/tv.txt",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
