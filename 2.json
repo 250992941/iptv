@@ -428,9 +428,9 @@
            "logo": "https://live.fanmingming.com/tv/{name}.png"  
           },
          {
-           "name": "DIYP TV",
+           "name": "1HDJE NEW TV",
            "type": 0,
-           "url": "http://iptv.diyp.site/diyp.php",
+           "url": "https://git.acwing.com/wuhui/huas/-/raw/main/lib/newtv.txt",
            "playerType": 1,
            "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
@@ -470,9 +470,9 @@
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
-            "name": "肥羊直播国内-14",
+            "name": "飞蓝TV源",
             "type": 0,
-            "url": "http://www.xzbn.site:35455/tv.m3u",
+            "url": "http://ku9.fr.to/ku9/1744087930.txt",
             "playerType": 1,
             "logo": "https://live.fanmingming.com/tv/{name}.png"
          },
