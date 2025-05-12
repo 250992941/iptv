@@ -58,6 +58,14 @@
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
+  {"name":"⑥-1花生疾风源",
+  "type":0,
+  "url":"https://git.acwing.com/wuhui/huas/-/raw/main/lib/newtv.txt",
+  "playerType":2,
+  "ua":"okhttp/3.15",
+  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
+  "logo":"https://epg.112114.eu.org/logo/{name}.png"
+  }, 
   {
   "name":"⑦限时线路",
   "type":0,
