@@ -1644,8 +1644,33 @@ tvN Movies HD,https://d32khooduen8y3.cloudfront.net/v1/master/3722c60a815c199d9c
 美亚电影台HD,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2997&tk=e640d0a1bf70
 天映频道,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941618&extension=ts&play_token=kr082FQvzN
 
-HBO,#genre#
-HBO家庭,http://ku9.3n.cc/smt.php?id=fyi_twn
-HBO Family,http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
-HBO 3,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=56104&extension=ts&play_token=HqqAESBfCa
-HBO 2,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=56105&extension=ts&play_token=TYYmi0O3a2
+P2P源,#genre#
+凤凰中文,P2p://80.251.220.91:7999/2e1416e03c5d5b88468e6ba1bdf80075.ts
+凤凰资讯,P2p://80.251.220.91:7999/e66ec28b5bdb0f8892cfc046a80d775c.ts
+凤凰资讯,P2p://80.251.220.91:7999/ee987b5f253f85f3ac789fc18266e98d.ts
+凤凰香港,P2p://80.251.220.91:7999/02e951464b17777d78d69d2c83af22c8.ts
+翡翠,P2p://80.251.220.91:7999/5a931ed422bf2e182d41abbca438a74b.ts
+翡翠,P2p://80.251.220.91:7999/504c060715cce75a464f812d0fd8213a.ts
+翡翠4K,P2p://80.251.220.91:7999/114d4bdfcd993a587dbda655a2aeb984.ts
+无线新闻,P2p://80.251.220.91:7999/0d3f54c8f9addf9e18d5f9dac5adae19.ts
+无线新闻,P2p://80.251.220.91:7999/3b8f1e91f35c8892ef3ee7c53bddd0c9.ts
+明珠,P2p://80.251.220.91:7999/9d18cf20b598bdc32830b6d46bda9e48.ts
+明珠,P2p://80.251.220.91:7999/5e208d730000eef3097b609e7dab4938.ts
+澳门资讯,P2p://80.251.220.91:7999/d4a0807f063ba50ebfdede327fe9c158.ts
+TVB星河 国语,P2p://80.251.220.91:7999/cd7576789e91fb8a757fa0e1468651a5.ts
+Now爆谷HD,P2p://80.251.220.91:7999/8a11f82cf1c657e2db6ed1fdc2dcb3ed.m3u8
+凤凰中文HD,P2p://80.251.220.91:7999/2e1416e03c5d5b88468e6ba1bdf80075.m3u8
+凤凰资讯HD,P2p://80.251.220.91:7999/e66ec28b5bdb0f8892cfc046a80d775c.m3u8
+凤凰资讯HD,P2p://80.251.220.91:7999/ee987b5f253f85f3ac789fc18266e98d.m3u8
+凤凰香港HD,P2p://80.251.220.91:7999/02e951464b17777d78d69d2c83af22c8.m3u8
+中天新闻标HD,P2p://80.251.220.91:7999/8d13c790ceb548d8627d2e5f0382e489.m3u8
+无线新闻HD,P2p://80.251.220.91:7999/0d3f54c8f9addf9e18d5f9dac5adae19.m3u8
+无线新闻HD,P2p://80.251.220.91:7999/3b8f1e91f35c8892ef3ee7c53bddd0c9.m3u8
+无线翡翠4kHD,P2p://80.251.220.91:7999/114d4bdfcd993a587dbda655a2aeb984.m3u8
+无线翡翠HD,P2p://80.251.220.91:7999/5a931ed422bf2e182d41abbca438a74b.m3u8
+无线华丽HD,P2p://80.251.220.91:7999/504c060715cce75a464f812d0fd8213a.m3u8
+无线_E频HD,P2p://80.251.220.91:7999/919d3c4761c9626e5c07d5749ddcc0b5.m3u8
+无线星河国HD,P2p://80.251.220.91:7999/cd7576789e91fb8a757fa0e1468651a5.m3u8
+无线明珠标HD,P2p://80.251.220.91:7999/9d18cf20b598bdc32830b6d46bda9e48.m3u8
+无线明珠标HD,P2p://80.251.220.91:7999/5e208d730000eef3097b609e7dab4938.m3u8
+澳门资讯HD,P2p://80.251.220.91:7999/d4a0807f063ba50ebfdede327fe9c158.m3u8
