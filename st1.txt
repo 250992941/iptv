@@ -1,28 +1,7 @@
 🕘️更新时间,#genre#
-2025-05-12 10:56:35,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+2025-05-12 10:56:35,http://175.9.44.63:8081/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 
-央视频道1,#genre#
-CCTV-01,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv1hd
-CCTV-02,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv2hd8m
-CCTV-03,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv3hd
-CCTV-04,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv4hd4m
-CCTV-05,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv5hd
-CCTV-5+,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv5phd
-CCTV-06,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv6hd
-CCTV-07,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv7hd4m
-CCTV-08,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv8hd
-CCTV-09,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv9hd4mc
-CCTV-10,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv10hd
-CCTV-11,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv11hd4m
-CCTV-12,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv12hd4m
-CCTV-13,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv13hd4m
-CCTV-14,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctvsehd
-CCTV-15,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctvyyhd4m
-CCTV-16,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv16hd4m
-CCTV-17,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv17hd4m
-
-
-央视频道2,#genre#
+央视频道,#genre#
 CCTV1,http://175.9.44.63:8081/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://223.241.247.214:9901/tsfile/live/0001_1.m3u8
 CCTV1,http://202.168.187.208:9089/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -414,36 +393,7 @@ CETV4,http://139.129.231.228:50060/rtp/239.21.1.222:5002
 发现之旅,http://120.55.49.231:3095/rtp/233.50.201.98:5140
 电视指南,http://183.11.239.36:808/hls/13/index.m3u8
 
-
-卫视频道1,#genre#
-北京卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=bjwshd
-东方卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=hddfws
-浙江卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=zjwshd
-江苏卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=jswshd
-湖南卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=hnwshd
-广东卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=gdwshd
-深圳卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=szwshd
-天津卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=tjwshd
-安徽卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=ahwshd
-山东卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=sdwshd
-辽宁卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=lnwshd
-河北卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=hbwshd4m
-河南卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=henwshd4m
-江西卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=jxwshd
-湖北卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=hbwshd
-四川卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=scwshd4m
-重庆卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cqwshd4m
-贵州卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=gzwshd4m
-广西卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=gxwshd4m
-云南卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=ynwshd4m
-东南卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=dnwshd
-海南卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=hainwshd4m
-海峡卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=hxwshd4m
-甘肃卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=gswshd4m
-吉林卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=jlwshd4m
-黑龙江视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=hljwshd
-
-卫视频道2,#genre#
+卫视频道,#genre#
 广东卫视,http://175.9.44.63:8081/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://223.241.247.214:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://112.99.193.34:9901/tsfile/live/1043_1.m3u8?#rtsp://60.13.23.179/PLTV/88888910/224/3221225551/10000100000000060000000000107331_0.smil
@@ -1222,67 +1172,6 @@ CETV4,http://139.129.231.228:50060/rtp/239.21.1.222:5002
 足球频道,http://139.129.231.228:50060/rtp/239.21.1.162:5002
 魅力足球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=08a67f&tk=6949f8ce7202
 
-
-港澳台频道1,#genre#
-凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
-无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
-无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-无线翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
-无线翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-无线翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-无线功夫,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
-无线华丽,http://php.jdshipin.com/smt.php?id=Tvbjade
-无线华丽,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
-无线华丽,http://php.jdshipin.com:8880/smt.php?id=Wlt
-无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-无线华丽粤,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
-无线明珠,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-无线星河粤,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
-无线娱乐,http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
-无线直播,http://v2h.jdshipin.com/liveshow/liveshow.stream/chunklist_w10.m3u8
-RTHK-32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
-RTHK-33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-RTHK-34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-RTHK-35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-Plus即时,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
-民视,http://37.27.111.214:8080/live/6/hls.m3u8
-tvbs,http://61.221.215.25:8800/hls/9/index.m3u8
-中视,http://37.27.111.214:8080/live/7/hls.m3u8
-中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
-VIUTV英,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
-八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
-八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
-八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
-amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
-ASC搜索,http://61.221.215.25:8800/hls/50/index.m3u8
-AstrQJ国,http://php.jdshipin.com:8880/smt.php?id=Quanjia
-Astr爱奇,http://php.jdshipin.com:8880/smt.php?id=Qiyi
-Astr欢喜,http://php.jdshipin.com:8880/smt.php?id=Huahee
-Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
-Diso综合,http://61.221.215.25:8800/hls/1/index.m3u8
-HISTORY,http://37.27.111.214:8080/live/27/hls.m3u8
-HITs电影,http://37.27.111.214:8080/live/28/hls.m3u8
-NHK新闻,http://61.221.215.25:8800/hls/51/index.m3u8
-博斯无限,http://37.27.111.214:8080/live/15/hls.m3u8
-动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-千禧经典,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
-千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-天映,http://php.jdshipin.com:8880/smt.php?id=Celestial
-纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
-香港_C+_,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-亚洲旅游,http://37.27.111.214:8080/live/10/hls.m3u8
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
-猪哥亮歌厅国,http://37.27.111.214:8080/live/35/hls.m3u8
-
 新闻频道JW,#genre#
 凤凰中文台,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 凤凰中文台,http://202.168.187.208:9089/tsfile/live/1009_1.m3u8
@@ -1655,4 +1544,4 @@ HBO,#genre#
 HBO家庭,http://ku9.3n.cc/smt.php?id=fyi_twn
 HBO Family,http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
 HBO 3,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=56104&extension=ts&play_token=HqqAESBfCa
-HBO 2,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&str
+HBO 2,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=56105&extension=ts&play_token=TYYmi0O3a2
