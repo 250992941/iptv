@@ -50,9 +50,9 @@
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
-  {"name":"⑥蓝影兔源",
+  {"name":"⑥飞蓝TV源",
   "type":0,
-  "url":"https://dimaston.github.io/live.m3u",
+  "url":"http://ku9.fr.to/ku9/1744087930.txt",
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
