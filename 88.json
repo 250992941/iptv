@@ -58,7 +58,7 @@
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
-  {"name":"⑥-1花生疾风源",
+  {"name":"⑥-1HDJE NEW TV",
   "type":0,
   "url":"https://git.acwing.com/wuhui/huas/-/raw/main/lib/newtv.txt",
   "playerType":2,
