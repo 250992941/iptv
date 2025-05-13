@@ -13,7 +13,16 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
-  ],
+   {
+      "name": "live69",
+      "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/69.txt",
+      "type": 0,
+      "playerType": 1,
+      "ua": "okhttp/3.12.13",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+    ],
   "warningText": "看",
   "sites": [
 
