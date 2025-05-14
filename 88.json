@@ -53,7 +53,7 @@
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
-  {"name":"⑥凤凰TV源1212",
+  {"name":"⑥凤凰TV源1213",
   "type":0,
   "url":"https://raw.gitmirror.com/250992941/iptv/refs/heads/main/alist/%E5%87%A4%E5%87%B0%20TV(1).txt",
   "playerType":2,
