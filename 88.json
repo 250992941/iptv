@@ -53,9 +53,9 @@
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
-  {"name":"⑥飞蓝TV源",
+  {"name":"⑥凤凰TV源1212",
   "type":0,
-  "url":"http://ku9.fr.to/ku9/1744087930.txt",
+  "url":"https://raw.gitmirror.com/250992941/iptv/refs/heads/main/alist/%E5%87%A4%E5%87%B0%20TV(1).txt",
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
