@@ -1,8 +1,5 @@
-免费密码教程,#genre#
-免费密码教程1,http://61.163.58.168:2060/play/p/p302?chid=qQLwgWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUoxY213aU9pSm9kSFJ3T2k4dllXeHBMbWhzYzNCMWJHd3VlWGhwYldkekxtTnZiUzlzYVhabEwyWmxibWRvZFdGdVp6WnRhVzFoYW1saGIyTm9aVzVuTG1ac2QBcbhtbHdJam9pTlRrdU16WXVNVEl4TGpFNU1TSXNJblIyYVdRaU9pSTJOakUyTmpnMgWl8G5tVjRjQ0k2TVRjME56SXlNVGMyTXl3aWJtSm1Jam94TnpRM01UTTFNell6TENKcFlYUWlPakUzTkRjeE16VXpOak45LmI2Tk51aGREQUY3bVExZ0U4V2x3cGtjNVpYNVJzN2FFQVVqVzI0V2w5dnc%3D&token=3da7bd1647929390c94ebf1a8b0e8085
-免费密码教程2,http://61.163.58.168:2060/play/p/p302?chid=gAT0_wFleUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKMWNtd2lPaUpvZEhSd2N6b3ZMM2Q0YTJSb2JITXViV05zYjNWa0xqRXpPUzVqYjIwdmRqTXZhR3h6THpFMk5EQTBNVE15T1RrME5Ea3lOamMxT0RRdk56SXdMMmx1WkdWNExtMHpkVGdfWldOalBXTnJTRVpqUjBGR2RWZEdZa2REYkVnekxXUnlhME4xTldkV1YwMTNVMlo0YlZFME5rOVZiRTQxYURacFQzcElaWFJMVkROTllUSm1XRmxPY0ZsMVMzVkhYMTlSV25JNVZrRnZWVmRCYmxoU2VrazJUbXh4Y1V0Y2RUQXdNalpqYVQxR2IyZFBhSHBwTjNGSlJ6RnpVMHhYY1daT1FrYzBZbUkxVGt4QlQyRnFUSFJjZFRBd01qWjBkbXRsZVQxdE0zVTRJaXdpYVhBaU9pSTFPUzR6Tmk0eE1qRXVNVGt4SWl3aWRIWnBaQ0k2SWpZMk1UWTJPRFkySWl3aVpYaHdJam94TnpRM01qSXhOell6TENKdVltWWlPakUzTkRjeE16VXpOak1zSW1saGRDSTZNVGMwTnpFek5UTTJNMzAucTZXb2pvVmprQmhPaGo5dU8za05QVDFZY1FnSGktdUZpajA2SDNxZkQzRQ%3D%3D&token=3da7bd1647929390c94ebf1a8b0e8085
 央视频道,#genre#
-免费密码教程,http://61.163.58.168:2060/play/p/p302?chid=qQLwgWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUoxY213aU9pSm9kSFJ3T2k4dllXeHBMbWhzYzNCMWJHd3VlWGhwYldkekxtTnZiUzlzYVhabEwyWmxibWRvZFdGdVp6WnRhVzFoYW1saGIyTm9aVzVuTG1ac2QBcbhtbHdJam9pTlRrdU16WXVNVEl4TGpFNU1TSXNJblIyYVdRaU9pSTJOakUyTmpnMgWl8G5tVjRjQ0k2TVRjME56SXlNVGMyTXl3aWJtSm1Jam94TnpRM01UTTFNell6TENKcFlYUWlPakUzTkRjeE16VXpOak45LmI2Tk51aGREQUY3bVExZ0U4V2x3cGtjNVpYNVJzN2FFQVVqVzI0V2w5dnc%3D&token=3da7bd1647929390c94ebf1a8b0e8085
+
 CCTV1,http://61.163.58.168:2060/play/forward/1?tvid=1&token=3da7bd1647929390c94ebf1a8b0e8085
 CCTV2,http://61.163.58.168:2060/play/forward/1?tvid=2&token=3da7bd1647929390c94ebf1a8b0e8085
 CCTV3,http://61.163.58.168:2060/play/forward/1?tvid=3&token=3da7bd1647929390c94ebf1a8b0e8085
@@ -28,7 +25,7 @@ CGTN法语,http://61.163.58.168:2060/play/p/p302?chid=gALwfWV5SmhiR2NpT2lKSVV6ST
 CGTN西语,http://61.163.58.168:2060/play/p/p302?chid=gALwfWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUoxY213aU9pSm9kSFJ3Y3pvdkx6QTBOekl1YjNKbkwyaHNjeTlqWjNSdWVDNXRNM1U0SWl3aWFYQWlPaUkxT1M0ek5pNHhNakV1TVRreElpd2lkSFpwWgFlKGpZMk1UWTJPRFkyATTwblpYaHdJam94TnpRM01qSXhOell6TENKdVltWWlPakUzTkRjeE16VXpOak1zSW1saGRDSTZNVGMwTnpFek5UTTJNMzAuX3dQQ25iY0RzMDJOOWVOMkZJZVNBYlpyWE9DUl9yYV9QX2JPSV9HQ05pWQ%3D%3D&token=3da7bd1647929390c94ebf1a8b0e8085
 CGTN阿语,http://61.163.58.168:2060/play/p/p302?chid=gALwfWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUoxY213aU9pSm9kSFJ3Y3pvdkx6QTBOekl1YjNKbkwyaHNjeTlqWjNSdVlTNXRNM1U0SWl3aWFYQWlPaUkxT1M0ek5pNHhNakV1TVRreElpd2lkSFpwWgFlKGpZMk1UWTJPRFkyATTwblpYaHdJam94TnpRM01qSXhOell6TENKdVltWWlPakUzTkRjeE16VXpOak1zSW1saGRDSTZNVGMwTnpFek5UTTJNMzAuRGxnemVDWGtYaXNxWmpfbmxiSDV5X2k2eUpjblVBNEhRTXhkczJRVVJPbw%3D%3D&token=3da7bd1647929390c94ebf1a8b0e8085
 卫视频道,#genre#
-免费密码教程,http://61.163.58.168:2060/play/p/p302?chid=qQLwgWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUoxY213aU9pSm9kSFJ3T2k4dllXeHBMbWhzYzNCMWJHd3VlWGhwYldkekxtTnZiUzlzYVhabEwyWmxibWRvZFdGdVp6WnRhVzFoYW1saGIyTm9aVzVuTG1ac2QBcbhtbHdJam9pTlRrdU16WXVNVEl4TGpFNU1TSXNJblIyYVdRaU9pSTJOakUyTmpnMgWl8G5tVjRjQ0k2TVRjME56SXlNVGMyTXl3aWJtSm1Jam94TnpRM01UTTFNell6TENKcFlYUWlPakUzTkRjeE16VXpOak45LmI2Tk51aGREQUY3bVExZ0U4V2x3cGtjNVpYNVJzN2FFQVVqVzI0V2w5dnc%3D&token=3da7bd1647929390c94ebf1a8b0e8085
+
 北京卫视,http://61.163.58.168:2060/play/forward/2?tvid=75&token=3da7bd1647929390c94ebf1a8b0e8085
 湖南卫视,http://61.163.58.168:2060/play/forward/2?tvid=19&token=3da7bd1647929390c94ebf1a8b0e8085
 浙江卫视,http://61.163.58.168:2060/play/forward/2?tvid=20&token=3da7bd1647929390c94ebf1a8b0e8085
@@ -77,7 +74,7 @@ ZooMoo,http://61.163.58.168:2060/play/forward/3?tvid=MytvZooMoo&token=3da7bd1647
 Nickelodeon,http://61.163.58.168:2060/play/forward/3?tvid=MytvNickeledeon&token=3da7bd1647929390c94ebf1a8b0e8085
 NickJr儿童频道,http://61.163.58.168:2060/play/forward/3?tvid=MytvNickJr&token=3da7bd1647929390c94ebf1a8b0e8085
 i-Fun動漫台,http://61.163.58.168:2060/play/forward/3?tvid=ifunanime&token=3da7bd1647929390c94ebf1a8b0e8085
-影视频道_1213,#genre#
+影视频道,#genre#
 CHC家庭影院,http://61.163.58.168:2060/play/forward/1?tvid=28&token=3da7bd1647929390c94ebf1a8b0e8085
 CHC影迷电影,http://61.163.58.168:2060/play/forward/1?tvid=30&token=3da7bd1647929390c94ebf1a8b0e8085
 CHC动作电影,http://61.163.58.168:2060/play/forward/1?tvid=29&token=3da7bd1647929390c94ebf1a8b0e8085
@@ -119,7 +116,7 @@ HBO强档,http://61.163.58.168:2060/play/forward/4?tvid=HBOHits&token=3da7bd1647
 HBO家庭,http://61.163.58.168:2060/play/forward/4?tvid=HBOFamilytw&token=3da7bd1647929390c94ebf1a8b0e8085
 好莱坞电影,http://61.163.58.168:2060/play/forward/4?tvid=hollywood&token=3da7bd1647929390c94ebf1a8b0e8085
 amc最爱电影,http://61.163.58.168:2060/play/forward/4?tvid=amcmovies&token=3da7bd1647929390c94ebf1a8b0e8085
-体育频道_1213,#genre#
+体育频道,#genre#
 CCTV5,http://61.163.58.168:2060/play/forward/1?tvid=5&token=3da7bd1647929390c94ebf1a8b0e8085
 CCTV5+,http://61.163.58.168:2060/play/forward/1?tvid=6&token=3da7bd1647929390c94ebf1a8b0e8085
 CCTV16,http://61.163.58.168:2060/play/forward/1?tvid=17&token=3da7bd1647929390c94ebf1a8b0e8085
@@ -163,7 +160,7 @@ GinxTV电竞频道,http://61.163.58.168:2060/play/forward/4?tvid=GINXEsportsTV&t
 智林体育台,http://61.163.58.168:2060/play/forward/4?tvid=oursport&token=3da7bd1647929390c94ebf1a8b0e8085
 TRACESportStars,http://61.163.58.168:2060/play/forward/4?tvid=tracesportstars&token=3da7bd1647929390c94ebf1a8b0e8085
 纬来体育,http://61.163.58.168:2060/play/p/p302?chid=nQLwdWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUoxY213aU9pSm9kSFJ3T2k4dllXeHBMbWhzYzNCMWJHd3VlWGhwYldkekxtTnZiUzlzYVhabEwzRjNkRjkzWldsc1lXbDBhWGwxTG1ac2QBZbhtbHdJam9pTlRrdU16WXVNVEl4TGpFNU1TSXNJblIyYVdRaU9pSTJOakUyTmpnMgWZCG1WNAGZ8GdNVGMwTnpJeU1UYzJNeXdpYm1KbUlqb3hOelEzTVRNMU16WXpMQ0pwWVhRaU9qRTNORGN4TXpVek5qTjkuM1dVZUw4OHBYMFcxRURxS3JXSnpTcFIyaVR1LUowNXNzSC1VREFUWlBmYw%3D%3D&token=3da7bd1647929390c94ebf1a8b0e8085
-香港频道_1213,#genre#
+香港频道,#genre#
 凤凰中文台,http://61.163.58.168:2060/play/p/p302?chid=lQLwbWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUoxY213aU9pSm9kSFJ3T2k4dllXeHBMbWhzYzNCMWJHd3VlWGhwYldkekxtTnZiUzlzYVhabEwzRjNkRjltYUhwM0xtWnNkAV24bWx3SWpvaU5Ua3VNell1TVRJeExqRTVNU0lzSW5SMmFXUWlPaUkyTmpFMk5qZzIFkQhtVjQBkfBnTVRjME56SXlNVGMyTXl3aWJtSm1Jam94TnpRM01UTTFNell6TENKcFlYUWlPakUzTkRjeE16VXpOak45LllfQThzNF9udGRfZUxfRmhlYWpTYWZ5YTVEUmY3M04xTE0zaDd5Zy1FY0U%3D&token=3da7bd1647929390c94ebf1a8b0e8085
 凤凰资讯台,http://61.163.58.168:2060/play/p/p302?chid=lQLwbWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUoxY213aU9pSm9kSFJ3T2k4dllXeHBMbWhzYzNCMWJHd3VlWGhwYldkekxtTnZiUzlzYVhabEwzRjNkRjltYUhwNExtWnNkAV24bWx3SWpvaU5Ua3VNell1TVRJeExqRTVNU0lzSW5SMmFXUWlPaUkyTmpFMk5qZzIFkQhtVjQBkfBnTVRjME56SXlNVGMyTXl3aWJtSm1Jam94TnpRM01UTTFNell6TENKcFlYUWlPakUzTkRjeE16VXpOak45Lk5TMVhJeWdUS0tzcGZIcFVYR0RTbUI4anRtdnhMd2RiUTFoYXZEdWkyWnM%3D&token=3da7bd1647929390c94ebf1a8b0e8085
 凤凰香港台,http://61.163.58.168:2060/play/p/p302?chid=lQLwbWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUoxY213aU9pSm9kSFJ3T2k4dllXeHBMbWhzYzNCMWJHd3VlWGhwYldkekxtTnZiUzlzYVhabEwzRjNkRjltYUdockxtWnNkAV24bWx3SWpvaU5Ua3VNell1TVRJeExqRTVNU0lzSW5SMmFXUWlPaUkyTmpFMk5qZzIFkQhtVjQBkfBnTVRjME56SXlNVGMyTXl3aWJtSm1Jam94TnpRM01UTTFNell6TENKcFlYUWlPakUzTkRjeE16VXpOak45LnZHX3dud0l0NUc2b0ZRTlNfY3JsZzl4eUZ3aVY2V3FvZjVsbDZPX1JCYWM%3D&token=3da7bd1647929390c94ebf1a8b0e8085
@@ -219,7 +216,7 @@ HandsUP,http://61.163.58.168:2060/play/forward/4?tvid=MytvKidsChannel&token=3da7
 粤语片台,http://61.163.58.168:2060/play/forward/4?tvid=MytvCantoneseChannel&token=3da7bd1647929390c94ebf1a8b0e8085
 亚洲综合娱乐台,http://61.163.58.168:2060/play/forward/4?tvid=MYTVASIAVARIETY&token=3da7bd1647929390c94ebf1a8b0e8085
 28AI智慧赛马,http://61.163.58.168:2060/play/forward/4?tvid=aihorseracing&token=3da7bd1647929390c94ebf1a8b0e8085
-台湾频道_1213,#genre#
+台湾频道,#genre#
 中视,http://61.163.58.168:2060/play/forward/4?tvid=ctvtwhd&token=3da7bd1647929390c94ebf1a8b0e8085
 中视,http://61.163.58.168:2060/play/forward/4?tvid=ctvhdlm&token=3da7bd1647929390c94ebf1a8b0e8085
 中视,http://61.163.58.168:2060/play/forward/4?tvid=35&token=3da7bd1647929390c94ebf1a8b0e8085
@@ -403,7 +400,7 @@ Smart知识台,http://61.163.58.168:2060/play/forward/4?tvid=SmartKnowledge&toke
 MTV音乐频道,http://61.163.58.168:2060/play/forward/4?tvid=mtvlivehd&token=3da7bd1647929390c94ebf1a8b0e8085
 韩国娱乐台,http://61.163.58.168:2060/play/forward/4?tvid=kmtv&token=3da7bd1647929390c94ebf1a8b0e8085
 猪哥亮歌厅秀,http://61.163.58.168:2060/play/forward/4?tvid=ZhuGeliangCabaret&token=3da7bd1647929390c94ebf1a8b0e8085
-国外频道_1213,#genre#
+国外频道,#genre#
 AstroAEC,http://61.163.58.168:2060/play/forward/4?tvid=AstroAECHD&token=3da7bd1647929390c94ebf1a8b0e8085
 AstroQJ,http://61.163.58.168:2060/play/forward/4?tvid=AstroQuanJiaHD&token=3da7bd1647929390c94ebf1a8b0e8085
 AstroAOD,http://61.163.58.168:2060/play/forward/4?tvid=AstroAOD311HDHK#forward&token=3da7bd1647929390c94ebf1a8b0e8085
