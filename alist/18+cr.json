@@ -87,7 +87,7 @@
   {
   "name":"CR-2",
   "type":0,
-  "url":"https://raw.githubusercontent.com/250992941/iptv/refs/heads/main/alist/18-1.txt",
+  "url":"https://raw.gitmirror.com/250992941/iptv/refs/heads/main/alist/18-1.txt",
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -96,7 +96,7 @@
   {
   "name":"CR-3",
   "type":0,
-  "url":"https://raw.githubusercontent.com/250992941/iptv/refs/heads/main/alist/18-2.txt",
+  "url":"https://raw.gitmirror.com/250992941/iptv/refs/heads/main/alist/18-2.txt",
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
