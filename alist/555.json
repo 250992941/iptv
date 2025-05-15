@@ -130,9 +130,9 @@
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
   {
-  "name":"KWCOPY线路",
+  "name":"小飞线路",
   "type":0,
-  "url":"https://gh-proxy.com/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/merged_output.txt",
+  "url":"https://git.acwing.com/511017767/zb/-/raw/main/ZB.txt",
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
