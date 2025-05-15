@@ -76,27 +76,27 @@
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
   {
-  "name":"频晴专线",
+  "name":"CR-1",
   "type":0,
-  "url":"http://rihou.cc:555/qtsd",
+  "url":"https://raw.gitmirror.com/250992941/iptv/refs/heads/main/69.txt",
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
   {
-  "name":"晴天线路",
+  "name":"CR-2",
   "type":0,
-  "url":"http://rihou.cc:555/0920",
+  "url":"git.acwing.com/Mix2025/0/-/raw/0/Mix1.txt",
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
   {
-  "name":"限时线路",
+  "name":"CR-3",
   "type":0,
-  "url":"http://rihou.cc:555/0621",
+  "url":"git.acwing.com/Mix2025/v/-/raw/1/12十八禁.txt",
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
