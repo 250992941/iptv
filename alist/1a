@@ -50,9 +50,9 @@
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
-  {"name":"飞蓝TV源",
+  {"name":"电视家重生版源",
   "type":0,
-  "url":"http://ku9.fr.to/ku9/1744087930.txt",
+  "url":"https://git.acwing.com/bang359/ba/-/raw/main/dsj4.16.txt",
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -85,9 +85,9 @@
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
   {
-  "name":"小龙电视线路",
+  "name":"Guovin电视线路",
   "type":0,
-  "url":"https://git.acwing.com/xlysyyds/dxl900109/-/raw/c254a4a701861c023e9674d74ab5fb15e88066c8/%E5%B0%8F%E9%BE%99%E7%94%B5%E8%A7%86%E9%85%B79.txt",
+  "url":"https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/output/result.txt,
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -157,9 +157,9 @@
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
   {
-  "name":"梅州线路",
+  "name":"🇨🇳每日自动采集直播",
   "type":0,
-  "url":"https://103.115.40.138:6164/down/k4Aj0TlH3wax",
+  "url":"https://live.izbds.com/tv/iptv4.txt",
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -183,9 +183,9 @@
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
   {
-  "name":"⑲测试线路",
+  "name":"ku9线路",
   "type":0,
-  "url":"https://yubox.xyz/live.txt",
+  "url":"http://150.158.112.123/ku9/fl.txt",
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -210,26 +210,26 @@
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
   {
-  "name":"综合二线",
+  "name":"综合二线-GD酒店源",
   "type":0,
-  "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+  "url":"https://gyssi.link/iptv/chinaiptv/%E5%B9%BF%E4%B8%9C%E7%9C%81.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
   {
-  "name":"综合三线",
+  "name":"综合三线-HN酒店源",
   "type":0,
-  "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+  "url":"https://gyssi.link/iptv/chinaiptv/%E6%B9%96%E5%8D%97%E7%9C%81.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
   "playerType":2,"ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
   {
-  "name":"综合四线",
+  "name":"综合四线-JS酒店源",
   "type":0,
-  "url":"https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+  "url":"https://gyssi.link/iptv/chinaiptv/%E6%B1%9F%E8%8B%8F%E7%9C%81.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
   "playerType":2,"ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
@@ -253,9 +253,9 @@
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
   {
-  "name":"范明电台",
+  "name":"电台节目",
   "type":0,
-  "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u",
+  "url":"https://raw.githubusercontent.com/250992941/iptv/refs/heads/main/radio.txt",
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -271,9 +271,9 @@
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
   {
-  "name":"DIPY线路",
+  "name":"综合五线-ZJ酒店源",
   "type":0,
-  "url":"http://iptv.diyp.site/diyp.php",
+  "url":"https://gyssi.link/iptv/chinaiptv/%E6%B5%99%E6%B1%9F%E7%9C%81.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
