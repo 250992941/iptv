@@ -166,9 +166,9 @@
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
   {
-  "name":"MDXGH线路",
+  "name":"YIFA线路",
   "type":0,
-  "url":"http://mdxgh.tpddns.cn:9999/new/mdzb.txt",
+  "url":"https://raw.gitmirror.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
   "playerType":2,"ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
@@ -271,9 +271,9 @@
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
   {
-  "name":"综合五线-ZJ酒店源",
+  "name":"vbskycn源",
   "type":0,
-  "url":"https://gyssi.link/iptv/chinaiptv/%E6%B5%99%E6%B1%9F%E7%9C%81.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
+  "url":"https://raw.gitmirror.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt",
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
