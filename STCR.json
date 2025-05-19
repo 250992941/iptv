@@ -1,0 +1,32 @@
+{
+  "urls": [ 
+   {
+      "url": "https://git.acwing.com/lw0704/66/-/raw/master/dc2.json",
+      "name": "🌈CR丨线路1"
+    },  
+    {
+      "url": "https://java.keai.nyc.mn/https://raw.githubusercontent.com/yxy2015/1/refs/heads/main/18.json",
+      "name": "🌈CR丨线路2"
+    }, 
+   {
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/dlee2008/p/refs/heads/main/老王.json",
+      "name": "🌈CR丨线路3"
+    }, 
+    {
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/zhoujck/config/refs/heads/main/test",
+      "name": "🌈CR丨线路4"
+    }, 
+    {
+      "url": " https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json-18x",
+      "name": "🌈CR丨线路5"
+    }, 
+    {
+      "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/CR1.json",
+      "name": "🌈ST丨线路1"
+    }, 
+    {
+      "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/CR192.json",
+      "name": "🌈ST丨线路1"
+    }
+      ]
+}
