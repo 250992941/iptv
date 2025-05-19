@@ -319,8 +319,8 @@
             "logo": "http://127.0.0.1:10079/p/0/proxy/http://content.stream-link.org/epg/guide.xml/logo/{name}.png"
         },
         {
-            "name": "crzb",
-            "url": "http://bwind.fr.to/m3u/crzb.txt",
+            "name": "18tv",
+            "url": "https://raw.githubusercontent.com/yxy2015/1/refs/heads/main/js/18/18TV.txt",
             "type": 0,
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://content.stream-link.org/epg/guide.xml/?ch={name}&date={date}",
