@@ -103,165 +103,229 @@
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
   {
-  "name":"临测线路",
-  "type":0,
-  "url":"http://rihou.cc:555/0620",
-  "playerType":2,
-  "ua":"okhttp/3.15",
-  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
-  "logo":"https://epg.112114.eu.org/logo/{name}.png"
-  },
-  {
-  "name":"Guovin电视线路",
-  "type":0,
-  "url":"https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/output/result.txt",
-  "playerType":2,
-  "ua":"okhttp/3.15",
-  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
-  "logo":"https://epg.112114.eu.org/logo/{name}.png"
-  },
-  {
-  "name":"Alice ST1线路",
-  "type":0,
-  "url":"https://gh-proxy.com/https://raw.githubusercontent.com/250992941/iptv/refs/heads/main/st1.txt",
-  "playerType":2,
-  "ua":"okhttp/3.15",
-  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
-  "logo":"https://epg.112114.eu.org/logo/{name}.png"
-  },
-  
-  {
-  "name":"Alice TV-fork线路",
-  "type":0,
-  "url":"https://raw.gitmirror.com/250992941/tv2/refs/heads/main/merged_output.txt",
-  "playerType":2,
-  "ua":"okhttp/3.15",
-  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
-  "logo":"https://epg.112114.eu.org/logo/{name}.png"
-  },
-  {
-  "name":"小飞线路",
-  "type":0,
-  "url":"https://git.acwing.com/511017767/zb/-/raw/main/ZB.txt",
-  "playerType":2,
-  "ua":"okhttp/3.15",
-  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
-  "logo":"https://epg.112114.eu.org/logo/{name}.png"
-  },
-  {
-  "name":"Film-Television线路",
-  "type":0,
-  "url":"https://gh-proxy.com/https://raw.githubusercontent.com/qinvision/Film-Television/refs/heads/main/dujuejiami.txt",
-  "playerType":2,
-  "ua":"okhttp/3.15",
-  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
-  "logo":"https://epg.112114.eu.org/logo/{name}.png"
-  }, 
-  {
-  "name":"美家直播",
-  "type":0,
-  "url":"https://cloud.7so.top/f/1Q1cq/mjyy.txt",
-  "playerType":2,
-  "ua":"okhttp/3.15",
-  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
-  "logo":"https://epg.112114.eu.org/logo/{name}.png"
-  },
-  {
-  "name":"🇨🇳每日自动采集直播",
-  "type":0,
-  "url":"https://live.izbds.com/tv/iptv4.txt",
-  "playerType":2,
-  "ua":"okhttp/3.15",
-  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
-  "logo":"https://epg.112114.eu.org/logo/{name}.png"
-  },
-  {
-  "name":"YIFA线路",
-  "type":0,
-  "url":"https://raw.gitmirror.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
-  "playerType":2,"ua":"okhttp/3.15",
-  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
-  "logo":"https://epg.112114.eu.org/logo/{name}.png"
-  },
-  {
-  "name":"欧华线路",
-  "type":0,
-  "url":"https://notabug.org/kan314/dd/raw/main/0426hua159.txt",
-  "playerType":2,
-  "ua":"okhttp/3.15",
-  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
-  "logo":"https://epg.112114.eu.org/logo/{name}.png"
-  },
-  {
-  "name":"ku9线路",
-  "type":0,
-  "url":"http://150.158.112.123/ku9/fl.txt",
-  "playerType":2,
-  "ua":"okhttp/3.15",
-  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
-  "logo":"https://epg.112114.eu.org/logo/{name}.png"
-  },
-  {
-  "name":"晴天线路",
-  "type":0,
-  "url":"https://dpaste.org/FGsWR/raw",
-  "playerType":2,
-  "ua":"okhttp/3.15",
-  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
-  "logo":"https://epg.112114.eu.org/logo/{name}.png"
-  },
-  {
-  "name":"综合线路",
-  "type":0,
-  "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
-  "playerType":2,
-  "ua":"okhttp/3.15",
-  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
-  "logo":"https://epg.112114.eu.org/logo/{name}.png"
-  },
-  {
-  "name":"综合二线-GD酒店源",
-  "type":0,
-  "url":"https://gyssi.link/iptv/chinaiptv/%E5%B9%BF%E4%B8%9C%E7%9C%81.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
-  "playerType":2,
-  "ua":"okhttp/3.15",
-  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
-  "logo":"https://epg.112114.eu.org/logo/{name}.png"
-  },
-  {
-  "name":"综合三线-HN酒店源",
-  "type":0,
-  "url":"https://gyssi.link/iptv/chinaiptv/%E6%B9%96%E5%8D%97%E7%9C%81.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
-  "playerType":2,"ua":"okhttp/3.15",
-  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
-  "logo":"https://epg.112114.eu.org/logo/{name}.png"
-  },
-  {
-  "name":"综合四线-组播源",
-  "type":0,
-  "url":"https://raw.gitmirror.com/q1017673817/iptvz/refs/heads/main/zubo.txt",
-  "playerType":2,"ua":"okhttp/3.15",
-  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
-  "logo":"https://epg.112114.eu.org/logo/{name}.png"
-  },
-  {
-  "name":"探探线路",
-  "type":0,
-  "url":"http://www.lyyytv.cn/yt/zhibo/1.txt",
-  "playerType":2,
-  "ua":"okhttp/3.15",
-  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
-  "logo":"https://epg.112114.eu.org/logo/{name}.png"
-  },
-  {
-  "name":"AKTV线路",
-  "type":0,
-  "url":"http://aktv.space/live.m3u",
-  "playerType":2,
-  "ua":"okhttp/3.15",
-  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
-  "logo":"https://epg.112114.eu.org/logo/{name}.png"
-  },
+            "name": "天美传媒816",
+            "type": 0,
+            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/天美传媒816.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "果冻传媒816",
+            "type": 0,
+            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/果冻传媒816.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "麻豆传媒816",
+            "type": 0,
+            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/麻豆传媒816.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "星空传媒816",
+            "type": 0,
+            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/星空传媒816.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "精东影业816",
+            "type": 0,
+            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/精东影业816.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "国产传媒",
+            "type": 0,
+            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/国产传媒.m3u",
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "pron",
+            "type": 0,
+            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/pron.m3u",
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "几个传媒",
+            "type": 0,
+            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/几个传媒.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "成人传媒",
+            "type": 0,
+            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/成人传媒.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "181818",
+            "type": 0,
+            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/181818.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "live18",
+            "type": 0,
+            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/live18.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "花活",
+            "type": 0,
+            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/花活.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "18资源丰富",
+            "type": 0,
+            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/18资源丰富.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "至尊",
+            "type": 0,
+            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/至尊.m3u",
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "终极",
+            "type": 0,
+            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/终极.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "Jable嗅探",
+            "type": 0,
+            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/Jable嗅探.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "vip源",
+            "type": 0,
+            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/vip源.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "成人",
+            "type": 0,
+            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/维护成人.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "18+",
+            "type": 0,
+            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/18+.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "全球",
+            "type": 0,
+            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/全球.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "无敌",
+            "type": 0,
+            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/无敌.m3u",
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "经典",
+            "type": 0,
+            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/经典.m3u",
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "成人电影",
+            "type": 0,
+            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/成人电影.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "珍藏",
+            "type": 0,
+            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/珍藏.m3u",
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "绝品",
+            "type": 0,
+            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/绝品.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "美腿丝袜",
+            "type": 0,
+            "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/美腿丝袜.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "x315601",
+            "url": "http://x315601.serv00.net/10.php",
+            "type": 0,
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://content.stream-link.org/epg/guide.xml/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/http://content.stream-link.org/epg/guide.xml/logo/{name}.png"
+        },
+        {
+            "name": "crzb",
+            "url": "http://bwind.fr.to/m3u/crzb.txt",
+            "type": 0,
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://content.stream-link.org/epg/guide.xml/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/http://content.stream-link.org/epg/guide.xml/logo/{name}.png"
+        },
   {
   "name":"电台节目",
   "type":0,
