@@ -1791,10 +1791,7 @@ tvN Movies HD,https://d32khooduen8y3.cloudfront.net/v1/master/3722c60a815c199d9c
 纬来电影台,http://108.181.20.197/livehttpplay?channel_id=20199
 
 HBO,#genre#
-HBO,http://108.181.20.197/livehttpplay?channel_id=20093
-HBO家庭,http://ku9.3n.cc/smt.php?id=fyi_twn
+HBO HD,http://150.138.77.132:10037/xxw/Smartv.php?id=hbohd_twn
+HBO Family,http://150.138.77.132:10037/xxw/Smartv.php?id=fyi_twn
 HBO Family,http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
 HBO Family,http://108.181.20.197/livehttpplay?channel_id=20092
-HBO 3,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=56104&extension=ts&play_token=HqqAESBfCa
-HBO 2,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=56105&extension=ts&play_token=TYYmi0O3a2
-HBO (Asia),http://108.181.20.197/livehttpplay?channel_id=20093
