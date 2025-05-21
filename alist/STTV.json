@@ -184,6 +184,24 @@
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
   {
+  "name":"WEB电视直播线路--21",
+  "type":0,
+  "url":"http://150.158.112.123/ku9/video.txt",
+  "playerType":2,
+  "ua":"okhttp/3.15",
+  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
+  "logo":"https://epg.112114.eu.org/logo/{name}.png"
+  },
+  {
+  "name":"WEB电视直播线路--22",
+  "type":0,
+  "url":"https://raw.githubusercontent.com/250992941/iptv/refs/heads/main/alist/%E6%B8%AF%E5%8F%B0web.txt",
+  "playerType":2,
+  "ua":"okhttp/3.15",
+  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
+  "logo":"https://epg.112114.eu.org/logo/{name}.png"
+  },
+  {
   "name":"斗鱼线路",
   "type":0,
   "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/douyuyqk.m3u",
