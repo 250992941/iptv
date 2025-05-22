@@ -406,9 +406,9 @@
            "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
-          "name": "AKTV",
+          "name": "MUYU604线路",
           "type": 0,
-          "url": "https://aktv.space/live.m3u",
+          "url": "https://4key.cn/iTE",
           "playerType": 1,
           "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
           "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -477,9 +477,9 @@
             "logo": "https://live.fanmingming.com/tv/{name}.png"
          },
         {
-            "name": "肥羊直播国内-17",
+            "name": "组播源",
             "type": 0,
-            "url": "http://www.zhch682022.cn:35455/tv.m3u",
+            "url": "https://raw.gitmirror.com/q1017673817/iptvz/refs/heads/main/zubo.txt",
             "playerType": 1,
             "logo": "https://live.fanmingming.com/tv/{name}.png"
          },
