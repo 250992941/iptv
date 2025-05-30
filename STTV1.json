@@ -1,6 +1,15 @@
 {
   "urls": [ 
    {
+      "url": "http://cgecrg1234.xhwl.shop/STTV-XFNN/0525.json",
+      "name": "STTV-XFNN-主用接口"
+    },
+    {
+      "url": "http://150.158.112.123/jar/ce3.json",
+      "name": "STTV-XFNN-玉玉影视"
+    },
+
+    {
       "url": "http://www.饭太硬.com/tv/",
       "name": "🌈饭太硬"
     }, 
