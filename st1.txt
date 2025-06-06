@@ -1,12 +1,12 @@
 🕘️更新时间,#genre#
-2025-06-06 13:48:06,http://112.99.193.34:9901/tsfile/live/1017_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+2025-06-06 14:48:06,http://cqshushu.us.kg:2086/gddx.php?id=239.77.0.241:5146&公众号【医工学习日志】
 
 央视频道,#genre#
 CCTV-1,http://cqshushu.us.kg:2086/gddx.php?id=239.77.0.241:5146&公众号【医工学习日志】
 CCTV-1,http://cqshushu.us.kg:2086/gddx.php?id=239.77.1.17:5146&公众号【医工学习日志】
 CCTV-1,http://cqshushu.us.kg:2086/gddx.php?id=239.77.1.144:5146&公众号【医工学习日志】
 CCTV-1,http://cqshushu.us.kg:2086/gddx.php?id=239.77.0.119:5146&公众号【医工学习日志】
-CCTV-1(CCTV -1综合),http://cqshushu.us.kg:2086/gddx.php?id=239.77.0.86:5146&公众号【医工学习日志】
+CCTV-1,http://cqshushu.us.kg:2086/gddx.php?id=239.77.0.86:5146&公众号【医工学习日志】
 CCTV-1,http://cqshushu.us.kg:2086/gddx.php?id=239.77.0.129:5146&公众号【医工学习日志】
 CCTV-2,http://cqshushu.us.kg:2086/gddx.php?id=239.77.1.158:5146&公众号【医工学习日志】
 CCTV-2,http://cqshushu.us.kg:2086/gddx.php?id=239.253.43.17:5146&公众号【医工学习日志】
