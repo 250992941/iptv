@@ -1139,3 +1139,1269 @@ HBO (Asia),http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258
 HBO (Asia),https://dko29we9nm1rd.cloudfront.net/hls/CH115/index.m3u8
 HBO (Asia),http://108.181.20.197/livehttpplay?channel_id=20093
 HBO (Asia),http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571204&extension=ts&play_token=TQWwwF8fB9
+
+台灣,#genre#
+民視,mitv://starvod.xyz:19806/cd92cc6dfb0d4318965a3b54ad335fbb.ts
+人間衛視,mitv://starvod.xyz:19806/68401339000bbb1d0a8f72ec010f3dc0.ts
+台視,mitv://starvod.xyz:19806/9a00c255ab124b1a91d3ebbf57756d1e.ts
+大愛,mitv://starvod.xyz:19806/3e0c07f7812f423bb07d874d61bb62aa.ts
+中視,mitv://starvod.xyz:19806/6836b92f0009e944e607b37f225e727f.ts
+霹靂台灣台,mitv://starvod.xyz:19806/1b2a6a4d06b14a00908ee2bbb1cc617e.ts
+華視,mitv://starvod.xyz:19806/c2aa54f26921463ba6952a8ab0d3e9eb.ts
+公視,mitv://starvod.xyz:19806/9b573a1731d74eb6accc2505d18fc1c8.ts
+公視台語台,mitv://starvod.xyz:19806/b14600af4b614c7882c1f8d1108fee19.ts
+好消息,mitv://starvod.xyz:19806/683be1d0000ef592fa2e719f2e2857df.ts
+原住民電視台,mitv://starvod.xyz:19806/0e9b8c40d4b54342ae81efae98120c54.ts
+客家電視台,mitv://starvod.xyz:19806/4264a306bd714d07becca1a210183e71.ts
+BBC Earth,mitv://starvod.xyz:19806/d224bc93c97946d387701bbcf165afad.ts
+探索頻道,mitv://starvod.xyz:19806/3dd114a2f6534af997c08015c712b218.ts
+動物星球,mitv://starvod.xyz:19806/031368515cad4414a1f0429357a69d22.ts
+CN卡通頻道,mitv://starvod.xyz:19806/4d1d2ecae7f94320a485136c48eb9315.ts
+尼克兒童頻道,mitv://starvod.xyz:19806/578d3e6522bb4dcdaaee5c01246a89d6.ts
+MOMO親子台,mitv://starvod.xyz:19806/f6b2f419c63c429f82c93bef5767eed1.ts
+東森幼幼台,mitv://starvod.xyz:19806/655568da0b2d48d48c1460ab03bb2289.ts
+緯來綜合台,mitv://starvod.xyz:19806/12b1022a452d44df8aaefdcde09a57bf.ts
+八大第一台,mitv://starvod.xyz:19806/e8830993fd404900a0438ad2cf6d0fdd.ts
+八大綜合台,mitv://starvod.xyz:19806/e66207f681ba4f5eaa88053f784c01e4.ts
+三立台灣台,mitv://starvod.xyz:19806/58e136fc9f924abd9ecae125da26586c.ts
+三立都會台,mitv://starvod.xyz:19806/e672ce75014c4a8a95df6c2ec8c22b73.ts
+韓國娛樂台,mitv://starvod.xyz:19806/dff85640b8f24e5b9deba4619c6ef60b.ts
+東森綜合台,mitv://starvod.xyz:19806/799fa5e77f4442edb0cd2d705850e365.ts
+超視,mitv://starvod.xyz:19806/bae012fa49c442ffbb609f0bd37383cf.ts
+中天綜合台,mitv://starvod.xyz:19806/f114b85096cd44c8af4b4940462ed5ea.ts
+中天娛樂台,mitv://starvod.xyz:19806/8d5c2c39309d478db77500e77d647f90.ts
+東森戲劇台,mitv://starvod.xyz:19806/0ed2b2147c7448eb9e1c3576f8d8ae83.ts
+八大戲劇台,mitv://starvod.xyz:19806/46e7eb5599404c4095561068cbaed8f3.ts
+TVBS歡樂台,mitv://starvod.xyz:19806/a4265d3126e645b68497ca319152826f.ts
+緯來戲劇台,mitv://starvod.xyz:19806/6fb88ea051cd42bd9ed1c2fc20869ef7.ts
+高點綜合台,mitv://starvod.xyz:19806/f91cad96bea84f78a717478f60b1c183.ts
+中天新聞台,mitv://starvod.xyz:19806/3d4286732dc444f89d884fe9a1a9cd35.ts
+三立iNEWS,mitv://starvod.xyz:19806/957c56d439114b078398a4748cb111bf.ts
+壹電視新聞台,mitv://starvod.xyz:19806/c1e8882a70774eff8c4ec7b33c28abf9.ts
+年代新聞,mitv://starvod.xyz:19806/ee88a10598104dde88555111081627a4.ts
+東森新聞台,mitv://starvod.xyz:19806/571f577835b04059a840f24b40695776.ts
+東森新聞台(備),mitv://starvod.xyz:19806/c03309d1018144cd830c09eb3fad2321.ts
+華視新聞,mitv://starvod.xyz:19806/9ec2df7a3773446fa13539a8ca57d5b0.ts
+民視新聞台,mitv://starvod.xyz:19806/872d70e460874e1dabb952c580e5d190.ts
+三立新聞台,mitv://starvod.xyz:19806/7715336aa3654b1b9bc72a9672e9034a.ts
+TVBS新聞台,mitv://starvod.xyz:19806/b608ab000afc4cc19a467b01b6181840.ts
+TVBS,mitv://starvod.xyz:19806/7f5153fe32e34c00b9597950419c56ac.ts
+東森財經新聞台,mitv://starvod.xyz:19806/e8dcb71b19a3408c9dee7f293de36fd2.ts
+非凡新聞台,mitv://starvod.xyz:19806/5bef8a795d6047009431cb56608243a4.ts
+CatchPlay電影台,mitv://starvod.xyz:19806/20e031b96db245c1be9bcd726ecff14a.ts
+東森電影台,mitv://starvod.xyz:19806/9daca0a7902c455fb2252dfb68a77264.ts
+緯來電影台,mitv://starvod.xyz:19806/48b6adc010444ff19a26b8f6a70255b3.ts
+龍祥電影,mitv://starvod.xyz:19806/548e1c3da858445393b6591ced609781.ts
+HBO,mitv://starvod.xyz:19806/1b71ff50d5e44f58978cc2f2fa5bcc5b.ts
+東森洋片台,mitv://starvod.xyz:19806/9da0e7fcb6f94274a6f0f4f8bd7eba61.ts
+AXN,mitv://starvod.xyz:19806/94c08afcb0474394b971c7c8c22098c0.ts
+好萊塢電影台,mitv://starvod.xyz:19806/abc64c3a4cfa4d50aae143f84bd06c6a.ts
+amc電影台,mitv://starvod.xyz:19806/52930472d7b3405e8d5a9ef65e152631.ts
+CINEMAX,mitv://starvod.xyz:19806/a2d58a724bc1416a9e86a00fbf42c946.ts
+緯來育樂台,mitv://starvod.xyz:19806/a865d62ea25042f689d3d2f7d6cfbe5b.ts
+緯來體育台,mitv://starvod.xyz:19806/d301d07a53e8402eb7daf57c7940a848.ts
+DAZN 1,mitv://starvod.xyz:19806/a4bd134c76a543b69cce543d14819bb8.ts
+DAZN 2,mitv://starvod.xyz:19806/f6c16916cc984a4b90e8b3a8b19c196b.ts
+MOMO綜合台,mitv://starvod.xyz:19806/01b063908e2843ab9680b176f4e6d0ec.ts
+博斯運動,mitv://starvod.xyz:19806/2385fe5d7dbe49668ebf7f3b236ede9d.ts
+緯來日本,mitv://starvod.xyz:19806/1eb98854f08a425d8cb114f85d12e2ac.ts
+國興衛視,mitv://starvod.xyz:19806/29b1768324a14967a740c0e0dfbbdbc9.ts
+BBC Lifestyle,mitv://starvod.xyz:19806/292c0515ef294ea194f92fbc4f438879.ts
+Animax,mitv://starvod.xyz:19806/5beb64b820ba4186afd4cba92f498d07.ts
+JET綜合台,mitv://starvod.xyz:19806/e19a681ceb1f47df920b8f28c2209a91.ts
+寰宇新聞台,mitv://starvod.xyz:19806/03fa5de4704d42c3ba38e490d3ef003a.ts
+鏡新聞,mitv://starvod.xyz:19806/c2722787c71243b685af438cf9059236.ts
+Z頻道,mitv://starvod.xyz:19806/fe966436d6b5437fbe0c4ff28929dea3.ts
+非凡商業台,mitv://starvod.xyz:19806/89e126238a0345e582505c3391af389d.ts
+八大娛樂台,mitv://starvod.xyz:19806/5b80ae3bbfdf4f51be179a7ed7a891ba.ts
+公視3台,mitv://starvod.xyz:19806/571f2b44c0374c95a68be042523cff7a.ts
+大愛2台,mitv://starvod.xyz:19806/48f1012707d945c8b0aebcb20a0ef971.ts
+ELTV生活英語台,mitv://starvod.xyz:19806/93ebc4c952e84057a477b38db1e91b36.ts
+靖洋卡通Nice Bingo,mitv://starvod.xyz:19806/266ebf719ec046fb8dba80a8ec8b8806.ts
+靖天卡通台,mitv://starvod.xyz:19806/8f9e5bafe1b5452f9eb3d20e1b5346dd.ts
+達文西頻道,mitv://starvod.xyz:19806/5689b9e7fcc5474bb690bbb78a4975b4.ts
+Nick Jr.,mitv://starvod.xyz:19806/1ceea9c1559b4bea99fca450557e3838.ts
+Mezzo Live,mitv://starvod.xyz:19806/e225423bad0b47e0a3c5669e3b6c7bb4.ts
+CLASSICA 古典樂,mitv://starvod.xyz:19806/2f9c4c6f2aee4136bd3010346f0b96ed.ts
+愛爾達體育1台(備),mitv://starvod.xyz:19806/99c335bdad724b0c9541931d096cb26c.ts
+愛爾達體育1台,mitv://starvod.xyz:19806/1777f7d5b993434dbf9f4b32d0fdfccc.ts
+愛爾達體育2台(備),mitv://starvod.xyz:19806/0eac9b5935fe43c19bca5c6649d13bd5.ts
+愛爾達體育2台,mitv://starvod.xyz:19806/b84b8db7508046a5be4f85a3deeb76e3.ts
+愛爾達體育3台(備),mitv://starvod.xyz:19806/c4783bf978c44c43a503cf3507bb7d3d.ts
+愛爾達體育3台,mitv://starvod.xyz:19806/2ebe626a42c147febd4291438b1d4917.ts
+愛爾達體育4台,mitv://starvod.xyz:19806/ffe2a9b06e18415dbc3483f399919fdb.ts
+博斯高球,mitv://starvod.xyz:19806/09f7ad0419d34f9ea25e278a1286005f.ts
+博斯高球二台,mitv://starvod.xyz:19806/792ab26e2f804093b39370e6b1f7801d.ts
+博斯網球台,mitv://starvod.xyz:19806/536f4715f5da4173a36537206de4612b.ts
+博斯魅力網,mitv://starvod.xyz:19806/bf15f818e80a4ff1a3b2514683884b9f.ts
+博斯無限台,mitv://starvod.xyz:19806/a0445d0c29614f47908585e8cdc7fc64.ts
+博斯無限二台,mitv://starvod.xyz:19806/abee6e474fd34b989f426970c95cd557.ts
+TRACE Sport Stars,mitv://starvod.xyz:19806/dd9205f69a734162b11eb09ff166bd11.ts
+智林體育台,mitv://starvod.xyz:19806/d233d3ca78fa48e193b47853ec433c5d.ts
+博斯運動二台,mitv://starvod.xyz:19806/ecbdcee3dbbf45468043181eb97c33e1.ts
+寰宇新聞台灣台,mitv://starvod.xyz:19806/902445beb0d247e1b3cef47c4f8bd626.ts
+HBO Family,mitv://starvod.xyz:19806/138a2d9dcb1f40f1a60ef1c35e54fd2d.ts
+HBO強檔鉅獻,mitv://starvod.xyz:19806/80246e532ee44561851bed6006c75b33.ts
+HBO原創鉅獻,mitv://starvod.xyz:19806/c0d32e65e1bf48da9e459d04bdc56c64.ts
+Discovery Asia,mitv://starvod.xyz:19806/8c1933ac5c9a49fb891423336a6f42c5.ts
+Discovery科學頻道,mitv://starvod.xyz:19806/e34a7034b690468a8797abbe8ce607b2.ts
+DMAX,mitv://starvod.xyz:19806/56e37d8b586d4cfbb38b61a1fbf5e379.ts
+EVE,mitv://starvod.xyz:19806/0c8422c7ea47475f89553195c91d60f1.ts
+歷史頻道,mitv://starvod.xyz:19806/fc9dade0814048cfb5d26e9ef06b3e28.ts
+罪案偵緝頻道,mitv://starvod.xyz:19806/361ba8ae21604cd8bad50645c36b593c.ts
+Lifetime,mitv://starvod.xyz:19806/819f1d3fb92741c0b5caf39b5b8b165f.ts
+KLT-靖天國際台,mitv://starvod.xyz:19806/ed9b07b12a61425aac24eb25061dd122.ts
+HGTV居家樂活頻道,mitv://starvod.xyz:19806/21eb83d773344e3cae6316288af3818c.ts
+Love Nature,mitv://starvod.xyz:19806/ba87030233c046908d7c7bfaa3ff9df6.ts
+美食星球,mitv://starvod.xyz:19806/9d27c39385aa4b3cb200048b671e376b.ts
+亞洲美食頻道,mitv://starvod.xyz:19806/b44f9ba7be254cb48efeee691982f60e.ts
+亞洲旅遊台,mitv://starvod.xyz:19806/08f86dfe7a7f42d7ad10051157d8a4c5.ts
+EYE TV旅遊台,mitv://starvod.xyz:19806/d81b21f72705424badcf98dfcef332f4.ts
+好消息2台,mitv://starvod.xyz:19806/fbffde9801a344c4a9a42216c1455163.ts
+三立綜合台,mitv://starvod.xyz:19806/69750165665e4d05a7efada56fb027af.ts
+靖天資訊台,mitv://starvod.xyz:19806/c081e0305ea241f4a31c036f8b967b58.ts
+靖天綜合台,mitv://starvod.xyz:19806/75b3e6bac51d4f08ba7ed008892ad6c2.ts
+靖天育樂台,mitv://starvod.xyz:19806/a39e20cb2d1d425cae2b8afb470e8d90.ts
+Smart知識台,mitv://starvod.xyz:19806/91503615eaa2416b929e56f178be5100.ts
+台視綜合台,mitv://starvod.xyz:19806/c37a6ec58dd140ccab0e25b94849ee06.ts
+中視經典台,mitv://starvod.xyz:19806/955231be876942298dd19156de280174.ts
+中視菁采台,mitv://starvod.xyz:19806/8462fd9b99c94a6bb0f4c1c9bf84e179.ts
+TVBS精采台,mitv://starvod.xyz:19806/8630baf77c8948ddada142028d174f6c.ts
+壹電視綜合,mitv://starvod.xyz:19806/83489b0f6dee47ee93e8f47521807fd9.ts
+緯來精采,mitv://starvod.xyz:19806/bbf618a8dddc41f4b89f4b4d07533428.ts
+民視第一台,mitv://starvod.xyz:19806/f0a026a709dd4a08aea9edc1dbce6437.ts
+民視台灣台,mitv://starvod.xyz:19806/0ad1202aa2fe4fb4872479db5e384e46.ts
+Nice TV靖天歡樂台,mitv://starvod.xyz:19806/8edc6a4e379a4feb90d683bb579a248f.ts
+八大優頻道,mitv://starvod.xyz:19806/96192f43fc89488aa03188785e9fd4c3.ts
+三立戲劇台,mitv://starvod.xyz:19806/3ef68a8194e04993a41501258b99a107.ts
+龍華戲劇,mitv://starvod.xyz:19806/6a6681f04fcc4478886cded08a10c658.ts
+龍華偶像,mitv://starvod.xyz:19806/77abe54bdc8a4fc896c80a92fb283932.ts
+愛爾達影劇台,mitv://starvod.xyz:19806/e724afeaabf9442395119616a9a9ee3e.ts
+靖天戲劇台,mitv://starvod.xyz:19806/2ba8f7ea8f474de28cad4a31526ad11b.ts
+靖洋戲劇台,mitv://starvod.xyz:19806/7d9fa59506ff48b5a307fa1189e9a3fe.ts
+EYE TV戲劇台,mitv://starvod.xyz:19806/3af16129ea6f4e41b7fa6cc4961d1881.ts
+靖天日本台,mitv://starvod.xyz:19806/923ad522910b45ab8ddad4093a3665f5.ts
+i-Fun動漫台,mitv://starvod.xyz:19806/92ace855ba4b4ad7ab44089e3898eda4.ts
+ROCK Extreme,mitv://starvod.xyz:19806/1d6de08a7b18478f9570a81a5a43ae9a.ts
+中視新聞台,mitv://starvod.xyz:19806/76e537f5ad1b4bb5a2200383679b369b.ts
+台視新聞台,mitv://starvod.xyz:19806/c59ff02905094acaab423c745f34873d.ts
+台視財經台,mitv://starvod.xyz:19806/5aab069d2c6e44e7ab3ea5f8e8ce713d.ts
+NHK新聞資訊台,mitv://starvod.xyz:19806/b8895a019f804fdc9484b74545709c31.ts
+美亞電影台HD,mitv://starvod.xyz:19806/89874674013e4b30bc075f4e2050c766.ts
+龍華電影,mitv://starvod.xyz:19806/574ee66b78d44e6e81450ae523041523.ts
+靖天映畫,mitv://starvod.xyz:19806/cb236b8c1f7947648a66b36c95238421.ts
+靖天電影台,mitv://starvod.xyz:19806/ce4172c9f6c34e48910843ce7d90458b.ts
+WARNER TV,mitv://starvod.xyz:19806/7880becddff342d8a3875e6af8d7e1f2.ts
+CinemaWorld,mitv://starvod.xyz:19806/f710490e7aa845debe8f2d3eb7b78650.ts
+壹電視電影台,mitv://starvod.xyz:19806/fb7131d67e54407a93bba57d9054e7c8.ts
+采昌影劇台,mitv://starvod.xyz:19806/3b5ea47e97aa46b589983ddb1e4c9a40.ts
+影迷數位電影台,mitv://starvod.xyz:19806/846738e98982471ca03ca5d6abe62007.ts
+佛衛慈悲台,mitv://starvod.xyz:19806/11083d4d87f24e4fab0b308dc4ad48e5.ts
+France24,mitv://starvod.xyz:19806/20b9a94c6da94dd1beb5676e1cf83ae6.ts
+HITS,mitv://starvod.xyz:19806/9d0eb098b1b84f988e2be173bb81d447.ts
+tvN,mitv://starvod.xyz:19806/58d53eb474134ed2bce7fe9ad25e6a9f.ts
+中國大陸,#genre#
+CCTV1,mitv://starvod.xyz:19806/c5b00a7fc9754853880d0e8406b3cb4b.ts
+CCTV2,mitv://starvod.xyz:19806/fd4bc64164db4a83a2bd1196b75c3c29.ts
+CCTV3,mitv://starvod.xyz:19806/86fcbc2c068a4c63b705acf6947c6789.ts
+CCTV4,mitv://starvod.xyz:19806/c6c9b210523144beaff404c8fdb4e2fa.ts
+CCTV5,mitv://starvod.xyz:19806/ffe33e5dd1734d06b0502c4f515d7dd4.ts
+CCTV5+,mitv://starvod.xyz:19806/0872b1314de146fca7430f310359180c.ts
+CCTV6,mitv://starvod.xyz:19806/b0f679eade934d51ad500311f4dccb03.ts
+CCTV7,mitv://starvod.xyz:19806/a5cfd97f1f7b4c5fb362cb8191dd5a7a.ts
+CCTV8,mitv://starvod.xyz:19806/510c07e8c33b44629958f553406d98c7.ts
+CCTV9,mitv://starvod.xyz:19806/4b3fd9633685492aa440c96a6fb2c769.ts
+CCTV10,mitv://starvod.xyz:19806/6c1b23ddedd347149d76e5ad91cd4166.ts
+CCTV11,mitv://starvod.xyz:19806/1af5481b38124725954c3099428ea267.ts
+CCTV12,mitv://starvod.xyz:19806/091fc7b1e5b84ee8b8d9afb550844a0e.ts
+CCTV13,mitv://starvod.xyz:19806/4a32492ca231453fae218f4e20cf4e59.ts
+CCTV14,mitv://starvod.xyz:19806/e170c97b656b4eec92fa697fec180513.ts
+CCTV15,mitv://starvod.xyz:19806/ebb54e37ed404c738de7faba76be5320.ts
+CCTV16,mitv://starvod.xyz:19806/7812d8aae0c643f99ce25d0505406971.ts
+CCTV17,mitv://starvod.xyz:19806/5ecab413838c409e841228d7bbbee676.ts
+天津衛視,mitv://starvod.xyz:19806/d289735d0e414ddcaf4a22f70c5aeed8.ts
+北京衛視,mitv://starvod.xyz:19806/f3d8fc2f34344283b96e3d0d518da7ab.ts
+黑龍江衛視,mitv://starvod.xyz:19806/311939ca744445529c223c38108b07c3.ts
+遼寧衛視,mitv://starvod.xyz:19806/a7bb2c334cf64075b1fc69df157793d1.ts
+東方衛視,mitv://starvod.xyz:19806/a7018300695d4835a1e83ec30f92896f.ts
+江蘇衛視,mitv://starvod.xyz:19806/672a23d10003c2dcccdfb146480b660a.ts
+浙江衛視,mitv://starvod.xyz:19806/c9a225666a154729ab2d7354941905de.ts
+江西衛視,mitv://starvod.xyz:19806/a59df0b9747d463786a239e0849323b6.ts
+山東衛視,mitv://starvod.xyz:19806/798d68eb5d69400398afe58b74a57fb2.ts
+廈門衛視,mitv://starvod.xyz:19806/7df316391ac84d7e9326e84ec6a03ac1.ts
+湖北衛視,mitv://starvod.xyz:19806/f15adac61419449c852cf0ff335b7e15.ts
+湖南衛視,mitv://starvod.xyz:19806/610df635bc1f487bb1bceebba18f9e61.ts
+河北衛視,mitv://starvod.xyz:19806/b7b7932294c3429e9a0d6b0907f9f9d2.ts
+廣東衛視,mitv://starvod.xyz:19806/f1b409a562404d719acc430d6d07e5f5.ts
+廣西衛視,mitv://starvod.xyz:19806/b9a92fc620c746b99c563970b202c4b1.ts
+深圳衛視,mitv://starvod.xyz:19806/c04732acc60a4ed48f12d714abd4e972.ts
+雲南衛視,mitv://starvod.xyz:19806/9177a28fb5bc466caaa0c88d750a41fb.ts
+重慶衛視,mitv://starvod.xyz:19806/b7e76bc3313c47b3ab331d6907ee8f3b.ts
+大灣區衛視,mitv://starvod.xyz:19806/545e0e5ea85d4d90a6afc6b3871432a0.ts
+珠江台,mitv://starvod.xyz:19806/4a8a395418054e7387cb779bea1940fb.ts
+廣東影視,mitv://starvod.xyz:19806/9655a3f6aad941ceaa6317814ffcbe69.ts
+星空衛視,mitv://starvod.xyz:19806/28d3a5df574b42819be4afaf8ba33de6.ts
+CHC高清电影,mitv://starvod.xyz:19806/589da08390c14149961d54fef2566609.ts
+CHC家庭影院,mitv://starvod.xyz:19806/e3d527e8d47642028bcdca7cb587d8e8.ts
+CHC動作電影,mitv://starvod.xyz:19806/0999fa74f14540bc8fe2a157cc224391.ts
+私人影院,mitv://starvod.xyz:19806/74567d46c9a54cb8aab7bb35b7446cf2.ts
+Channel [V],mitv://starvod.xyz:19806/91752783b4eb4508a715eb2294d0265f.ts
+重溫經典頻道,mitv://starvod.xyz:19806/8a2b192ed20d4f92a2d6f84b60602316.ts
+快樂垂釣,mitv://starvod.xyz:19806/76a08540449f4d929c83c1196b035b11.ts
+風雲足球,mitv://starvod.xyz:19806/1ef78da378ae41c098b13d1eb00a72bb.ts
+魅力足球,mitv://starvod.xyz:19806/49e28988113d4e6b9942ee497e3f4ab5.ts
+高爾夫·網球,mitv://starvod.xyz:19806/fa346ad0827a4f1f9e3bbe5aa1c6af42.ts
+廣東體育,mitv://starvod.xyz:19806/7df56458c2be4fc88deccece42f68fe0.ts
+五星體育,mitv://starvod.xyz:19806/a2b118bd953848b598b492cd3f4334a6.ts
+深圳都市,mitv://starvod.xyz:19806/377c8142f04a4baeace8f94c1328b3f1.ts
+深圳電視劇,mitv://starvod.xyz:19806/b6b14a65ac2d491188db166bb7a7dc77.ts
+廣州新聞,mitv://starvod.xyz:19806/06f8aaba500b46f5bd00e79fd37dc611.ts
+廣州綜合,mitv://starvod.xyz:19806/67210bab000ce3b2a9595f2751324544.ts
+廣東民生,mitv://starvod.xyz:19806/56332bb2dfa24fd59d3380ce0ae313b4.ts
+港澳,#genre#
+Thrill,mitv://starvod.xyz:19806/a4dcb069e7d242ad950ca7966b87d2e2.ts
+鳳凰中文台,mitv://starvod.xyz:19806/2d4c59c084084aad8398ec7f671bd710.ts
+鳳凰資訊台,mitv://starvod.xyz:19806/2022fbcde5d34ea8849d31493cd54833.ts
+鳳凰香港台,mitv://starvod.xyz:19806/460e0d76407f4deaa560f1cadbdb65b5.ts
+澳門-MACAU,mitv://starvod.xyz:19806/157c1db2ea684f64b680200e38a6cec0.ts
+澳門蓮花,mitv://starvod.xyz:19806/446cd8073b334bd583c2f450da881086.ts
+港台電視31,mitv://starvod.xyz:19806/a6fb3cf3a080468fb35b614d4d03e055.ts
+港台電視32,mitv://starvod.xyz:19806/ed98071b10a246d09ac561195f3c48f1.ts
+港台電視34,mitv://starvod.xyz:19806/e691675a79ae47b39ae379bad33e7651.ts
+美亞電影台(粵語),mitv://starvod.xyz:19806/1d38eb1c04ae4027b62124f163280eed.ts
+香港國際財經台,mitv://starvod.xyz:19806/a58f930120244a90ba330f4b9107c428.ts
+HOY TV,mitv://starvod.xyz:19806/67955caa275c43b78a4a2590e5d38671.ts
+HOY資訊台,mitv://starvod.xyz:19806/f8d4ab21c8d040ebae4a5e88536a5dd6.ts
+黃金翡翠台,mitv://starvod.xyz:19806/d1dc0527fd834336bdd3ee0799f3c6d5.ts
+翡翠台,mitv://147.135.39.171:9906/67c2952b00074b340fe0faf435a51848.ts
+翡翠台(備),mitv://starvod.xyz:19806/3542396b1de54a70be3917fcd4325f8f.ts
+TVB Plus,mitv://starvod.xyz:19806/a43c5ac5e72b4e75a26db0c6e319b86f.ts
+無綫新聞台,mitv://starvod.xyz:19806/557d5098116e4e1f9b14008ed764cc71.ts
+無綫新聞台(備),mitv://starvod.xyz:19806/3b435a342d864075b83291b4cd742e0f.ts
+明珠台,mitv://starvod.xyz:19806/e17f0434113e4d379c36929255b1df20.ts
+PopC,mitv://starvod.xyz:19806/7a6b133b8fb04ed89b39ade5ec9cb777.ts
+now新聞台,mitv://starvod.xyz:19806/92d65e32d85c457d8e2eb56a76892a51.ts
+now財經台,mitv://starvod.xyz:19806/b433233614024692a9ad93da4f558234.ts
+ViuTVsix,mitv://starvod.xyz:19806/e000e5f76aab4bcdb2a8e7a9cabba9b7.ts
+ViuTV,mitv://starvod.xyz:19806/6ebc6d75aa4f48499d8da0053b8ad8d0.ts
+生活台,mitv://starvod.xyz:19806/712cd0b9f3894ecebf1b0fb77f9f3834.ts
+18台,mitv://starvod.xyz:19806/3a3092f063154e04a31b8162b1da53bc.ts
+SUPER Kids,mitv://starvod.xyz:19806/631732f5fa894772aec8ee750359e455.ts
+粵語片台,mitv://starvod.xyz:19806/8a27e94d85f84760a0ec5b48c00c7744.ts
+亞洲劇台,mitv://starvod.xyz:19806/140c38a9c83344919da1fc769798c618.ts
+功夫台,mitv://starvod.xyz:19806/6043814031384523bc272f4f87aeb298.ts
+戲曲台,mitv://starvod.xyz:19806/a65d5449d788498fb5e212e84f2ce430.ts
+千禧經典台,mitv://starvod.xyz:19806/edec663bf45749048fc098d47d4618a8.ts
+TVB娛樂新聞台,mitv://starvod.xyz:19806/c6994957df9e4488bfb1c462db442f61.ts
+TVB星河,mitv://starvod.xyz:19806/1e49e265b69c41b7a056585f9440f05f.ts
+HKC 18,mitv://starvod.xyz:19806/940e58be3a9d4e77ab15bdb6a852cf8e.ts
+馬來西亞,#genre#
+TV1,mitv://starvod.xyz:19806/b53b631feedc41baa3778bbde8bfcdcc.ts
+TV2,mitv://starvod.xyz:19806/771891fa9c5345ca9ec6ae7e138e3924.ts
+TV3,mitv://starvod.xyz:19806/0f9c8d6e327a477f922a6d2c1f87c1f0.ts
+Astro Oasis HD,mitv://starvod.xyz:19806/693b0547574c46baac46be94bd02a147.ts
+Al-Hijrah,mitv://starvod.xyz:19806/d5d44c09e8e2402bbc1f5c6f3c51004a.ts
+Awesome TV,mitv://starvod.xyz:19806/d950658a8a2b474aa3ed47beca2ee1a6.ts
+TV Okey,mitv://starvod.xyz:19806/c8301a84acd740909034c7ba0a615788.ts
+NTV7,mitv://starvod.xyz:19806/a868f6306ecf48a9909b7a369dbe9700.ts
+八度空間,mitv://starvod.xyz:19806/13bb1429f3744fd1a9ec70ee7d2f24c6.ts
+TV9,mitv://starvod.xyz:19806/ead524fdf3124dcda14fd4d543065bee.ts
+SUN TV,mitv://starvod.xyz:19806/3e362d65c7914c7186b492ef40a33e38.ts
+Star Vijay,mitv://starvod.xyz:19806/aeb7cff2c1da49f6878ff4146347ba5c.ts
+Zee Tamil,mitv://starvod.xyz:19806/a8739c3ba9a847908ccac6c7a8b0cc8d.ts
+愛奇藝,mitv://starvod.xyz:19806/78f17ea46cc94bd79956233ad227f094.ts
+千禧經典台,mitv://starvod.xyz:19806/edec663bf45749048fc098d47d4618a8.ts
+Astro AEC,mitv://starvod.xyz:19806/ffe1372ecc664192a107f3793c6b0bcb.ts
+天映頻道,mitv://starvod.xyz:19806/538d1cc6941442d4a4e166083d128cf3.ts
+翡翠台,mitv://starvod.xyz:19806/4eb3c908714d4374a256f4f2da0d6f24.ts
+Astro AOD HD 311,mitv://starvod.xyz:19806/6353366ced1244b9880feb5675c09855.ts
+中天亞洲台,mitv://starvod.xyz:19806/683afa950007a7fef6a7314275d073d0.ts
+TVB娛樂新聞台,mitv://starvod.xyz:19806/c6994957df9e4488bfb1c462db442f61.ts
+TVB星河,mitv://starvod.xyz:19806/1e49e265b69c41b7a056585f9440f05f.ts
+TVBS亞洲,mitv://starvod.xyz:19806/2c41971e5541421fb3e3dec01ea70645.ts
+天映經典,mitv://starvod.xyz:19806/1019ce7e7d6e45bea8fd6aec45f5ef12.ts
+Astro歡喜台,mitv://starvod.xyz:19806/e06784ee86f2466faf25dea43f7ba745.ts
+KBS World,mitv://starvod.xyz:19806/683afbcf0002ac8df6abfa8a1dd147ca.ts
+HITS Movies,mitv://starvod.xyz:19806/31e31d282a5a4acb9e7856599456072b.ts
+BOO,mitv://starvod.xyz:19806/9ee546f426c64398af4f2d301c8f00b4.ts
+tvN Movies HD,mitv://starvod.xyz:19806/35596b76301f4c8384281e28cf44327c.ts
+Astro Awani,mitv://starvod.xyz:19806/8ccbcd3c10c649f39a9db21b29463e7b.ts
+CGTN,mitv://147.135.39.171:9906/67401ba5000028f7123586380c484e3a.ts
+BBC World News,mitv://starvod.xyz:19806/0621f6f581aa4aa8a88d362b3ef92295.ts
+Sky News,mitv://starvod.xyz:19806/5658db93468c4ab793d125b6620ab480.ts
+CNBC,mitv://starvod.xyz:19806/8cdff1b7d0d0480ea303ad89f6df0a70.ts
+ABC Australia,mitv://starvod.xyz:19806/da39c4b1101544ae895b706a7e8bd13d.ts
+France24,mitv://starvod.xyz:19806/20b9a94c6da94dd1beb5676e1cf83ae6.ts
+Astro Ceria,mitv://starvod.xyz:19806/ea1d109ded2c43dda257df9c4a505259.ts
+Boomerang,mitv://starvod.xyz:19806/3083cd9f65f349488b99ce07ccd56cd1.ts
+KIX,mitv://starvod.xyz:19806/819241aca629402c99d6c862a083e5cd.ts
+HITS,mitv://starvod.xyz:19806/9d0eb098b1b84f988e2be173bb81d447.ts
+TLC旅遊生活,mitv://starvod.xyz:19806/e32dafaf7fa440edaf439ff36d13105a.ts
+Astro Arena,mitv://starvod.xyz:19806/1c9bcb51041e4db4b1f58a4c4def0d55.ts
+Astro Arena 2,mitv://starvod.xyz:19806/49dc750e87914008b642befb7ef1ccc8.ts
+Astro Premier League,mitv://starvod.xyz:19806/81b53ce210de4bd8be41beacdcc71d12.ts
+Astro Premier League 2,mitv://starvod.xyz:19806/eb3636e27ada44d2856333cc29c17de1.ts
+Astro Grandstand,mitv://starvod.xyz:19806/fe682e01fdd7412d99f29ea146f60080.ts
+Astro Football,mitv://starvod.xyz:19806/6efa4b6dec314b18866f6f7455f1869d.ts
+Astro Badminton,mitv://starvod.xyz:19806/3e157919359844968565fda0e026132d.ts
+beIN Sports 2,mitv://starvod.xyz:19806/19ad4b1226c04f8a8932587004f7ceab.ts
+beIN Sports,mitv://starvod.xyz:19806/7ec6631ab8414c8295b678161ff3e950.ts
+beIN Sports 3,mitv://starvod.xyz:19806/7ed418897a26478aadb200969520b492.ts
+Eurosport HD,mitv://starvod.xyz:19806/2522e6573aa4471fb8a6ae060166568a.ts
+Golf Channel,mitv://starvod.xyz:19806/a44dfa7c76f74480b4abdc56a58ffa39.ts
+SPOTV,mitv://starvod.xyz:19806/364e4565c062402e8c8f1d46edb9e30a.ts
+SPOTV 2,mitv://starvod.xyz:19806/3f3dcaacc92f4d88948cd947c7e3b5f9.ts
+新加坡,#genre#
+中天亞洲台,mitv://starvod.xyz:19806/683afa950007a7fef6a7314275d073d0.ts
+KBS World,mitv://starvod.xyz:19806/683afbcf0002ac8df6abfa8a1dd147ca.ts
+CGTN,mitv://147.135.39.171:9906/67401ba5000028f7123586380c484e3a.ts
+Fox News,mitv://starvod.xyz:19806/bd8e93c3213f42bf8e5c46b3c43e56ee.ts
+Euronews,mitv://starvod.xyz:19806/b3e7162bd5354f1d814e309800219c1f.ts
+HITS,mitv://starvod.xyz:19806/9d0eb098b1b84f988e2be173bb81d447.ts
+beIN Sports,mitv://starvod.xyz:19806/7ec6631ab8414c8295b678161ff3e950.ts
+beIN Sports 3,mitv://starvod.xyz:19806/7ed418897a26478aadb200969520b492.ts
+Fight Sports,mitv://starvod.xyz:19806/759b38a5e84a4877baed62ffdf82a2ee.ts
+Mediacorp 5,mitv://starvod.xyz:19806/454bb3c2d85449098418d8dd41473310.ts
+Mediacorp 8,mitv://starvod.xyz:19806/1b95df20db1d4b38b12c21b59c18ef0b.ts
+Suria,mitv://starvod.xyz:19806/2607915ccca64099a1ec2e2563f1f250.ts
+Vasantham,mitv://starvod.xyz:19806/67404d2b000163c22371405704f225ff.ts
+CNA,mitv://starvod.xyz:19806/ca904e6798794c97aa5655daea3662d4.ts
+Mediacorp U,mitv://starvod.xyz:19806/4f7f0c887f2b4559ac4be039fbc2eef5.ts
+東森亞洲衛視,mitv://starvod.xyz:19806/924207811e5443ffb12d90273233bd86.ts
+日本,#genre#
+NHK-G综合,mitv://starvod.xyz:19806/a933e056443f4ced80ac92087e7daa9a.ts
+NHK-E教育,mitv://starvod.xyz:19806/6d5bbed3b161445da8bba49569867c54.ts
+日本テレビ,mitv://starvod.xyz:19806/75a479a865ec43bea6b69c8890995012.ts
+TBSテレビ,mitv://starvod.xyz:19806/4ca33342737c4ae2a9198ec987acd305.ts
+テレビ東京,mitv://starvod.xyz:19806/591913aa393c43eabf495906d0605eda.ts
+フジテレビ,mitv://starvod.xyz:19806/89185d69da39411e987c3ba8c83ccb4e.ts
+読売テレビ,mitv://starvod.xyz:19806/0ee9d442c5b14c8e83b2c314ab9a4300.ts
+関西テレビ,mitv://starvod.xyz:19806/033f2c314bf042508511cedef673267f.ts
+テレビ大阪,mitv://starvod.xyz:19806/670340c76d6f48a2bf1dfefbbbee3944.ts
+KBS京都,mitv://starvod.xyz:19806/7a0aec4414db4701afc09f575980a92e.ts
+毎日放送,mitv://starvod.xyz:19806/f66eb62af1e146f0a31df9feae5fc1b8.ts
+朝日放送,mitv://starvod.xyz:19806/7303e01149314ad4a5d8e5aa25b56975.ts
+BS-1,mitv://starvod.xyz:19806/acdcfa09f15a4e9bb2a837cfeb793a6e.ts
+BS日テレ,mitv://starvod.xyz:19806/82140d440fe941ea94644f175b55fb98.ts
+BS朝日,mitv://starvod.xyz:19806/15dfad050ae34f6aa02ec1d5f6a9e3b0.ts
+BS-TBS,mitv://starvod.xyz:19806/8f4e9b7f3031469ba4d84f92a78e9cad.ts
+BS11,mitv://starvod.xyz:19806/6f38ddbbda084f2ea721b97458658f7e.ts
+BSフジ,mitv://starvod.xyz:19806/2e3659a95c5b4d1bb036a7c062d0d3dc.ts
+WOWOWプライム,mitv://starvod.xyz:19806/60ebcb42519c4b058e71bf1a63e8b583.ts
+WOWOWライブ,mitv://starvod.xyz:19806/efa7852398444fbab516e74d8aa19764.ts
+WOWOWシネマ,mitv://starvod.xyz:19806/9478166f644f46e2bfd81cf23c51ff31.ts
+スター・チャンネル1,mitv://starvod.xyz:19806/8457dea1e1ff4af3af0fcba38258fa7f.ts
+BSアニマックス,mitv://starvod.xyz:19806/56a65f41367f497c84cc9538def3a614.ts
+J Sports 1,mitv://starvod.xyz:19806/0978e9f522de4b168c7420e09c3d4695.ts
+J Sports 2,mitv://starvod.xyz:19806/a92d2208dd254a1198e66b739dc50157.ts
+J Sports 3,mitv://starvod.xyz:19806/7a683ed1620e45bfbe17d16206540054.ts
+J Sports 4,mitv://starvod.xyz:19806/e2514645acb84f5c96798a718a5cd757.ts
+Green Channel,mitv://starvod.xyz:19806/ede1dfdf91954f14817d55603428fd20.ts
+ゴルフネットワークHD,mitv://starvod.xyz:19806/1d7c15347e5e4a7c80c49936041649c6.ts
+時代劇専門チャンネル,mitv://starvod.xyz:19806/9d8cc1cbfca8462c9b7acfdea77e3936.ts
+Music Japan TV,mitv://starvod.xyz:19806/f84b6d26a00d4911a4b09d4b71836ea3.ts
+キッズステーションHD,mitv://starvod.xyz:19806/efe841ff5d8045d9a230837bbcabcd1c.ts
+ディスカバリーチャンネル,mitv://starvod.xyz:19806/86b254a7f2764359bc6c4b0b4a6cf567.ts
+ナショナルジオグラフィック,mitv://starvod.xyz:19806/d718fbf0808c40e0ab21b1526c0fb210.ts
+旅チャンネル,mitv://starvod.xyz:19806/e028c018fbc04a9eba1b4cb4178dda90.ts
+韓國,#genre#
+Arirang,mitv://starvod.xyz:19806/3fe7c77ebb1a45a18ef30f78f917640b.ts
+KBS1,mitv://starvod.xyz:19806/af6297c16930401b893abd0cec4be07e.ts
+KBS2,mitv://starvod.xyz:19806/853d5ef131e241b3837d228ab6434f33.ts
+KBS Drama,mitv://starvod.xyz:19806/26204676281842929c42e21f040f2a2f.ts
+History,mitv://starvod.xyz:19806/3c17afa289594fd997fa61ed472bb2b5.ts
+SBS,mitv://starvod.xyz:19806/a64be5c8d277445abf4d89b5880190bf.ts
+SBS Biz,mitv://starvod.xyz:19806/0bcf12196c1a4d23aa622d894c596a02.ts
+JTBC,mitv://starvod.xyz:19806/88aeb4c5515142e59840426c80bf7c37.ts
+EBS,mitv://starvod.xyz:19806/b67cfae093a04e7daa0cc66e3adeb53b.ts
+YTN,mitv://starvod.xyz:19806/2c73ce22a7f14017ae3bde72db1c8d28.ts
+Mnet,mitv://starvod.xyz:19806/fb99ad067315497b8fc7df6d7abac88a.ts
+OCN,mitv://starvod.xyz:19806/b3dd463c3cb04aceb55b587b133afd56.ts
+Inet TV,mitv://starvod.xyz:19806/271f55064b034a70af06b8166a30b6cf.ts
+MBC,mitv://starvod.xyz:19806/1d2805fb1e6a483fa8e191311e17c9f1.ts
+MBN,mitv://starvod.xyz:19806/a020c31336d84d42a3ec32d8fa9a13bc.ts
+Tooniverse,mitv://starvod.xyz:19806/0cb2baece4a94e8c85c99e5d35343d1d.ts
+SPOTV,mitv://starvod.xyz:19806/8fadaa0dbb5149c581eb9db576a429c1.ts
+JTBC GOLF,mitv://starvod.xyz:19806/d4fa73f4f49c41cab93a986d59d1fc4b.ts
+泰國,#genre#
+Channel 5,mitv://starvod.xyz:19806/8ae48e698f5d420e95764fbb950a3caa.ts
+NBT,mitv://starvod.xyz:19806/14b885f92833406e829faa81b24c82f9.ts
+Thai PBS,mitv://starvod.xyz:19806/59c595723148451a8badc8c74b55e371.ts
+TNN 16,mitv://starvod.xyz:19806/1d671a590d554d2b9b9ec2b7231616ba.ts
+JKN 18,mitv://starvod.xyz:19806/560a3d1c6dcd466ba4eb6d4d6261f2e3.ts
+Nation TV,mitv://starvod.xyz:19806/2af3f96889ef4808af4e8cd3b5af15e2.ts
+Workpoint TV,mitv://starvod.xyz:19806/8884ebfa361845fd901bad37b2bc5856.ts
+true4U,mitv://starvod.xyz:19806/0755d3ee80db4b108995d541bf106e75.ts
+GMM 25,mitv://starvod.xyz:19806/53bb389a93ba401c9bc1bbfdd652a049.ts
+Channel 8,mitv://starvod.xyz:19806/f3b7e50bfd6a46f1a4036051b7f3ce92.ts
+Mono 29,mitv://starvod.xyz:19806/d823f8d104fa4818a114ea46e8ad2e11.ts
+MCOT,mitv://starvod.xyz:19806/fcdea892b1b7475fa00397067183d913.ts
+ONE,mitv://starvod.xyz:19806/d62705cbe9fe4686808000fbe2b425de.ts
+Thairath TV,mitv://starvod.xyz:19806/1e55afde47f74abb86b7d395e70324de.ts
+Channel 3,mitv://starvod.xyz:19806/a2e439af4b9c4d3daec07fe824263cee.ts
+Amarin TV,mitv://starvod.xyz:19806/9b84ed924b2948ef8ea5abf29b8db021.ts
+Channel 7,mitv://starvod.xyz:19806/44e63b82876145c9bb912edc48076c00.ts
+PPTV,mitv://starvod.xyz:19806/dad470f725a04c8eae708c69799bfd0e.ts
+News 1,mitv://starvod.xyz:19806/26d44d5ebc5d4c8480083674bd407f1b.ts
+TVB Thai,mitv://starvod.xyz:19806/8a69256dce9740ddb9febc776c5090d8.ts
+北美,#genre#
+ESPN,mitv://starvod.xyz:19806/9bc1e4b6eaf34aaa9d83dbe293f62490.ts
+CBC Olympic,mitv://starvod.xyz:19806/72993a76bc6a4c79b2df54930946bc27.ts
+NBA,mitv://starvod.xyz:19806/0137332d2c1c4cf59bb8129b6dea12bc.ts
+600TV,mitv://starvod.xyz:19806/5b1b4ada7ed443d1bffec9e5aa18a9e9.ts
+城市電視,mitv://starvod.xyz:19806/a04c947671414152814e4a879d4a84e6.ts
+新時代1(東部),mitv://starvod.xyz:19806/e19d12aca4d041cfaf214e7b5372fa9d.ts
+新時代1(西部),mitv://starvod.xyz:19806/2c381681bcfd4ecdb2e52ece5014d6e8.ts
+新時代2,mitv://starvod.xyz:19806/cb5a16c904174c19bf69b94ba80c31f3.ts
+CBC News,mitv://starvod.xyz:19806/c59f5172b8244e18a6b6e7f92d05c2f8.ts
+CTV News,mitv://starvod.xyz:19806/946d8a12422a43398efc10b1632817f4.ts
+Business News Network,mitv://starvod.xyz:19806/ae41f1a8d24c4d0885b3470aa77d64be.ts
+CP24,mitv://starvod.xyz:19806/073b94e5ade04be4887095760696c942.ts
+The Weather Network,mitv://starvod.xyz:19806/3b379238bb1e4090ab05237fe9073387.ts
+Fox News,mitv://starvod.xyz:19806/912cb0040add44c49955b7e9b8a569d9.ts
+BBC World News,mitv://starvod.xyz:19806/423b4ab2af5b4c63834279a5b02bd5d3.ts
+CNN USA,mitv://starvod.xyz:19806/76019d9ab18c4dbe914acdd537168dc8.ts
+MSNBC,mitv://starvod.xyz:19806/15acff3a0c7d40249f5b9a1bb20af183.ts
+The Weather Channel,mitv://starvod.xyz:19806/1e681d16ccdb4fd48febb7b028a274dc.ts
+KOMO 4 TV,mitv://starvod.xyz:19806/4061b08e14344aeaba96e72f3fe9e3c4.ts
+新聞,#genre#
+中天新聞台,mitv://starvod.xyz:19806/3d4286732dc444f89d884fe9a1a9cd35.ts
+三立iNEWS,mitv://starvod.xyz:19806/957c56d439114b078398a4748cb111bf.ts
+壹電視新聞台,mitv://starvod.xyz:19806/c1e8882a70774eff8c4ec7b33c28abf9.ts
+年代新聞,mitv://starvod.xyz:19806/ee88a10598104dde88555111081627a4.ts
+東森新聞台(備),mitv://starvod.xyz:19806/c03309d1018144cd830c09eb3fad2321.ts
+東森新聞台,mitv://starvod.xyz:19806/571f577835b04059a840f24b40695776.ts
+華視新聞,mitv://starvod.xyz:19806/9ec2df7a3773446fa13539a8ca57d5b0.ts
+民視新聞台,mitv://starvod.xyz:19806/872d70e460874e1dabb952c580e5d190.ts
+三立新聞台,mitv://starvod.xyz:19806/7715336aa3654b1b9bc72a9672e9034a.ts
+TVBS新聞台,mitv://starvod.xyz:19806/b608ab000afc4cc19a467b01b6181840.ts
+東森財經新聞台,mitv://starvod.xyz:19806/e8dcb71b19a3408c9dee7f293de36fd2.ts
+非凡新聞台,mitv://starvod.xyz:19806/5bef8a795d6047009431cb56608243a4.ts
+寰宇新聞台,mitv://starvod.xyz:19806/03fa5de4704d42c3ba38e490d3ef003a.ts
+鏡新聞,mitv://starvod.xyz:19806/c2722787c71243b685af438cf9059236.ts
+非凡商業台,mitv://starvod.xyz:19806/89e126238a0345e582505c3391af389d.ts
+寰宇新聞台灣台,mitv://starvod.xyz:19806/902445beb0d247e1b3cef47c4f8bd626.ts
+中視新聞台,mitv://starvod.xyz:19806/76e537f5ad1b4bb5a2200383679b369b.ts
+台視新聞台,mitv://starvod.xyz:19806/c59ff02905094acaab423c745f34873d.ts
+台視財經台,mitv://starvod.xyz:19806/5aab069d2c6e44e7ab3ea5f8e8ce713d.ts
+NHK新聞資訊台,mitv://starvod.xyz:19806/b8895a019f804fdc9484b74545709c31.ts
+香港國際財經台,mitv://starvod.xyz:19806/a58f930120244a90ba330f4b9107c428.ts
+無綫新聞台(備),mitv://starvod.xyz:19806/3b435a342d864075b83291b4cd742e0f.ts
+無綫新聞台,mitv://starvod.xyz:19806/557d5098116e4e1f9b14008ed764cc71.ts
+now新聞台,mitv://starvod.xyz:19806/92d65e32d85c457d8e2eb56a76892a51.ts
+now財經台,mitv://starvod.xyz:19806/b433233614024692a9ad93da4f558234.ts
+廣州新聞,mitv://starvod.xyz:19806/06f8aaba500b46f5bd00e79fd37dc611.ts
+CGTN,mitv://147.135.39.171:9906/67401ba5000028f7123586380c484e3a.ts
+CNN,mitv://starvod.xyz:19806/0b9093e26f3349bbaa569e43818f4374.ts
+BBC World News,mitv://starvod.xyz:19806/0621f6f581aa4aa8a88d362b3ef92295.ts
+Sky News,mitv://starvod.xyz:19806/5658db93468c4ab793d125b6620ab480.ts
+CNBC,mitv://starvod.xyz:19806/8cdff1b7d0d0480ea303ad89f6df0a70.ts
+Bloomberg TV,mitv://starvod.xyz:19806/8e6b5c1401834dbdb8ed12414a5f7456.ts
+ABC Australia,mitv://starvod.xyz:19806/da39c4b1101544ae895b706a7e8bd13d.ts
+Fox News,mitv://starvod.xyz:19806/bd8e93c3213f42bf8e5c46b3c43e56ee.ts
+France24,mitv://starvod.xyz:19806/20b9a94c6da94dd1beb5676e1cf83ae6.ts
+Euronews,mitv://starvod.xyz:19806/b3e7162bd5354f1d814e309800219c1f.ts
+CNA,mitv://starvod.xyz:19806/ca904e6798794c97aa5655daea3662d4.ts
+TNN 16,mitv://starvod.xyz:19806/1d671a590d554d2b9b9ec2b7231616ba.ts
+JKN 18,mitv://starvod.xyz:19806/560a3d1c6dcd466ba4eb6d4d6261f2e3.ts
+600TV,mitv://starvod.xyz:19806/5b1b4ada7ed443d1bffec9e5aa18a9e9.ts
+CBC News,mitv://starvod.xyz:19806/c59f5172b8244e18a6b6e7f92d05c2f8.ts
+CTV News,mitv://starvod.xyz:19806/946d8a12422a43398efc10b1632817f4.ts
+Business News Network,mitv://starvod.xyz:19806/ae41f1a8d24c4d0885b3470aa77d64be.ts
+CP24,mitv://starvod.xyz:19806/073b94e5ade04be4887095760696c942.ts
+The Weather Network,mitv://starvod.xyz:19806/3b379238bb1e4090ab05237fe9073387.ts
+Fox News,mitv://starvod.xyz:19806/912cb0040add44c49955b7e9b8a569d9.ts
+BBC World News,mitv://starvod.xyz:19806/423b4ab2af5b4c63834279a5b02bd5d3.ts
+CNN USA,mitv://starvod.xyz:19806/76019d9ab18c4dbe914acdd537168dc8.ts
+MSNBC,mitv://starvod.xyz:19806/15acff3a0c7d40249f5b9a1bb20af183.ts
+The Weather Channel,mitv://starvod.xyz:19806/1e681d16ccdb4fd48febb7b028a274dc.ts
+音樂,#genre#
+Mezzo Live,mitv://starvod.xyz:19806/e225423bad0b47e0a3c5669e3b6c7bb4.ts
+CLASSICA 古典樂,mitv://starvod.xyz:19806/2f9c4c6f2aee4136bd3010346f0b96ed.ts
+Channel [V],mitv://starvod.xyz:19806/91752783b4eb4508a715eb2294d0265f.ts
+Music Japan TV,mitv://starvod.xyz:19806/f84b6d26a00d4911a4b09d4b71836ea3.ts
+體育,#genre#
+緯來育樂台,mitv://starvod.xyz:19806/a865d62ea25042f689d3d2f7d6cfbe5b.ts
+緯來體育台,mitv://starvod.xyz:19806/d301d07a53e8402eb7daf57c7940a848.ts
+DAZN 1,mitv://starvod.xyz:19806/a4bd134c76a543b69cce543d14819bb8.ts
+DAZN 2,mitv://starvod.xyz:19806/f6c16916cc984a4b90e8b3a8b19c196b.ts
+博斯運動,mitv://starvod.xyz:19806/2385fe5d7dbe49668ebf7f3b236ede9d.ts
+Z頻道,mitv://starvod.xyz:19806/fe966436d6b5437fbe0c4ff28929dea3.ts
+愛爾達體育1台(備),mitv://starvod.xyz:19806/99c335bdad724b0c9541931d096cb26c.ts
+愛爾達體育1台,mitv://starvod.xyz:19806/1777f7d5b993434dbf9f4b32d0fdfccc.ts
+愛爾達體育2台,mitv://starvod.xyz:19806/b84b8db7508046a5be4f85a3deeb76e3.ts
+愛爾達體育2台(備),mitv://starvod.xyz:19806/0eac9b5935fe43c19bca5c6649d13bd5.ts
+愛爾達體育3台(備),mitv://starvod.xyz:19806/c4783bf978c44c43a503cf3507bb7d3d.ts
+愛爾達體育3台,mitv://starvod.xyz:19806/2ebe626a42c147febd4291438b1d4917.ts
+愛爾達體育4台,mitv://starvod.xyz:19806/ffe2a9b06e18415dbc3483f399919fdb.ts
+博斯高球,mitv://starvod.xyz:19806/09f7ad0419d34f9ea25e278a1286005f.ts
+博斯高球二台,mitv://starvod.xyz:19806/792ab26e2f804093b39370e6b1f7801d.ts
+博斯網球台,mitv://starvod.xyz:19806/536f4715f5da4173a36537206de4612b.ts
+博斯魅力網,mitv://starvod.xyz:19806/bf15f818e80a4ff1a3b2514683884b9f.ts
+博斯無限台,mitv://starvod.xyz:19806/a0445d0c29614f47908585e8cdc7fc64.ts
+博斯無限二台,mitv://starvod.xyz:19806/abee6e474fd34b989f426970c95cd557.ts
+TRACE Sport Stars,mitv://starvod.xyz:19806/dd9205f69a734162b11eb09ff166bd11.ts
+智林體育台,mitv://starvod.xyz:19806/d233d3ca78fa48e193b47853ec433c5d.ts
+博斯運動二台,mitv://starvod.xyz:19806/ecbdcee3dbbf45468043181eb97c33e1.ts
+CCTV5,mitv://starvod.xyz:19806/ffe33e5dd1734d06b0502c4f515d7dd4.ts
+CCTV5+,mitv://starvod.xyz:19806/0872b1314de146fca7430f310359180c.ts
+快樂垂釣,mitv://starvod.xyz:19806/76a08540449f4d929c83c1196b035b11.ts
+風雲足球,mitv://starvod.xyz:19806/1ef78da378ae41c098b13d1eb00a72bb.ts
+魅力足球,mitv://starvod.xyz:19806/49e28988113d4e6b9942ee497e3f4ab5.ts
+高爾夫·網球,mitv://starvod.xyz:19806/fa346ad0827a4f1f9e3bbe5aa1c6af42.ts
+廣東體育,mitv://starvod.xyz:19806/7df56458c2be4fc88deccece42f68fe0.ts
+五星體育,mitv://starvod.xyz:19806/a2b118bd953848b598b492cd3f4334a6.ts
+Astro Arena,mitv://starvod.xyz:19806/1c9bcb51041e4db4b1f58a4c4def0d55.ts
+Astro Arena 2,mitv://starvod.xyz:19806/49dc750e87914008b642befb7ef1ccc8.ts
+Astro Premier League,mitv://starvod.xyz:19806/81b53ce210de4bd8be41beacdcc71d12.ts
+Astro Premier League 2,mitv://starvod.xyz:19806/eb3636e27ada44d2856333cc29c17de1.ts
+Astro Grandstand,mitv://starvod.xyz:19806/fe682e01fdd7412d99f29ea146f60080.ts
+Astro Football,mitv://starvod.xyz:19806/6efa4b6dec314b18866f6f7455f1869d.ts
+Astro Badminton,mitv://starvod.xyz:19806/3e157919359844968565fda0e026132d.ts
+beIN Sports 2,mitv://starvod.xyz:19806/19ad4b1226c04f8a8932587004f7ceab.ts
+beIN Sports,mitv://starvod.xyz:19806/7ec6631ab8414c8295b678161ff3e950.ts
+beIN Sports 3,mitv://starvod.xyz:19806/7ed418897a26478aadb200969520b492.ts
+Eurosport HD,mitv://starvod.xyz:19806/2522e6573aa4471fb8a6ae060166568a.ts
+WWE,mitv://starvod.xyz:19806/fd4ae84ea0e54246843114631fd147a4.ts
+Golf Channel,mitv://starvod.xyz:19806/a44dfa7c76f74480b4abdc56a58ffa39.ts
+SPOTV,mitv://starvod.xyz:19806/364e4565c062402e8c8f1d46edb9e30a.ts
+SPOTV 2,mitv://starvod.xyz:19806/3f3dcaacc92f4d88948cd947c7e3b5f9.ts
+Sky Sports Golf,mitv://starvod.xyz:19806/fd1e05258588410483b52fb839d2fc28.ts
+Sky Sports Football,mitv://starvod.xyz:19806/204a67325bd4490e8823bd4931cc9d0a.ts
+Sky Sports F1,mitv://starvod.xyz:19806/a5ec5403d67348c3b3c09de9ce5662ac.ts
+Sky Sports Arena,mitv://starvod.xyz:19806/6e6c39675ec24a1882c9312f8f4dcfe1.ts
+Sky Sports Main Event,mitv://starvod.xyz:19806/0be128b9d8e247cc9a1a07d4eaa386d5.ts
+Sky Sports Cricket,mitv://starvod.xyz:19806/e303bdce13604d6d87ffff4122bbd105.ts
+HKC 18,mitv://starvod.xyz:19806/940e58be3a9d4e77ab15bdb6a852cf8e.ts
+Skynet Sports HD,mitv://starvod.xyz:19806/83cdf7acb34f41278e2cdbf43baf382d.ts
+Skynet Sports 2,mitv://starvod.xyz:19806/5fa24ef348f849f289725e1d29129365.ts
+Skynet Sports 5,mitv://starvod.xyz:19806/ed49b6dfd14746a1827faca36a30c0a8.ts
+Skynet Sports 6,mitv://starvod.xyz:19806/ff324fc98ac04a39bba86972d8686ab8.ts
+Fight Sports,mitv://starvod.xyz:19806/759b38a5e84a4877baed62ffdf82a2ee.ts
+TSN1,mitv://starvod.xyz:19806/0c31ae73d5cc4cd08be16936fcf7937b.ts
+TSN2,mitv://starvod.xyz:19806/6639610519f948e4840717653a2a2645.ts
+TSN3,mitv://starvod.xyz:19806/0dc6e758078d49c68545c6d47cb22013.ts
+TSN4,mitv://starvod.xyz:19806/06bf39123b3d453abefcdbfc94633708.ts
+TSN5,mitv://starvod.xyz:19806/885a50b105f94ef1b21cfc361b734990.ts
+ESPN,mitv://starvod.xyz:19806/9bc1e4b6eaf34aaa9d83dbe293f62490.ts
+NBA,mitv://starvod.xyz:19806/0137332d2c1c4cf59bb8129b6dea12bc.ts
+J Sports 1,mitv://starvod.xyz:19806/0978e9f522de4b168c7420e09c3d4695.ts
+J Sports 2,mitv://starvod.xyz:19806/a92d2208dd254a1198e66b739dc50157.ts
+J Sports 3,mitv://starvod.xyz:19806/7a683ed1620e45bfbe17d16206540054.ts
+J Sports 4,mitv://starvod.xyz:19806/e2514645acb84f5c96798a718a5cd757.ts
+知識,#genre#
+BBC Earth,mitv://starvod.xyz:19806/d224bc93c97946d387701bbcf165afad.ts
+探索頻道,mitv://starvod.xyz:19806/3dd114a2f6534af997c08015c712b218.ts
+動物星球,mitv://starvod.xyz:19806/031368515cad4414a1f0429357a69d22.ts
+BBC Lifestyle,mitv://starvod.xyz:19806/292c0515ef294ea194f92fbc4f438879.ts
+ELTV生活英語台,mitv://starvod.xyz:19806/93ebc4c952e84057a477b38db1e91b36.ts
+Discovery Asia,mitv://starvod.xyz:19806/8c1933ac5c9a49fb891423336a6f42c5.ts
+Discovery科學頻道,mitv://starvod.xyz:19806/e34a7034b690468a8797abbe8ce607b2.ts
+DMAX,mitv://starvod.xyz:19806/56e37d8b586d4cfbb38b61a1fbf5e379.ts
+EVE,mitv://starvod.xyz:19806/0c8422c7ea47475f89553195c91d60f1.ts
+歷史頻道,mitv://starvod.xyz:19806/fc9dade0814048cfb5d26e9ef06b3e28.ts
+罪案偵緝頻道,mitv://starvod.xyz:19806/361ba8ae21604cd8bad50645c36b593c.ts
+Lifetime,mitv://starvod.xyz:19806/819f1d3fb92741c0b5caf39b5b8b165f.ts
+KLT-靖天國際台,mitv://starvod.xyz:19806/ed9b07b12a61425aac24eb25061dd122.ts
+HGTV居家樂活頻道,mitv://starvod.xyz:19806/21eb83d773344e3cae6316288af3818c.ts
+Love Nature,mitv://starvod.xyz:19806/ba87030233c046908d7c7bfaa3ff9df6.ts
+美食星球,mitv://starvod.xyz:19806/9d27c39385aa4b3cb200048b671e376b.ts
+亞洲美食頻道,mitv://starvod.xyz:19806/b44f9ba7be254cb48efeee691982f60e.ts
+亞洲旅遊台,mitv://starvod.xyz:19806/08f86dfe7a7f42d7ad10051157d8a4c5.ts
+EYE TV旅遊台,mitv://starvod.xyz:19806/d81b21f72705424badcf98dfcef332f4.ts
+CCTV9,mitv://starvod.xyz:19806/4b3fd9633685492aa440c96a6fb2c769.ts
+TLC旅遊生活,mitv://starvod.xyz:19806/e32dafaf7fa440edaf439ff36d13105a.ts
+兒少,#genre#
+CN卡通頻道,mitv://starvod.xyz:19806/4d1d2ecae7f94320a485136c48eb9315.ts
+尼克兒童頻道,mitv://starvod.xyz:19806/578d3e6522bb4dcdaaee5c01246a89d6.ts
+MOMO親子台,mitv://starvod.xyz:19806/f6b2f419c63c429f82c93bef5767eed1.ts
+Animax,mitv://starvod.xyz:19806/5beb64b820ba4186afd4cba92f498d07.ts
+靖洋卡通Nice Bingo,mitv://starvod.xyz:19806/266ebf719ec046fb8dba80a8ec8b8806.ts
+靖天卡通台,mitv://starvod.xyz:19806/8f9e5bafe1b5452f9eb3d20e1b5346dd.ts
+達文西頻道,mitv://starvod.xyz:19806/5689b9e7fcc5474bb690bbb78a4975b4.ts
+Nick Jr.,mitv://starvod.xyz:19806/1ceea9c1559b4bea99fca450557e3838.ts
+SUPER Kids,mitv://starvod.xyz:19806/631732f5fa894772aec8ee750359e455.ts
+CCTV14,mitv://starvod.xyz:19806/e170c97b656b4eec92fa697fec180513.ts
+Astro Ceria,mitv://starvod.xyz:19806/ea1d109ded2c43dda257df9c4a505259.ts
+Boomerang,mitv://starvod.xyz:19806/3083cd9f65f349488b99ce07ccd56cd1.ts
+電影,#genre#
+CatchPlay電影台,mitv://starvod.xyz:19806/20e031b96db245c1be9bcd726ecff14a.ts
+東森電影台,mitv://starvod.xyz:19806/9daca0a7902c455fb2252dfb68a77264.ts
+緯來電影台,mitv://starvod.xyz:19806/48b6adc010444ff19a26b8f6a70255b3.ts
+龍祥電影,mitv://starvod.xyz:19806/548e1c3da858445393b6591ced609781.ts
+HBO,mitv://starvod.xyz:19806/1b71ff50d5e44f58978cc2f2fa5bcc5b.ts
+東森洋片台,mitv://starvod.xyz:19806/9da0e7fcb6f94274a6f0f4f8bd7eba61.ts
+AXN,mitv://starvod.xyz:19806/94c08afcb0474394b971c7c8c22098c0.ts
+好萊塢電影台,mitv://starvod.xyz:19806/abc64c3a4cfa4d50aae143f84bd06c6a.ts
+amc電影台,mitv://starvod.xyz:19806/52930472d7b3405e8d5a9ef65e152631.ts
+CINEMAX,mitv://starvod.xyz:19806/a2d58a724bc1416a9e86a00fbf42c946.ts
+HBO Family,mitv://starvod.xyz:19806/138a2d9dcb1f40f1a60ef1c35e54fd2d.ts
+HBO強檔鉅獻,mitv://starvod.xyz:19806/80246e532ee44561851bed6006c75b33.ts
+HBO原創鉅獻,mitv://starvod.xyz:19806/c0d32e65e1bf48da9e459d04bdc56c64.ts
+美亞電影台HD,mitv://starvod.xyz:19806/89874674013e4b30bc075f4e2050c766.ts
+龍華電影,mitv://starvod.xyz:19806/574ee66b78d44e6e81450ae523041523.ts
+靖天映畫,mitv://starvod.xyz:19806/cb236b8c1f7947648a66b36c95238421.ts
+靖天電影台,mitv://starvod.xyz:19806/ce4172c9f6c34e48910843ce7d90458b.ts
+WARNER TV,mitv://starvod.xyz:19806/7880becddff342d8a3875e6af8d7e1f2.ts
+Thrill,mitv://starvod.xyz:19806/a4dcb069e7d242ad950ca7966b87d2e2.ts
+CinemaWorld,mitv://starvod.xyz:19806/f710490e7aa845debe8f2d3eb7b78650.ts
+壹電視電影台,mitv://starvod.xyz:19806/fb7131d67e54407a93bba57d9054e7c8.ts
+采昌影劇台,mitv://starvod.xyz:19806/3b5ea47e97aa46b589983ddb1e4c9a40.ts
+影迷數位電影台,mitv://starvod.xyz:19806/846738e98982471ca03ca5d6abe62007.ts
+美亞電影台(粵語),mitv://starvod.xyz:19806/1d38eb1c04ae4027b62124f163280eed.ts
+MOViE MOViE,mitv://starvod.xyz:19806/08105ee824114f418daecd2956b50cd1.ts
+CCTV6,mitv://starvod.xyz:19806/b0f679eade934d51ad500311f4dccb03.ts
+CHC高清电影,mitv://starvod.xyz:19806/589da08390c14149961d54fef2566609.ts
+CHC家庭影院,mitv://starvod.xyz:19806/e3d527e8d47642028bcdca7cb587d8e8.ts
+CHC動作電影,mitv://starvod.xyz:19806/0999fa74f14540bc8fe2a157cc224391.ts
+私人影院,mitv://starvod.xyz:19806/74567d46c9a54cb8aab7bb35b7446cf2.ts
+天映頻道,mitv://starvod.xyz:19806/538d1cc6941442d4a4e166083d128cf3.ts
+天映經典,mitv://starvod.xyz:19806/1019ce7e7d6e45bea8fd6aec45f5ef12.ts
+HITS Movies,mitv://starvod.xyz:19806/31e31d282a5a4acb9e7856599456072b.ts
+BOO,mitv://starvod.xyz:19806/9ee546f426c64398af4f2d301c8f00b4.ts
+tvN Movies HD,mitv://starvod.xyz:19806/35596b76301f4c8384281e28cf44327c.ts
+戲劇,#genre#
+東森戲劇台,mitv://starvod.xyz:19806/0ed2b2147c7448eb9e1c3576f8d8ae83.ts
+八大戲劇台,mitv://starvod.xyz:19806/46e7eb5599404c4095561068cbaed8f3.ts
+緯來戲劇台,mitv://starvod.xyz:19806/6fb88ea051cd42bd9ed1c2fc20869ef7.ts
+三立戲劇台,mitv://starvod.xyz:19806/3ef68a8194e04993a41501258b99a107.ts
+龍華戲劇,mitv://starvod.xyz:19806/6a6681f04fcc4478886cded08a10c658.ts
+愛爾達影劇台,mitv://starvod.xyz:19806/e724afeaabf9442395119616a9a9ee3e.ts
+靖天戲劇台,mitv://starvod.xyz:19806/2ba8f7ea8f474de28cad4a31526ad11b.ts
+靖洋戲劇台,mitv://starvod.xyz:19806/7d9fa59506ff48b5a307fa1189e9a3fe.ts
+EYE TV戲劇台,mitv://starvod.xyz:19806/3af16129ea6f4e41b7fa6cc4961d1881.ts
+亞洲劇台,mitv://starvod.xyz:19806/140c38a9c83344919da1fc769798c618.ts
+深圳電視劇,mitv://starvod.xyz:19806/b6b14a65ac2d491188db166bb7a7dc77.ts
+台灣,#genre#
+民視,P2p://starvod.xyz:19806/cd92cc6dfb0d4318965a3b54ad335fbb.ts
+人間衛視,P2p://starvod.xyz:19806/68401339000bbb1d0a8f72ec010f3dc0.ts
+台視,P2p://starvod.xyz:19806/9a00c255ab124b1a91d3ebbf57756d1e.ts
+大愛,P2p://starvod.xyz:19806/3e0c07f7812f423bb07d874d61bb62aa.ts
+中視,P2p://starvod.xyz:19806/6836b92f0009e944e607b37f225e727f.ts
+霹靂台灣台,P2p://starvod.xyz:19806/1b2a6a4d06b14a00908ee2bbb1cc617e.ts
+華視,P2p://starvod.xyz:19806/c2aa54f26921463ba6952a8ab0d3e9eb.ts
+公視,P2p://starvod.xyz:19806/9b573a1731d74eb6accc2505d18fc1c8.ts
+公視台語台,P2p://starvod.xyz:19806/b14600af4b614c7882c1f8d1108fee19.ts
+好消息,P2p://starvod.xyz:19806/683be1d0000ef592fa2e719f2e2857df.ts
+原住民電視台,P2p://starvod.xyz:19806/0e9b8c40d4b54342ae81efae98120c54.ts
+客家電視台,P2p://starvod.xyz:19806/4264a306bd714d07becca1a210183e71.ts
+BBC Earth,P2p://starvod.xyz:19806/d224bc93c97946d387701bbcf165afad.ts
+探索頻道,P2p://starvod.xyz:19806/3dd114a2f6534af997c08015c712b218.ts
+動物星球,P2p://starvod.xyz:19806/031368515cad4414a1f0429357a69d22.ts
+CN卡通頻道,P2p://starvod.xyz:19806/4d1d2ecae7f94320a485136c48eb9315.ts
+尼克兒童頻道,P2p://starvod.xyz:19806/578d3e6522bb4dcdaaee5c01246a89d6.ts
+MOMO親子台,P2p://starvod.xyz:19806/f6b2f419c63c429f82c93bef5767eed1.ts
+東森幼幼台,P2p://starvod.xyz:19806/655568da0b2d48d48c1460ab03bb2289.ts
+緯來綜合台,P2p://starvod.xyz:19806/12b1022a452d44df8aaefdcde09a57bf.ts
+八大第一台,P2p://starvod.xyz:19806/e8830993fd404900a0438ad2cf6d0fdd.ts
+八大綜合台,P2p://starvod.xyz:19806/e66207f681ba4f5eaa88053f784c01e4.ts
+三立台灣台,P2p://starvod.xyz:19806/58e136fc9f924abd9ecae125da26586c.ts
+三立都會台,P2p://starvod.xyz:19806/e672ce75014c4a8a95df6c2ec8c22b73.ts
+韓國娛樂台,P2p://starvod.xyz:19806/dff85640b8f24e5b9deba4619c6ef60b.ts
+東森綜合台,P2p://starvod.xyz:19806/799fa5e77f4442edb0cd2d705850e365.ts
+超視,P2p://starvod.xyz:19806/bae012fa49c442ffbb609f0bd37383cf.ts
+中天綜合台,P2p://starvod.xyz:19806/f114b85096cd44c8af4b4940462ed5ea.ts
+中天娛樂台,P2p://starvod.xyz:19806/8d5c2c39309d478db77500e77d647f90.ts
+東森戲劇台,P2p://starvod.xyz:19806/0ed2b2147c7448eb9e1c3576f8d8ae83.ts
+八大戲劇台,P2p://starvod.xyz:19806/46e7eb5599404c4095561068cbaed8f3.ts
+TVBS歡樂台,P2p://starvod.xyz:19806/a4265d3126e645b68497ca319152826f.ts
+緯來戲劇台,P2p://starvod.xyz:19806/6fb88ea051cd42bd9ed1c2fc20869ef7.ts
+高點綜合台,P2p://starvod.xyz:19806/f91cad96bea84f78a717478f60b1c183.ts
+中天新聞台,P2p://starvod.xyz:19806/3d4286732dc444f89d884fe9a1a9cd35.ts
+三立iNEWS,P2p://starvod.xyz:19806/957c56d439114b078398a4748cb111bf.ts
+壹電視新聞台,P2p://starvod.xyz:19806/c1e8882a70774eff8c4ec7b33c28abf9.ts
+年代新聞,P2p://starvod.xyz:19806/ee88a10598104dde88555111081627a4.ts
+東森新聞台,P2p://starvod.xyz:19806/571f577835b04059a840f24b40695776.ts
+東森新聞台(備),P2p://starvod.xyz:19806/c03309d1018144cd830c09eb3fad2321.ts
+華視新聞,P2p://starvod.xyz:19806/9ec2df7a3773446fa13539a8ca57d5b0.ts
+民視新聞台,P2p://starvod.xyz:19806/872d70e460874e1dabb952c580e5d190.ts
+三立新聞台,P2p://starvod.xyz:19806/7715336aa3654b1b9bc72a9672e9034a.ts
+TVBS新聞台,P2p://starvod.xyz:19806/b608ab000afc4cc19a467b01b6181840.ts
+TVBS,P2p://starvod.xyz:19806/7f5153fe32e34c00b9597950419c56ac.ts
+東森財經新聞台,P2p://starvod.xyz:19806/e8dcb71b19a3408c9dee7f293de36fd2.ts
+非凡新聞台,P2p://starvod.xyz:19806/5bef8a795d6047009431cb56608243a4.ts
+CatchPlay電影台,P2p://starvod.xyz:19806/20e031b96db245c1be9bcd726ecff14a.ts
+東森電影台,P2p://starvod.xyz:19806/9daca0a7902c455fb2252dfb68a77264.ts
+緯來電影台,P2p://starvod.xyz:19806/48b6adc010444ff19a26b8f6a70255b3.ts
+龍祥電影,P2p://starvod.xyz:19806/548e1c3da858445393b6591ced609781.ts
+HBO,P2p://starvod.xyz:19806/1b71ff50d5e44f58978cc2f2fa5bcc5b.ts
+東森洋片台,P2p://starvod.xyz:19806/9da0e7fcb6f94274a6f0f4f8bd7eba61.ts
+AXN,P2p://starvod.xyz:19806/94c08afcb0474394b971c7c8c22098c0.ts
+好萊塢電影台,P2p://starvod.xyz:19806/abc64c3a4cfa4d50aae143f84bd06c6a.ts
+amc電影台,P2p://starvod.xyz:19806/52930472d7b3405e8d5a9ef65e152631.ts
+CINEMAX,P2p://starvod.xyz:19806/a2d58a724bc1416a9e86a00fbf42c946.ts
+緯來育樂台,P2p://starvod.xyz:19806/a865d62ea25042f689d3d2f7d6cfbe5b.ts
+緯來體育台,P2p://starvod.xyz:19806/d301d07a53e8402eb7daf57c7940a848.ts
+DAZN 1,P2p://starvod.xyz:19806/a4bd134c76a543b69cce543d14819bb8.ts
+DAZN 2,P2p://starvod.xyz:19806/f6c16916cc984a4b90e8b3a8b19c196b.ts
+MOMO綜合台,P2p://starvod.xyz:19806/01b063908e2843ab9680b176f4e6d0ec.ts
+博斯運動,P2p://starvod.xyz:19806/2385fe5d7dbe49668ebf7f3b236ede9d.ts
+緯來日本,P2p://starvod.xyz:19806/1eb98854f08a425d8cb114f85d12e2ac.ts
+國興衛視,P2p://starvod.xyz:19806/29b1768324a14967a740c0e0dfbbdbc9.ts
+BBC Lifestyle,P2p://starvod.xyz:19806/292c0515ef294ea194f92fbc4f438879.ts
+Animax,P2p://starvod.xyz:19806/5beb64b820ba4186afd4cba92f498d07.ts
+JET綜合台,P2p://starvod.xyz:19806/e19a681ceb1f47df920b8f28c2209a91.ts
+寰宇新聞台,P2p://starvod.xyz:19806/03fa5de4704d42c3ba38e490d3ef003a.ts
+鏡新聞,P2p://starvod.xyz:19806/c2722787c71243b685af438cf9059236.ts
+Z頻道,P2p://starvod.xyz:19806/fe966436d6b5437fbe0c4ff28929dea3.ts
+非凡商業台,P2p://starvod.xyz:19806/89e126238a0345e582505c3391af389d.ts
+八大娛樂台,P2p://starvod.xyz:19806/5b80ae3bbfdf4f51be179a7ed7a891ba.ts
+公視3台,P2p://starvod.xyz:19806/571f2b44c0374c95a68be042523cff7a.ts
+大愛2台,P2p://starvod.xyz:19806/48f1012707d945c8b0aebcb20a0ef971.ts
+ELTV生活英語台,P2p://starvod.xyz:19806/93ebc4c952e84057a477b38db1e91b36.ts
+靖洋卡通Nice Bingo,P2p://starvod.xyz:19806/266ebf719ec046fb8dba80a8ec8b8806.ts
+靖天卡通台,P2p://starvod.xyz:19806/8f9e5bafe1b5452f9eb3d20e1b5346dd.ts
+達文西頻道,P2p://starvod.xyz:19806/5689b9e7fcc5474bb690bbb78a4975b4.ts
+Nick Jr.,P2p://starvod.xyz:19806/1ceea9c1559b4bea99fca450557e3838.ts
+Mezzo Live,P2p://starvod.xyz:19806/e225423bad0b47e0a3c5669e3b6c7bb4.ts
+CLASSICA 古典樂,P2p://starvod.xyz:19806/2f9c4c6f2aee4136bd3010346f0b96ed.ts
+愛爾達體育1台(備),P2p://starvod.xyz:19806/99c335bdad724b0c9541931d096cb26c.ts
+愛爾達體育1台,P2p://starvod.xyz:19806/1777f7d5b993434dbf9f4b32d0fdfccc.ts
+愛爾達體育2台(備),P2p://starvod.xyz:19806/0eac9b5935fe43c19bca5c6649d13bd5.ts
+愛爾達體育2台,P2p://starvod.xyz:19806/b84b8db7508046a5be4f85a3deeb76e3.ts
+愛爾達體育3台(備),P2p://starvod.xyz:19806/c4783bf978c44c43a503cf3507bb7d3d.ts
+愛爾達體育3台,P2p://starvod.xyz:19806/2ebe626a42c147febd4291438b1d4917.ts
+愛爾達體育4台,P2p://starvod.xyz:19806/ffe2a9b06e18415dbc3483f399919fdb.ts
+博斯高球,P2p://starvod.xyz:19806/09f7ad0419d34f9ea25e278a1286005f.ts
+博斯高球二台,P2p://starvod.xyz:19806/792ab26e2f804093b39370e6b1f7801d.ts
+博斯網球台,P2p://starvod.xyz:19806/536f4715f5da4173a36537206de4612b.ts
+博斯魅力網,P2p://starvod.xyz:19806/bf15f818e80a4ff1a3b2514683884b9f.ts
+博斯無限台,P2p://starvod.xyz:19806/a0445d0c29614f47908585e8cdc7fc64.ts
+博斯無限二台,P2p://starvod.xyz:19806/abee6e474fd34b989f426970c95cd557.ts
+TRACE Sport Stars,P2p://starvod.xyz:19806/dd9205f69a734162b11eb09ff166bd11.ts
+智林體育台,P2p://starvod.xyz:19806/d233d3ca78fa48e193b47853ec433c5d.ts
+博斯運動二台,P2p://starvod.xyz:19806/ecbdcee3dbbf45468043181eb97c33e1.ts
+寰宇新聞台灣台,P2p://starvod.xyz:19806/902445beb0d247e1b3cef47c4f8bd626.ts
+HBO Family,P2p://starvod.xyz:19806/138a2d9dcb1f40f1a60ef1c35e54fd2d.ts
+HBO強檔鉅獻,P2p://starvod.xyz:19806/80246e532ee44561851bed6006c75b33.ts
+HBO原創鉅獻,P2p://starvod.xyz:19806/c0d32e65e1bf48da9e459d04bdc56c64.ts
+Discovery Asia,P2p://starvod.xyz:19806/8c1933ac5c9a49fb891423336a6f42c5.ts
+Discovery科學頻道,P2p://starvod.xyz:19806/e34a7034b690468a8797abbe8ce607b2.ts
+DMAX,P2p://starvod.xyz:19806/56e37d8b586d4cfbb38b61a1fbf5e379.ts
+EVE,P2p://starvod.xyz:19806/0c8422c7ea47475f89553195c91d60f1.ts
+歷史頻道,P2p://starvod.xyz:19806/fc9dade0814048cfb5d26e9ef06b3e28.ts
+罪案偵緝頻道,P2p://starvod.xyz:19806/361ba8ae21604cd8bad50645c36b593c.ts
+Lifetime,P2p://starvod.xyz:19806/819f1d3fb92741c0b5caf39b5b8b165f.ts
+KLT-靖天國際台,P2p://starvod.xyz:19806/ed9b07b12a61425aac24eb25061dd122.ts
+HGTV居家樂活頻道,P2p://starvod.xyz:19806/21eb83d773344e3cae6316288af3818c.ts
+Love Nature,P2p://starvod.xyz:19806/ba87030233c046908d7c7bfaa3ff9df6.ts
+美食星球,P2p://starvod.xyz:19806/9d27c39385aa4b3cb200048b671e376b.ts
+亞洲美食頻道,P2p://starvod.xyz:19806/b44f9ba7be254cb48efeee691982f60e.ts
+亞洲旅遊台,P2p://starvod.xyz:19806/08f86dfe7a7f42d7ad10051157d8a4c5.ts
+EYE TV旅遊台,P2p://starvod.xyz:19806/d81b21f72705424badcf98dfcef332f4.ts
+好消息2台,P2p://starvod.xyz:19806/fbffde9801a344c4a9a42216c1455163.ts
+三立綜合台,P2p://starvod.xyz:19806/69750165665e4d05a7efada56fb027af.ts
+靖天資訊台,P2p://starvod.xyz:19806/c081e0305ea241f4a31c036f8b967b58.ts
+靖天綜合台,P2p://starvod.xyz:19806/75b3e6bac51d4f08ba7ed008892ad6c2.ts
+靖天育樂台,P2p://starvod.xyz:19806/a39e20cb2d1d425cae2b8afb470e8d90.ts
+Smart知識台,P2p://starvod.xyz:19806/91503615eaa2416b929e56f178be5100.ts
+台視綜合台,P2p://starvod.xyz:19806/c37a6ec58dd140ccab0e25b94849ee06.ts
+中視經典台,P2p://starvod.xyz:19806/955231be876942298dd19156de280174.ts
+中視菁采台,P2p://starvod.xyz:19806/8462fd9b99c94a6bb0f4c1c9bf84e179.ts
+TVBS精采台,P2p://starvod.xyz:19806/8630baf77c8948ddada142028d174f6c.ts
+壹電視綜合,P2p://starvod.xyz:19806/83489b0f6dee47ee93e8f47521807fd9.ts
+緯來精采,P2p://starvod.xyz:19806/bbf618a8dddc41f4b89f4b4d07533428.ts
+民視第一台,P2p://starvod.xyz:19806/f0a026a709dd4a08aea9edc1dbce6437.ts
+民視台灣台,P2p://starvod.xyz:19806/0ad1202aa2fe4fb4872479db5e384e46.ts
+Nice TV靖天歡樂台,P2p://starvod.xyz:19806/8edc6a4e379a4feb90d683bb579a248f.ts
+八大優頻道,P2p://starvod.xyz:19806/96192f43fc89488aa03188785e9fd4c3.ts
+三立戲劇台,P2p://starvod.xyz:19806/3ef68a8194e04993a41501258b99a107.ts
+龍華戲劇,P2p://starvod.xyz:19806/6a6681f04fcc4478886cded08a10c658.ts
+龍華偶像,P2p://starvod.xyz:19806/77abe54bdc8a4fc896c80a92fb283932.ts
+愛爾達影劇台,P2p://starvod.xyz:19806/e724afeaabf9442395119616a9a9ee3e.ts
+靖天戲劇台,P2p://starvod.xyz:19806/2ba8f7ea8f474de28cad4a31526ad11b.ts
+靖洋戲劇台,P2p://starvod.xyz:19806/7d9fa59506ff48b5a307fa1189e9a3fe.ts
+EYE TV戲劇台,P2p://starvod.xyz:19806/3af16129ea6f4e41b7fa6cc4961d1881.ts
+靖天日本台,P2p://starvod.xyz:19806/923ad522910b45ab8ddad4093a3665f5.ts
+i-Fun動漫台,P2p://starvod.xyz:19806/92ace855ba4b4ad7ab44089e3898eda4.ts
+ROCK Extreme,P2p://starvod.xyz:19806/1d6de08a7b18478f9570a81a5a43ae9a.ts
+中視新聞台,P2p://starvod.xyz:19806/76e537f5ad1b4bb5a2200383679b369b.ts
+台視新聞台,P2p://starvod.xyz:19806/c59ff02905094acaab423c745f34873d.ts
+台視財經台,P2p://starvod.xyz:19806/5aab069d2c6e44e7ab3ea5f8e8ce713d.ts
+NHK新聞資訊台,P2p://starvod.xyz:19806/b8895a019f804fdc9484b74545709c31.ts
+美亞電影台HD,P2p://starvod.xyz:19806/89874674013e4b30bc075f4e2050c766.ts
+龍華電影,P2p://starvod.xyz:19806/574ee66b78d44e6e81450ae523041523.ts
+靖天映畫,P2p://starvod.xyz:19806/cb236b8c1f7947648a66b36c95238421.ts
+靖天電影台,P2p://starvod.xyz:19806/ce4172c9f6c34e48910843ce7d90458b.ts
+WARNER TV,P2p://starvod.xyz:19806/7880becddff342d8a3875e6af8d7e1f2.ts
+CinemaWorld,P2p://starvod.xyz:19806/f710490e7aa845debe8f2d3eb7b78650.ts
+壹電視電影台,P2p://starvod.xyz:19806/fb7131d67e54407a93bba57d9054e7c8.ts
+采昌影劇台,P2p://starvod.xyz:19806/3b5ea47e97aa46b589983ddb1e4c9a40.ts
+影迷數位電影台,P2p://starvod.xyz:19806/846738e98982471ca03ca5d6abe62007.ts
+佛衛慈悲台,P2p://starvod.xyz:19806/11083d4d87f24e4fab0b308dc4ad48e5.ts
+France24,P2p://starvod.xyz:19806/20b9a94c6da94dd1beb5676e1cf83ae6.ts
+HITS,P2p://starvod.xyz:19806/9d0eb098b1b84f988e2be173bb81d447.ts
+tvN,P2p://starvod.xyz:19806/58d53eb474134ed2bce7fe9ad25e6a9f.ts
+中國大陸,#genre#
+CCTV1,P2p://starvod.xyz:19806/c5b00a7fc9754853880d0e8406b3cb4b.ts
+CCTV2,P2p://starvod.xyz:19806/fd4bc64164db4a83a2bd1196b75c3c29.ts
+CCTV3,P2p://starvod.xyz:19806/86fcbc2c068a4c63b705acf6947c6789.ts
+CCTV4,P2p://starvod.xyz:19806/c6c9b210523144beaff404c8fdb4e2fa.ts
+CCTV5,P2p://starvod.xyz:19806/ffe33e5dd1734d06b0502c4f515d7dd4.ts
+CCTV5+,P2p://starvod.xyz:19806/0872b1314de146fca7430f310359180c.ts
+CCTV6,P2p://starvod.xyz:19806/b0f679eade934d51ad500311f4dccb03.ts
+CCTV7,P2p://starvod.xyz:19806/a5cfd97f1f7b4c5fb362cb8191dd5a7a.ts
+CCTV8,P2p://starvod.xyz:19806/510c07e8c33b44629958f553406d98c7.ts
+CCTV9,P2p://starvod.xyz:19806/4b3fd9633685492aa440c96a6fb2c769.ts
+CCTV10,P2p://starvod.xyz:19806/6c1b23ddedd347149d76e5ad91cd4166.ts
+CCTV11,P2p://starvod.xyz:19806/1af5481b38124725954c3099428ea267.ts
+CCTV12,P2p://starvod.xyz:19806/091fc7b1e5b84ee8b8d9afb550844a0e.ts
+CCTV13,P2p://starvod.xyz:19806/4a32492ca231453fae218f4e20cf4e59.ts
+CCTV14,P2p://starvod.xyz:19806/e170c97b656b4eec92fa697fec180513.ts
+CCTV15,P2p://starvod.xyz:19806/ebb54e37ed404c738de7faba76be5320.ts
+CCTV16,P2p://starvod.xyz:19806/7812d8aae0c643f99ce25d0505406971.ts
+CCTV17,P2p://starvod.xyz:19806/5ecab413838c409e841228d7bbbee676.ts
+天津衛視,P2p://starvod.xyz:19806/d289735d0e414ddcaf4a22f70c5aeed8.ts
+北京衛視,P2p://starvod.xyz:19806/f3d8fc2f34344283b96e3d0d518da7ab.ts
+黑龍江衛視,P2p://starvod.xyz:19806/311939ca744445529c223c38108b07c3.ts
+遼寧衛視,P2p://starvod.xyz:19806/a7bb2c334cf64075b1fc69df157793d1.ts
+東方衛視,P2p://starvod.xyz:19806/a7018300695d4835a1e83ec30f92896f.ts
+江蘇衛視,P2p://starvod.xyz:19806/672a23d10003c2dcccdfb146480b660a.ts
+浙江衛視,P2p://starvod.xyz:19806/c9a225666a154729ab2d7354941905de.ts
+江西衛視,P2p://starvod.xyz:19806/a59df0b9747d463786a239e0849323b6.ts
+山東衛視,P2p://starvod.xyz:19806/798d68eb5d69400398afe58b74a57fb2.ts
+廈門衛視,P2p://starvod.xyz:19806/7df316391ac84d7e9326e84ec6a03ac1.ts
+湖北衛視,P2p://starvod.xyz:19806/f15adac61419449c852cf0ff335b7e15.ts
+湖南衛視,P2p://starvod.xyz:19806/610df635bc1f487bb1bceebba18f9e61.ts
+河北衛視,P2p://starvod.xyz:19806/b7b7932294c3429e9a0d6b0907f9f9d2.ts
+廣東衛視,P2p://starvod.xyz:19806/f1b409a562404d719acc430d6d07e5f5.ts
+廣西衛視,P2p://starvod.xyz:19806/b9a92fc620c746b99c563970b202c4b1.ts
+深圳衛視,P2p://starvod.xyz:19806/c04732acc60a4ed48f12d714abd4e972.ts
+雲南衛視,P2p://starvod.xyz:19806/9177a28fb5bc466caaa0c88d750a41fb.ts
+重慶衛視,P2p://starvod.xyz:19806/b7e76bc3313c47b3ab331d6907ee8f3b.ts
+大灣區衛視,P2p://starvod.xyz:19806/545e0e5ea85d4d90a6afc6b3871432a0.ts
+珠江台,P2p://starvod.xyz:19806/4a8a395418054e7387cb779bea1940fb.ts
+廣東影視,P2p://starvod.xyz:19806/9655a3f6aad941ceaa6317814ffcbe69.ts
+星空衛視,P2p://starvod.xyz:19806/28d3a5df574b42819be4afaf8ba33de6.ts
+CHC高清电影,P2p://starvod.xyz:19806/589da08390c14149961d54fef2566609.ts
+CHC家庭影院,P2p://starvod.xyz:19806/e3d527e8d47642028bcdca7cb587d8e8.ts
+CHC動作電影,P2p://starvod.xyz:19806/0999fa74f14540bc8fe2a157cc224391.ts
+私人影院,P2p://starvod.xyz:19806/74567d46c9a54cb8aab7bb35b7446cf2.ts
+Channel [V],P2p://starvod.xyz:19806/91752783b4eb4508a715eb2294d0265f.ts
+重溫經典頻道,P2p://starvod.xyz:19806/8a2b192ed20d4f92a2d6f84b60602316.ts
+快樂垂釣,P2p://starvod.xyz:19806/76a08540449f4d929c83c1196b035b11.ts
+風雲足球,P2p://starvod.xyz:19806/1ef78da378ae41c098b13d1eb00a72bb.ts
+魅力足球,P2p://starvod.xyz:19806/49e28988113d4e6b9942ee497e3f4ab5.ts
+高爾夫·網球,P2p://starvod.xyz:19806/fa346ad0827a4f1f9e3bbe5aa1c6af42.ts
+廣東體育,P2p://starvod.xyz:19806/7df56458c2be4fc88deccece42f68fe0.ts
+五星體育,P2p://starvod.xyz:19806/a2b118bd953848b598b492cd3f4334a6.ts
+深圳都市,P2p://starvod.xyz:19806/377c8142f04a4baeace8f94c1328b3f1.ts
+深圳電視劇,P2p://starvod.xyz:19806/b6b14a65ac2d491188db166bb7a7dc77.ts
+廣州新聞,P2p://starvod.xyz:19806/06f8aaba500b46f5bd00e79fd37dc611.ts
+廣州綜合,P2p://starvod.xyz:19806/67210bab000ce3b2a9595f2751324544.ts
+廣東民生,P2p://starvod.xyz:19806/56332bb2dfa24fd59d3380ce0ae313b4.ts
+港澳,#genre#
+Thrill,P2p://starvod.xyz:19806/a4dcb069e7d242ad950ca7966b87d2e2.ts
+鳳凰中文台,P2p://starvod.xyz:19806/2d4c59c084084aad8398ec7f671bd710.ts
+鳳凰資訊台,P2p://starvod.xyz:19806/2022fbcde5d34ea8849d31493cd54833.ts
+鳳凰香港台,P2p://starvod.xyz:19806/460e0d76407f4deaa560f1cadbdb65b5.ts
+澳門-MACAU,P2p://starvod.xyz:19806/157c1db2ea684f64b680200e38a6cec0.ts
+澳門蓮花,P2p://starvod.xyz:19806/446cd8073b334bd583c2f450da881086.ts
+港台電視31,P2p://starvod.xyz:19806/a6fb3cf3a080468fb35b614d4d03e055.ts
+港台電視32,P2p://starvod.xyz:19806/ed98071b10a246d09ac561195f3c48f1.ts
+港台電視34,P2p://starvod.xyz:19806/e691675a79ae47b39ae379bad33e7651.ts
+美亞電影台(粵語),P2p://starvod.xyz:19806/1d38eb1c04ae4027b62124f163280eed.ts
+香港國際財經台,P2p://starvod.xyz:19806/a58f930120244a90ba330f4b9107c428.ts
+HOY TV,P2p://starvod.xyz:19806/67955caa275c43b78a4a2590e5d38671.ts
+HOY資訊台,P2p://starvod.xyz:19806/f8d4ab21c8d040ebae4a5e88536a5dd6.ts
+黃金翡翠台,P2p://starvod.xyz:19806/d1dc0527fd834336bdd3ee0799f3c6d5.ts
+翡翠台,P2p://147.135.39.171:9906/67c2952b00074b340fe0faf435a51848.ts
+翡翠台(備),P2p://starvod.xyz:19806/3542396b1de54a70be3917fcd4325f8f.ts
+TVB Plus,P2p://starvod.xyz:19806/a43c5ac5e72b4e75a26db0c6e319b86f.ts
+無綫新聞台,P2p://starvod.xyz:19806/557d5098116e4e1f9b14008ed764cc71.ts
+無綫新聞台(備),P2p://starvod.xyz:19806/3b435a342d864075b83291b4cd742e0f.ts
+明珠台,P2p://starvod.xyz:19806/e17f0434113e4d379c36929255b1df20.ts
+PopC,P2p://starvod.xyz:19806/7a6b133b8fb04ed89b39ade5ec9cb777.ts
+now新聞台,P2p://starvod.xyz:19806/92d65e32d85c457d8e2eb56a76892a51.ts
+now財經台,P2p://starvod.xyz:19806/b433233614024692a9ad93da4f558234.ts
+ViuTVsix,P2p://starvod.xyz:19806/e000e5f76aab4bcdb2a8e7a9cabba9b7.ts
+ViuTV,P2p://starvod.xyz:19806/6ebc6d75aa4f48499d8da0053b8ad8d0.ts
+生活台,P2p://starvod.xyz:19806/712cd0b9f3894ecebf1b0fb77f9f3834.ts
+18台,P2p://starvod.xyz:19806/3a3092f063154e04a31b8162b1da53bc.ts
+SUPER Kids,P2p://starvod.xyz:19806/631732f5fa894772aec8ee750359e455.ts
+粵語片台,P2p://starvod.xyz:19806/8a27e94d85f84760a0ec5b48c00c7744.ts
+亞洲劇台,P2p://starvod.xyz:19806/140c38a9c83344919da1fc769798c618.ts
+功夫台,P2p://starvod.xyz:19806/6043814031384523bc272f4f87aeb298.ts
+戲曲台,P2p://starvod.xyz:19806/a65d5449d788498fb5e212e84f2ce430.ts
+千禧經典台,P2p://starvod.xyz:19806/edec663bf45749048fc098d47d4618a8.ts
+TVB娛樂新聞台,P2p://starvod.xyz:19806/c6994957df9e4488bfb1c462db442f61.ts
+TVB星河,P2p://starvod.xyz:19806/1e49e265b69c41b7a056585f9440f05f.ts
+HKC 18,P2p://starvod.xyz:19806/940e58be3a9d4e77ab15bdb6a852cf8e.ts
+馬來西亞,#genre#
+TV1,P2p://starvod.xyz:19806/b53b631feedc41baa3778bbde8bfcdcc.ts
+TV2,P2p://starvod.xyz:19806/771891fa9c5345ca9ec6ae7e138e3924.ts
+TV3,P2p://starvod.xyz:19806/0f9c8d6e327a477f922a6d2c1f87c1f0.ts
+Astro Oasis HD,P2p://starvod.xyz:19806/693b0547574c46baac46be94bd02a147.ts
+Al-Hijrah,P2p://starvod.xyz:19806/d5d44c09e8e2402bbc1f5c6f3c51004a.ts
+Awesome TV,P2p://starvod.xyz:19806/d950658a8a2b474aa3ed47beca2ee1a6.ts
+TV Okey,P2p://starvod.xyz:19806/c8301a84acd740909034c7ba0a615788.ts
+NTV7,P2p://starvod.xyz:19806/a868f6306ecf48a9909b7a369dbe9700.ts
+八度空間,P2p://starvod.xyz:19806/13bb1429f3744fd1a9ec70ee7d2f24c6.ts
+TV9,P2p://starvod.xyz:19806/ead524fdf3124dcda14fd4d543065bee.ts
+SUN TV,P2p://starvod.xyz:19806/3e362d65c7914c7186b492ef40a33e38.ts
+Star Vijay,P2p://starvod.xyz:19806/aeb7cff2c1da49f6878ff4146347ba5c.ts
+Zee Tamil,P2p://starvod.xyz:19806/a8739c3ba9a847908ccac6c7a8b0cc8d.ts
+愛奇藝,P2p://starvod.xyz:19806/78f17ea46cc94bd79956233ad227f094.ts
+千禧經典台,P2p://starvod.xyz:19806/edec663bf45749048fc098d47d4618a8.ts
+Astro AEC,P2p://starvod.xyz:19806/ffe1372ecc664192a107f3793c6b0bcb.ts
+天映頻道,P2p://starvod.xyz:19806/538d1cc6941442d4a4e166083d128cf3.ts
+翡翠台,P2p://starvod.xyz:19806/4eb3c908714d4374a256f4f2da0d6f24.ts
+Astro AOD HD 311,P2p://starvod.xyz:19806/6353366ced1244b9880feb5675c09855.ts
+中天亞洲台,P2p://starvod.xyz:19806/683afa950007a7fef6a7314275d073d0.ts
+TVB娛樂新聞台,P2p://starvod.xyz:19806/c6994957df9e4488bfb1c462db442f61.ts
+TVB星河,P2p://starvod.xyz:19806/1e49e265b69c41b7a056585f9440f05f.ts
+TVBS亞洲,P2p://starvod.xyz:19806/2c41971e5541421fb3e3dec01ea70645.ts
+天映經典,P2p://starvod.xyz:19806/1019ce7e7d6e45bea8fd6aec45f5ef12.ts
+Astro歡喜台,P2p://starvod.xyz:19806/e06784ee86f2466faf25dea43f7ba745.ts
+KBS World,P2p://starvod.xyz:19806/683afbcf0002ac8df6abfa8a1dd147ca.ts
+HITS Movies,P2p://starvod.xyz:19806/31e31d282a5a4acb9e7856599456072b.ts
+BOO,P2p://starvod.xyz:19806/9ee546f426c64398af4f2d301c8f00b4.ts
+tvN Movies HD,P2p://starvod.xyz:19806/35596b76301f4c8384281e28cf44327c.ts
+Astro Awani,P2p://starvod.xyz:19806/8ccbcd3c10c649f39a9db21b29463e7b.ts
+CGTN,P2p://147.135.39.171:9906/67401ba5000028f7123586380c484e3a.ts
+BBC World News,P2p://starvod.xyz:19806/0621f6f581aa4aa8a88d362b3ef92295.ts
+Sky News,P2p://starvod.xyz:19806/5658db93468c4ab793d125b6620ab480.ts
+CNBC,P2p://starvod.xyz:19806/8cdff1b7d0d0480ea303ad89f6df0a70.ts
+ABC Australia,P2p://starvod.xyz:19806/da39c4b1101544ae895b706a7e8bd13d.ts
+France24,P2p://starvod.xyz:19806/20b9a94c6da94dd1beb5676e1cf83ae6.ts
+Astro Ceria,P2p://starvod.xyz:19806/ea1d109ded2c43dda257df9c4a505259.ts
+Boomerang,P2p://starvod.xyz:19806/3083cd9f65f349488b99ce07ccd56cd1.ts
+KIX,P2p://starvod.xyz:19806/819241aca629402c99d6c862a083e5cd.ts
+HITS,P2p://starvod.xyz:19806/9d0eb098b1b84f988e2be173bb81d447.ts
+TLC旅遊生活,P2p://starvod.xyz:19806/e32dafaf7fa440edaf439ff36d13105a.ts
+Astro Arena,P2p://starvod.xyz:19806/1c9bcb51041e4db4b1f58a4c4def0d55.ts
+Astro Arena 2,P2p://starvod.xyz:19806/49dc750e87914008b642befb7ef1ccc8.ts
+Astro Premier League,P2p://starvod.xyz:19806/81b53ce210de4bd8be41beacdcc71d12.ts
+Astro Premier League 2,P2p://starvod.xyz:19806/eb3636e27ada44d2856333cc29c17de1.ts
+Astro Grandstand,P2p://starvod.xyz:19806/fe682e01fdd7412d99f29ea146f60080.ts
+Astro Football,P2p://starvod.xyz:19806/6efa4b6dec314b18866f6f7455f1869d.ts
+Astro Badminton,P2p://starvod.xyz:19806/3e157919359844968565fda0e026132d.ts
+beIN Sports 2,P2p://starvod.xyz:19806/19ad4b1226c04f8a8932587004f7ceab.ts
+beIN Sports,P2p://starvod.xyz:19806/7ec6631ab8414c8295b678161ff3e950.ts
+beIN Sports 3,P2p://starvod.xyz:19806/7ed418897a26478aadb200969520b492.ts
+Eurosport HD,P2p://starvod.xyz:19806/2522e6573aa4471fb8a6ae060166568a.ts
+Golf Channel,P2p://starvod.xyz:19806/a44dfa7c76f74480b4abdc56a58ffa39.ts
+SPOTV,P2p://starvod.xyz:19806/364e4565c062402e8c8f1d46edb9e30a.ts
+SPOTV 2,P2p://starvod.xyz:19806/3f3dcaacc92f4d88948cd947c7e3b5f9.ts
+新加坡,#genre#
+中天亞洲台,P2p://starvod.xyz:19806/683afa950007a7fef6a7314275d073d0.ts
+KBS World,P2p://starvod.xyz:19806/683afbcf0002ac8df6abfa8a1dd147ca.ts
+CGTN,P2p://147.135.39.171:9906/67401ba5000028f7123586380c484e3a.ts
+Fox News,P2p://starvod.xyz:19806/bd8e93c3213f42bf8e5c46b3c43e56ee.ts
+Euronews,P2p://starvod.xyz:19806/b3e7162bd5354f1d814e309800219c1f.ts
+HITS,P2p://starvod.xyz:19806/9d0eb098b1b84f988e2be173bb81d447.ts
+beIN Sports,P2p://starvod.xyz:19806/7ec6631ab8414c8295b678161ff3e950.ts
+beIN Sports 3,P2p://starvod.xyz:19806/7ed418897a26478aadb200969520b492.ts
+Fight Sports,P2p://starvod.xyz:19806/759b38a5e84a4877baed62ffdf82a2ee.ts
+Mediacorp 5,P2p://starvod.xyz:19806/454bb3c2d85449098418d8dd41473310.ts
+Mediacorp 8,P2p://starvod.xyz:19806/1b95df20db1d4b38b12c21b59c18ef0b.ts
+Suria,P2p://starvod.xyz:19806/2607915ccca64099a1ec2e2563f1f250.ts
+Vasantham,P2p://starvod.xyz:19806/67404d2b000163c22371405704f225ff.ts
+CNA,P2p://starvod.xyz:19806/ca904e6798794c97aa5655daea3662d4.ts
+Mediacorp U,P2p://starvod.xyz:19806/4f7f0c887f2b4559ac4be039fbc2eef5.ts
+東森亞洲衛視,P2p://starvod.xyz:19806/924207811e5443ffb12d90273233bd86.ts
+日本,#genre#
+NHK-G综合,P2p://starvod.xyz:19806/a933e056443f4ced80ac92087e7daa9a.ts
+NHK-E教育,P2p://starvod.xyz:19806/6d5bbed3b161445da8bba49569867c54.ts
+日本テレビ,P2p://starvod.xyz:19806/75a479a865ec43bea6b69c8890995012.ts
+TBSテレビ,P2p://starvod.xyz:19806/4ca33342737c4ae2a9198ec987acd305.ts
+テレビ東京,P2p://starvod.xyz:19806/591913aa393c43eabf495906d0605eda.ts
+フジテレビ,P2p://starvod.xyz:19806/89185d69da39411e987c3ba8c83ccb4e.ts
+読売テレビ,P2p://starvod.xyz:19806/0ee9d442c5b14c8e83b2c314ab9a4300.ts
+関西テレビ,P2p://starvod.xyz:19806/033f2c314bf042508511cedef673267f.ts
+テレビ大阪,P2p://starvod.xyz:19806/670340c76d6f48a2bf1dfefbbbee3944.ts
+KBS京都,P2p://starvod.xyz:19806/7a0aec4414db4701afc09f575980a92e.ts
+毎日放送,P2p://starvod.xyz:19806/f66eb62af1e146f0a31df9feae5fc1b8.ts
+朝日放送,P2p://starvod.xyz:19806/7303e01149314ad4a5d8e5aa25b56975.ts
+BS-1,P2p://starvod.xyz:19806/acdcfa09f15a4e9bb2a837cfeb793a6e.ts
+BS日テレ,P2p://starvod.xyz:19806/82140d440fe941ea94644f175b55fb98.ts
+BS朝日,P2p://starvod.xyz:19806/15dfad050ae34f6aa02ec1d5f6a9e3b0.ts
+BS-TBS,P2p://starvod.xyz:19806/8f4e9b7f3031469ba4d84f92a78e9cad.ts
+BS11,P2p://starvod.xyz:19806/6f38ddbbda084f2ea721b97458658f7e.ts
+BSフジ,P2p://starvod.xyz:19806/2e3659a95c5b4d1bb036a7c062d0d3dc.ts
+WOWOWプライム,P2p://starvod.xyz:19806/60ebcb42519c4b058e71bf1a63e8b583.ts
+WOWOWライブ,P2p://starvod.xyz:19806/efa7852398444fbab516e74d8aa19764.ts
+WOWOWシネマ,P2p://starvod.xyz:19806/9478166f644f46e2bfd81cf23c51ff31.ts
+スター・チャンネル1,P2p://starvod.xyz:19806/8457dea1e1ff4af3af0fcba38258fa7f.ts
+BSアニマックス,P2p://starvod.xyz:19806/56a65f41367f497c84cc9538def3a614.ts
+J Sports 1,P2p://starvod.xyz:19806/0978e9f522de4b168c7420e09c3d4695.ts
+J Sports 2,P2p://starvod.xyz:19806/a92d2208dd254a1198e66b739dc50157.ts
+J Sports 3,P2p://starvod.xyz:19806/7a683ed1620e45bfbe17d16206540054.ts
+J Sports 4,P2p://starvod.xyz:19806/e2514645acb84f5c96798a718a5cd757.ts
+Green Channel,P2p://starvod.xyz:19806/ede1dfdf91954f14817d55603428fd20.ts
+ゴルフネットワークHD,P2p://starvod.xyz:19806/1d7c15347e5e4a7c80c49936041649c6.ts
+時代劇専門チャンネル,P2p://starvod.xyz:19806/9d8cc1cbfca8462c9b7acfdea77e3936.ts
+Music Japan TV,P2p://starvod.xyz:19806/f84b6d26a00d4911a4b09d4b71836ea3.ts
+キッズステーションHD,P2p://starvod.xyz:19806/efe841ff5d8045d9a230837bbcabcd1c.ts
+ディスカバリーチャンネル,P2p://starvod.xyz:19806/86b254a7f2764359bc6c4b0b4a6cf567.ts
+ナショナルジオグラフィック,P2p://starvod.xyz:19806/d718fbf0808c40e0ab21b1526c0fb210.ts
+旅チャンネル,P2p://starvod.xyz:19806/e028c018fbc04a9eba1b4cb4178dda90.ts
+韓國,#genre#
+Arirang,P2p://starvod.xyz:19806/3fe7c77ebb1a45a18ef30f78f917640b.ts
+KBS1,P2p://starvod.xyz:19806/af6297c16930401b893abd0cec4be07e.ts
+KBS2,P2p://starvod.xyz:19806/853d5ef131e241b3837d228ab6434f33.ts
+KBS Drama,P2p://starvod.xyz:19806/26204676281842929c42e21f040f2a2f.ts
+History,P2p://starvod.xyz:19806/3c17afa289594fd997fa61ed472bb2b5.ts
+SBS,P2p://starvod.xyz:19806/a64be5c8d277445abf4d89b5880190bf.ts
+SBS Biz,P2p://starvod.xyz:19806/0bcf12196c1a4d23aa622d894c596a02.ts
+JTBC,P2p://starvod.xyz:19806/88aeb4c5515142e59840426c80bf7c37.ts
+EBS,P2p://starvod.xyz:19806/b67cfae093a04e7daa0cc66e3adeb53b.ts
+YTN,P2p://starvod.xyz:19806/2c73ce22a7f14017ae3bde72db1c8d28.ts
+Mnet,P2p://starvod.xyz:19806/fb99ad067315497b8fc7df6d7abac88a.ts
+OCN,P2p://starvod.xyz:19806/b3dd463c3cb04aceb55b587b133afd56.ts
+Inet TV,P2p://starvod.xyz:19806/271f55064b034a70af06b8166a30b6cf.ts
+MBC,P2p://starvod.xyz:19806/1d2805fb1e6a483fa8e191311e17c9f1.ts
+MBN,P2p://starvod.xyz:19806/a020c31336d84d42a3ec32d8fa9a13bc.ts
+Tooniverse,P2p://starvod.xyz:19806/0cb2baece4a94e8c85c99e5d35343d1d.ts
+SPOTV,P2p://starvod.xyz:19806/8fadaa0dbb5149c581eb9db576a429c1.ts
+JTBC GOLF,P2p://starvod.xyz:19806/d4fa73f4f49c41cab93a986d59d1fc4b.ts
+泰國,#genre#
+Channel 5,P2p://starvod.xyz:19806/8ae48e698f5d420e95764fbb950a3caa.ts
+NBT,P2p://starvod.xyz:19806/14b885f92833406e829faa81b24c82f9.ts
+Thai PBS,P2p://starvod.xyz:19806/59c595723148451a8badc8c74b55e371.ts
+TNN 16,P2p://starvod.xyz:19806/1d671a590d554d2b9b9ec2b7231616ba.ts
+JKN 18,P2p://starvod.xyz:19806/560a3d1c6dcd466ba4eb6d4d6261f2e3.ts
+Nation TV,P2p://starvod.xyz:19806/2af3f96889ef4808af4e8cd3b5af15e2.ts
+Workpoint TV,P2p://starvod.xyz:19806/8884ebfa361845fd901bad37b2bc5856.ts
+true4U,P2p://starvod.xyz:19806/0755d3ee80db4b108995d541bf106e75.ts
+GMM 25,P2p://starvod.xyz:19806/53bb389a93ba401c9bc1bbfdd652a049.ts
+Channel 8,P2p://starvod.xyz:19806/f3b7e50bfd6a46f1a4036051b7f3ce92.ts
+Mono 29,P2p://starvod.xyz:19806/d823f8d104fa4818a114ea46e8ad2e11.ts
+MCOT,P2p://starvod.xyz:19806/fcdea892b1b7475fa00397067183d913.ts
+ONE,P2p://starvod.xyz:19806/d62705cbe9fe4686808000fbe2b425de.ts
+Thairath TV,P2p://starvod.xyz:19806/1e55afde47f74abb86b7d395e70324de.ts
+Channel 3,P2p://starvod.xyz:19806/a2e439af4b9c4d3daec07fe824263cee.ts
+Amarin TV,P2p://starvod.xyz:19806/9b84ed924b2948ef8ea5abf29b8db021.ts
+Channel 7,P2p://starvod.xyz:19806/44e63b82876145c9bb912edc48076c00.ts
+PPTV,P2p://starvod.xyz:19806/dad470f725a04c8eae708c69799bfd0e.ts
+News 1,P2p://starvod.xyz:19806/26d44d5ebc5d4c8480083674bd407f1b.ts
+TVB Thai,P2p://starvod.xyz:19806/8a69256dce9740ddb9febc776c5090d8.ts
+北美,#genre#
+ESPN,P2p://starvod.xyz:19806/9bc1e4b6eaf34aaa9d83dbe293f62490.ts
+CBC Olympic,P2p://starvod.xyz:19806/72993a76bc6a4c79b2df54930946bc27.ts
+NBA,P2p://starvod.xyz:19806/0137332d2c1c4cf59bb8129b6dea12bc.ts
+600TV,P2p://starvod.xyz:19806/5b1b4ada7ed443d1bffec9e5aa18a9e9.ts
+城市電視,P2p://starvod.xyz:19806/a04c947671414152814e4a879d4a84e6.ts
+新時代1(東部),P2p://starvod.xyz:19806/e19d12aca4d041cfaf214e7b5372fa9d.ts
+新時代1(西部),P2p://starvod.xyz:19806/2c381681bcfd4ecdb2e52ece5014d6e8.ts
+新時代2,P2p://starvod.xyz:19806/cb5a16c904174c19bf69b94ba80c31f3.ts
+CBC News,P2p://starvod.xyz:19806/c59f5172b8244e18a6b6e7f92d05c2f8.ts
+CTV News,P2p://starvod.xyz:19806/946d8a12422a43398efc10b1632817f4.ts
+Business News Network,P2p://starvod.xyz:19806/ae41f1a8d24c4d0885b3470aa77d64be.ts
+CP24,P2p://starvod.xyz:19806/073b94e5ade04be4887095760696c942.ts
+The Weather Network,P2p://starvod.xyz:19806/3b379238bb1e4090ab05237fe9073387.ts
+Fox News,P2p://starvod.xyz:19806/912cb0040add44c49955b7e9b8a569d9.ts
+BBC World News,P2p://starvod.xyz:19806/423b4ab2af5b4c63834279a5b02bd5d3.ts
+CNN USA,P2p://starvod.xyz:19806/76019d9ab18c4dbe914acdd537168dc8.ts
+MSNBC,P2p://starvod.xyz:19806/15acff3a0c7d40249f5b9a1bb20af183.ts
+The Weather Channel,P2p://starvod.xyz:19806/1e681d16ccdb4fd48febb7b028a274dc.ts
+KOMO 4 TV,P2p://starvod.xyz:19806/4061b08e14344aeaba96e72f3fe9e3c4.ts
+新聞,#genre#
+中天新聞台,P2p://starvod.xyz:19806/3d4286732dc444f89d884fe9a1a9cd35.ts
+三立iNEWS,P2p://starvod.xyz:19806/957c56d439114b078398a4748cb111bf.ts
+壹電視新聞台,P2p://starvod.xyz:19806/c1e8882a70774eff8c4ec7b33c28abf9.ts
+年代新聞,P2p://starvod.xyz:19806/ee88a10598104dde88555111081627a4.ts
+東森新聞台(備),P2p://starvod.xyz:19806/c03309d1018144cd830c09eb3fad2321.ts
+東森新聞台,P2p://starvod.xyz:19806/571f577835b04059a840f24b40695776.ts
+華視新聞,P2p://starvod.xyz:19806/9ec2df7a3773446fa13539a8ca57d5b0.ts
+民視新聞台,P2p://starvod.xyz:19806/872d70e460874e1dabb952c580e5d190.ts
+三立新聞台,P2p://starvod.xyz:19806/7715336aa3654b1b9bc72a9672e9034a.ts
+TVBS新聞台,P2p://starvod.xyz:19806/b608ab000afc4cc19a467b01b6181840.ts
+東森財經新聞台,P2p://starvod.xyz:19806/e8dcb71b19a3408c9dee7f293de36fd2.ts
+非凡新聞台,P2p://starvod.xyz:19806/5bef8a795d6047009431cb56608243a4.ts
+寰宇新聞台,P2p://starvod.xyz:19806/03fa5de4704d42c3ba38e490d3ef003a.ts
+鏡新聞,P2p://starvod.xyz:19806/c2722787c71243b685af438cf9059236.ts
+非凡商業台,P2p://starvod.xyz:19806/89e126238a0345e582505c3391af389d.ts
+寰宇新聞台灣台,P2p://starvod.xyz:19806/902445beb0d247e1b3cef47c4f8bd626.ts
+中視新聞台,P2p://starvod.xyz:19806/76e537f5ad1b4bb5a2200383679b369b.ts
+台視新聞台,P2p://starvod.xyz:19806/c59ff02905094acaab423c745f34873d.ts
+台視財經台,P2p://starvod.xyz:19806/5aab069d2c6e44e7ab3ea5f8e8ce713d.ts
+NHK新聞資訊台,P2p://starvod.xyz:19806/b8895a019f804fdc9484b74545709c31.ts
+香港國際財經台,P2p://starvod.xyz:19806/a58f930120244a90ba330f4b9107c428.ts
+無綫新聞台(備),P2p://starvod.xyz:19806/3b435a342d864075b83291b4cd742e0f.ts
+無綫新聞台,P2p://starvod.xyz:19806/557d5098116e4e1f9b14008ed764cc71.ts
+now新聞台,P2p://starvod.xyz:19806/92d65e32d85c457d8e2eb56a76892a51.ts
+now財經台,P2p://starvod.xyz:19806/b433233614024692a9ad93da4f558234.ts
+廣州新聞,P2p://starvod.xyz:19806/06f8aaba500b46f5bd00e79fd37dc611.ts
+CGTN,P2p://147.135.39.171:9906/67401ba5000028f7123586380c484e3a.ts
+CNN,P2p://starvod.xyz:19806/0b9093e26f3349bbaa569e43818f4374.ts
+BBC World News,P2p://starvod.xyz:19806/0621f6f581aa4aa8a88d362b3ef92295.ts
+Sky News,P2p://starvod.xyz:19806/5658db93468c4ab793d125b6620ab480.ts
+CNBC,P2p://starvod.xyz:19806/8cdff1b7d0d0480ea303ad89f6df0a70.ts
+Bloomberg TV,P2p://starvod.xyz:19806/8e6b5c1401834dbdb8ed12414a5f7456.ts
+ABC Australia,P2p://starvod.xyz:19806/da39c4b1101544ae895b706a7e8bd13d.ts
+Fox News,P2p://starvod.xyz:19806/bd8e93c3213f42bf8e5c46b3c43e56ee.ts
+France24,P2p://starvod.xyz:19806/20b9a94c6da94dd1beb5676e1cf83ae6.ts
+Euronews,P2p://starvod.xyz:19806/b3e7162bd5354f1d814e309800219c1f.ts
+CNA,P2p://starvod.xyz:19806/ca904e6798794c97aa5655daea3662d4.ts
+TNN 16,P2p://starvod.xyz:19806/1d671a590d554d2b9b9ec2b7231616ba.ts
+JKN 18,P2p://starvod.xyz:19806/560a3d1c6dcd466ba4eb6d4d6261f2e3.ts
+600TV,P2p://starvod.xyz:19806/5b1b4ada7ed443d1bffec9e5aa18a9e9.ts
+CBC News,P2p://starvod.xyz:19806/c59f5172b8244e18a6b6e7f92d05c2f8.ts
+CTV News,P2p://starvod.xyz:19806/946d8a12422a43398efc10b1632817f4.ts
+Business News Network,P2p://starvod.xyz:19806/ae41f1a8d24c4d0885b3470aa77d64be.ts
+CP24,P2p://starvod.xyz:19806/073b94e5ade04be4887095760696c942.ts
+The Weather Network,P2p://starvod.xyz:19806/3b379238bb1e4090ab05237fe9073387.ts
+Fox News,P2p://starvod.xyz:19806/912cb0040add44c49955b7e9b8a569d9.ts
+BBC World News,P2p://starvod.xyz:19806/423b4ab2af5b4c63834279a5b02bd5d3.ts
+CNN USA,P2p://starvod.xyz:19806/76019d9ab18c4dbe914acdd537168dc8.ts
+MSNBC,P2p://starvod.xyz:19806/15acff3a0c7d40249f5b9a1bb20af183.ts
+The Weather Channel,P2p://starvod.xyz:19806/1e681d16ccdb4fd48febb7b028a274dc.ts
+音樂,#genre#
+Mezzo Live,P2p://starvod.xyz:19806/e225423bad0b47e0a3c5669e3b6c7bb4.ts
+CLASSICA 古典樂,P2p://starvod.xyz:19806/2f9c4c6f2aee4136bd3010346f0b96ed.ts
+Channel [V],P2p://starvod.xyz:19806/91752783b4eb4508a715eb2294d0265f.ts
+Music Japan TV,P2p://starvod.xyz:19806/f84b6d26a00d4911a4b09d4b71836ea3.ts
+體育,#genre#
+緯來育樂台,P2p://starvod.xyz:19806/a865d62ea25042f689d3d2f7d6cfbe5b.ts
+緯來體育台,P2p://starvod.xyz:19806/d301d07a53e8402eb7daf57c7940a848.ts
+DAZN 1,P2p://starvod.xyz:19806/a4bd134c76a543b69cce543d14819bb8.ts
+DAZN 2,P2p://starvod.xyz:19806/f6c16916cc984a4b90e8b3a8b19c196b.ts
+博斯運動,P2p://starvod.xyz:19806/2385fe5d7dbe49668ebf7f3b236ede9d.ts
+Z頻道,P2p://starvod.xyz:19806/fe966436d6b5437fbe0c4ff28929dea3.ts
+愛爾達體育1台(備),P2p://starvod.xyz:19806/99c335bdad724b0c9541931d096cb26c.ts
+愛爾達體育1台,P2p://starvod.xyz:19806/1777f7d5b993434dbf9f4b32d0fdfccc.ts
+愛爾達體育2台,P2p://starvod.xyz:19806/b84b8db7508046a5be4f85a3deeb76e3.ts
+愛爾達體育2台(備),P2p://starvod.xyz:19806/0eac9b5935fe43c19bca5c6649d13bd5.ts
+愛爾達體育3台(備),P2p://starvod.xyz:19806/c4783bf978c44c43a503cf3507bb7d3d.ts
+愛爾達體育3台,P2p://starvod.xyz:19806/2ebe626a42c147febd4291438b1d4917.ts
+愛爾達體育4台,P2p://starvod.xyz:19806/ffe2a9b06e18415dbc3483f399919fdb.ts
+博斯高球,P2p://starvod.xyz:19806/09f7ad0419d34f9ea25e278a1286005f.ts
+博斯高球二台,P2p://starvod.xyz:19806/792ab26e2f804093b39370e6b1f7801d.ts
+博斯網球台,P2p://starvod.xyz:19806/536f4715f5da4173a36537206de4612b.ts
+博斯魅力網,P2p://starvod.xyz:19806/bf15f818e80a4ff1a3b2514683884b9f.ts
+博斯無限台,P2p://starvod.xyz:19806/a0445d0c29614f47908585e8cdc7fc64.ts
+博斯無限二台,P2p://starvod.xyz:19806/abee6e474fd34b989f426970c95cd557.ts
+TRACE Sport Stars,P2p://starvod.xyz:19806/dd9205f69a734162b11eb09ff166bd11.ts
+智林體育台,P2p://starvod.xyz:19806/d233d3ca78fa48e193b47853ec433c5d.ts
+博斯運動二台,P2p://starvod.xyz:19806/ecbdcee3dbbf45468043181eb97c33e1.ts
+CCTV5,P2p://starvod.xyz:19806/ffe33e5dd1734d06b0502c4f515d7dd4.ts
+CCTV5+,P2p://starvod.xyz:19806/0872b1314de146fca7430f310359180c.ts
+快樂垂釣,P2p://starvod.xyz:19806/76a08540449f4d929c83c1196b035b11.ts
+風雲足球,P2p://starvod.xyz:19806/1ef78da378ae41c098b13d1eb00a72bb.ts
+魅力足球,P2p://starvod.xyz:19806/49e28988113d4e6b9942ee497e3f4ab5.ts
+高爾夫·網球,P2p://starvod.xyz:19806/fa346ad0827a4f1f9e3bbe5aa1c6af42.ts
+廣東體育,P2p://starvod.xyz:19806/7df56458c2be4fc88deccece42f68fe0.ts
+五星體育,P2p://starvod.xyz:19806/a2b118bd953848b598b492cd3f4334a6.ts
+Astro Arena,P2p://starvod.xyz:19806/1c9bcb51041e4db4b1f58a4c4def0d55.ts
+Astro Arena 2,P2p://starvod.xyz:19806/49dc750e87914008b642befb7ef1ccc8.ts
+Astro Premier League,P2p://starvod.xyz:19806/81b53ce210de4bd8be41beacdcc71d12.ts
+Astro Premier League 2,P2p://starvod.xyz:19806/eb3636e27ada44d2856333cc29c17de1.ts
+Astro Grandstand,P2p://starvod.xyz:19806/fe682e01fdd7412d99f29ea146f60080.ts
+Astro Football,P2p://starvod.xyz:19806/6efa4b6dec314b18866f6f7455f1869d.ts
+Astro Badminton,P2p://starvod.xyz:19806/3e157919359844968565fda0e026132d.ts
+beIN Sports 2,P2p://starvod.xyz:19806/19ad4b1226c04f8a8932587004f7ceab.ts
+beIN Sports,P2p://starvod.xyz:19806/7ec6631ab8414c8295b678161ff3e950.ts
+beIN Sports 3,P2p://starvod.xyz:19806/7ed418897a26478aadb200969520b492.ts
+Eurosport HD,P2p://starvod.xyz:19806/2522e6573aa4471fb8a6ae060166568a.ts
+WWE,P2p://starvod.xyz:19806/fd4ae84ea0e54246843114631fd147a4.ts
+Golf Channel,P2p://starvod.xyz:19806/a44dfa7c76f74480b4abdc56a58ffa39.ts
+SPOTV,P2p://starvod.xyz:19806/364e4565c062402e8c8f1d46edb9e30a.ts
+SPOTV 2,P2p://starvod.xyz:19806/3f3dcaacc92f4d88948cd947c7e3b5f9.ts
+Sky Sports Golf,P2p://starvod.xyz:19806/fd1e05258588410483b52fb839d2fc28.ts
+Sky Sports Football,P2p://starvod.xyz:19806/204a67325bd4490e8823bd4931cc9d0a.ts
+Sky Sports F1,P2p://starvod.xyz:19806/a5ec5403d67348c3b3c09de9ce5662ac.ts
+Sky Sports Arena,P2p://starvod.xyz:19806/6e6c39675ec24a1882c9312f8f4dcfe1.ts
+Sky Sports Main Event,P2p://starvod.xyz:19806/0be128b9d8e247cc9a1a07d4eaa386d5.ts
+Sky Sports Cricket,P2p://starvod.xyz:19806/e303bdce13604d6d87ffff4122bbd105.ts
+HKC 18,P2p://starvod.xyz:19806/940e58be3a9d4e77ab15bdb6a852cf8e.ts
+Skynet Sports HD,P2p://starvod.xyz:19806/83cdf7acb34f41278e2cdbf43baf382d.ts
+Skynet Sports 2,P2p://starvod.xyz:19806/5fa24ef348f849f289725e1d29129365.ts
+Skynet Sports 5,P2p://starvod.xyz:19806/ed49b6dfd14746a1827faca36a30c0a8.ts
+Skynet Sports 6,P2p://starvod.xyz:19806/ff324fc98ac04a39bba86972d8686ab8.ts
+Fight Sports,P2p://starvod.xyz:19806/759b38a5e84a4877baed62ffdf82a2ee.ts
+TSN1,P2p://starvod.xyz:19806/0c31ae73d5cc4cd08be16936fcf7937b.ts
+TSN2,P2p://starvod.xyz:19806/6639610519f948e4840717653a2a2645.ts
+TSN3,P2p://starvod.xyz:19806/0dc6e758078d49c68545c6d47cb22013.ts
+TSN4,P2p://starvod.xyz:19806/06bf39123b3d453abefcdbfc94633708.ts
+TSN5,P2p://starvod.xyz:19806/885a50b105f94ef1b21cfc361b734990.ts
+ESPN,P2p://starvod.xyz:19806/9bc1e4b6eaf34aaa9d83dbe293f62490.ts
+NBA,P2p://starvod.xyz:19806/0137332d2c1c4cf59bb8129b6dea12bc.ts
+J Sports 1,P2p://starvod.xyz:19806/0978e9f522de4b168c7420e09c3d4695.ts
+J Sports 2,P2p://starvod.xyz:19806/a92d2208dd254a1198e66b739dc50157.ts
+J Sports 3,P2p://starvod.xyz:19806/7a683ed1620e45bfbe17d16206540054.ts
+J Sports 4,P2p://starvod.xyz:19806/e2514645acb84f5c96798a718a5cd757.ts
+知識,#genre#
+BBC Earth,P2p://starvod.xyz:19806/d224bc93c97946d387701bbcf165afad.ts
+探索頻道,P2p://starvod.xyz:19806/3dd114a2f6534af997c08015c712b218.ts
+動物星球,P2p://starvod.xyz:19806/031368515cad4414a1f0429357a69d22.ts
+BBC Lifestyle,P2p://starvod.xyz:19806/292c0515ef294ea194f92fbc4f438879.ts
+ELTV生活英語台,P2p://starvod.xyz:19806/93ebc4c952e84057a477b38db1e91b36.ts
+Discovery Asia,P2p://starvod.xyz:19806/8c1933ac5c9a49fb891423336a6f42c5.ts
+Discovery科學頻道,P2p://starvod.xyz:19806/e34a7034b690468a8797abbe8ce607b2.ts
+DMAX,P2p://starvod.xyz:19806/56e37d8b586d4cfbb38b61a1fbf5e379.ts
+EVE,P2p://starvod.xyz:19806/0c8422c7ea47475f89553195c91d60f1.ts
+歷史頻道,P2p://starvod.xyz:19806/fc9dade0814048cfb5d26e9ef06b3e28.ts
+罪案偵緝頻道,P2p://starvod.xyz:19806/361ba8ae21604cd8bad50645c36b593c.ts
+Lifetime,P2p://starvod.xyz:19806/819f1d3fb92741c0b5caf39b5b8b165f.ts
+KLT-靖天國際台,P2p://starvod.xyz:19806/ed9b07b12a61425aac24eb25061dd122.ts
+HGTV居家樂活頻道,P2p://starvod.xyz:19806/21eb83d773344e3cae6316288af3818c.ts
+Love Nature,P2p://starvod.xyz:19806/ba87030233c046908d7c7bfaa3ff9df6.ts
+美食星球,P2p://starvod.xyz:19806/9d27c39385aa4b3cb200048b671e376b.ts
+亞洲美食頻道,P2p://starvod.xyz:19806/b44f9ba7be254cb48efeee691982f60e.ts
+亞洲旅遊台,P2p://starvod.xyz:19806/08f86dfe7a7f42d7ad10051157d8a4c5.ts
+EYE TV旅遊台,P2p://starvod.xyz:19806/d81b21f72705424badcf98dfcef332f4.ts
+CCTV9,P2p://starvod.xyz:19806/4b3fd9633685492aa440c96a6fb2c769.ts
+TLC旅遊生活,P2p://starvod.xyz:19806/e32dafaf7fa440edaf439ff36d13105a.ts
+兒少,#genre#
+CN卡通頻道,P2p://starvod.xyz:19806/4d1d2ecae7f94320a485136c48eb9315.ts
+尼克兒童頻道,P2p://starvod.xyz:19806/578d3e6522bb4dcdaaee5c01246a89d6.ts
+MOMO親子台,P2p://starvod.xyz:19806/f6b2f419c63c429f82c93bef5767eed1.ts
+Animax,P2p://starvod.xyz:19806/5beb64b820ba4186afd4cba92f498d07.ts
+靖洋卡通Nice Bingo,P2p://starvod.xyz:19806/266ebf719ec046fb8dba80a8ec8b8806.ts
+靖天卡通台,P2p://starvod.xyz:19806/8f9e5bafe1b5452f9eb3d20e1b5346dd.ts
+達文西頻道,P2p://starvod.xyz:19806/5689b9e7fcc5474bb690bbb78a4975b4.ts
+Nick Jr.,P2p://starvod.xyz:19806/1ceea9c1559b4bea99fca450557e3838.ts
+SUPER Kids,P2p://starvod.xyz:19806/631732f5fa894772aec8ee750359e455.ts
+CCTV14,P2p://starvod.xyz:19806/e170c97b656b4eec92fa697fec180513.ts
+Astro Ceria,P2p://starvod.xyz:19806/ea1d109ded2c43dda257df9c4a505259.ts
+Boomerang,P2p://starvod.xyz:19806/3083cd9f65f349488b99ce07ccd56cd1.ts
+電影,#genre#
+CatchPlay電影台,P2p://starvod.xyz:19806/20e031b96db245c1be9bcd726ecff14a.ts
+東森電影台,P2p://starvod.xyz:19806/9daca0a7902c455fb2252dfb68a77264.ts
+緯來電影台,P2p://starvod.xyz:19806/48b6adc010444ff19a26b8f6a70255b3.ts
+龍祥電影,P2p://starvod.xyz:19806/548e1c3da858445393b6591ced609781.ts
+HBO,P2p://starvod.xyz:19806/1b71ff50d5e44f58978cc2f2fa5bcc5b.ts
+東森洋片台,P2p://starvod.xyz:19806/9da0e7fcb6f94274a6f0f4f8bd7eba61.ts
+AXN,P2p://starvod.xyz:19806/94c08afcb0474394b971c7c8c22098c0.ts
+好萊塢電影台,P2p://starvod.xyz:19806/abc64c3a4cfa4d50aae143f84bd06c6a.ts
+amc電影台,P2p://starvod.xyz:19806/52930472d7b3405e8d5a9ef65e152631.ts
+CINEMAX,P2p://starvod.xyz:19806/a2d58a724bc1416a9e86a00fbf42c946.ts
+HBO Family,P2p://starvod.xyz:19806/138a2d9dcb1f40f1a60ef1c35e54fd2d.ts
+HBO強檔鉅獻,P2p://starvod.xyz:19806/80246e532ee44561851bed6006c75b33.ts
+HBO原創鉅獻,P2p://starvod.xyz:19806/c0d32e65e1bf48da9e459d04bdc56c64.ts
+美亞電影台HD,P2p://starvod.xyz:19806/89874674013e4b30bc075f4e2050c766.ts
+龍華電影,P2p://starvod.xyz:19806/574ee66b78d44e6e81450ae523041523.ts
+靖天映畫,P2p://starvod.xyz:19806/cb236b8c1f7947648a66b36c95238421.ts
+靖天電影台,P2p://starvod.xyz:19806/ce4172c9f6c34e48910843ce7d90458b.ts
+WARNER TV,P2p://starvod.xyz:19806/7880becddff342d8a3875e6af8d7e1f2.ts
+Thrill,P2p://starvod.xyz:19806/a4dcb069e7d242ad950ca7966b87d2e2.ts
+CinemaWorld,P2p://starvod.xyz:19806/f710490e7aa845debe8f2d3eb7b78650.ts
+壹電視電影台,P2p://starvod.xyz:19806/fb7131d67e54407a93bba57d9054e7c8.ts
+采昌影劇台,P2p://starvod.xyz:19806/3b5ea47e97aa46b589983ddb1e4c9a40.ts
+影迷數位電影台,P2p://starvod.xyz:19806/846738e98982471ca03ca5d6abe62007.ts
+美亞電影台(粵語),P2p://starvod.xyz:19806/1d38eb1c04ae4027b62124f163280eed.ts
+MOViE MOViE,P2p://starvod.xyz:19806/08105ee824114f418daecd2956b50cd1.ts
+CCTV6,P2p://starvod.xyz:19806/b0f679eade934d51ad500311f4dccb03.ts
+CHC高清电影,P2p://starvod.xyz:19806/589da08390c14149961d54fef2566609.ts
+CHC家庭影院,P2p://starvod.xyz:19806/e3d527e8d47642028bcdca7cb587d8e8.ts
+CHC動作電影,P2p://starvod.xyz:19806/0999fa74f14540bc8fe2a157cc224391.ts
+私人影院,P2p://starvod.xyz:19806/74567d46c9a54cb8aab7bb35b7446cf2.ts
+天映頻道,P2p://starvod.xyz:19806/538d1cc6941442d4a4e166083d128cf3.ts
+天映經典,P2p://starvod.xyz:19806/1019ce7e7d6e45bea8fd6aec45f5ef12.ts
+HITS Movies,P2p://starvod.xyz:19806/31e31d282a5a4acb9e7856599456072b.ts
+BOO,P2p://starvod.xyz:19806/9ee546f426c64398af4f2d301c8f00b4.ts
+tvN Movies HD,P2p://starvod.xyz:19806/35596b76301f4c8384281e28cf44327c.ts
+戲劇,#genre#
+東森戲劇台,P2p://starvod.xyz:19806/0ed2b2147c7448eb9e1c3576f8d8ae83.ts
+八大戲劇台,P2p://starvod.xyz:19806/46e7eb5599404c4095561068cbaed8f3.ts
+緯來戲劇台,P2p://starvod.xyz:19806/6fb88ea051cd42bd9ed1c2fc20869ef7.ts
+三立戲劇台,P2p://starvod.xyz:19806/3ef68a8194e04993a41501258b99a107.ts
+龍華戲劇,P2p://starvod.xyz:19806/6a6681f04fcc4478886cded08a10c658.ts
+愛爾達影劇台,P2p://starvod.xyz:19806/e724afeaabf9442395119616a9a9ee3e.ts
+靖天戲劇台,P2p://starvod.xyz:19806/2ba8f7ea8f474de28cad4a31526ad11b.ts
+靖洋戲劇台,P2p://starvod.xyz:19806/7d9fa59506ff48b5a307fa1189e9a3fe.ts
+EYE TV戲劇台,P2p://starvod.xyz:19806/3af16129ea6f4e41b7fa6cc4961d1881.ts
+亞洲劇台,P2p://starvod.xyz:19806/140c38a9c83344919da1fc769798c618.ts
+深圳電視劇,P2p://starvod.xyz:19806/b6b14a65ac2d491188db166bb7a7dc77.ts
+
