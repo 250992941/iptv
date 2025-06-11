@@ -53,7 +53,7 @@
   {
   "name":"电视直播线路--6",
   "type":0,
-  "url":"http://8.138.7.223/51.txt",
+  "url":"http://8.138.7.223/v25.txt",
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
