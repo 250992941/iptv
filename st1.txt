@@ -1140,6 +1140,8 @@ HBO (Asia),https://dko29we9nm1rd.cloudfront.net/hls/CH115/index.m3u8
 HBO (Asia),http://108.181.20.197/livehttpplay?channel_id=20093
 HBO (Asia),http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571204&extension=ts&play_token=TQWwwF8fB9
 
+
+以下为晴天源,#genre#
 台灣,#genre#
 民視,mitv://starvod.xyz:19806/cd92cc6dfb0d4318965a3b54ad335fbb.ts
 人間衛視,mitv://starvod.xyz:19806/68401339000bbb1d0a8f72ec010f3dc0.ts
