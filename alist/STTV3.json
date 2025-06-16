@@ -88,7 +88,7 @@
   {
   "name":"电视直播线路--10(ST1)",
   "type":0,
-  "url":"https://gh-proxy.com/https://raw.githubusercontent.com/250992941/iptv/refs/heads/main/st1.txt",
+  "url":"https://raw.gitmirror.com/250992941/iptv/refs/heads/main/st1.txt",
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
