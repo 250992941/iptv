@@ -1,5 +1,5 @@
 午夜频道,#genre#
-pigo,http://ali.hlspull.yximgs.com:80/live/e1d0b7c095d39aca00e75858c7485f4d.flv
+pigo,http://ali.hlspull.yximgs.com:80/live/5bcf75a5e2b0610a5abc7d8e448d63b7.flv
 日本映画専門チャンネル,https://stream02.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1#https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 東映チャンネル,https://stream02.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1#https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59d
 东映チャンネルhttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
@@ -9,22 +9,24 @@ pigo,http://ali.hlspull.yximgs.com:80/live/e1d0b7c095d39aca00e75858c7485f4d.flv
 私房写真,https://luong.utako.moe/pigoo/index.m3u8
 Zoom tvhttp://185.236.229.62:9981/play/a02a
 3https://live.iptvxxx.net/siptarskaGOVNA.m3u8
-极限,https://ali.hlspull.yximgs.com:443/live/2d7b99b886a1d12286c641d11cb0b283.flv
+极限,http://ali.hlspull.yximgs.com:80/live/cf58e2f1f23614a9daa934bd49f897d9.flv
 台湾频道,#genre#
-happy,https://ali.hlspull.yximgs.com:443/live/98f94700935912b511a14422039d3d05.flv
-香蕉,https://ali.hlspull.yximgs.com:443/live/dbb838131eb896a3b3a3da06a939820f.flv
-惊艳,http://ali.hlspull.yximgs.com:80/live/a37cb0a2f223d01922685685cba64b2e.flv
-潘朵拉,http://ali.hlspull.yximgs.com:80/live/6a265a5b9f8d93b3adc44b13f952f90d.flv
-彩虹电影,http://ali.hlspull.yximgs.com:80/live/115197608906fed2c16d2a52e98314dc.flv
-k频道,http://ali.hlspull.yximgs.com:80/live/9a09cfd14a8b1ad18dbd61f286fa81b8.flv
-e频道,http://ali.hlspull.yximgs.com:80/live/0377d6869f56f7af77f91da3714f3e84.flv
-松3,http://ali.hlspull.yximgs.com:80/live/d19ca6e6b19c9bf461d861dafaf356c6.flv
-松1,http://ali.hlspull.yximgs.com:80/live/52f274c1bedf4791f95ab9601f0700ac.flv
+happy,http://ali.hlspull.yximgs.com:80/live/e2464991d16b9ba53a0bbf155c18563d.flv
+香蕉,http://ali.hlspull.yximgs.com:80/live/5f9475d108a8dc2a4c6f3645b54363bc.flv
+惊艳,http://ali.hlspull.yximgs.com:80/live/8380a44e9972f6ba846596ad36d48ca2.flv
+潘朵拉,http://ali.hlspull.yximgs.com:80/live/17a80b1d82886ec94058d087e01e9232.flv
+彩虹电影,http://ali.hlspull.yximgs.com:80/live/29da97373c682cfe7543b56b4af69f72.flv
+k频道,http://ali.hlspull.yximgs.com:80/live/a021616b4868b6cd496d3e7f9cd0f7f5.flv
+e频道,http://ali.hlspull.yximgs.com:80/live/655ba37883ccfefd8c063c9866752b92.flv
+松3,http://ali.hlspull.yximgs.com:80/live/1d122fd89b1d9a5e8c1149f2c19d6882.flv
+松1,http://ali.hlspull.yximgs.com:80/live/c71885f5a6b7ac11130fd9373a3a63d4.flv
 以上为临时源,https://cf005.paopao.video:443/8FD49DF7895AED29D436FF2D3A28828D6FD808FB
 无信号请重启软件,https://cf005.paopao.video:443/8FD49DF7895AED29D436FF2D3A28828D6FD808FB
 pigoo,https://luong.utako.moe/pigoo/index.m3u8 
 俄罗斯,#genre#
 EroLuxe Japanese,http://cdntv.online/high/ynemik5cl9/1694.mpeg
+femjoy,http://rhsbjv7k.tvclub.xyz/iptv/CE8B355427DHX5/6212/index.m3u8
+Playboy P,http://rhsbjv7k.tvclub.xyz/iptv/CE8B355427DHX5/6242/index.m3u8
 femjoy,http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/6212/index.m3u8
 Кино 18+,http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/18075/index.m3u8
 japanhdv,http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/6225/manifest.m3u8
@@ -32,26 +34,6 @@ Playboy Plus,http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/6242/manifest.m3u8
 Playboy,http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/527/index.m3u8
 Playboy Plus,http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/6242/index.m3u8
 GON,http://162.19.243.184/716/index.m3u8?token=M4f082ab4c
- Playboy TV,http://zuiowy.net:8080/LeninBreveTv/OAL0ezDWep/92202
- PRIVATE_LA2,http://zuiowy.net:8080/LeninBreveTv/OAL0ezDWep/91463
- Taboo,http://zuiowy.net:8080/LeninBreveTv/OAL0ezDWep/92203
- Venus,http://zuiowy.net:8080/LeninBreveTv/OAL0ezDWep/92204
- ALBA 1,http://zuiowy.net:8080/LeninBreveTv/OAL0ezDWep/127170
- ALBA 2,http://zuiowy.net:8080/LeninBreveTv/OAL0ezDWep/127169
- Anal,http://zuiowy.net:8080/LeninBreveTv/OAL0ezDWep/127149
- BBW,http://zuiowy.net:8080/LeninBreveTv/OAL0ezDWep/127168
- Big Ass,http://zuiowy.net:8080/LeninBreveTv/OAL0ezDWep/127131
- Big Ass HD,http://zuiowy.net:8080/LeninBreveTv/OAL0ezDWep/127132
- Big Dick HD,http://zuiowy.net:8080/LeninBreveTv/OAL0ezDWep/127158
- Big Tits HD,http://zuiowy.net:8080/LeninBreveTv/OAL0ezDWep/127159
- Blonde,http://zuiowy.net:8080/LeninBreveTv/OAL0ezDWep/127133
- BlowJob,http://zuiowy.net:8080/LeninBreveTv/OAL0ezDWep/127150
- Brunette,http://zuiowy.net:8080/LeninBreveTv/OAL0ezDWep/127165
- Compilation,http://zuiowy.net:8080/LeninBreveTv/OAL0ezDWep/127166
- Cuckold,http://zuiowy.net:8080/LeninBreveTv/OAL0ezDWep/127160
- Fetish,http://zuiowy.net:8080/LeninBreveTv/OAL0ezDWep/127161
- Gangbang,http://zuiowy.net:8080/LeninBreveTv/OAL0ezDWep/127134
- Gay,http://zuiowy.net:8080/LeninBreveTv/OAL0ezDWep/127167
  Fake Taxi,http://main.movistar-balancer.store:8080/AN229277/6TMzJY4P4wxRWInVsLGsMeXlkjoZTb/58036
  EVIL ANGEL,http://main.movistar-balancer.store:8080/AN229277/6TMzJY4P4wxRWInVsLGsMeXlkjoZTb/58037
  BRAZZERS EXXTRA,http://main.movistar-balancer.store:8080/AN229277/6TMzJY4P4wxRWInVsLGsMeXlkjoZTb/58038
@@ -1594,6 +1576,76 @@ FrenchLover,http://live.admuspeh.my/8393/index.m3u8?token=4gPHp5ZVYqDAR4oz
 CineMan XXX FHD,http://live.admuspeh.my/8868/index.m3u8?token=4gPHp5ZVYqDAR4oz
 CineMan XXX2 FHD,http://live.admuspeh.my/8869/index.m3u8?token=4gPHp5ZVYqDAR4oz
 乌克兰,#genre#
+ Balkan EroticBalkan Erotic,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1593
+Brazzers TV Adult Brazzers TVBrazzers TV,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1384
+   Hustler  Hustler,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1339
+ Private HDprivate_tv_de.jpg 
+ Private HD,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1551
+ EroxErox,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1589
+ X BizarreX Bizarre,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1338
+ PornHubPornHub,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1557
+ ExtreamExtream,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/39651
+ All BlackAll Black,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1567
+ Blue HustlerBlue Hustler,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1590
+ Penthouse Gold Penthouse Gold ,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1362
+  Dorcel Dorcel,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1342
+ SHELK XXXSHELK XXX,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1358
+ Legal TVLegal TV,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1585
+ Secret CircleSecret Circle,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1562
+  BALKAN HOT  BALKAN HOT ,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1558
+ Red LipsRed Lips,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1372
+  Reality Kings Reality Kings,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1375
+ Fake TaxiFake Taxi,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1554
+ Secret CircleSecret Circle,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1598
+ TeenTeen,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1549
+ Private HDPrivate HD,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1337
+ BabesTVBabesTV,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1341
+ EvilAngelEvilAngel,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1580
+ PENTHOUSE QUICKIESPENTHOUSE QUICKIES,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1565
+ NET XXNET XX,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1390
+ AnalAnal,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1364
+ Premium PornPremium Porn,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1592
+ WOW PornWOW Porn,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1599
+ Zest TVZest TV,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1600
+ Family HookupsFamily Hookups,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/39708
+ X DesireX Desire,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1388
+ Family StrokesFamily Strokes,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1597
+ 24/7 Adult Young Girls 1824/7 Adult Young Girls 18,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/39673
+ VIXEN HDVIXEN HD,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1568
+ French Lover EuropeFrench Lover Europe,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/39614
+Pink Erotic 1 Adult Pink Erotic 1Pink Erotic 1,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1345
+Pink Erotic 2 Adult Pink Erotic 2Pink Erotic 2,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1346
+ Pink Erotic 3Pink Erotic 3,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1347
+ Pink Erotic 4Pink Erotic 4,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1348
+ Pink Erotic 5Pink Erotic 5,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1349
+ Pink Erotic 6Pink Erotic 6,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1350
+ Pink Erotic 7Pink Erotic 7,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1351
+ Pink Erotic 8Pink Erotic 8,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1352
+ Alba 1Alba 1,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/2186
+ Alba 2Alba 2,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/2187
+ Alba 3Alba 3,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/2188
+ Alba 4Alba 4,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/2189
+ Alba 5Alba 5,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/2190
+ Big TitsBig Tits,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1370
+ Passion xxxPassion xxx,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1368
+ Pinko ClubPinko Club,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1591
+ Pinko Club 2Pinko Club 2,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1595
+ French Lover XXXFrench Lover XXX,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1365
+ Tonights GirlfriendTonights Girlfriend,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1376
+ Meiden Van HollandMeiden Van Holland,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1573
+ Sexto SensoSexto Senso,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1344
+ PREMIUM PORNPREMIUM PORN,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1363
+  Playboy TV Playboy TV,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/39610
+ Shalun TVShalun TV,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/39608
+ XXX1XXX1,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/39618
+ SEX ACTIONSEX ACTION,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/39621
+ BlowjobBlowjob,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/39611
+: Blue HustlerAdult:: Blue Hustler,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/39647
+ SEX ATIONSEX ATION,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/39649
+ Prencces CumPrencces Cum,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/39681
+ PORNSTERS 1PORNSTERS 1,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/39603
+ PORNSTERS 3PORNSTERS 3,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/39602
+ PORNSTERS 4PORNSTERS 4,http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/39601
 Blue Hustler TV,http://ua.online24.pm/play/107/6C79C1AAFA64E87/video.m3u8
 Hustler TVHustler TV,http://ua.online24.pm/play/592/6C79C1AAFA64E87/video.m3u8
 PlayboyPlayboy,http://ua.online24.pm/play/242/6C79C1AAFA64E87/video.m3u8
@@ -2015,6 +2067,14 @@ PORNBOX TRANS: TRANS EROTICA,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/
  MY TINY WISH,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160021
  MYLF,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160022
 频道3,#genre#
+PINK EROTIC 1,https://webtvstream.bhtelecom.ba/pink_erotic1.m3u8
+PINK EROTIC 2,https://webtvstream.bhtelecom.ba/pink_erotic2.m3u8
+PINK EROTIC 3,https://webtvstream.bhtelecom.ba/pink_erotic3.m3u8
+PINK EROTIC 4,https://webtvstream.bhtelecom.ba/pink_erotic4.m3u8
+PINK EROTIC 5,https://webtvstream.bhtelecom.ba/pink_erotic5.m3u8
+PINK EROTIC 6,https://webtvstream.bhtelecom.ba/pink_erotic6.m3u8
+PINK EROTIC 7,https://webtvstream.bhtelecom.ba/pink_erotic7.m3u8
+PINK EROTIC 8,https://webtvstream.bhtelecom.ba/pink_erotic8.m3u8
 fhd,http://bccdn.xyz/live/5026071354pw/1576797021/83248.m3u8
 Три Ангела,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6259/manifest.m3u8
 彩虹ehttps://z88.ubtvfans.com/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
@@ -2560,6 +2620,15 @@ heyzo1031,https://f005.paopao.video:443/0BD73681E256D14FEE871B6B5DC45D2C86DB1F9C
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
 欧美影片,#genre#
+1,https://v3587.cdn-d1.com/a98567b9b4cfb4e139bf7ecb04f5d985e6463f8b/i.yaeby.com/contents/videos/27000/27751/27751.mp4
+2,https://v1506.cdn-d1.com/a98567b9b4cfb4e139bfa73ac5bd2773a5dc0a04/i.yaeby.com/contents/videos/26000/26422/26422.mp4
+3,https://v166120.cdn-d1.com/a98567b9b4cfb4e139bf11504ec8262d7efead5b/i.yaeby.com/contents/videos/26000/26721/26721.mp4
+4,https://v174225.cdn-d1.com/a98567b9b4cfb4e139bf98404a393d4c30f2b206/i.yaeby.com/contents/videos/26000/26585/26585.mp4
+5,https://v45172.cdn-d1.com/a98567b9b4cfb4e139bf00ae9e050c18192168fa/i.yaeby.com/contents/videos/23000/23406/23406.mp4
+6,https://v215178.cdn-d1.com/a98567b9b4cfb4e139bf30697ab1a3fe8fe0bc25/i.yaeby.com/contents/videos/21000/21911/21911.mp4
+7,https://v45158.cdn-d1.com/a98567b9b4cfb4e139bfb021530b5f72117129fc/i.yaeby.com/contents/videos/17000/17626/17626.mp4
+8,https://v108145.cdn-d1.com/a98567b9b4cfb4e139bf0f9302f063bc422c4959/i.yaeby.com/contents/videos/16000/16964/16964.mp4
+9,https://v108135.cdn-d1.com/a98567b9b4cfb4e139bf8ed16e5d73ea217921c8/i.yaeby.com/contents/videos/16000/16755/16755.mp4
 60601,http://60106.vod.adultiptv.net/ph5770c2783ffca/play.m3u8
 Losing Kayden
 Beautiful Cocksucker - Veronika Charm,http://12204.vod.adultiptv.net/ph59e4632689f28/play.m3u8
