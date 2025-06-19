@@ -3,9 +3,9 @@
   "wallpaper":"https://api.btstu.cn/sjbz/api.php",
   "lives":[
    {
-  "name":"电视直播线路--1",
+  "name":"电视直播线路--1(ST NEWTV)",
   "type":0,
-  "url":"https://gh-proxy.com/https://raw.githubusercontent.com/lhf0554/jx/refs/heads/master/output/result.txt",
+  "url":"http://zozo.work.gd/ys/i/?QQ=ZB",
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -86,9 +86,9 @@
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
   {
-  "name":"电视直播线路--10(ST1)",
+  "name":"电视直播线路--10(STJX)",
   "type":0,
-  "url":"http://zozo.work.gd/ys/i/?QQ=ZB",
+  "url":"https://gh-proxy.com/https://raw.githubusercontent.com/lhf0554/jx/refs/heads/master/output/result.txt", 
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -132,18 +132,18 @@
   },
  
   {
-  "name":"电视直播线路--15(广东酒店源)",
+  "name":"电视直播线路--15(广东频道1)",
   "type":0,
-  "url":"https://gyssi.link/iptv/chinaiptv/%E5%B9%BF%E4%B8%9C%E7%9C%81.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
+  "url":"https://gyssi.link/live/%E5%B9%BF%E4%B8%9C1.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
   {
-  "name":"电视直播线路--16(湖南酒店源)",
+  "name":"电视直播线路--16(湖南频道1)",
   "type":0,
-  "url":"https://gyssi.link/iptv/chinaiptv/%E6%B9%96%E5%8D%97%E7%9C%81.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
+  "url":"https://gyssi.link/live/%E6%B9%96%E5%8D%971.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
   "playerType":2,"ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
@@ -204,7 +204,7 @@
  {
   "name":"AKTV直播线路--23",
   "type":0,
-  "url":"https://raw.githubusercontent.com/250992941/iptv/refs/heads/main/alist/%E6%B8%AF%E5%8F%B0web.txt",
+  "url":"https://aktv.space/live.m3u",
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
