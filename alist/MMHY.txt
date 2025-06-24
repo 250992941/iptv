@@ -9,17 +9,17 @@ pigo,http://ali.hlspull.yximgs.com:80/live/5bcf75a5e2b0610a5abc7d8e448d63b7.flv
 私房写真,https://luong.utako.moe/pigoo/index.m3u8
 Zoom tvhttp://185.236.229.62:9981/play/a02a
 3https://live.iptvxxx.net/siptarskaGOVNA.m3u8
-极限,http://ali.hlspull.yximgs.com:80/live/cf58e2f1f23614a9daa934bd49f897d9.flv
+极限,http://ali.hlspull.yximgs.com:80/live/a27d96822ed881af64277fba895b1410.flv
 台湾频道,#genre#
-happy,http://ali.hlspull.yximgs.com:80/live/e2464991d16b9ba53a0bbf155c18563d.flv
-香蕉,http://ali.hlspull.yximgs.com:80/live/5f9475d108a8dc2a4c6f3645b54363bc.flv
-惊艳,http://ali.hlspull.yximgs.com:80/live/8380a44e9972f6ba846596ad36d48ca2.flv
-潘朵拉,http://ali.hlspull.yximgs.com:80/live/17a80b1d82886ec94058d087e01e9232.flv
-彩虹电影,http://ali.hlspull.yximgs.com:80/live/29da97373c682cfe7543b56b4af69f72.flv
-k频道,http://ali.hlspull.yximgs.com:80/live/a021616b4868b6cd496d3e7f9cd0f7f5.flv
-e频道,http://ali.hlspull.yximgs.com:80/live/655ba37883ccfefd8c063c9866752b92.flv
-松3,http://ali.hlspull.yximgs.com:80/live/1d122fd89b1d9a5e8c1149f2c19d6882.flv
-松1,http://ali.hlspull.yximgs.com:80/live/c71885f5a6b7ac11130fd9373a3a63d4.flv
+happy,http://ali.hlspull.yximgs.com:80/live////e354d1fd312e3601f6b2394095db2a6d.flv
+香蕉,http://ali.hlspull.yximgs.com:80/live/c27404372d916d3050aa8a09d9647310.flv
+惊艳,http://ali.hlspull.yximgs.com:80/live/780747bcc3dea3e351891b72bac99c59.flv
+潘朵拉,http://ali.hlspull.yximgs.com:80/live/973817bcabf3f5586f3f9341e6e29044.flv
+彩虹电影,http://ali.hlspull.yximgs.com:80/live/73f7fb2218e4f5874e78d6e5c6c69a3f.flv
+K,http://ali.hlspull.yximgs.com:80/live////79a0625a4026884a1e0d7dc6e25e57d6.flv
+e,http://ali.hlspull.yximgs.com:80/live////259f1aa09d7ef1f50f7092a545d8299d.flv
+松3,http://ali.hlspull.yximgs.com:80/live/4cfc7f822f336c39ba2316568f5d1592.flv
+松1,http://ali.hlspull.yximgs.com:80/live/5725cc18b7725e6f7c232a79718b8ab9.flv
 以上为临时源,https://cf005.paopao.video:443/8FD49DF7895AED29D436FF2D3A28828D6FD808FB
 无信号请重启软件,https://cf005.paopao.video:443/8FD49DF7895AED29D436FF2D3A28828D6FD808FB
 pigoo,https://luong.utako.moe/pigoo/index.m3u8 
@@ -3064,3 +3064,10 @@ UNDEFINED 13235,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/132
 UNDEFINED 13236,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/13236.mp4
 UNDEFINED 13237,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/13237.mp4
 UNDEFINED 13238,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/13238.mp4
+VIP频道,#genre#
+打开隐藏频道方法https://cf005.paopao.video:443/3F4F03C5E12F3B678B04AA3FBB640FDE3773936D#https://cccimg.com/down.php/9d37afc3a7ed2495d01092e84788c51b.mp4#https://cccimg.com/down.php/1a5d1f00013049512dd8bb54dd1c9787.mp4
+频道密码,http://pan.losfer.cn/down.php/11e4827c6511e32cda0fcd0f96babf08.#https://cf005.paopao.video:443/5A185927111BFA4E62E8543DCE9DC008916BFA4E#https://my5353.com/CmG6J
+连击收藏即可https://cf005.paopao.video:443/8FD49DF7895AED29D436FF2D3A28828D6FD808FB
+打开隐藏频道https://cccimg.com/down.php/1a5d1f00013049512dd8bb54dd1c9787.mp4#https://cf005.paopao.video:443/BC48C5030A85D533F789438C6602E18649796C81
+版本更新,https://my5353.com/ADicn
+
