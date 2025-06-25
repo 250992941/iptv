@@ -51,9 +51,9 @@
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   }, 
   {
-  "name":"电视直播线路--6",
+  "name":"电视直播线路--6(v25)",
   "type":0,
-  "url":"http://8.138.7.223/v25.txt",
+  "url":"http://8.138.7.223/51.php",
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
