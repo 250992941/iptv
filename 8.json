@@ -605,7 +605,7 @@
     {
       "name": "Alice TV",
       "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/250992941/iptv/refs/heads/main/st1.txt",
+      "url": "http://zozo.work.gd/ys/i/?QQ=ZB",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -633,7 +633,7 @@
      {
       "name": "肥羊国内直播-14",
       "type": 0,
-      "url": "http://www.xzbn.site:35455/tv.m3u",
+      "url": "http://lqgd.pgrm.cc:9257/tv.m3u",
       "playerType": 1
     },
      {
@@ -651,7 +651,7 @@
      {
       "name": "YIFA-v12",
       "type": 0,
-      "url": "http://8.138.7.223/51.txt",
+      "url": "http://8.138.7.223/51.php",
       "playerType": 1
     },
      {
@@ -662,12 +662,6 @@
     
     },
     {
-      "name": "ST iptv",
-      "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/250992941/TV/refs/heads/master/output/s1.txt",
-      "playerType": 1
-    },
-     {
       "name": "Alice TV-STJX",
       "type": 0,
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lhf0554/jx/refs/heads/master/output/result.txt",
