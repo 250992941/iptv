@@ -11,6 +11,27 @@ Zoom tvhttp://185.236.229.62:9981/play/a02a
 3https://live.iptvxxx.net/siptarskaGOVNA.m3u8
 极限,http://push-rtmp-hs-spe-f5.douyincdn.com:80/live/ea7309abe9cc3d7b3df53d2965dc8f5f.flv
 台湾频道,#genre#
+
+HAPPY,https://hls-gateway.vpstv.net/streams/709091.m3u8
+极限,https://hls-gateway.vpstv.net/streams/709086.m3u8
+彩虹K台,https://hls-gateway.vpstv.net/streams/709040.m3u8
+潘朵拉,https://hls-gateway.vpstv.net/streams/709042.m3u8
+松視1臺,https://hls-gateway.vpstv.net/streams/709043.m3u8
+松視2台,https://hls-gateway.vpstv.net/streams/709044.m3u8
+彩虹e臺,https://hls-gateway.vpstv.net/streams/709039.m3u8
+彩虹電影,https://hls-gateway.vpstv.net/streams/709038.m3u8
+松視3台,https://hls-gateway.vpstv.net/streams/709084.m3u8
+驚艷,https://hls-gateway.vpstv.net/streams/709041.m3u8
+完美台,https://hls-gateway.vpstv.net/streams/476375.m3u8
+Playboy,https://hls-gateway.vpstv.net/streams/476376.m3u8
+Dorcel,https://hls-gateway.vpstv.net/streams/476377.m3u8
+HAPPY CHANNEL,https://hls-gateway.vpstv.net/streams/709085.m3u8
+erox,https://hls-gateway.vpstv.net/streams/644724.m3u8
+eroxxx,https://hls-gateway.vpstv.net/streams/644725.m3u8
+brazzers,https://hls-gateway.vpstv.net/streams/644730.m3u8
+
+
+
 happy,http://push-rtmp-hs-spe-f5.douyincdn.com:80/live/5f342d472828fcdeb97e6f2f065e43cb.flv
 香蕉,http://ali.hlspull.yximgs.com:80/live/8959588ded0540cb1480bb8108e8dab4.flv
 惊艳,http://ali.hlspull.yximgs.com:80/live/babe2bb6d2ff96fdce4f9042d8ed7e4a.flv
