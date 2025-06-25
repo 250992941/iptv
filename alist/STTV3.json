@@ -210,6 +210,15 @@
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
+   {
+  "name":"AKTV直播线路--24(Any)",
+  "type":0,
+  "url":"https://tv.920410.dpdns.org/any.m3u",
+  "playerType":2,
+  "ua":"okhttp/3.15",
+  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
+  "logo":"https://epg.112114.eu.org/logo/{name}.png"
+  },  
   {
   "name":"斗鱼线路",
   "type":0,
