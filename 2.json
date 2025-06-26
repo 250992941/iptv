@@ -18,13 +18,17 @@
             "searchable": 0,
             "api": "csp_Config"
         },
-        {
-            "key": "csp_SuBaiBai",
-            "name": "☁️白白┃1080P",
+       {
+            "key": "浪酷影视",
+            "name": "🌊浪酷｜APP",
             "type": 3,
-            "api": "csp_SuBaiBai",
-            "playerType": 2,
-            "ext": "https://subaibai.com/"
+            "api": "csp_AppRJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "url": "http://v.lkuys.cn"
+            }
         },
         {
             "key": "csp_Wogg",
@@ -68,40 +72,42 @@
             }
         },
         {
-            "key": "小怡",
-            "name": "🔍怡搜┃4K4K",
+            "key": "热播影视",
+            "name": "🎬热播｜APP",
             "type": 3,
-            "api": "csp_XiaoYi",
-            "changeable": 0
-        },
-        {
-            "key": "csp_UC",
-            "name": "💌UCUC┃4K4K",
-            "type": 3,
-            "api": "csp_Duopan",
-            "filterable": 1,
+            "api": "csp_AppRJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
             "ext": {
-                "site_urls": [
-                    "http://www.mucpan.cc",
-                    "http://ucmi.fun",
-                    "http://www.ucmi.fun"
-                ],
-                "url_key": "UC",
-                "token": "",
-                "ucCookie": "",
-                "quarkCookie": "",
-                "threadinfo": {
-                    "chunksize": 450,
-                    "threads": 12
-                }
+                "url": "http://v.rbotv.cn"
             }
         },
-        {
-            "key": "米搜",
-            "name": "🔍米搜┃4K4K",
+       {
+            "key": "天天影视",
+            "name": "🚀天天｜APP",
             "type": 3,
-            "api": "csp_MiSou",
-            "changeable": 0
+            "api": "csp_AppRJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "url": "http://tt.ysdqjs.cn"
+            }
+        },
+       {
+            "key": "魔方",
+            "name": "🧩魔方｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://mfsp33.top",
+                "dataKey": "1234567887654321",
+                "dataIv": "1234567887654321",
+                "deviceId": "",
+                "version": ""
+            }
         },
         {
             "key": "88看球",
@@ -116,15 +122,12 @@
             "ext": "https://gitee.com/smallmi1007/mimi/raw/master/kanqiu.js"
         },
         {
-            "key": "csp_JPYY",
-            "name": "🚗文采┃1080P",
+            "key": "移动",
+            "name": "📱移动｜APP",
             "type": 3,
+            "api": "csp_YD",
             "searchable": 1,
-            "changeable": 1,
-            "api": "csp_Jpyy",
-            "playerType": 2,
-            "filterable": 1,
-            "ext": ""
+            "quickSearch": 1
         },
         {
             "key": "csp_Xlys",
@@ -155,17 +158,32 @@
             "ext": ""
         },
         {
-            "key": "csp_Fantuan",
-            "name": "🍙饭团┃1080P",
+            "key": "彼岸",
+            "name": "🌉彼岸｜APP",
             "type": 3,
-            "api": "csp_Fantuan"
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://mfsp33.top",
+                "dataKey": "1234567887654321",
+                "dataIv": "1234567887654321",
+                "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
+                "version": "315"
+            }
         },
-        {
-            "key": "huohuo",
-            "name": "💥火火┃1080P",
+       {
+            "key": "星河",
+            "name": "🌌星河｜APP",
             "type": 3,
-            "changeable": 0,
-            "api": "csp_SaoHuo"
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://121.62.22.204:9876",
+                "dataKey": "f5e2tx53ykp6s2c9",
+                "dataIv": "f5e2tx53ykp6s2c9",
+                "deviceId": "",
+                "version": "361"
+            }
         },
         {
             "key": "瓜子",
@@ -179,12 +197,18 @@
             "changeable": 0
         },
         {
-            "key": "csp_MiTuApp",
-            "name": "🐰米兔┃1080P",
+            "key": "米兔",
+            "name": "🐰米兔｜APP",
             "type": 3,
-            "quickSearch": 0,
-            "api": "csp_MiTuApp",
-            "ext": "s1/kf8dfHZAgs5H4ledT0oVFC1n/KhNfQfc0onBTauGjjbKin/VdMFrfJlKKnt/ClccntSyJqzbI1hHzGUUmZg7v02l1fvcdAH0iCUzGlopNgnI3rkeQtAwS54GySfRT0IRokasLwr5Rr6pm8/lTNJXMTEkq+9mzK976Dvv80seU9riYmFeBD+EBp8RzurdP02PNc0S2aZPlMbdm5yTIQfI8QeSRJGz+0AIsFOyBoPr4LDptq0AAc37KMhnWDCXF"
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://v.tkbot.fun",
+                "dataKey": "d032c12876bc6848",
+                "dataIv": "d032c12876bc6848",
+                "deviceId": "",
+                "version": "200"
+            }
         },
         {
             "key": "csp_电影",
@@ -195,50 +219,74 @@
             "ext": "s1/kf8dfHZAgs5H4ledT0gNpK7vQhd67t79FMOlp/3hon97gPN02BO+erk3EBCNXM6SamStX8E1N/eOSW8iHnh/V/WWXQik712AKDkDyClacr4JX917KX00fvnFi+PAJCJmEjfkTIInNogcntp+7cErzTorQY87aZkXQz64jcMNBTxpU+OGhfwZ2WqemvRRoQcF3TRFQdK9yVcAPrcKlPHxNivbPun5GntvfOIbWqYyWQSzU7f8y5TSHoXNt3Ag7WpEtt5DdeFwKFlYQ/RcwUw=="
         },
         {
-            "key": "csp_悠悠",
-            "name": "🍔悠悠┃1080P",
+            "key": "晚枫",
+            "name": "🍁晚枫｜APP",
             "type": 3,
-            "quickSearch": 0,
-            "api": "csp_MiTuApp",
-            "ext": "sHR2rlsfjI4L3t4RXQMknzkBg7Vkp4iTNqyeosAJpHnw6roDAjVKHwM/MZzlXynRCKNQf+PEtIE3pKftvdy035HammwEvPJdXnu53vPsiVjInePtgdaIgmcH8QzBLPlDKW1pNMfczNnMzBOp9pYad354sdlKgFnUBsFuy5KfTh6NymaocNlwJqN85IfMUV4M"
-        },
-        {
-            "key": "csp_良人",
-            "name": "👨良人┃1080P",
-            "type": 3,
-            "quickSearch": 0,
-            "api": "csp_MiTuApp",
-            "ext": "sHR2rlsfjI4L3t4RXQMkn+pzOh0GsJJgcwHHxDs8FcBDGD81qAZtun78VAJxzshCbStdXIlQiksUvc2b5fXyuxJO9KBNp5LzL/pYLLOs1V3R3WOh90eVpJGxxXWEZtoq+F7Cq4CbQ3J1TTXahpYpeXXeevwPopQutGBNaxYkdBgBL6rCgov0BCUWOXriRXNndZJYNJohfwIzBP+iTuz6C8FWXazDuKfwSS4BfeyQuGM="
-        },
-        {
-            "key": "csp_麻花",
-            "name": "🥙麻花┃1080P",
-            "type": 3,
-            "quickSearch": 0,
-            "api": "csp_MiTuApp",
-            "ext": "sHR2rlsfjI4L3t4RXQMkn8ivSF5g8jXfhsjvizFR8ljN3AOVzpH9pr9GtPv0p/pnhxACPxmzklGulcZ5QfkGRCf6Rs7SjJmolZldAYa939+CUP8xvcjHb492E8waghkGxrtWlTiEC9t4dl/TaQf07LDUAJHsnAKfXpKlbKLXQWnAB8CtibGEXY01QAOeG3k4IaLl5w+AZDEEMHPNX5zL4bnOOk1PYBVZKZWV+DzWC9I="
-        },
-        {
-            "key": "csp_LiteApple",
-            "name": "🍎苹果┃1080P",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "csp_LiteApple",
-            "playerType": 1,
-            "filterable": 1,
-            "ext": ""
-        },
-        {
-            "key": "csp_视觉",
-            "name": "🔭视觉┃PYTHON",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
             "quickSearch": 1,
-            "api": "https://drive.almondcloud.cn/f/q3JKT9/shijue.py",
-            "playerType": 2,
-            "filterable": 1
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://111.180.202.216:999",
+                "dataKey": "fjhndgbjidfhgjsd",
+                "dataIv": "fjhndgbjidfhgjsd",
+                "deviceId": "2a7baa6ca6f46308cbf1d939bab0586f3",
+                "version": "120"
+            }
+        },
+       {
+            "key": "瓜萌",
+            "name": "🍈瓜萌｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://www.guahd.com",
+                "dataKey": "f2A7D4B9E8C16531",
+                "dataIv": "f2A7D4B9E8C16531",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+       {
+            "key": "橘猫",
+            "name": "🐱橘猫｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "ext": {
+                "url": "https://qjappcms.jm4k.top",
+                "dataKey": "pBVmysmGX8TsgrQN",
+                "dataIv": "pBVmysmGX8TsgrQN",
+                "deviceId": "",
+                "version": "120"
+            }
+        },
+       {
+            "key": "海豚",
+            "name": "🐬海豚｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://appcms.htsp4k.top",
+                "dataKey": "7CYQQzwchRQpHCOj",
+                "dataIv": "7CYQQzwchRQpHCOj",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+      {
+            "key": "榴莲",
+            "name": "🍈榴莲｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "ext": {
+                "url": "https://qjappcms.ll4k.xyz",
+                "dataKey": "1yGA85sJ5STtE7uj",
+                "dataIv": "1yGA85sJ5STtE7uj",
+                "deviceId": "",
+                "version": "50000"
+            }
         },
         {
             "key": "csp_LaoBaiBook",
@@ -399,7 +447,7 @@
            "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
-           "name": "Alice ST1",
+           "name": "Alice ST1-STTV",
            "type": 0,
            "url": "http://zozo.work.gd/ys/i/?QQ=ZB",
            "playerType": 1,
@@ -408,15 +456,15 @@
         {
           "name": "MUYU604线路",
           "type": 0,
-          "url": "https://4key.cn/iTE",
+          "url": "https://4key.cn/FP",
           "playerType": 1,
           "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
           "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
         {
-          "name": "MDXGH",
+          "name": "LM VIP",
           "type":"0",
-          "url":"http://mdxgh.tpddns.cn:9999/new/mdzb.txt",
+          "url":"http://8.138.7.223/51.php",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
@@ -442,9 +490,9 @@
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
-            "name": "V12",
+            "name": "YIFA 线路",
             "type": 0,
-            "url": "http://8.138.7.223/51.txt",
+            "url": "https://raw.gitmirror.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
             "playerType": 1,
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
