@@ -211,7 +211,7 @@
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   },
    {
-  "name":"AKTV直播线路--24(Any)",
+  "name":"Any直播线路--24",
   "type":0,
   "url":"https://tv.920410.dpdns.org/any.m3u",
   "playerType":2,
