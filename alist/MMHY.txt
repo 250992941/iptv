@@ -1,25 +1,25 @@
-午夜频道48620,#genre#
-pigo,http://play.ogtv2.com:80/live/37eedd3548c0b17174b669cf7577503a.flv
+午夜频道,#genre#
+pigo,http://push-rtmp-hs-spe-f5.douyincdn.com:80/live/c58b3ecb80192d090ad715c83c720946.flv
 日本映画専門チャンネル,https://stream02.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1#https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 東映チャンネル,https://stream02.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1#https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59d
 东映チャンネルhttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
 チャンネルNECO,https://stream02.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1#https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59d#https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 动物世界,http://v2.catcast.tv/content/40546/index.m3u8
 Кино 18+ International,https://v2.catcast.tv/content/40381/index.m3u8
-私房写真,https://luong.utako.moe/pigoo/index.m3u8
+私房写真https://luong.utako.moe/pigoo/index.m3u8
 Zoom tvhttp://185.236.229.62:9981/play/a02a
 3https://live.iptvxxx.net/siptarskaGOVNA.m3u8
-极限,http://push-rtmp-hs-spe-f5.douyincdn.com:80/live/54a6f52d173b88bc335dfa017ce12065.flv
+极限,http://push-rtmp-hs-spe-f5.douyincdn.com:80/live/6967fde60d14654311d4b0ea03f9154e.flv
 台湾频道,#genre#
-happy,http://push-rtmp-hs-spe-f5.douyincdn.com:80/live/bb15d4cd3d5c0dac776e4779726e96ed.flv
-香蕉,http://pullsstx.peiyou.eaydu.com:80/live/0690d7dc6ffc5b4adb84113574578375.flv
-惊艳,http://pullsstx.peiyou.eaydu.com:80/live/f486141ecb37b7264f15e43d012d3804.flv
-潘朵拉,http://pullsstx.peiyou.eaydu.com:80/live/685bc7d8f7baea4f670db6bf24f92f38.flv
-彩虹电影,http://pullsstx.peiyou.eaydu.com:80/live/a541dd5014691d97f1bc9ef9e494a34f.flv
-K频道,http://pullsstx.peiyou.eaydu.com:80/live/c76d4095471bfb85c979a9218cbe748b.flv
-E频道,http://push-rtmp-hs-spe-f5.douyincdn.com:80/live/6c47ad5cff99f019627567af3d81457d.flv
-松3,http://push-rtmp-hs-spe-f5.douyincdn.com:80/live/28af3bb8e776a2b370d49d5380fa8daa.flv
-松1,http://push-rtmp-hs-spe-f5.douyincdn.com:80/live/b4c0eafd1ee1f17a85b138b6941bbdce.flv
+happy,http://push-rtmp-hs-spe-f5.douyincdn.com:80/live/c6ad4a6addfde8f64471e590f623ae7f.flv
+香蕉,http://pullsstx.peiyou.eaydu.com:80/live/1a805331f5039f1a141de80686c7d063.flv
+惊艳,http://pullsstx.peiyou.eaydu.com:80/live/77a2644a4ab5a8f20280165ad07ca661.flv
+潘朵拉,http://pullsstx.peiyou.eaydu.com:80/live/368378037d285b09f6b52cb721da4410.flv
+彩虹电影,http://pullsstx.peiyou.eaydu.com:80/live/9552694127bfa2f6de4bf3f9e4a88e33.flv
+K频道,http://pullsstx.peiyou.eaydu.com:80/live/f5fcf128e129b4383197ddf4bc6149e3.flv
+E频道,http://push-rtmp-hs-spe-f5.douyincdn.com:80/live/ad2fa995f1fed33b403944a503ec63a9.flv
+松3,http://push-rtmp-hs-spe-f5.douyincdn.com:80/live/8309e3ed3974f3f223223bd4da0e78a6.flv
+松1,http://pullsstx.peiyou.eaydu.com:80/live/6a1bef5175a24c1c0293e9b7bb559528.flv
 以上为临时源,https://cf005.paopao.video:443/8FD49DF7895AED29D436FF2D3A28828D6FD808FB
 无信号请重启软件,https://cf005.paopao.video:443/8FD49DF7895AED29D436FF2D3A28828D6FD808FB
 pigoo,https://luong.utako.moe/pigoo/index.m3u8 
@@ -2373,7 +2373,7 @@ VERIFIED AMATEURS: YINYLEON,http://tv14s.xyz:8080/WzD7qQ/424962/160098
 留住真情,https://jpzy01.com/20230106/JDeeat2r/index.m3u8#https://ckzy1com.com/20230106/JDeeat2r/1000kb/hls/index.m3u8
 淫贱女帝武则天,https://t.sziase.com/movie/20240530e76f52c302c24423/25464884.m3u8
 茶山春色,https://ckzy1com.com/20221217/XitsTZMj/index.m3u8
-亚洲情色_48620,#genre#
+亚洲情色,#genre#
 Asian.34,http://vip.mkrtv.com:8080/movie/Mario.Mayer.1986/nYFQDvXz93/21885.mp4
 Asian.35,http://vip.mkrtv.com:8080/movie/Mario.Mayer.1986/nYFQDvXz93/21886.mp4
 Asian.36,http://vip.mkrtv.com:8080/movie/Mario.Mayer.1986/nYFQDvXz93/21887.mp4
@@ -3077,3 +3077,4 @@ UNDEFINED 13235,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/132
 UNDEFINED 13236,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/13236.mp4
 UNDEFINED 13237,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/13237.mp4
 UNDEFINED 13238,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/13238.mp4
+
