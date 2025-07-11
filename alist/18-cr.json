@@ -52,7 +52,7 @@
   {
   "name":"看电视VIP线路",
   "type":0,
-  "url":"http://8.138.7.223/51.txt",
+  "url":"http://8.138.7.223/51.php",
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -67,18 +67,9 @@
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
   }, 
   {
-   "name":"电视家重生版源",
-  "type":0,
-  "url":"https://git.acwing.com/bang359/ba/-/raw/main/dsj4.16.txt",
-  "playerType":2,
-  "ua":"okhttp/3.15",
-  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
-  "logo":"https://epg.112114.eu.org/logo/{name}.png"
-  },
-  {
   "name":"CR-1",
   "type":0,
-  "url":"https://raw.gitmirror.com/250992941/iptv/refs/heads/main/69.txt",
+  "url":"http://zozo.work.gd/ys/i/?QQ=69",
   "playerType":2,
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -1249,3 +1240,4 @@
     "cms.qdwght.com"
   ]
 }
+
