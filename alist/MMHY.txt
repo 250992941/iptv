@@ -1,5 +1,4 @@
 午夜频道,#genre#
-pigo,http://push-rtmp-hs-spe-f5.douyincdn.com:80/live/c58b3ecb80192d090ad715c83c720946.flv
 日本映画専門チャンネル,https://stream02.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1#https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 東映チャンネル,https://stream02.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1#https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59d
 东映チャンネルhttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
@@ -7,19 +6,18 @@ pigo,http://push-rtmp-hs-spe-f5.douyincdn.com:80/live/c58b3ecb80192d090ad715c83c
 动物世界,http://v2.catcast.tv/content/40546/index.m3u8
 Кино 18+ International,https://v2.catcast.tv/content/40381/index.m3u8
 私房写真https://luong.utako.moe/pigoo/index.m3u8
-Zoom tvhttp://185.236.229.62:9981/play/a02a
-3https://live.iptvxxx.net/siptarskaGOVNA.m3u8
-极限,http://push-rtmp-hs-spe-f5.douyincdn.com:80/live/6967fde60d14654311d4b0ea03f9154e.flv
+pigo,http://112.16.245.251:80/ali2-wt-live-pull.fb-games-rel.cc/live/7dced9e8cb88e022878446b56a363c04.flv
+极限,http://180.178.248.234:80/ali2-wt-live-pull.fb-games-rel.cc/live/0c514ba653906b77432b940e13dfd3de.flv
 台湾频道,#genre#
-happy,http://push-rtmp-hs-spe-f5.douyincdn.com:80/live/c6ad4a6addfde8f64471e590f623ae7f.flv
-香蕉,http://pullsstx.peiyou.eaydu.com:80/live/1a805331f5039f1a141de80686c7d063.flv
-惊艳,http://pullsstx.peiyou.eaydu.com:80/live/77a2644a4ab5a8f20280165ad07ca661.flv
-潘朵拉,http://pullsstx.peiyou.eaydu.com:80/live/368378037d285b09f6b52cb721da4410.flv
-彩虹电影,http://pullsstx.peiyou.eaydu.com:80/live/9552694127bfa2f6de4bf3f9e4a88e33.flv
-K频道,http://pullsstx.peiyou.eaydu.com:80/live/f5fcf128e129b4383197ddf4bc6149e3.flv
-E频道,http://push-rtmp-hs-spe-f5.douyincdn.com:80/live/ad2fa995f1fed33b403944a503ec63a9.flv
-松3,http://push-rtmp-hs-spe-f5.douyincdn.com:80/live/8309e3ed3974f3f223223bd4da0e78a6.flv
-松1,http://pullsstx.peiyou.eaydu.com:80/live/6a1bef5175a24c1c0293e9b7bb559528.flv
+happy,http://112.19.1.171:80/ali2-wt-live-pull.fb-games-rel.cc/live/1a707ed837710b7a9fd822224ed78fd8.flv
+香蕉,https://pullsstx.peiyou.eaydu.com:443/live/dfb50f0588c0a7baa9c036894f969194.flv
+惊艳,https://pullsstx.peiyou.eaydu.com:443/live/74b916e151d3f07fc11b8eea50693fad.flv
+潘朵拉,https://pullsstx.peiyou.eaydu.com:443/live/798756879302d01dfd8dddb1f7f7f5b3.flv
+彩虹电影,https://pullsstx.peiyou.eaydu.com:443/live/b9a49650e8957db3092e511bf2342b9b.flv
+K频道,https://pullsstx.peiyou.eaydu.com:443/live/c5ea1e97b1407f759cb831dfe194f258.flv
+E频道,http://219.151.19.251:80/ali2-wt-live-pull.fb-games-rel.cc/live/a0f67ec536cebac2af5045c4af2a12e8.flv
+松3,http://119.84.54.142:80/ali2-wt-live-pull.fb-games-rel.cc/live/267d3b77cdcb99e50b0c156295c3d9a6.flv
+松1,https://pullsstx.peiyou.eaydu.com:443/live/fc5099486c8771b04075a1e4af2add2b.flv
 以上为临时源,https://cf005.paopao.video:443/8FD49DF7895AED29D436FF2D3A28828D6FD808FB
 无信号请重启软件,https://cf005.paopao.video:443/8FD49DF7895AED29D436FF2D3A28828D6FD808FB
 pigoo,https://luong.utako.moe/pigoo/index.m3u8 
@@ -3077,4 +3075,5 @@ UNDEFINED 13235,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/132
 UNDEFINED 13236,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/13236.mp4
 UNDEFINED 13237,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/13237.mp4
 UNDEFINED 13238,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/13238.mp4
+
 
