@@ -953,7 +953,7 @@
         {
             "name": "🤖STTV｜NewTV线路",
             "type": 0,
-            "url": "http://zozo.work.gd/ys/i/?QQ=ZB",
+            "url": "http://mytv.3d.tc//i/?T=ZB",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
             "playerType": 1,
             "timeout": 10
@@ -1014,7 +1014,7 @@
         {
             "name": "🎤MUYU｜直播线路",
             "type": 0,
-            "url": "https://4key.cn/FP",
+            "url": "https://4key.cn/iTE",
             "timeout": 10
         },
         {
