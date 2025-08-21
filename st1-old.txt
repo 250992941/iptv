@@ -2869,3 +2869,5 @@ TVBS欢乐台(VPN),http://125.227.210.55:8187/VideoInput/play.ts
 澳门资讯,p3p://167.114.175.6:55331/644ed21e000dd9a7651cc03a565575f7
 澳视葡语,p3p://167.114.175.6:55331/644ece91000b801a650ee0e442bd0b87
 
+
+http://mp9f95qlr5w6g9:y1elpx1zic9qvx@p.proxik.cloud:8080
