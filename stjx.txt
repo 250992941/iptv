@@ -432,3 +432,4 @@ HITs电影频道,http://37.27.111.214:8080/live/28/hls.m3u8$订阅源
 天映经典,http://go1.bkpcp.top/tl/null-1$订阅源
 天映频道,http://iptv.diyp.site/公众号【DIYP】关注一下啊.php?key=litv&id=e994b973-bec0-43d6-a02b-55b6bad51bb7$订阅源
 纬来电影台,http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8$订阅源
+http://mp9f95qlr5w6g9:y1elpx1zic9qvx@p.proxik.cloud:8080
