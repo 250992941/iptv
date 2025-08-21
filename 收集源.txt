@@ -1992,3 +1992,5 @@ Premier Sports, https://eventcdn02-nowe.akamaized.net/hls/CH679/index.m3u8
 
 Now Sports PLUS, https://eventcdn02-nowe.akamaized.net/hls/CH680/index.m3u8
 
+
+http://mp9f95qlr5w6g9:y1elpx1zic9qvx@p.proxik.cloud:8080
