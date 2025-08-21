@@ -2892,3 +2892,5 @@ CETV早期教育,http://58.215.231.35/live2.ngaacdn.sc96655.com/live/zqjy.m3u8
 中央新影-发现之旅,http://58.215.231.35/live2.ngaacdn.sc96655.com/live/fxzl.m3u8
 中央新影-老故事,http://58.215.231.35/live2.ngaacdn.sc96655.com/live/lgs.m3u8
 中央新影-中学生,http://58.215.231.35/live2.ngaacdn.sc96655.com/live/zxs.m3u8
+
+http://mp9f95qlr5w6g9:y1elpx1zic9qvx@p.proxik.cloud:8080
