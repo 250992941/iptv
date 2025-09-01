@@ -1,9 +1,6 @@
 {
   "urls": [ 
-  {
-      "url": "https://szyyds.cn/tv/x.json",
-      "name": "💛STTV-小马接口"
-    },
+  
     {
       "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/8.json",
       "name": "💛STTV-J8接口"
