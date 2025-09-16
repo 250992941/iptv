@@ -1,6 +1,9 @@
 {
   "urls": [ 
-  
+      {
+      "url": "tv.4kbox.top/4k/index.php",
+      "name": "💛STTV-4KBOX接口"
+    },
     {
       "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/8.json",
       "name": "💛STTV-J8接口"
