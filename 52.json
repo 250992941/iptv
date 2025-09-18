@@ -56,12 +56,13 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "Radio",
+          "name": "猫TV",
           "type":"0",
-          "url":"https://raw.gitmirror.com/250992941/iptv/refs/heads/main/radio.txt",
+          "url":"http://rihou.cc:555/gggg.nzk",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
+        }
+		  ,{
           "name": "Radio",
           "type":"0",
           "url":"https://raw.gitmirror.com/250992941/iptv/refs/heads/main/radio.txt",
@@ -77,4 +78,5 @@
         }
     ]
 }
+
 
