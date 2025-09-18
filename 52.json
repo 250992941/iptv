@@ -2,19 +2,7 @@
   "spider":  "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741847969922/wex.txt;md5;ab968ea6d272873e2930aa1ae1679159",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
-    {	  
-      "key": "STEVEN",
-      "name": "🎥Steven 电视直播+看⚽（此链接仅提供电视直播，点直播按钮）",
-      "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
+   
     {
       "key": "看球",
       "name": "🌐88┃体育🌐",
@@ -56,27 +44,15 @@
         ],
        "lives": [
         {
-          "name": "Alice ST1",
+          "name": "Alice NewTv",
           "type":"0",
-           "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/st1.txt",
+           "url": "http://mytv.3d.tc//i/?T=ZB",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "MDXGH",
+          "name": "FYTV",
           "type":"0",
-          "url":"http://mdxgh.tpddns.cn:9999/new/mdzb.txt",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "港澳台频道",
-          "type":"0",
-          "url": "https://raw.gitmirror.com/lhf0554/A/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "MmUuYUu",
-          "type":"0",
-          "url": "https://4key.cn/FP",
+          "url":"http://iptv.4666888.xyz/FYTV.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
@@ -86,84 +62,19 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "AV TV",
+          "name": "Radio",
           "type":"0",
-          "url":"https://raw.gitmirror.com/250992941/iptv/refs/heads/main/69.txt",
+          "url":"https://raw.gitmirror.com/250992941/iptv/refs/heads/main/radio.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "AKTV",
+        },
+		   {
+          "name": "组播源",
           "type":"0",
-          "url":"http://aktv.space/live.m3u",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "Alice TV-fork",
-          "type":"0",
-          "pass": true,
-          "url":"https://raw.gitmirror.com/250992941/TV/refs/heads/master/output/s1.txt",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "KWCOPY",
-          "type":"0",
-          "url":"https://raw.gitmirror.com/kimwang1978/collect-tv-txt/refs/heads/main/merged_output.txt",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "VBSKYN",
-          "type":"0",
-          "url":"https://raw.gitmirror.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "Film-Television",
-          "type":"0",
-          "url":"https://raw.gitmirror.com/qinvision/Film-Television/refs/heads/main/dujuejiami.txt",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "Alice TV-STJX",
-          "type":"0",
-          "url":"https://raw.gitmirror.com/lhf0554/jx/refs/heads/master/output/result.txt",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "新世界 电视家4.0",
-          "type":"0",
-          "url":"https://cccimg.com/down.php/3fc12640b9919a7173bed32bc517e261.txt&xsjcm",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "P3p",
-          "type":"0",
-          "url":"https://raw.gitmirror.com/250992941/iptv/refs/heads/main/p3.txt",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "HN",
-          "type":"0",
-          "url":"https://gyssi.link/live/%E6%B9%96%E5%8D%971.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIwMDUxMDAyLCJpYXQiOjE3MjQwMzcwNzQsImV4cCI6MTc1NTU3MzA3NH0.gxE1bAEC1svzY7EhJM19I-YN3LHZa0rdlcwlFFHBkyQ",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-       },{
-          "name": "看电视VIP",
-          "type":"0",
-          "url":"http://8.138.7.223/2025.txt",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-       },{
-          "name": "肥羊直播国内-14",
-          "type":"0",
-          "url":"http://www.xzbn.site:35455/tv.m3u",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "新世界 电视家高级",
-          "type":"0",
-          "url":"https://cccimg.com/down.php/4deb6aff9477cc57f91cee16522a32ca.txt&xsjcm",
+          "url":"https://raw.gitmirror.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
     ]
 }
+
