@@ -1,7 +1,7 @@
 {
   "spider": "https://pan.qingyuji.cn/f/aALGFw/kk.png;md5;eb079a7fcbec8e29c5a83c9a426641e7",
   "wallpaper":"http://127.0.0.1:9978/proxy?do=wall",
-  "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
+  "logo":"",
     //http://ok321.top/tv
   "sites": [
     {"key":"豆瓣","name":"🤓Steven┃影视","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
@@ -234,3 +234,4 @@
     {"name":"bdys10","hosts":["bdys10.com"], "regex":["/obj/"], "exclude":[".m3u8"]}
   ]
 }
+
