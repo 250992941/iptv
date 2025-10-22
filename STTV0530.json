@@ -25,6 +25,10 @@
       "name": "💛STTV-OK Jack-接口"
     },
     {
+      "url": "http://tv.4kbox.top/api/api.json",
+      "name": "💛STTV-4KTVBOX-接口"
+    },
+    {
       "url": "http://bb.is-best.net//i/52.txt",
       "name": "💛STTV-看球直播-接口"
     },
