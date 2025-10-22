@@ -6,8 +6,20 @@
   "sites": [
     {"key":"豆瓣","name":"🤓Steven┃影视","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
     {"key":"配置中心","name":"👨‍🍳‍配置┃中心","type":3,"api":"csp_ConfigGuard","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43}},
-    {"key":"本地播放","name":"🐼本地┃播放","type":3,"api":"csp_LocalGuard","searchable":0,"changeable":0,"indexs":0, "style":{"type":"list"}, "timeout":5},
-
+    {"key":"本地播放","name":"🐼本地┃播放","type":3,"api":"csp_LocalGuard","searchable":0,"changeable":0,"indexs":0, "style":{"type":"list"}, "timeout":5}, 
+    {
+            "key": "低端影视",
+            "name": "🔅┃阿烈┃影视",
+            "type": 3,
+            "api": "csp_Ddys",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "site": "https://ddys.pro"
+    }
+    
     {"key":"二小弹幕","name":"🦢二小┃4K弹幕","type":3,"api":"csp_ErXiaoGuard","searchable":1,"quickSearch":1, "changeable":1, "filterable":1, "ext": {
       "danmu" : true
     }, "timeout": 25},
@@ -234,4 +246,5 @@
     {"name":"bdys10","hosts":["bdys10.com"], "regex":["/obj/"], "exclude":[".m3u8"]}
   ]
 }
+
 
