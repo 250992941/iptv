@@ -1,10 +1,6 @@
 {
   "urls": [ 
-      {
-      "url": "tv.4kbox.top/4k/index.php",
-      "name": "💛STTV-4KBOX接口"
-    },
-    {
+     {
       "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/2.json",
       "name": "💛STTV-J2接口"
     },
@@ -16,7 +12,10 @@
       "url": "http://www.mdxgh.top:5555/mdxgho.json",
       "name": "💛STTV-码点-接口"
     },
-    
+     {
+      "url": "http://cdn.qiaoji8.com/tvbox.json",
+      "name": "💛STTV-巧技接口"
+    },
     {
       "url": "http://bb.is-best.net//i/DB2.txt",
       "name": "💛STTV-宝盒TV-接口"
