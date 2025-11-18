@@ -1,0 +1,65 @@
+{
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727690640792/fan.txt;md5;fae44887703772d67cbf11432d50d113",
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "sites": [
+    {
+      "key": "STEVEN电视直播",
+      "name": "🎥Steven TV",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+      ],
+  "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
+  "lives": [
+    {
+      "name": "钉钉今日影视",
+      "type": 0,
+      "url": "http://tv.html-5.me/ii/438509.txt",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    }, 
+    {
+      "name": "钉钉全聚合",
+      "type": 0,
+      "url": "http://tv.html-5.me/ii/441550.txt",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+     {
+      "name": "Steven NewTv",
+      "type": 0,
+      "url": "http://mytv.3d.tc//i/?T=ZB",
+      "playerType": 1
+    },
+     {
+      "name": "猫TV",
+      "type": 0,
+      "url": "http://rihou.cc:555/gggg.nzk",
+      "playerType": 1
+    },
+     {
+      "name": "风云TV线路",
+      "type": 0,
+      "url": "http://iptv.4666888.xyz/FYTV.m3u",
+      "playerType": 1
+    },
+     {
+      "name": "冰茶直播",
+      "type": 0,
+      "playerType": 2,
+      "url": "https://bc.188766.xyz/?ip=&mishitong=true&mima=mianfeibuhuaqian&json=true",
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
+    },
+       {
+      "name": "Radio",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/250992941/iptv/refs/heads/main/radio.txt",
+      "playerType": 1
+    }
+  ]
+}
