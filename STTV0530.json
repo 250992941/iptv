@@ -5,8 +5,8 @@
       "name": "💛Steven电视直播接口"
     },    
     {
-      "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/2.json",
-      "name": "💛STTV-J2接口"
+      "url": "http://home.jundie.top:81/top98.json",
+      "name": "💛STTV-360接口"
     },
     {
       "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/8.json",
@@ -14,27 +14,27 @@
     },
      {
       "url": "http://www.mdxgh.top:5555/mdxgho.json",
-      "name": "💛STTV-码点-接口"
+      "name": "💛STTV-码点接口"
     },
      {
       "url": "http://cdn.qiaoji8.com/tvbox.json",
       "name": "💛STTV-巧技接口"
     },
     {
-      "url": "http://bb.is-best.net//i/DB2.txt",
-      "name": "💛STTV-宝盒TV-接口"
+      "url": "http://fty.xxooo.cf/tv",
+      "name": "💛STTV-太太硬接口"
     },
     {
       "url": "http://ok321.top/ok",
       "name": "💛STTV-OK Jack-接口"
     },
     {
-      "url": "http://tv.4kbox.top/api/api.json",
-      "name": "💛STTV-4KTVBOX-接口"
+      "url": "https://700sjro44343.vicp.fun/eggp/qzku/tv.json",
+      "name": "💛STTV-700接口"
     },
     {
       "url": "http://bb.is-best.net//i/52.txt",
-      "name": "💛STTV-看球直播-接口"
+      "name": "💛STTV-看球直播接口"
     },
      {
       "url": "https://tvbox.catvod.com/catvod.json",
@@ -45,38 +45,27 @@
       "name": "💛STTV-mi花园-接口"
     },
     {
-      "url": "https://tv.nxog.top/api.php?mz=xb&id=1&b=%E6%AC%A7%E6%AD%8C",
+      "url": "https://欧歌.e.nxog.top/api2.php?id=20",
       "name": "💛STTV-欧歌接口-接口"
     },
     {
-      "url": "https://codeberg.org/froggy123/1656gugk/raw/branch/main/scdcs.json",
-      "name": "💛STTV-XFNN-主用接口"
-    },
-    {
-      "url": "https://gitee.com/iy-cpu/iy/raw/master/%E5%A4%A9%E7%A5%9EIY.json",
-      "name": "💛STTV-XFNN-天神接口"
-    },
-    {
       "url": "http://150.158.112.123/jar/ce3.json",
-      "name": "💛STTV-XFNN-玉玉影视"
+      "name": "💛STTV-玉玉影视接口"
     },
-  
     {
-      "url": "https://ys.mohuajz.eu.org/柒豪/柒豪4K.json",
-      "name": "💛STTV-XFNN-柒豪"
-    },
+      "url": "http://8.138.7.223/tv.txt",
+      "name": "🌈STT-榴芒TV接口"
+    }, 
+   
     {
       "url": "https://9877.kstore.space/AnotherD/api.json",
-      "name": "💛STTV-XFNN-潇洒影视"
+      "name": "💛STTV-潇洒影视"
     },
     {
       "url": "http://我不是.摸鱼儿.com",
-      "name": "STTV-XFNN-摸鱼儿"
+      "name": "🌈摸鱼儿"
     },
-    {
-      "url": "https://d.kstore.dev/download/4684/%E5%B9%B4%E5%B9%B4%E6%9C%89%E4%BD%99/gfdc.json",
-      "name": "💛年年岁岁-主用接口"
-    },
+   
     {
       "url": "http://www.饭太硬.com/tv/",
       "name": "🌈饭太硬"
@@ -89,10 +78,7 @@
       "url": "http://肥猫.com/",
       "name": "🌈肥猫"
     }, 
-        {
-      "url": "http://8.138.7.223/tv.txt",
-      "name": "🌈Steven丨Vip TV"
-    }, 
+      
     {
       "url": "https://11256.kstore.space/免费勿传.json",
       "name": "🌈七星"
