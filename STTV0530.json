@@ -20,7 +20,11 @@
       "url": "https://chuanshuo.77blog.cn/tv.json",
       "name": "💛STTV-电视魔盒"
     },
-     {
+       {
+      "url": "http://zoto.3d.tc/i/i/4Khyu.txt",
+      "name": "💛STTV-4Khyu"
+    },
+    {
       "url": "http://cdn.qiaoji8.com/tvbox.json",
       "name": "💛STTV-巧技接口"
     },
