@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "公众号 | 码点小科技",
+      "name": "STTV | 电视直播",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
