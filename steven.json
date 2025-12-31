@@ -10,51 +10,55 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
-    },
+    }
       ],
-  "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
+ 
   "lives": [
-    {
-      "name": "钉钉今日影视",
+   {
+      "name": "Steven NewTv",
       "type": 0,
-      "url": "http://tv.html-5.me/ii/438509.txt",
+      "url": "http://mytv.3d.tc//i/?T=ZB",
+      "playerType": 1
+       "epg":"http://epg.dy2.fun:5678",
+     
+    },
+     {
+      "name": "猫TV（含体育比赛直播）",
+      "type": 0,
+      "url": "http://rihou.cc:555/gggg.nzk",
+      "playerType": 1
+    }, 
+ {
+      "name": "冰茶直播（含体育比赛直播）",
+      "type": 0,
+      "playerType": 2,
+      "url": "https://bc.188766.xyz/?ip=&mima=bingcha1130",
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
+    },
+{
+      "name": "go-iptv",
+      "type": 0,
+      "url": "https://www.go-iptv.ggff.net/sub.php?user=8OrG617Hp9dHbVZrZMYjBF1P",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     }, 
     {
-      "name": "钉钉全聚合",
+      "name": "Jack TV",
       "type": 0,
-      "url": "http://tv.html-5.me/ii/441550.txt",
+      "url": "https://smart.946985.filegear-sg.me/sub.php?user=tg_Luo_steven",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
-     {
-      "name": "Steven NewTv",
-      "type": 0,
-      "url": "http://mytv.3d.tc//i/?T=ZB",
-      "playerType": 1
-    },
-     {
-      "name": "猫TV",
-      "type": 0,
-      "url": "http://rihou.cc:555/gggg.nzk",
-      "playerType": 1
-    },
+     
      {
       "name": "风云TV线路",
       "type": 0,
       "url": "http://iptv.4666888.xyz/FYTV.m3u",
       "playerType": 1
     },
-     {
-      "name": "冰茶直播",
-      "type": 0,
-      "playerType": 2,
-      "url": "https://bc.188766.xyz/?ip=&mishitong=true&mima=mianfeibuhuaqian&json=true",
-      "ua": "bingcha/1.1 (mianfeifenxiang) "
-    },
+    
        {
       "name": "Radio",
       "type": 0,
