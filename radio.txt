@@ -95,5 +95,10 @@ CRI华语环球(CRI Chinese Service),https://sk.cri.cn/hyhq.m3u8
 环球资讯广播(CRI News Radio),https://sk.cri.cn/905.m3u8
 CRI世界华声(粤客闽潮方言广播 海峡飞虹),https://sk.cri.cn/hxfh.m3u8
 CRI EZFM 轻松调频,https://sk.cri.cn/915.m3u8
+
+SSTV,#genre#
+AbuseMee,http://iptvpro.pw:35451//live/9169458555/2882972111/26634.ts
+Anna Di,http://iptvpro.pw:35451//live/9169458555/2882972111/26635.ts
 HITFM 劲曲调频,https://sk.cri.cn/887.m3u8
+
 
