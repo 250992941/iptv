@@ -28,9 +28,14 @@ CCTV4美洲,https://piccpndali.v.myalicdn.com/audio/cctvamerica_2.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 
 电台音频,#genre#
-粤听·精选807,http://live.cooltv.top/tv/yueting.php?id=2519
-粤听·小满音乐台,http://live.cooltv.top/tv/yueting.php?id=2490
-粤听·太平洋之声,http://live.cooltv.top/tv/yueting.php?id=2520
+亚洲经典,https://lhttp.qingting.fm/live/5021912/64k.mp3
+亚洲热歌,https://live.ximalaya.com/radio-first-page-app/live/1908/64.m3u8?transcode=ts
+HD音乐,https://lhttp.qingting.fm/live/15318341/64k.mp3
+亚洲粤语,https://lhttp.qingting.fm/live/15318569/64k.mp3
+亚洲天空,https://lhttp.qingting.fm/live/20071/64k.mp3
+亚洲音乐,https://lhttp.qingting.fm/live/5022405/64k.mp3
+澳门绿坉,https://fm995.ddns.net/hls1/fm995.m3u8
+
 香港.第一台,https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8
 香港.第二台,https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/master.m3u8
 香港.第三台,https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8
@@ -91,3 +96,4 @@ CRI华语环球(CRI Chinese Service),https://sk.cri.cn/hyhq.m3u8
 CRI世界华声(粤客闽潮方言广播 海峡飞虹),https://sk.cri.cn/hxfh.m3u8
 CRI EZFM 轻松调频,https://sk.cri.cn/915.m3u8
 HITFM 劲曲调频,https://sk.cri.cn/887.m3u8
+
