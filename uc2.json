@@ -1,0 +1,648 @@
+[
+  {
+    "name": "夸克|UC|天翼|123|百度|移动|pikpak|115|解析",
+    "version": 39,
+    "remark": "iOS 15 及以上版本可用",
+    "env": "百度网盘Cookie##用于播放百度网盘视频&&UCCookie##用于播放UC网盘视频&&UC_Token##UC网盘 Open API Token（可选，优先使用）&&夸克Cookie##用于播放Quark网盘视频&&转存文件夹名称##在各网盘转存文件时使用的文件夹名称&&123网盘账号##用于播放123网盘视频&&123网盘密码##用于播放123网盘视频&&天翼网盘账号##用于播放天翼网盘视频&&天翼网盘密码##用于播放天翼网盘视频&&115Cookie##用于播放115网盘视频&&PikPakToken##用于存储登录信息,Bearer 开头&&采集解析地址##内置两个，失效不要反馈。格式：名称1@地址1;名称2@地址2",
+    "order": "A",
+    "api": "panTools/js/panTools2.js",
+    "type": 300
+  },
+  {
+    "name": "夸克|UC|天翼|123|百度|移动|pikpak|115|解析",
+    "version": 1,
+    "remark": "iOS 14 及以下版本专用",
+    "env": "百度网盘Cookie##用于播放百度网盘视频&&UCCookie##用于播放UC网盘视频&&UC_Token##UC网盘 Open API Token（可选，优先使用）&&夸克Cookie##用于播放Quark网盘视频&&转存文件夹名称##在各网盘转存文件时使用的文件夹名称&&123网盘账号##用于播放123网盘视频&&123网盘密码##用于播放123网盘视频&&天翼网盘账号##用于播放天翼网盘视频&&天翼网盘密码##用于播放天翼网盘视频&&115Cookie##用于播放115网盘视频&&PikPakToken##用于存储登录信息,Bearer 开头&&采集解析地址##内置两个，失效不要反馈。格式：名称1@地址1;名称2@地址2",
+    "order": "B",
+    "api": "panTools/js/panTools2_iOS14.js",
+    "type": 300
+  },
+  {
+    "name": "豆儿弹幕",
+    "version": 15,
+    "remark": "🍃豆儿出品，不属精品！",
+    "env": "豆儿弹幕API##使用兼容弹弹Play协议的API 格式 线路名称1@地址1|线路名称2@地址2",
+    "codeID": "p3F0ksrlSjf1GN2FU4g8jYxCOyqolmCX",
+    "order": "A01",
+    "api": "danMu/js/danMu5.txt",
+    "type": 400
+  },
+  {
+    "name": "自定义弹幕扩展",
+    "version": 21,
+    "remark": "v1.6.60 及以上版本可用",
+    "env": "自定义弹幕解析接口##格式 线路名称1@地址1|线路名称2@地址2&&自定义弹幕采集线路##格式 线路名称1@地址1|线路名称2@地址2&&自定义弹幕剧集过滤##过滤视频剧集关键词,用|分隔,填写禁用可关闭过滤功能",
+    "codeID": "7xPlMjU7WKVbDGMGkw62zHoai6jhjMim",
+    "order": "A02",
+    "api": "danMu/js/danMu4.txt",
+    "type": 400
+  },
+  {
+    "name": "豆瓣推荐",
+    "version": 5,
+    "remark": "iOS14 以上版本可用",
+    "codeID": "axVxcuorTKzBGQJnmljkDTkIUQrZklrY",
+    "api": "recommend/js/douban.txt",
+    "type": 200
+  },
+  {
+    "name": "📺电视直播",
+    "api": "https://tv.iill.top/m3u/Gather",
+    "type": 10,
+    "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
+  },
+  {
+    "name": "🎥网络直播",
+    "api": "https://m.iill.top/Live.m3u",
+    "type": 10,
+    "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
+  },
+  {
+    "name": "🚴‍♂️体育直播",
+    "api": "https://tv.iill.top/m3u/Sport",
+    "type": 10,
+    "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
+  },
+  {
+    "name": "🐯虎牙一起看",
+    "api": "https://sub.ottiptv.cc/huyayqk.m3u",
+    "type": 10,
+    "remark": "来自 Mursor 大佬 https://github.com/mursor1985"
+  },
+  {
+    "name": "🐟斗鱼一起看",
+    "api": "https://sub.ottiptv.cc/douyuyqk.m3u",
+    "type": 10,
+    "remark": "来自 Mursor 大佬 https://github.com/mursor1985"
+  },
+  {
+    "name": "🔄YY轮播",
+    "api": "https://sub.ottiptv.cc/yylunbo.m3u",
+    "type": 10,
+    "remark": "来自 Mursor 大佬 https://github.com/mursor1985"
+  },
+  {
+    "name": "📺哔哩直播",
+    "api": "https://sub.ottiptv.cc/bililive.m3u",
+    "type": 10,
+    "remark": "来自 Mursor 大佬 https://github.com/mursor1985"
+  },
+  {
+    "name": "📡范明明IPv6",
+    "api": "https://cdn.jsdelivr.net/gh/fanmingming/live@refs/heads/main/tv/m3u/ipv6.m3u",
+    "type": 10,
+    "remark": "来自 范明明 大佬 https://github.com/fanmingming"
+  },
+  {
+    "name": "🛰️Govin",
+    "api": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
+    "type": 10,
+    "remark": "来自 Guovin 大佬 https://github.com/Guovin"
+  },
+  {
+    "name": "[荐] 豆瓣",
+    "version": 4,
+    "remark": "🍃豆儿出品，不属精品！",
+    "webSite": "https://movie.douban.com",
+    "codeID": "4r9lCCTjjoqI5sGDkzho2sNKSL2BQXpc",
+    "order": "A00",
+    "api": "vod/js/Jian_douban2.txt",
+    "type": 101
+  },
+  {
+    "name": "[盘] 玩偶",
+    "version": 3,
+    "webSite": "http://wogg.xxooo.cf",
+    "order": "A01",
+    "api": "vod/js/Pan_wogg.js",
+    "type": 101,
+    "logo": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/logo/wanou.png"
+  },
+  {
+    "name": "[盘] 木偶",
+    "version": 6,
+    "webSite": "https://666.666291.xyz",
+    "order": "A02",
+    "api": "vod/js/Pan_mogg.js",
+    "type": 101
+  },
+  {
+    "name": "[盘] 蜡笔",
+    "version": 5,
+    "webSite": "http://feimao888.fun",
+    "order": "A03",
+    "api": "vod/js/Pan_labipan.js",
+    "type": 101,
+    "logo": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/logo/labi.png"
+  },
+  {
+    "name": "[盘] 多多",
+    "version": 3,
+    "webSite": "https://tv.yydsys.top",
+    "order": "A04",
+    "api": "vod/js/Pan_duoduo.js",
+    "type": 101
+  },
+  {
+    "name": "[盘] 欧歌",
+    "version": 3,
+    "webSite": "https://woog.nxog.eu.org",
+    "order": "A05",
+    "api": "vod/js/Pan_ouge.js",
+    "type": 101
+  },
+  {
+    "name": "[盘] 二小",
+    "version": 2,
+    "webSite": "http://2xiaopan.fun",
+    "order": "A06",
+    "api": "vod/js/Pan_erxiao.js",
+    "type": 101
+  },
+  {
+    "name": "[盘] 至臻",
+    "version": 4,
+    "webSite": "http://www.miqk.cc",
+    "order": "A07",
+    "api": "vod/js/Pan_zhizhen.js",
+    "type": 101
+  },
+  {
+    "name": "[盘] 虎斑",
+    "version": 1,
+    "webSite": "http://103.45.162.207:20720",
+    "order": "A08",
+    "api": "vod/js/Pan_huban.js",
+    "type": 101
+  },
+  {
+    "name": "[盘] 小斑",
+    "version": 2,
+    "remark": "🍃豆儿出品，不属精品！玩偶模板站通用自适应，更换域名即可，默认小斑占位",
+    "webSite": "http://xsayang.fun:12512",
+    "codeID": "o1yPDSn0NzqTIM7iqs1EcTbsIU4TVDdI",
+    "order": "A09",
+    "api": "vod/js/Pan_zishiying.txt",
+    "type": 101
+  },
+  {
+    "name": "[盘] 盘Ta",
+    "version": 1,
+    "remark": "🍃豆儿出品，不属精品！",
+    "webSite": "https://www.91panta.cn/",
+    "codeID": "fYX7prspKVl5o8VMImJQllzG3NHeBdpp",
+    "order": "A12",
+    "api": "vod/js/Pan_panta.txt",
+    "type": 101
+  },
+  {
+    "name": "[盘] 雷鲸",
+    "version": 2,
+    "remark": "🍃豆儿出品，不属精品！",
+    "webSite": "https://www.leijing.xyz/",
+    "codeID": "uhSLOEbw9TJY0Zqelm0DK3eauG5UxFf8",
+    "order": "A13",
+    "api": "vod/js/Pan_leijing.txt",
+    "type": 101
+  },
+  {
+    "name": "[盘] 南风",
+    "version": 1,
+    "webSite": "https://www.nanf.cc",
+    "order": "A14",
+    "api": "vod/js/Pan_nanfdj.js",
+    "type": 101
+  },
+  {
+    "name": "[盘] 趣盘",
+    "version": 3,
+    "remark": "来自proversion2024，仅搜索",
+    "webSite": "https://pan.funletu.com",
+    "codeID": "LO5aQSJYBZLrRD1g",
+    "instance": "funletu20241124",
+    "order": "A15",
+    "api": "vod/js/Pan_funletu.txt",
+    "type": 100
+  },
+  {
+    "name": "[盘] 音海",
+    "version": 1,
+    "remark": "🍃豆儿出品，不属精品！",
+    "webSite": "https://sou.makifx.com",
+    "codeID": "KbVx88vHdV15XvzvUxCQScqe9Ymk6wCX",
+    "order": "A16",
+    "api": "vod/js/Pan_yinhai.txt",
+    "type": 101
+  },
+  {
+    "name": "[盘] TG搜",
+    "version": 11,
+    "remark": "格式 频道名称1@频道id1&频道名称2@频道id2",
+    "env": "TG搜代理地址##默认直接访问 https://t.me/s/ 有自己的代理服务填入即可，没有不用改动。",
+    "webSite": "豆儿盘@douerpan&豆儿123@zyfb123&天翼日更@tianyirigeng&天翼臻影@tyysypzypd&百度@bdwpzhpd&夸克百度@Aliyun_4K_Movies&夸克UC@ucquark&夸克电影@Q_dianying&夸克剧集@Q_dianshiju&夸克动漫@Q_dongman",
+    "order": "A17",
+    "api": "vod/js/Pan_tgs.js",
+    "type": 101,
+    "logo": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/logo/tg.png"
+  },
+  {
+    "name": "[盘] TG搜²",
+    "version": 9,
+    "remark": "🍃豆儿出品，不属精品！免代理纯搜索，格式 频道名称@频道id|搜索数量&频道名称@频道id，支持自定义每频道搜索数量，默认3个",
+    "env": "TG搜API地址##https://tgsou.252035.xyz",
+    "webSite": "豆儿盘@douerpan&豆儿123@zyfb123&天翼日更@tianyirigeng&天翼臻影@tyysypzypd&百度@bdwpzhpd&夸克百度@Aliyun_4K_Movies&夸克UC@ucquark&夸克电影@Q_dianying&夸克剧集@Q_dianshiju&夸克动漫@Q_dongman",
+    "order": "A18",
+    "api": "vod/js/Pan_tgs_api.js",
+    "type": 101
+  },
+  {
+    "name": "[盘] PanSou",
+    "version": 2,
+    "remark": "🍃豆儿出品，不属精品！",
+    "webSite": "https://so.252035.xyz",
+    "codeID": "KbVx88vHdV15XvzvUxCQScqe9Ymk6wCX",
+    "order": "A19",
+    "api": "vod/js/Pan_pansou.txt",
+    "type": 101
+  },
+  {
+    "name": "[盘] 123社区",
+    "version": 1,
+    "remark": "🍃豆儿出品，不属精品！内容来自网络 仅供学习测试！",
+    "env": "123资源社区_Cookie##访问网站需要的Cookie，格式：bbs_token=xxx",
+    "webSite": "https://pan1.me",
+    "codeID": "26QUSjb30vJWr1ejaey2KGkx3Aq0pRIv",
+    "order": "A20",
+    "api": "vod/js/Pan_123ypzysq.txt",
+    "type": 101
+  },
+  {
+    "name": "[直] 修罗",
+    "version": 2,
+    "webSite": "https://xl01.com.de",
+    "order": "B",
+    "api": "vod/js/Zhi_biliys.js",
+    "type": 101
+  },
+  {
+    "name": "[直] 在线",
+    "version": 4,
+    "remark": "🍃豆儿出品，不属精品！",
+    "webSite": "https://www.zxzjhd.com",
+    "codeID": "xgFE0TUb8SZsOIlZzcUkxRtewYrSozoC",
+    "order": "B",
+    "api": "vod/js/Zhi_zxzj.txt",
+    "type": 101
+  },
+  {
+    "name": "[直] 奇优",
+    "version": 2,
+    "webSite": "http://www.qiyoudy4.com",
+    "order": "B",
+    "api": "vod/js/Zhi_qiyou.js",
+    "type": 101
+  },
+  {
+    "name": "[直] 欧乐",
+    "version": 3,
+    "webSite": "https://www.olehdtv.com",
+    "instance": "olevod20240620",
+    "order": "B",
+    "api": "vod/js/Zhi_olevod.js",
+    "type": 100
+  },
+  {
+    "name": "[直] 荐片",
+    "version": 2,
+    "remark": "🍃豆儿出品，不属精品！",
+    "webSite": "jianpian",
+    "codeID": "3UXc19H0H2Dzz4vJEO4yFIGCmKXIlfoM",
+    "order": "B",
+    "api": "vod/js/Zhi_jianpian.txt",
+    "type": 101
+  },
+  {
+    "name": "[直] 豆哔",
+    "version": 9,
+    "remark": "🍃豆儿出品，不属精品！内容来自网络 仅供学习测试！",
+    "env": "bili_cookie##bili_cookie 用于获取个性化推荐和高清视频",
+    "webSite": "doubi",
+    "codeID": "9Djl2QaDMOIgvhl8tYAhdVowEsmuPZpA",
+    "order": "B",
+    "api": "vod/js/Zhi_doubi.txt",
+    "type": 101
+  },
+  {
+    "name": "[直] 韩剧",
+    "version": 2,
+    "webSite": "https://www.hanjukankan.com",
+    "instance": "hjkk20240624",
+    "order": "B",
+    "api": "vod/js/Zhi_hjkk.js",
+    "type": 100
+  },
+  {
+    "name": "[直] 瓜子¹",
+    "version": 4,
+    "remark": "瓜子APP",
+    "webSite": "http://api.gudvxty.com",
+    "codeID": "ra5Z3wtXKshzSMK2",
+    "instance": "gzapp20241001",
+    "order": "B",
+    "api": "vod/js/Zhi_gzapp.txt",
+    "type": 100,
+    "logo": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/logo/guazi.png"
+  },
+  {
+    "name": "[直] 瓜子²",
+    "version": 4,
+    "remark": "瓜子WEB",
+    "webSite": "http://api.gudvxty.com",
+    "instance": "gzys20240822",
+    "order": "B",
+    "api": "vod/js/Zhi_gzys.js",
+    "type": 100,
+    "logo": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/logo/guazi2.png"
+  },
+  {
+    "name": "[直] 3Q影视",
+    "version": 1,
+    "remark": "🍃豆儿出品，不属精品！",
+    "webSite": "https://qqqys.com",
+    "codeID": "D9BXZ6cn6jBL9W50ORTUU2yV4vGxYCU1",
+    "order": "B",
+    "api": "vod/js/Zhi_3qys.txt",
+    "type": 101
+  },
+  {
+    "name": "[直] Emby",
+    "version": 6,
+    "remark": "🍃豆儿出品，不属精品！仅供测试！请使用不限制客户端的账号测试，封号概不负责！",
+    "env": "Emby用户名##登录用户名&&Emby密码##登录密码",
+    "webSite": "emby服务器地址",
+    "codeID": "LAqQ8NcDuZBVF5zgN2jGwywEuz2VjPjM",
+    "order": "B",
+    "api": "vod/js/Zhi_emby.txt",
+    "type": 101
+  },
+  {
+    "name": "[直] RRSP",
+    "version": 2,
+    "remark": "🍃豆儿出品，不属精品！",
+    "webSite": "RRSP",
+    "codeID": "a2buZX6jr7AcTQppx1MTcXMQOGNZFAAF",
+    "order": "B",
+    "api": "vod/js/Zhi_rrsp.txt",
+    "type": 101
+  },
+  {
+    "name": "[直] 两个BT",
+    "version": 3,
+    "webSite": "https://www.bttwoo.com",
+    "order": "B",
+    "api": "vod/js/Zhi_bttwoo.js",
+    "type": 101
+  },
+  {
+    "name": "[直] 山有木兮",
+    "version": 1,
+    "remark": "🍃豆儿出品，不属精品！",
+    "webSite": "https://film.symx.club",
+    "codeID": "OpwROp7JEarNm4PJvnFpaiCVjAMTGa8k",
+    "order": "B",
+    "api": "vod/js/Zhi_symx.txt",
+    "type": 101
+  },
+  {
+    "name": "[直] 河马短剧",
+    "version": 1,
+    "remark": "🍃豆儿出品，不属精品！",
+    "webSite": "https://www.kuaikaw.cn",
+    "codeID": "y1JFo0Sxs3fVwTggELeJ4U4MWLVKM1dK",
+    "order": "B",
+    "api": "vod/js/Zhi_hmdj.txt",
+    "type": 101
+  },
+  {
+    "name": "[直] 番茄畅听",
+    "version": 1,
+    "remark": "🍃豆儿出品，不属精品！",
+    "webSite": "fanqie",
+    "codeID": "ck9JR5mmMu9fmULHPR1hbl0QRqmQm6M8",
+    "order": "B",
+    "api": "vod/js/Zhi_fqct.txt",
+    "type": 101
+  },
+  {
+    "name": "[直] 酷我听书",
+    "version": 2,
+    "remark": "🍃豆儿出品，不属精品！",
+    "webSite": "http://tingshu.kuwo.cn",
+    "codeID": "USdWmrhBwHEAElFD428HKfByc0WbhzTw",
+    "order": "B",
+    "api": "vod/js/Zhi_kwts.txt",
+    "type": 101
+  },
+  {
+    "name": "[直] 4k-av",
+    "version": 2,
+    "webSite": "https://4k-av.com",
+    "instance": "www4kav20240705",
+    "order": "B",
+    "api": "vod/js/Zhi_4kav.js",
+    "type": 100
+  },
+  {
+    "name": "[直] Alist",
+    "version": 1,
+    "remark": "🍃豆儿出品，不属精品！自行修改自己的AList主页地址",
+    "webSite": "https://download.avemujica.org",
+    "codeID": "swAEnJ2uRVzAk8hp3Ba1Es6GfAk4TdpC",
+    "order": "B",
+    "api": "vod/js/Zhi_alist.txt",
+    "type": 101
+  },
+  {
+    "name": "[直] GD音乐台",
+    "version": 3,
+    "remark": "🍃豆儿出品，不属精品！仅供测试！所有内容均来自GD音乐台 music.gdstudio.xyz",
+    "webSite": "https://music.gdstudio.xyz/",
+    "codeID": "tyZWrAkjDWJ2fYaq4VNCWGYzVUD2onuZ",
+    "order": "B",
+    "api": "vod/js/Zhi_gdstudio.txt",
+    "type": 101
+  },
+  {
+    "name": "[直] omofun",
+    "version": 1,
+    "webSite": "http://101.42.227.94:11024",
+    "codeID": "z5nxgZSWE8ipZYvGtImsRFu73TOB45fZ",
+    "order": "B",
+    "api": "vod/js/Zhi_omofun.txt",
+    "type": 101
+  },
+  {
+    "name": "[直] iKanBot",
+    "version": 1,
+    "remark": "🍃豆儿出品，不属精品！",
+    "webSite": "https://v.aikanbot.com",
+    "codeID": "xWEHbLCxcGGhC4tstiAXbQ5NT6FJz50X",
+    "order": "B",
+    "api": "vod/js/Zhi_iKanBot.txt",
+    "type": 101
+  },
+  {
+    "name": "[嗅] 立播",
+    "version": 1,
+    "remark": "🍃豆儿出品，不属精品！",
+    "webSite": "https://libvio.mov/",
+    "order": "C",
+    "api": "vod/js/Xiu_libvio.js",
+    "type": 101
+  },
+  {
+    "name": "[嗅] MX动漫",
+    "version": 1,
+    "webSite": "https://www.mxdm6.com",
+    "order": "C",
+    "api": "vod/js/Xiu_mxdm.js",
+    "type": 101
+  },
+  {
+    "name": "[嗅] NT动漫",
+    "version": 1,
+    "webSite": "https://www.ntdm9.com",
+    "order": "C",
+    "api": "vod/js/Xiu_ntdm.js",
+    "type": 101
+  },
+  {
+    "name": "[嗅] 嗷呜动漫",
+    "version": 1,
+    "remark": "🍃豆儿出品，不属精品！",
+    "webSite": "https://www.aowu.tv",
+    "codeID": "byzBjZR3q9EK3gMag6owco6rksBCyG5k",
+    "order": "C",
+    "api": "vod/js/Xiu_aowu.txt",
+    "type": 101
+  },
+  {
+    "name": "[嗅] 风车动漫",
+    "version": 1,
+    "webSite": "https://www.tt776b.com",
+    "order": "C",
+    "api": "vod/js/Xiu_fcdm.js",
+    "type": 101
+  },
+  {
+    "name": "[嗅] E-ACG",
+    "version": 1,
+    "webSite": "https://eacg1.com",
+    "order": "C",
+    "api": "vod/js/Xiu_eacg.js",
+    "type": 101
+  },
+  {
+    "name": "[嗅] E-ACG2",
+    "version": 1,
+    "webSite": "https://eacg1.com",
+    "order": "C",
+    "api": "vod/js/Xiu_eacg2.js",
+    "type": 101
+  },
+  {
+    "name": "[嗅] MuteFun",
+    "version": 1,
+    "webSite": "https://www.mutean.com",
+    "order": "C",
+    "api": "vod/js/Xiu_MuteFun.js",
+    "type": 101
+  },
+  {
+    "name": "[解] 金蝉",
+    "version": 6,
+    "remark": "通用官采解析1，需配合网盘解析工具使用。每次消耗所有解析次数！",
+    "webSite": "https://zy.jinchancaiji.com/api.php/provide/vod",
+    "order": "D1",
+    "api": "vod/js/Jie_cms.js",
+    "type": 101
+  },
+  {
+    "name": "[解] 金蝉",
+    "version": 4,
+    "remark": "通用官采解析2，需配合网盘解析工具使用。在环境变量配置 采集解析地址。",
+    "env": "采集解析地址##内置两个，失效不要反馈。格式：名称1@地址1;名称2@地址2",
+    "webSite": "https://zy.jinchancaiji.com/api.php/provide/vod",
+    "order": "D2",
+    "api": "vod/js/Jie_cms2.js",
+    "type": 101
+  },
+  {
+    "api": "http://dyttzyw.com/api.php/provide/vod/",
+    "name": "[采] 电影天堂",
+    "order": "D3",
+    "type": 0
+  },
+  {
+    "name": "[采] 自建CMS",
+    "version": 1,
+    "remark": "地址输入自己搭建的 cms 采集地址，默认使用如意采集占位",
+    "webSite": "https://cj.rycjapi.com/api.php/provide/vod",
+    "order": "D5",
+    "api": "vod/js/Cai_cmsUser.js",
+    "type": 101
+  },
+  {
+    "name": "[禁] 麻豆",
+    "version": 2,
+    "webSite": "https://madou.club",
+    "instance": "madou20240626",
+    "order": "E",
+    "api": "vod/js/Jin_madou.js",
+    "type": 100
+  },
+  {
+    "name": "[禁] 玩偶姐姐",
+    "version": 2,
+    "webSite": "https://hongkongdollvideo.com",
+    "instance": "hkdoll20240705",
+    "order": "E",
+    "api": "vod/js/Jin_hkdoll.js",
+    "type": 100
+  },
+  {
+    "name": "[禁] 91jav",
+    "version": 3,
+    "webSite": "https://041.bndmpsjx.com",
+    "order": "E",
+    "api": "vod/js/Jin_91jav.js",
+    "type": 101
+  },
+  {
+    "name": "[禁] jable",
+    "version": 3,
+    "webSite": "https://jable.tv",
+    "instance": "jable20240831",
+    "order": "E",
+    "api": "vod/js/Jin_jable.js",
+    "type": 100
+  },
+  {
+    "name": "[禁] missav",
+    "version": 2,
+    "webSite": "https://missav.ai",
+    "instance": "missav20240627",
+    "order": "E",
+    "api": "vod/js/Jin_missav.js",
+    "type": 100
+  },
+  {
+    "name": "[禁] netflav",
+    "version": 2,
+    "webSite": "https://www.netflav.com",
+    "instance": "netflav20240905",
+    "order": "E",
+    "api": "vod/js/Jin_netflav.js",
+    "type": 100
+  }
+]
