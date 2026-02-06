@@ -3,8 +3,8 @@
   "logo": "",
   "sites": [
     {
-      "key": "爱奇艺",
-      "name": "爱奇艺",
+      "key": "🎬魔都资源",
+      "name": "🎬魔都资源",
       "type": 3,
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "searchable": 0
@@ -12,6 +12,7 @@
     ]
 
 }
+
 
 
 
