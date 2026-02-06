@@ -6,11 +6,12 @@
       "key": "爱奇艺",
       "name": "爱奇艺",
       "type": 3,
-      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "searchable": 0
     }
     ]
 
 }
+
 
 
