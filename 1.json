@@ -3,15 +3,17 @@
   "logo": "",
   "sites": [
     {
-      "key": "🎬魔都资源",
-      "name": "🎬魔都资源",
+      "key": "🎬魔都资源2",
+      "name": "🎬魔都资源2",
       "type": 3,
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
+      "detail":"https://www.moduzy.net",
       "searchable": 0
     }
     ]
 
 }
+
 
 
 
