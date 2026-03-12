@@ -1,220 +1,442 @@
 {
-  "urls": [ 
+  "spider":"https://github.com/250992941/iptv/blob/main/jar/%E5%AE%9D%E7%9B%92TV-spider.jar",
+  "wallpaper":"http://tool.teyonds.com/api",
+  "lives":[
    {
-      "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/2.json",
-      "name": "🌈Steven丨2json"
-    },  
+  "name":"STTV接口",
+  "type":0,
+  "url":"https://sttv-c3j.pages.dev/ZB.txt",
+  "playerType":2,
+  "ua":"okhttp/3.8.1",
+  "epg":"http://epg.dy2.fun:5678",
+  "logo":"https://epg.112114.eu.org/logo/{name}.png"
+   },  
+  {
+  "name":"日后接口",
+  "type":0,
+  "url":"http://rihou.cc:555/gggg.nzk",
+  "playerType":2,
+  "ua":"okhttp/3.15",
+  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
+  "logo":"https://epg.112114.eu.org/logo/{name}.png"
+  },
+  {
+  "name":"咪咕接口",
+  "type":0,
+  "url":"https://wget.la/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+  "playerType":2,
+  "ua":"okhttp/3.15",
+  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
+  "logo":"https://epg.112114.eu.org/logo/{name}.png"
+  }, 
+  {
+  "name":"风云接口",
+  "type":0,
+  "url":"iptv.4666888.xyz/FYTV.txt",
+  "playerType":2,
+  "ua":"okhttp/3.15",
+  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
+  "logo":"https://epg.112114.eu.org/logo/{name}.png"
+  },
+  {
+  "name":"网页接口",
+  "type":0,
+  "url":"https://gongdian.top/tv/ku9/webview.txt#JS=https://gongdian.top/tv/ku9/js/webview.js",
+  "playerType":2,
+  "ua":"okhttp/3.15",
+  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
+  "logo":"https://epg.112114.eu.org/logo/{name}.png"
+  },
+  {
+  "name":"Web接口",
+  "type":0,
+  "url":"https://pan.vma.cc/pan/down.php/350735607a786faaaa69aa5bbe3a3078.txt", 
+  "playerType":2,
+  "ua":"okhttp/3.15",
+  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
+  "logo":"https://epg.112114.eu.org/logo/{name}.png"
+  },
+  
+  {
+  "name":"娱乐接口",
+  "type":0,
+  "url":"https://m.iill.top/Live.m3u",
+  "playerType":2,
+  "ua":"okhttp/3.15",
+  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
+  "logo":"https://epg.112114.eu.org/logo/{name}.png"
+  },
+  {
+  "name":"电视线路9--冰茶频道",
+  "type":0,
+  "url":"https://bc.188766.xyz/?ip=&mima=bingcha1130",
+  "playerType":2,
+  "ua":"okhttp/3.15",
+  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
+  "logo":"https://epg.112114.eu.org/logo/{name}.png"
+  },
+  {
+  "name":"电影接口",
+  "type":0,
+  "url":"https://gh-proxy.com/https://raw.githubusercontent.com/qinvision/TV/refs/heads/main/TV.txt",
+  "playerType":2,
+  "ua":"okhttp/3.15",
+  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
+  "logo":"https://epg.112114.eu.org/logo/{name}.png"
+  }, 
+  {
+  "name":"虎牙一起看",
+  "type":0,
+  "url":"https://wget.la/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/huyayqk.m3u",
+  "playerType":2,"ua":"okhttp/3.15",
+  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
+  "logo":"https://epg.112114.eu.org/logo/{name}.png"
+  },
+ 
+  {
+  "name":"斗鱼一起看",
+  "type":0,
+  "url":"https://wget.la/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/douyuyqk.m3u",
+  "playerType":2,
+  "ua":"okhttp/3.15",
+  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
+  "logo":"https://epg.112114.eu.org/logo/{name}.png"
+  },
+  {
+  "name":"轮播接口",
+  "type":0,
+  "url":"https://wget.la/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/yylunbo.m3u",
+  "playerType":2,"ua":"okhttp/3.15",
+  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
+  "logo":"https://epg.112114.eu.org/logo/{name}.png"
+  },
+  {
+  "name":"IPTV接口",
+  "type":0,
+  "url":"https://gh-proxy.com/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt",
+  "playerType":2,"ua":"okhttp/3.15",
+  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
+  "logo":"https://epg.112114.eu.org/logo/{name}.png"
+   }
+  ],
+  
+  "flags":[
+    "youku",
+    "qq",
+    "QQ",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "PPTV",
+    "mgtv",
+    "ltnb",
+    "rx",
+    "CL4K",
+    "xfyun",
+    "wuduzy",
+    "wasu",
+    "bilibili",
+    "renrenmi",
+    "xmm",
+    "xigua",
+    "m1905 ",
+    "funshion ",
+    "duoduozy",
+    "xinluan",
+    "ddzy",
+    "tgqp",
+    "tkqp",
+    "XRJX",
+    "优酷",
+    "芒果",
+    "腾讯",
+    "爱奇艺",
+    "奇艺",
+    "哔哩哔哩",
+    "哔哩"
+  ],
+  "ijk":[
     {
-      "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/1.json",
-      "name": "🌈Steven丨1json"
-    }, 
-   {
-      "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/6.json",
-      "name": "🌈Steven丨6json"
-    }, 
-    {
-      "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/8.json",
-      "name": "🌈Steven丨8json"
-    }, 
-    {
-      "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/88.json",
-      "name": "🌈Steven丨88json"
-    }, 
-    {
-      "url": "http://8.138.7.223/tv.txt",
-      "name": "🌈Steven丨V12 TV"
-    }, 
-    {
-      "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/52.json",
-      "name": "🌈Steven丨电视直播+看球"
-    }, 
-     {
-      "url": "https://raw.gitmirror.com/250992941/PG/refs/heads/main/jsm.json",
-      "name": "🌈Steven丨PG肥羊线路"
-    }, 
-    {
-      "url": "https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json",
-      "name": "🌈Steven丨PG肥羊-fish2018本地线路"
-    },  
-    {
-      "url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json",
-      "name": "🌈Steven丨FongMi-fish2018本地线路"
-    }, 
-     {
-      "url": "https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json",
-      "name": "🌈Steven丨TVBOX-fish2018本地线路"
-    }, 
-    {
-      "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/51.json",
-      "name": "🌈Steven丨Free-TV"
-    }, 
-    {
-      "url": "https://raw.gitmirror.com/pkujf/TVBOX/refs/heads/main/99188.json",
-      "name": "🌈Steven丨CR9918"
-    }, 
-    {
-      "url": "https://raw.gitmirror.com/yygtgf/666/refs/heads/main/666/index.json",
-      "name": "🌈Steven丨CR666接口多仓"
-    }, 
-     {
-      "url": "https://raw.gitmirror.com/maoystv/6/refs/heads/main/000.json",
-      "name": "🐮一个分享者"
-    },  
-    {
-      "url": "https://hyxuanit.github.io/jk/hyxuan2.json",
-      "name": "🐮环宇轩"
-    }, 
-    {
-      "url": "https://mpanso.me/DEMO.json",
-      "name": "🐮小米线路"
-    },
-    {
-      "url": "http://cdn.qiaoji8.com/tvbox.json",
-      "name": "🐮巧技线路"
-    },  
-    {
-      "url": "https://tv.xn--yhqu5zs87a.top",
-      "name": "🐮菜妮丝"
-    },                  
-     {
-      "url": "http://ztha.top/TVBox/thdjk.json",
-      "name": "📛公众号丨挺好分享"
-    },      
-    {
-      "url": "http://www.fish2018.us.kg/p/jsm.json",
-      "name": "🦗挺好丨PG线路"
-    },
-    
-    {
-      "url": "http://tv.laohu.cool/tvbox.json",
-      "name": "🦌挺好丨老虎线路"
-    },
+      "group":"软解码",
+      "options":[
         {
-      "url": "http://www.饭太硬.com/tv",
-      "name": "💦挺好丨饭硬专线"
-    },
+          "category":4,
+          "name":"opensles",
+          "value":"0"
+        },
         {
-      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "🚀挺好丨One线路"
-    },
-    {
-      "url": "http://meowtv.top/tv",
-      "name": "🐼挺好丨喵影视线"
-    },
-
-    {
-      "url": "http://175.178.251.183:6689/tv.txt",
-      "name": "🦒挺好丨懒人线路"
-    },
-    {
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🚀挺好丨南风线路"
-    },
-
-    {
-      "url": "http://2883.kstore.space/nzk/nzk0722.json",
-      "name": "🦒挺好丨D佬魔改"
-    },
-    {
-      "url": "https://xn--yeto36i.v.xn--dkw.xn--6qq986b3xl/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=小赵",
-      "name": "🚀挺好丨讴歌线路"
-    },
-    {
-      "url": "https://4708.kstore.space/tvbox/api.json",
-      "name": "🦒挺好丨拾光专线"
-    },
+          "category":1,
+          "name":"fflags",
+          "value":"fastseek"
+        },
         {
-      "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
-      "name": "🍌挺好丨小苹果线路"
+          "category":4,
+          "name":"framedrop",
+          "value":"1"
+        },
+        {
+          "category":4,
+          "name":"enable-accurate-seek",
+          "value":"0"
+        },
+        {
+          "category":4,
+          "name":"start-on-prepared",
+          "value":"1"
+        },
+        {
+          "category":1,
+          "name":"http-detect-range-support",
+          "value":"0"
+        },
+        {
+          "category":4,
+          "name":"mediacodec-handle-resolution-change",
+          "value":"0"
+        },
+        {
+          "category":2,
+          "name":"skip_loop_filter",
+          "value":"48"
+        },
+        {
+          "category":4,
+          "name":"reconnect",
+          "value":"1"
+        },
+        {
+          "category":4,
+          "name":"overlay-format",
+          "value":"842225234"
+        },
+        {
+          "category":4,
+          "name":"mediacodec",
+          "value":"0"
+        },
+        {
+          "category":4,
+          "name":"mediacodec-auto-rotate",
+          "value":"0"
+        },
+        {
+          "category":4,
+          "name":"soundtouch",
+          "value":"1"
+        },
+        {
+          "category":4,
+          "name":"mediacodec-hevc",
+          "value":"0"
+        },
+        {
+          "category":1,
+          "name":"dns_cache_timeout",
+          "value":"600000000"
+        }
+      ]
     },
     {
-      "url": "https://qixing.myhkw.com/qxzj/七星智教",
-      "name": "🚀挺好丨少儿频道"
-    },
-    {
-      "url": "http://www.mpanso.com/小米/DEMO.json",
-      "name": "🍌挺好丨小米线路"
-    },
-    {
-      "url": "http://www.fish2018.us.kg/z/FongMi.json",
-      "name": "🚀挺好丨真心线路"
-    },
-    {
-      "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
-      "name": "🚀挺好丨道长线路"
-    },
-    {
-      "url": "http://tvbox.王二小放牛娃.top",
-      "name": "🚀挺好丨王二小线"
-    },
-
-    {
-      "url": "http://我不是.摸鱼儿.com",
-      "name": "🍌挺好丨摸鱼线路"
-    },
-    {
-      "url": "https://6492.kstore.space/xnf/xnf.json",
-      "name": "🚀挺好丨环宇轩线"
-    },
-    {
-      "url": "http://fmys.top/fmys.json",
-      "name": "🚀挺好丨驸马线路"
-    },
-    {
-      "url": "http://t.lkkk.love/02.json",
-      "name": "🚀挺好丨天命线路"
-    },
-    {
-      "url": "http://mzjk.top/禁止贩卖",
-      "name": "🚀挺好丨宝盒线路"
-    },
-    {
-      "url": "https://tv.xn--yhqu5zs87a.top",
-      "name": "🚀挺好丨菜妮丝线"
-    },
-    {
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-      "name": "🚀挺好丨香雅情线"
-    },
-    {
-      "url": "http://肥猫.com",
-      "name": "🚀挺好丨肥猫线路"
-    },
-    {
-      "url": "http://ttkx.cc:5869/天天开心",
-      "name": "🚀挺好丨开开心心"
-    },
-    {
-      "url": "http://hucongrong.web3v.work/风水/fxz/fxz.json",
-      "name": "🚀挺好丨分享者"
-    },
-    {
-      "url": "https://www.lianyingtv.com/fast/fast",
-      "name": "🚀挺好丨恋影线路"
-    },
-    {
-      "url": "https://weixine.net/ysc.json",
-      "name": "🚀挺好丨运输车线"
-    },
-    {
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
-      "name": "🚀挺好丨老刘线路"
-    },
-    {
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-      "name": "🚀挺好丨高天流云"
-    },
-    {
-      "url": "http://home.jundie.top:81/top98.json",
-      "name": "🚀挺好丨俊佬线路"
-    },
-    {
-      "url": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json",
-      "name": "🚀挺好丨青龙影线"
-    },
-    {
-      "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
-      "name": "🚀挺好丨短剧大全"
+      "group":"硬解码",
+      "options":[
+        {
+          "category":4,
+          "name":"opensles",
+          "value":"0"
+        },
+        {
+          "category":1,
+          "name":"fflags",
+          "value":"fastseek"
+        },
+        {
+          "category":4,
+          "name":"framedrop",
+          "value":"1"
+        },
+        {
+          "category":4,
+          "name":"enable-accurate-seek",
+          "value":"0"
+        },
+        {
+          "category":4,
+          "name":"start-on-prepared",
+          "value":"1"
+        },
+        {
+          "category":1,
+          "name":"http-detect-range-support",
+          "value":"0"
+        },
+        {
+          "category":4,
+          "name":"mediacodec-handle-resolution-change",
+          "value":"1"
+        },
+        {
+          "category":2,
+          "name":"skip_loop_filter",
+          "value":"48"
+        },
+        {
+          "category":4,
+          "name":"reconnect",
+          "value":"1"
+        },
+        {
+          "category":4,
+          "name":"overlay-format",
+          "value":"842225234"
+        },
+        {
+          "category":4,
+          "name":"mediacodec",
+          "value":"1"
+        },
+        {
+          "category":4,
+          "name":"mediacodec-auto-rotate",
+          "value":"1"
+        },
+        {
+          "category":4,
+          "name":"soundtouch",
+          "value":"1"
+        },
+        {
+          "category":4,
+          "name":"mediacodec-hevc",
+          "value":"1"
+        },
+        {
+          "category":1,
+          "name":"dns_cache_timeout",
+          "value":"600000000"
+        }
+      ]
     }
+  ],
+  "rules":[
+    {
+      "name":"米来",
+      "hosts":[
+        "zy.behds.cn"
+      ],
+      "regex":[
+        "#EXTINF"
+      ]
+    },
+    {
+      "name":"爱酷",
+      "hosts":[
+        "cdn.json.icu"
+      ],
+      "regex":[
+        "#EXTINF:1.000000,[\\s\\S]*?#EXT-X-ENDLIST"
+      ]
+    },
+    {
+      "name":"量子广告",
+      "hosts":[
+        "vip.lz",
+        "hd.lz"
+      ],
+      "regex":[
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name":"非凡广告",
+      "hosts":[
+        "vip.ffzy",
+        "hd.ffzy"
+      ],
+      "regex":[
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name":"火山嗅探",
+      "hosts":[
+        "huoshan.com"
+      ],
+      "regex":[
+        "item_id="
+      ]
+    },
+    {
+      "name":"抖音嗅探",
+      "hosts":[
+        "douyin.com"
+      ],
+      "regex":[
+        "is_play_url="
+      ]
+    }
+  ],
+  "ads":[
+    "mimg.0c1q0l.cn",
+    "www.googletagmanager.com",
+    "www.google-analytics.com",
+    "mc.usihnbcq.cn",
+    "mg.g1mm3d.cn",
+    "mscs.svaeuzh.cn",
+    "cnzz.hhttm.top",
+    "tp.vinuxhome.com",
+    "cnzz.mmstat.com",
+    "www.baihuillq.com",
+    "s23.cnzz.com",
+    "z3.cnzz.com",
+    "c.cnzz.com",
+    "stj.v1vo.top",
+    "z12.cnzz.com",
+    "img.mosflower.cn",
+    "tips.gamevvip.com",
+    "ehwe.yhdtns.com",
+    "xdn.cqqc3.com",
+    "www.jixunkyy.cn",
+    "sp.chemacid.cn",
+    "hm.baidu.com",
+    "s9.cnzz.com",
+    "z6.cnzz.com",
+    "um.cavuc.com",
+    "mav.mavuz.com",
+    "wofwk.aoidf3.com",
+    "z5.cnzz.com",
+    "xc.hubeijieshikj.cn",
+    "tj.tianwenhu.com",
+    "xg.gars57.cn",
+    "k.jinxiuzhilv.com",
+    "cdn.bootcss.com",
+    "ppl.xunzhuo123.com",
+    "xomk.jiangjunmh.top",
+    "img.xunzhuo123.com",
+    "z1.cnzz.com",
+    "s13.cnzz.com",
+    "xg.huataisangao.cn",
+    "z7.cnzz.com",
+    "xg.huataisangao.cn",
+    "z2.cnzz.com",
+    "s96.cnzz.com",
+    "q11.cnzz.com",
+    "thy.dacedsfa.cn",
+    "xg.whsbpw.cn",
+    "s19.cnzz.com",
+    "z8.cnzz.com",
+    "s4.cnzz.com",
+    "f5w.as12df.top",
+    "ae01.alicdn.com",
+    "www.92424.cn",
+    "k.wudejia.com",
+    "vivovip.mmszxc.top",
+    "qiu.xixiqiu.com",
+    "cdnjs.hnfenxun.com",
+    "cms.qdwght.com"
   ]
 }
