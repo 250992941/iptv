@@ -5,7 +5,7 @@
    {
   "name":"STTV接口",
   "type":0,
-  "url":"https://sttv-c3j.pages.dev/ZB.txt",
+  "url":"https://ZB.txt",
   "playerType":2,
   "ua":"okhttp/3.8.1",
   "epg":"http://epg.dy2.fun:5678",
@@ -439,4 +439,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ]
+
 }
